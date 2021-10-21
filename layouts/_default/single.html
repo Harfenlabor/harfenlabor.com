@@ -1,0 +1,440 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+{{/* - partial "footer.html" . -*/}}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 offset-lg-2 text-center">
+        <p id="this_article_type"><a href="..\"{{ .Type }}>{{ .Type }}</a></p>
+        <h1 id="this_article_title">{{ .Title }}</h1>
+        {{ if eq .Type "Research" }}
+        <p id="this_article_author">by {{ .Params.author }}</p>
+        {{ end }}
+        
+      </div>
+
+      {{ if .Description }}
+      <div class="synopsis_box">
+        <p class="synopsis">Synopsis: {{ .Description }}</p>
+        <div class="open_synopsis_box">+</div>
+      </div>
+      {{ end }}
+
+      <div class="col-lg-8 offset-lg-2">
+        <div class="post-single-content articleContent">
+          {{ .Content }}
+        </div>
+        {{ if .Params.footnotes }}
+        <div id="extraspace"></div>
+        {{ end }}
+      </div>
+
+      {{ if .Params.footnotes }}
+      <div class="footnotes_box">
+        <p class="footnotes">Footnotes: {{ .Params.footnotes }}</p>
+        <div class="open_footnotes_box">+</div>
+      </div>
+      {{ end }}
+
+    </div>
+  </div>
+
+  <!--if there are footnotes, the box appears on each footnote number-->
+  {{ if .Params.footnotes }}
+  <div id="fn_appear"></div>
+  {{ end }}
+
+</section>
+
+{{ if eq .Type "Research" }}
+<footer>
+  <div id="footer" class="foot1" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
+    <p class="footer_title footitle1">Barberini Harp Project</p>
+    <div class="footer_insidebox_1">
+      <p class="footer_insidetext">{{ .Params.barberiniharpproject }}</p>
+    </div>
+  </div>
+  <div id="footer" class="foot2" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
+    <p class="footer_title footitle2">Related Research</p>
+    <div class="footer_insidebox_2">
+      <!--p class="footer_insidetext">Related Research here</p-->
+    </div>
+  </div>
+  <div id="footer" class="foot3" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
+    <p class="footer_title footitle3">External Links</p>
+    <div class="footer_insidebox_3">
+      <p class="footer_insidetext extlinks">{{ .Params.externallinks }}</p>
+    </div>
+  </div>
+  <div id="footer" class="foot4" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
+    <p class="footer_title footitle4">Tags</p>
+    <div class="footer_insidebox_3">
+      <p id="tagspers" class="footer_insidetext tagspers">Persons:</p>
+      <p></p>
+      <p id="tagssubj" class="footer_insidetext tagssubj">Subjects:</p>
+      <p></p>
+      <p id="tagsyears" class="footer_insidetext tagstime">Timeline:</p>
+      <p></p>
+      <p id="tagsplaces" class="footer_insidetext tagsmap">Map:</p>
+    </div>
+  </div>
+  <div id="footer" class="foot5" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
+    <p class="footer_title footitle5">Downloads</p>
+    <div class="footer_insidebox_5">
+      <p class="footer_insidetext">{{ .Params.downloads }}</p>
+    </div>
+  </div>
+</footer>
+{{ end }}
+
+<script>
+  //ARTICLE
+  //add links to each person that appears in the person_tag section
+  var persontags_list = {{ .Params.person_tag }};
+  var words = [];
+  if (persontags_list) {
+    for (let i = 0; i < persontags_list.length; i++) {
+      if (persontags_list[i].includes(' ')){
+
+        var nameToSwap = persontags_list[i].split(' ');
+        for (var j = 0; j < nameToSwap.length; j++) { //capitalize first letter
+          nameToSwap[j] = nameToSwap[j].charAt(0).toUpperCase() + nameToSwap[j].slice(1);
+        }
+        if (nameToSwap.length == 4) { //rearrange
+          var nameSwapped = nameToSwap[3] + ' ' + nameToSwap[0] + ' ' + nameToSwap[1] + ' ' + nameToSwap[2];
+        } if (nameToSwap.length == 3) {
+          var nameSwapped = nameToSwap[2] + ' ' + nameToSwap[0] + ' ' + nameToSwap[1];
+        } if (nameToSwap.length == 2) {
+          var nameSwapped = nameToSwap[1] + ' ' + nameToSwap[0];
+        }
+
+        nameSwapped = nameSwapped.replaceAll("-", " ");
+
+      } else {
+        var nameSwapped = persontags_list[i];
+      }
+      //exceptions in the name (unusable characters)
+      if (nameSwapped.includes('ç')){
+        nameSwapped = nameSwapped.replaceAll('ç', 'c');
+      }
+      var Obj = {}
+      Obj.word = persontags_list[i].replaceAll("-", " ");
+      Obj.link = nameSwapped;
+      words.push(Obj);
+    }
+
+    $.each(words,
+      function() {
+        var search = this;
+        $('span#person_tag').each(
+          function() {
+            if ($(this).text() === search.word) {
+              $(this).html('<a href="..\/..\/indextag#' + search.link + '">' + search.word + '</a>');
+            }
+          }
+        );
+      }
+    );
+  }
+
+  //ARTICLE
+  //add links to each subject that appears in the subjects_tag section
+  var subjectstags_list = {{ .Params.subjects_tag }};
+  var words_subjects = [];
+  if (subjectstags_list) {
+    for (let i = 0; i < subjectstags_list.length; i++) {
+      var Obj = {}
+      Obj.word = subjectstags_list[i];
+      Obj.link = subjectstags_list[i];
+      words_subjects.push(Obj);
+    }
+
+    $.each(words_subjects,
+      function() {
+        var search = this;
+        $('span#subjects_tag').each(
+          function() {
+            if ($(this).text() === search.word) {
+              $(this).html('<a href="..\/..\/indextag#' + search.link + '">' + search.word + '</a>');
+            }
+          }
+        );
+      }
+    );
+  }
+
+  //ARTICLE
+  //add links to each year that appears in the timeline_tag section
+  var timelinetags_list = {{ .Params.timeline_tag }};
+  var words_timeline = [];
+  if (timelinetags_list) {
+    for (let i = 0; i < timelinetags_list.length; i++) {
+      var Obj = {}
+      Obj.word = timelinetags_list[i];
+      Obj.link = timelinetags_list[i];
+      words_timeline.push(Obj);
+    }
+
+    $.each(words_timeline,
+      function() {
+        var search = this;
+        $('span#timeline_tag').each(
+          function() {
+            if ($(this).text() === search.word) {
+              $(this).html('<a href="..\/..\/timeline#' + search.link + '">' + search.word + '</a>');
+            }
+          }
+        );
+      }
+    );
+  }
+
+  //ARTICLE
+  //add links to each year that appears in the map_tag section
+  var maptags_list = {{ .Params.map_tag }};
+  var words_map = [];
+  if (maptags_list) {
+    for (let i = 0; i < maptags_list.length; i++) {
+      var Obj = {}
+      Obj.word = maptags_list[i];
+      Obj.link = maptags_list[i];
+      words_map.push(Obj);
+    }
+
+    $.each(words_map,
+      function() {
+        var search = this;
+        $('span#map_tag').each(
+          function() {
+            if ($(this).text() === search.word) {
+              $(this).html('<a href="..\/..\/map#' + search.link + '">' + search.word + '</a>');
+            }
+          }
+        );
+      }
+    );
+  }
+
+  //FOOTER:
+  //make each external link clickable (External Links)
+  var extlinks = {{ .Params.externallinks }};
+
+  if (extlinks.includes(', ')){
+    document.getElementsByClassName('footer_insidebox_3')[0].innerHTML = "";
+    var extlinks_array = extlinks.split(', ');
+    for (let i = 0; i < extlinks_array.length; i++) {
+      let extlink_par = document.createElement('p');
+      let extlink_text = document.createTextNode(extlinks_array[i]);
+      extlink_par.setAttribute('class', 'footer_insidetext extlinks');
+      extlink_par.appendChild(extlink_text);
+      document.getElementsByClassName('footer_insidebox_3')[0].append(extlink_par);
+    }
+  }
+
+  $('p.extlinks').each(
+    function() {
+      $(this).html('<a href="https://' + this.textContent + '">' + this.textContent + '</a>');
+    }
+  );
+
+  //FOOTER:
+  //make each person tag clickable (Tags)
+  var tagspers_count = 0;
+
+  $.each(words,
+    function() {
+      var search = this;
+
+      let tagspers_span = document.createElement('span');
+      let tagspers_text = document.createTextNode({{ .Params.person_tag }}[tagspers_count].replaceAll("-", " "));
+      let tagspers_span_space = document.createElement('span');
+      let tagspers_text_space = document.createTextNode(' ');
+      tagspers_span.setAttribute('class', 'footer_insidetext');
+      tagspers_span.setAttribute('id', 'tagspers');
+      tagspers_span.appendChild(tagspers_text);
+      tagspers_span_space.appendChild(tagspers_text_space);
+      document.getElementById('tagspers').append(tagspers_span_space);
+      document.getElementById('tagspers').append(tagspers_span);
+
+      tagspers_count = tagspers_count+1;
+
+      $('span#tagspers').each(
+        function() {
+          if ($(this).text() === search.word) {
+            $(this).html('<a href="..\/..\/indextag#' + search.link + '">' + search.word + '</a>');
+          }
+        }
+      );
+    }
+  );
+
+  //make each subject tag clickable (Tags)
+  var tagssubj_count = 0;
+
+  $.each(words_subjects,
+    function() {
+      var search = this;
+
+      let tagssubj_span = document.createElement('span');
+      let tagssubj_text = document.createTextNode({{ .Params.subjects_tag }}[tagssubj_count]);
+      let tagssubj_span_space = document.createElement('span');
+      let tagssubj_text_space = document.createTextNode(' ');
+      tagssubj_span.setAttribute('class', 'footer_insidetext');
+      tagssubj_span.setAttribute('id', 'tagssubj');
+      tagssubj_span.appendChild(tagssubj_text);
+      tagssubj_span_space.appendChild(tagssubj_text_space);
+      document.getElementById('tagssubj').append(tagssubj_span_space);
+      document.getElementById('tagssubj').append(tagssubj_span);
+
+      tagssubj_count = tagssubj_count+1;
+
+      $('span#tagssubj').each(
+        function() {
+          if ($(this).text() === search.word) {
+            $(this).html('<a href="..\/..\/indextag#' + search.link + '">' + search.word + '</a>');
+          }
+        }
+      );
+    }
+  );
+
+  //make each timeline tag clickable (Tags)
+  var tagsyears_count = 0;
+
+  $.each(words_timeline,
+    function() {
+      var search = this;
+
+      let tagstime_span = document.createElement('span');
+      let tagstime_text = document.createTextNode({{ .Params.timeline_tag }}[tagsyears_count]);
+      let tagstime_span_space = document.createElement('span');
+      let tagstime_text_space = document.createTextNode(' ');
+      tagstime_span.setAttribute('class', 'footer_insidetext');
+      tagstime_span.setAttribute('id', 'tagsyears');
+      tagstime_span.appendChild(tagstime_text);
+      tagstime_span_space.appendChild(tagstime_text_space);
+      document.getElementById('tagsyears').append(tagstime_span_space);
+      document.getElementById('tagsyears').append(tagstime_span);
+
+      tagsyears_count = tagsyears_count+1;
+
+      $('span#tagsyears').each(
+        function() {
+          if ($(this).text() === search.word) {
+            $(this).html('<a href="..\/..\/timeline#' + search.link + '">' + search.word + '</a>');
+          }
+        }
+      );
+    }
+  );
+
+  //make each map tag clickable (Tags)
+  var tagsplaces_count = 0;
+
+  $.each(words_map,
+    function() {
+      var search = this;
+
+      let tagsplaces_span = document.createElement('span');
+      let tagsplaces_text = document.createTextNode({{ .Params.map_tag }}[tagsplaces_count]);
+      let tagsplaces_span_space = document.createElement('span');
+      let tagsplaces_text_space = document.createTextNode(' ');
+      tagsplaces_span.setAttribute('class', 'footer_insidetext');
+      tagsplaces_span.setAttribute('id', 'tagsplaces');
+      tagsplaces_span.appendChild(tagsplaces_text);
+      tagsplaces_span_space.appendChild(tagsplaces_text_space);
+      document.getElementById('tagsplaces').append(tagsplaces_span_space);
+      document.getElementById('tagsplaces').append(tagsplaces_span);
+
+      tagsplaces_count = tagsplaces_count+1;
+
+      $('span#tagsplaces').each(
+        function() {
+          if ($(this).text() === search.word) {
+            $(this).html('<a href="..\/..\/map#' + search.link + '">' + search.word + '</a>');
+          }
+        }
+      );
+    }
+  );
+
+
+
+
+  //make footnotes interactive
+  //wait until the page is loaded and footnotes are replaced
+  window.addEventListener('load', function () {
+    var footnotes = document.getElementsByClassName('footnotes');
+
+    if ( footnotes ) {
+
+      for (let i = 0; i < footnotes.length; i++) {
+
+        $('sup').each(
+          function() {
+            $(this).prop('id', 'footnote');
+
+            $(this).on("mouseover", function(e) {
+              var box = $("#fn_appear");
+              var y = e.pageY;
+              var x = e.pageX;
+
+              var fn_paragraph = document.createElement('p');
+              var fn_insideText = document.createTextNode(footnotes[this.innerText].innerText);
+              fn_paragraph.setAttribute('class', 'footnotes');
+              fn_paragraph.appendChild(fn_insideText);
+
+              if (box.children().length > 0 ) {
+                box.empty();
+              }
+              box.append(fn_paragraph);
+
+              box.css('display', 'block');
+              box.css('position', 'absolute');
+
+              if(x < window.innerWidth/2){
+                x = e.pageX;
+                box.css("left", x);
+                box.css("right", "unset");
+              } else {
+                x = window.innerWidth-e.pageX;
+                box.css("left", "unset");
+                box.css("right", x);
+              }
+              box.css("top", y);
+            });
+
+            $(this).on("mouseout", function(e) {
+              var box = $("#fn_appear");
+              box.css('display', 'none');
+            });
+          }
+        );
+        break; //break the "for" loop
+      }
+    }
+  })
+
+
+  //make a downloadable pdf
+  var element = document.getElementsByClassName('container')[1];
+  var opt = {
+    margin:       0,
+    filename:     'myfile.pdf',
+    image:        { type: 'jpeg', quality: 0.98 },
+    html2canvas:  { scale: 2 },
+    jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
+  };
+
+  $("#this_article_title").on("click", function() {
+    var worker = html2pdf().set(opt).from(element).save();
+    //html2pdf().set(opt).from(element).save();
+  })
+  
+
+</script>
+
+{{ end }}

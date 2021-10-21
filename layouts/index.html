@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title>Harfenlabor</title>
+    <meta http-equiv="refresh" content="0;URL=https://harfenlabor.netlify.app/news/">
+  </head>
+  <body>
+  </body>
+</html>
+<!--update this-->
+
+{{ define "main" }}
+
+{{ partial "banner.html" . }}
+
+{{ partial "navigation.html" . }}
+
+{{ default "news.html" . }}
+
+{{ end }}

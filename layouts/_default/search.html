@@ -1,0 +1,45 @@
+{{ define "footerfiles" }}
+{%comment%}
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"></script>
+<script src="{{ "js/search.js" | absURL }}"></script>
+{%endcomment%}
+{{ end }}
+
+{{ define "main" }}
+{{ partial "navigation.html" . }}
+
+<section id="blog" class="section">
+  <div class="container">
+    <div id="toBePopulated" class="row">
+      <div class="col-12">
+        {{"<!-- section title -->" | safeHTML}}
+        <div class="title text-center wow fadeInDown">
+          <h1 id="searchTitle" style="text-transform: none;">{{ .Title }}</h1>
+          <!--search form-->
+          <form action="{{ .Permalink }}">
+            <input id="search-query" name="s"/>
+          </form>
+          <div class="border-meghna"></div>
+        </div>
+      </div>
+      
+      <!--div class="col-12"></div-->
+    </div>
+  </div>
+</section>
+
+<script id="search-result-template" type="text/x-js-template">
+</script>
+
+<!--script id="search-result-template" type="text/x-js-template">
+  <div id="summary-${key}">
+    <h4><a href="${link}">${title}</a></h4>
+    <p>${snippet}</p>
+    ${ isset tags }<p>Tags: ${tags}</p>${ end }
+    ${ isset categories }<p>Categories: ${categories}</p>${ end }
+  </div>
+</script-->
+
+{{ end }}

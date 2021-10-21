@@ -1,0 +1,56 @@
+<head>
+	<meta charset="utf-8">
+	<title>{{ .Title }}</title>
+
+	{{ "<!-- mobile responsive meta -->" | safeHTML }}
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
+	{{ with site.Params.author }}
+	<meta name="author" content="{{ . }}">{{ end }}
+	{{ hugo.Generator }}
+
+	{{ "<!-- plugins -->" | safeHTML }}
+	{{ range site.Params.plugins.css }}
+	<link rel="stylesheet" href="{{ .link | absURL }}">
+	{{ end }}
+
+	{{"<!-- Main Stylesheet -->"|safeHTML}}
+	{{ $styles := resources.Get "css/style.css" | minify }}
+	<link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+
+	{{"<!-- Custom stylesheet - for your changes -->" |safeHTML}}
+	{{ $custom := resources.Get "css/custom.css" | minify }}
+  	<link rel="stylesheet" href="{{ $custom.Permalink }}" media="screen">
+
+	{{ "<!--Favicon-->" | safeHTML }}
+	<link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
+	<link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
+
+	<!--STYLESHEET FOR ICONS-->
+	<!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"-->
+
+	<!--SCRIPTS FOR SEARCH-->
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
+	<!--script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script-->
+	<script src="{{ "js/mark.js" | absURL }}">"></script>
+	<script src="{{ "js/search.js" | absURL }}"></script>
+	<script src="{{ "js/html2pdf.bundle.min.js" | absURL }}"></script>
+	<!--SCRIPT TO RECALL HL_names TAG-->
+	<script src="{{ "js/hl_namestag.js" | absURL }}"></script>
+	<script src="{{ "js/hl_timetag.js" | absURL }}"></script>
+	<script src="{{ "js/hl_maptag.js" | absURL }}"></script>
+
+	{{ with site.Params.google_analytics_id }}
+	{{ "<!-- Global Site Tag (gtag.js) - Google Analytics -->" | safeHTML }}
+	<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', '{{ . }}');
+	</script>
+	{{ end }}
+
+</head>

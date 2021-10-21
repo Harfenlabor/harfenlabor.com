@@ -1,0 +1,73 @@
+{{ define "footerfiles" }}
+{{ end }}
+
+{{ define "main" }}
+{{ partial "navigation.html" . }}
+
+<section class="section">
+  <div class="col-12">
+    <div class="title text-center wow fadeInDown">
+      <h1>Index</h1>
+      <div class="border-meghna"></div>
+    </div>
+  </div>
+  
+  <div class="col-lg-8 offset-lg-2">
+    <div class="post-single-content">
+      <!--h2 id="main_person_tags">Person tags:</h2-->
+      <div class="index_sel_container">
+        <div class="index_sel_box personsButton index_sel_box_active" onclick="personsActive()"><p>Persons</p></div>
+        <div class="index_sel_box" style="flex:0;"><p>|</p></div>
+        <div class="index_sel_box subjectButton" onclick="subjectsActive()"><p>Subjects</p></div>
+      </div>
+
+      <div id="persontags-search-results" class="index_sel_active"></div>
+      <div id="subjecttags-search-results" class="index_sel_inactive"></div>
+
+      <div id="indexboxspace">
+        <div id="indexBackground" style="background-color:rgba(0, 0, 0, 0.5);width:100vw;height:100vh;position:fixed;top:0;left:0;z-index:2;display:none"></div>
+        <!--<div class="index_box">
+          <div class="index_box_inside" style="width: 100%">
+            <p class="index_box_name">Name Surname</p>
+            <p class="index_box_text">Links</p>
+          </div>
+          <div class="close_index_box">+</div>
+        </div-->
+      </div>
+    </div>
+  </div>
+
+</section>
+
+<script id="persontags-result" type="text/x-js-template">
+    <div id="summary-${key}">
+      <h4>${title}</h4>
+      <p>${snippet}</p>{ end }
+    </div>
+</script>
+
+<script>
+  function personsActive(){
+    if (document.getElementsByClassName('subjectButton')[0].classList.contains('index_sel_box_active')){
+      document.getElementsByClassName('subjectButton')[0].classList.remove('index_sel_box_active');
+      document.getElementsByClassName('personsButton')[0].classList.add('index_sel_box_active');
+      document.getElementById('persontags-search-results').classList.remove('index_sel_inactive');
+      document.getElementById('persontags-search-results').classList.add('index_sel_active');
+      document.getElementById('subjecttags-search-results').classList.remove('index_sel_active');
+      document.getElementById('subjecttags-search-results').classList.add('index_sel_inactive');
+    }
+  }
+
+  function subjectsActive(){
+    if (document.getElementsByClassName('personsButton')[0].classList.contains('index_sel_box_active')){
+      document.getElementsByClassName('personsButton')[0].classList.remove('index_sel_box_active');
+      document.getElementsByClassName('subjectButton')[0].classList.add('index_sel_box_active');
+      document.getElementById('persontags-search-results').classList.remove('index_sel_active');
+      document.getElementById('persontags-search-results').classList.add('index_sel_inactive');
+      document.getElementById('subjecttags-search-results').classList.remove('index_sel_inactive');
+      document.getElementById('subjecttags-search-results').classList.add('index_sel_active');
+    }
+  }
+</script>
+
+{{ end }}
