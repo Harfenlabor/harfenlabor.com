@@ -1,0 +1,149 @@
+---
+label: HL_article
+hide_body: false
+fields:
+- name: show_in_news
+  type: boolean
+  label: Show in News
+  description: Toggle active to publish this article in the News section.
+- name: type
+  type: text
+  config:
+    required: true
+  label: Type
+  description: This article's type (News or Research). If an article is News, the
+    toolbar won't be visible.
+- name: subtype
+  type: tag_list
+  default:
+  - Organology
+  - Performance Practice
+  - Musicology
+  - HL Editions
+  - Iconography
+  - Sociology of Art
+  label: subtype
+  description: Used for Research articles. Delete the categories unrelated to this
+    specific article.
+- name: title
+  type: text
+  config:
+    required: true
+  label: title
+- name: author
+  type: text
+  config:
+    required: true
+  label: author
+  description: Authors of the article. In case of double name or surname, use an hyphen
+    (i.e. Name-Name Surname-Surname). Please remember to also <strong>paste the authors'
+    names in the "person tag" section</strong> below.
+- name: PublishDate
+  type: datetime
+  label: Publish date
+  description: The date this article was published.
+  config:
+    required: true
+    date_format: ''
+    time_format: 
+    display_utc: false
+    export_format: ''
+- name: person_tag
+  type: tag_list
+  default: []
+  label: Person Tag
+  description: 'Person quoted in the article, separated by a comma. Use an <strong>hyphen</strong>
+    ( - ) between two or more names or surnames. Please follow this example: Name
+    Surname or Name-Name Surname-Surname (i.e. Ludwig van-Beethoven).'
+- name: subjects_tag
+  type: tag_list
+  default: []
+  description: Subjects quoted in the article.
+  label: Subjects Tag
+- name: timeline_tag
+  type: tag_list
+  default: []
+  label: Timeline tag
+  description: 'Years or periods quoted in the article (for example: 1602, 17th century).'
+- name: map_tag
+  type: tag_list
+  default: []
+  label: Map Tag
+  description: 'Places quoted in the article (use the language of the origin country,
+    for example: Wien, Milano, London).'
+- name: status
+  type: select
+  default: draft
+  config:
+    required: false
+    options:
+    - draft
+    - to be approved by author
+    - approved by author
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: status
+  description: Status of this article.
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: description
+  description: The article's synopsis. Please type &amp;&amp; to break lines.
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
+- name: footnotes
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Footnotes
+  description: The article's footnotes. Please type &amp;&amp; to break lines.
+- name: barberiniharpproject
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: barberiniharpproject
+- name: externallinks
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: externallinks
+  description: Please separate each link with a comma ("www.google.it, www.google.com").
+- name: downloads
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: downloads
+  description: Downloads.
+pages:
+- exampleSite/content/news/between-the-strings-festival-of-historical-harp-first-edition-haydn-s-folk-harp.md
+- exampleSite/content/research/barberini-harp-wood-species-identification.md
+- exampleSite/content/research/disegni-per-strumenti-musicali.md
+- exampleSite/content/research/example-with-a-video.md
+- exampleSite/content/research/who-played-the-barberini-harp.md
