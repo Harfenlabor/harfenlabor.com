@@ -1,0 +1,12 @@
+name = "Harfenlabor"
+license = ""
+licenselink = ""
+description = "Harfenlabor"
+homepage = ""
+tags = ['harfenlabor']
+features = ['bootstrap','responsive']
+min_version = "0.58.0"
+
+[author]
+  name = "Harfenlabor"
+  homepage = "https://harfenlabor.com/"
