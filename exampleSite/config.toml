@@ -1,0 +1,191 @@
+[Languages.en]
+contentDir = "content"
+copyright = "Copyright Harfenlabor 2021"
+home = "Home"
+languageCode = "en-us"
+languageName = "En"
+weight = 1
+[Languages.en.menu]
+  [[Languages.en.menu.main]]
+  identifier = "news"
+  name = "news"
+  url = "/news"
+  weight = 1
+  [[Languages.en.menu.main]]
+  identifier = "research"
+  name = "research"
+  url = "/research"
+  weight = 2
+  [[Languages.en.menu.main]]
+  identifier = "organology"
+  name = "organology"
+  url = "/research/organology"
+  parent = "research"
+  weight = "1"
+  [[Languages.en.menu.main]]
+  identifier = "performance practice"
+  name = "performance practice"
+  url = "/research/performance"
+  parent = "research"
+  weight = "2"
+  [[Languages.en.menu.main]]
+  identifier = "musicology"
+  name = "musicology"
+  url = "/research/musicology"
+  parent = "research"
+  weight = "3"
+  [[Languages.en.menu.main]]
+  identifier = "HL editions"
+  name = "HL editions"
+  url = "/research/HLeditions"
+  parent = "research"
+  weight = "4"
+  [[Languages.en.menu.main]]
+  identifier = "iconography"
+  name = "iconography"
+  url = "/research/iconography"
+  parent = "research"
+  weight = "5"
+  [[Languages.en.menu.main]]
+  identifier = "sociology of art"
+  name = "sociology of art"
+  url = "/research/sociology"
+  parent = "research"
+  weight = "6"
+  [[Languages.en.menu.main]]
+  identifier = "timeline"
+  name = "timeline"
+  url = "/timeline"
+  weight = 3
+  [[Languages.en.menu.main]]
+  identifier = "map"
+  name = "map"
+  url = "/map"
+  weight = 4
+  [[Languages.en.menu.main]]
+  identifier = "index"
+  name = "index"
+  url = "/indextag"
+  weight = 5
+  [[Languages.en.menu.main]]
+  identifier = "search"
+  name = "search"
+  url = "/search"
+  weight = 6
+  [[Languages.en.menu.main]]
+  identifier = "mediathek"
+  name = "mediathek"
+  url = ""
+  weight = 7
+  [[Languages.en.menu.main]]
+  identifier = "about"
+  name = "about"
+  url = "/aboutpage"
+  weight = 8
+[Languages.fr]
+contentDir = "content/french"
+copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+home = "Accueil"
+languageCode = "fr-fr"
+languageName = "Fr"
+weight = 2
+[[Languages.fr.menu.main]]
+name = "sur"
+url = "#about"
+weight = 1
+[[Languages.fr.menu.main]]
+name = "un service"
+url = "#services"
+weight = 2
+[[Languages.fr.menu.main]]
+name = "portefeuille"
+url = "#portfolio"
+weight = 3
+[[Languages.fr.menu.main]]
+name = "équipe"
+url = "#team"
+weight = 4
+[[Languages.fr.menu.main]]
+name = "tarification"
+url = "#pricing"
+weight = 5
+[[Languages.fr.menu.main]]
+name = "blog"
+url = "#blog"
+weight = 6
+[[Languages.fr.menu.main]]
+name = "contact"
+url = "#contact"
+weight = 7
+[markup.goldmark.renderer]
+unsafe = true
+[outputs]
+baseURL = "https://harfenlabor.netlify.com"
+disableLanguages = ["Fr"]
+disqusShortname = ""
+home = ["HTML", "RSS", "JSON"]
+paginate = "6"
+summaryLength = "15"
+theme = "meghna-hugo"
+themesDir = "../.."
+title = "Harfenlabor"
+[params]
+author = "Themefisher"
+description = "Responsive Multipurpose Parallax Hugo Template"
+google_analytics_id = ""
+logo = "images/logo.png"
+post_share = true
+[params.cookies]
+enable = false
+expire_days = 2
+[params.map]
+enable = false
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/lazy-load/lozad.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+[params.preloader]
+enable = false
+preloader = "images/logo.png"
+[[params.social]]
+icon = "ti-facebook"
+link = "#"
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "#"
+[[params.social]]
+icon = "ti-youtube"
+link = "#"
+[[params.social]]
+icon = "ti-linkedin"
+link = "#"
+[[params.social]]
+icon = "ti-dribbble"
+link = "#"
+[[params.social]]
+icon = "ti-pinterest"
+link = "#"
