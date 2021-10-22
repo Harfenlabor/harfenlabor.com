@@ -60,17 +60,10 @@
 {{"<!-- /blog -->" | safeHTML}}
 
 <script>
-  $('.content #this_article_author').each(function () {
-    console.log(this);
-  });
-
   window.addEventListener('load', function () {
-    $('.content #this_article_author').each(function () {
-      console.log(this);
-    });
     //ARTICLE
     //make authors a clickable link
-    $('#this_article_author').each(function () {
+    $('.content #this_article_author').each(function () {
       var authors_initial = this.textContent;
       var authors_without_by = authors_initial.replace('by ', '');
 
