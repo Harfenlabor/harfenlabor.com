@@ -60,12 +60,12 @@
 {{"<!-- /blog -->" | safeHTML}}
 
 <script>
-  $('.content').each(function () {
+  $('.content #this_article_author').each(function () {
     console.log(this);
   });
-  
+
   window.addEventListener('load', function () {
-    $('.content').each(function () {
+    $('.content #this_article_author').each(function () {
       console.log(this);
     });
     //ARTICLE
