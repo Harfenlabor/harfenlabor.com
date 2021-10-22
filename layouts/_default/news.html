@@ -60,7 +60,14 @@
 {{"<!-- /blog -->" | safeHTML}}
 
 <script>
+  $('.content').each(function () {
+    console.log(this);
+  });
+  
   window.addEventListener('load', function () {
+    $('.content').each(function () {
+      console.log(this);
+    });
     //ARTICLE
     //make authors a clickable link
     $('#this_article_author').each(function () {
