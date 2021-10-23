@@ -142,10 +142,7 @@ var synopsis = document.getElementsByClassName('synopsis')[0];
 if ( synopsis ) {
 
 	$('.synopsis').each(function() {
-		var what = this;
-		console.log(what);
-
-		var synopsis_paragraphs = this.innerHTML.split('&amp;&amp;');
+		var synopsis_paragraphs = this.textContent.split('&amp;&amp;');
 		var paragraphBox = document.createElement('div');
 		paragraphBox.setAttribute('class', 'paragraph_box');
 
@@ -158,8 +155,8 @@ if ( synopsis ) {
 			paragraph.appendChild(paragraphText);
 			paragraphBox.appendChild(paragraph);
 		}
-		$(this).innerHTML="";
-		console.log($(this).innerHTML, $('.synopsis_box').parent().parent());
+		this.innerHTML="";
+		console.log(this.innerHTML, $('.synopsis_box').parent().parent());
 		$('.synopsis_box').parent().parent().append(paragraphBox);
   });
 }
