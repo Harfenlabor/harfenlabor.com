@@ -2392,3 +2392,25 @@ figcaption {
 .cookie-box-hide {
   display: none;
 }
+
+/*CSS TO PRINT*/
+@media print {
+  #navigation {
+    display: none!important;
+  }
+  #menu_lid {
+    display: none!important;
+  }
+  #footer {
+    display: none!important;
+  }
+  a{
+    color: var(--purpleColor)!important;
+  }
+  img{
+    max-width: 70%!important;
+  }
+  p{
+    font-family: Papyrus!important;
+  }
+}
