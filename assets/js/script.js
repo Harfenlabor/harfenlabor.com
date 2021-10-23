@@ -157,8 +157,9 @@ if ( synopsis ) {
 		}
 		this.innerHTML="";
 		console.log(this.innerHTML);
-		console.log(this.parent());
-		this.parent().append(paragraphBox);
+		console.log($(this));
+		console.log($(this).parent());
+		$(this).parent().append(paragraphBox);
   });
 }
 
