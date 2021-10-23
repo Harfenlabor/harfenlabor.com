@@ -419,7 +419,7 @@
 
 
 
-  //make a downloadable pdf
+  /*make a downloadable pdf
   var element = document.getElementsByClassName('container')[1];
   var opt = {
     margin:       0,
@@ -427,10 +427,11 @@
     image:        { type: 'jpeg', quality: 0.98 },
     html2canvas:  { scale: 2 },
     jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
-  };
+  };*/
 
   $("#this_article_title").on("click", function() {
-    var worker = html2pdf().set(opt).from(element).save();
+    window.print();
+    //var worker = html2pdf().set(opt).from(element).save();
     //html2pdf().set(opt).from(element).save();
   })
   
