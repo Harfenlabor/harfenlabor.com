@@ -570,3 +570,19 @@ p > img {
 		position: relative;
 	}
 }
+
+/*CSS TO PRINT*/
+@media print {
+  #navigation {
+    display: none;
+  }
+  #footer {
+    display: none;
+  }
+  a{
+  	color: var(--purpleColor);
+  }
+  img{
+  	max-width: 70%!important;
+  }
+}
