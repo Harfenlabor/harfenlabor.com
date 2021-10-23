@@ -156,8 +156,9 @@ if ( synopsis ) {
 			paragraphBox.appendChild(paragraph);
 		}
 		this.innerHTML="";
-		console.log(this.innerHTML, $('.synopsis_box').parent().parent());
-		$('.synopsis_box').parent().parent().append(paragraphBox);
+		console.log(this.innerHTML);
+		console.log(this.parent());
+		this.parent().append(paragraphBox);
   });
 }
 
