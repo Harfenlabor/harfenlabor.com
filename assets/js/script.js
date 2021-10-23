@@ -159,6 +159,7 @@ if ( synopsis ) {
 		console.log($(this).innerHTML, $('.synopsis_box').parent().parent());
 		$('.synopsis_box').parent().parent().append(paragraphBox);
   });
+}
 
 //BREAK LINES IN FOOTNOTES
 var footnotes = document.getElementsByClassName('footnotes')[0];
