@@ -2389,12 +2389,15 @@ figcaption {
 @media print {
   #navigation {
     display: none!important;
+    visibility: hidden !important;
   }
   #menu_lid {
     display: none!important;
+    visibility: hidden !important;
   }
   #footer {
     display: none!important;
+    visibility: hidden !important;
   }
   a{
     color: var(--purpleColor)!important;
