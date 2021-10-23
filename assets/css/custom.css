@@ -574,13 +574,13 @@ p > img {
 /*CSS TO PRINT*/
 @media print {
   #navigation {
-    display: none;
+    display: none!important;
   }
   #footer {
-    display: none;
+    display: none!important;
   }
   a{
-  	color: var(--purpleColor);
+  	color: var(--purpleColor)!important;
   }
   img{
   	max-width: 70%!important;
