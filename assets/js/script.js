@@ -118,35 +118,14 @@ if ( footnotesBoxExists ) {
 	}
 }
 
-
 //BREAK LINES IN SYNOPSIS
 var synopsis = document.getElementsByClassName('synopsis')[0];
 
-/*if ( synopsis ) {
-	var synopsis_paragraphs = synopsis.innerHTML.split('&amp;&amp;');
-
-	var paragraphBox = document.createElement('div');
-	paragraphBox.setAttribute('class', 'paragraph_box');
-
-	for (let i = 0; i < synopsis_paragraphs.length; i++) {
-		var paragraph = document.createElement('p');
-		var paragraphText = document.createTextNode(synopsis_paragraphs[i]);
-		paragraph.setAttribute('class', 'synopsis');
-		paragraph.appendChild(paragraphText);
-		paragraphBox.appendChild(paragraph);
-	}
-	document.getElementsByClassName('synopsis')[0].innerHTML="";
-	document.getElementsByClassName('synopsis_box')[0].append(paragraphBox);
-}*/
-
 if ( synopsis ) {
-
 	$('.synopsis').each(function() {
 		var synopsis_paragraphs = this.innerHTML.split('&amp;&amp;');
 		var paragraphBox = document.createElement('div');
 		paragraphBox.setAttribute('class', 'paragraph_box');
-
-		console.log(synopsis_paragraphs);
 
 		for (let i = 0; i < synopsis_paragraphs.length; i++) {
 			var paragraph = document.createElement('p');
@@ -156,9 +135,6 @@ if ( synopsis ) {
 			paragraphBox.appendChild(paragraph);
 		}
 		this.innerHTML="";
-		console.log(this.innerHTML);
-		console.log($(this));
-		console.log($(this).parent());
 		$(this).parent().append(paragraphBox);
   });
 }
@@ -167,28 +143,29 @@ if ( synopsis ) {
 var footnotes = document.getElementsByClassName('footnotes')[0];
 
 if ( footnotes ) {
-	var footnotes_paragraphs = footnotes.innerHTML.split('&amp;&amp;');
+	$('.footnotes').each(function() {
+		var footnotes_paragraphs = this.innerHTML.split('&amp;&amp;');
+		var paragraphBox = document.createElement('div');
+		paragraphBox.setAttribute('class', 'paragraph_box');
 
-	var paragraphBox = document.createElement('div');
-	paragraphBox.setAttribute('class', 'paragraph_box');
-
-	for (let i = 0; i < footnotes_paragraphs.length; i++) {
-		var paragraph = document.createElement('p');
-		var paragraphText = document.createTextNode(footnotes_paragraphs[i]);
-		paragraph.setAttribute('class', 'footnotes');
-		paragraph.appendChild(paragraphText);
-		paragraphBox.appendChild(paragraph);
-		if (i == footnotes_paragraphs.length-1){
-			var paragraph_extraSpace = document.createElement('p');
-			var extraSpace = document.createTextNode(" ");
-			paragraph_extraSpace.setAttribute('class', 'footnotes');
-			paragraph_extraSpace.appendChild(extraSpace);
-			paragraph_extraSpace.style.whiteSpace = 'break-spaces';
-			paragraphBox.appendChild(paragraph_extraSpace);
+		for (let i = 0; i < footnotes_paragraphs.length; i++) {
+			var paragraph = document.createElement('p');
+			var paragraphText = document.createTextNode(footnotes_paragraphs[i]);
+			paragraph.setAttribute('class', 'footnotes');
+			paragraph.appendChild(paragraphText);
+			paragraphBox.appendChild(paragraph);
+			if (i == footnotes_paragraphs.length-1){
+				var paragraph_extraSpace = document.createElement('p');
+				var extraSpace = document.createTextNode(" ");
+				paragraph_extraSpace.setAttribute('class', 'footnotes');
+				paragraph_extraSpace.appendChild(extraSpace);
+				paragraph_extraSpace.style.whiteSpace = 'break-spaces';
+				paragraphBox.appendChild(paragraph_extraSpace);
+			}
 		}
-	}
-	document.getElementsByClassName('footnotes')[0].innerHTML="";
-	document.getElementsByClassName('footnotes_box')[0].append(paragraphBox);
+		this.innerHTML="";
+		$(this).parent().append(paragraphBox);
+  });
 }
 
 //MAKE AUTHOR'S NAME A CLICKABLE LINK
