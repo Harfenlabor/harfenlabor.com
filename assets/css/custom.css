@@ -576,6 +576,9 @@ p > img {
   #navigation {
     display: none!important;
   }
+  #menu_lid {
+    display: none!important;
+  }
   #footer {
     display: none!important;
   }
@@ -584,5 +587,8 @@ p > img {
   }
   img{
   	max-width: 70%!important;
+  }
+  p{
+  	font-family: Papyrus!important;
   }
 }
