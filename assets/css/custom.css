@@ -571,7 +571,7 @@ p > img {
 	}
 }
 
-/*CSS TO PRINT*/
+/*CSS TO PRINT
 @media print {
   #navigation {
     display: none!important;
@@ -591,4 +591,4 @@ p > img {
   p{
   	font-family: Papyrus!important;
   }
-}
+}*/
