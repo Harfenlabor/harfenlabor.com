@@ -398,15 +398,17 @@
 	font-size: 1.5rem;
 }
 
-p > img {
-	vertical-align: top;
-	border-style: none;
-	max-width: 70%;
-	margin-left: auto;
-	margin-right: auto;
-	display: block;
-	border-radius: 0.8em;
-	cursor: zoom-in;
+@media screen{
+	p > img {
+		vertical-align: top;
+		border-style: none;
+		max-width: 70%;
+		margin-left: auto;
+		margin-right: auto;
+		display: block;
+		border-radius: 0.8em;
+		cursor: zoom-in;
+	}
 }
 
 .row {
