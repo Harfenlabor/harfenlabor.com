@@ -9,9 +9,6 @@
   html{
     width: 100%;
   }
-  body{
-    width: 100%;
-  }
   #navigation {
     display: none!important;
   }
@@ -59,7 +56,7 @@
   }
   .synopsis, .footnotes {
     color: var(--purpleColor);
-    padding-right: .5em;
+    padding-right: 0em;
     margin-bottom: .5em;
     line-break: normal;
     font-size: 1rem;
