@@ -59,6 +59,7 @@
   }
   .synopsis, .footnotes {
     color: var(--purpleColor);
+    max-width: 90%;
     padding-left: 0px;
     padding-right: 0px;
     margin-left: 0px;
@@ -67,6 +68,13 @@
     line-break: normal;
     font-size: 1rem;
     line-height: 1.2rem;
+  }
+  .synopsis_box, .footnotes_box{
+    max-width: 90%;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
   }
   .open_synopsis_box {
     display: none;
