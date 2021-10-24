@@ -24,7 +24,7 @@
 
   	{{"<!-- Print stylesheet - for printing pdfs -->" |safeHTML}}
 	{{ $print := resources.Get "css/print_style.css" | minify }}
-  	<link rel="stylesheet" href="{{ $print_style.Permalink }}" media="print">
+  	<link rel="stylesheet" href="{{ $print.Permalink }}" media="print">
 
 	{{ "<!--Favicon-->" | safeHTML }}
 	<link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
