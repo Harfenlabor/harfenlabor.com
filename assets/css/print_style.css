@@ -7,9 +7,9 @@
 /*CSS TO PRINT*/
 @media print {
   html{
-    max-width: 86%;
-    margin-left: 7%;
-    margin-right: 7%;
+    max-width: 100%;
+    margin-left: 50px;
+    margin-right: 50px;
   }
   #navigation {
     display: none!important;
