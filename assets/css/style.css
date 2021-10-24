@@ -91,17 +91,19 @@ figure {
   margin: 0;
 }
 
-a {
-  color: var(--purpleColor);
-  text-decoration: none;
-  transition: all .3s ease-in 0s;
-}
-a:focus,
-a:hover,
-a:active,
-a:visited {
-  color: var(--purpleColor);
-  text-decoration: underline;
+@media screen{
+  a {
+    color: var(--purpleColor);
+    text-decoration: none;
+    transition: all .3s ease-in 0s;
+  }
+  a:focus,
+  a:hover,
+  a:active,
+  a:visited {
+    color: var(--purpleColor);
+    text-decoration: underline;
+  }
 }
 
 
@@ -439,6 +441,10 @@ a:hover {
   Navigation
 ==================================================================*/
 @media screen {
+  #footer {
+    display: block;
+  }
+
   #navigation {
 
     background-color: var(--greyColor);
@@ -2379,23 +2385,35 @@ figcaption {
 @media print {
   #navigation {
     display: none!important;
-    visibility: hidden !important;
+    /*visibility: hidden!important;*/
   }
   #menu_lid {
     display: none!important;
-    visibility: hidden !important;
+    /*visibility: hidden!important;*/
   }
   #footer {
     display: none!important;
-    visibility: hidden !important;
+    /*visibility: hidden!important;*/
   }
-  a{
-    color: var(--purpleColor)!important;
+  a {
+    color: #B44BEB!important;
+    text-decoration: none;
   }
-  img{
-    max-width: 70%!important;
+  a:focus,
+  a:hover,
+  a:active,
+  a:visited {
+    color: #B44BEB!important;
+    text-decoration: underline;
   }
-  p{
-    font-family: Papyrus!important;
+  p > img {
+    vertical-align: top;
+    border-style: none;
+    max-width: 20%!important;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 0.8em;
+    cursor: zoom-in;
   }
 }
