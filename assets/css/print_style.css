@@ -1,0 +1,42 @@
+/*=== MEDIA QUERY ===*/
+:root {
+  --purpleColor: #B44BEB;
+  --greyColor: #F1F2F2;
+}
+
+/*CSS TO PRINT*/
+@media print {
+  #navigation {
+    display: none!important;
+    /*visibility: hidden!important;*/
+  }
+  #menu_lid {
+    display: none!important;
+    /*visibility: hidden!important;*/
+  }
+  #footer {
+    display: none!important;
+    /*visibility: hidden!important;*/
+  }
+  a {
+    color: #B44BEB!important;
+    text-decoration: none;
+  }
+  a:focus,
+  a:hover,
+  a:active,
+  a:visited {
+    color: #B44BEB!important;
+    text-decoration: underline;
+  }
+  p > img {
+    vertical-align: top;
+    border-style: none;
+    max-width: 20%!important;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 0.8em;
+    cursor: zoom-in;
+  }
+}
