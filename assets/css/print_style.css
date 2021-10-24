@@ -8,29 +8,25 @@
 @media print {
   #navigation {
     display: none!important;
-    /*visibility: hidden!important;*/
   }
   #menu_lid {
     display: none!important;
-    /*visibility: hidden!important;*/
   }
   #footer {
     display: none!important;
-    /*visibility: hidden!important;*/
   }
   a {
-    color: #B44BEB!important;
+    color: var(--purpleColor)!important;
     text-decoration: none;
   }
   a:focus,
   a:hover,
   a:active,
   a:visited {
-    color: #B44BEB!important;
+    color: var(--purpleColor)!important;
     text-decoration: underline;
   }
   p {
-    font-family: Jungka;
     font-size: 1.5rem;
     line-height: 1.7rem;
   }
@@ -44,8 +40,10 @@
     border-radius: 0.8em;
     cursor: zoom-in;
   }
+  sup{
+    color: var(--purpleColor);
+  }
   h6 {
-    font-family: Jungka;
     font-size: 1rem;
     max-width: 70%;
     margin-left: auto;
@@ -53,7 +51,7 @@
     margin-top: -0.5rem;
     margin-bottom: 1.5rem;
   }
-  .synopsis {
+  .synopsis, .footnotes {
     color: var(--purpleColor);
     padding-right: .5em;
     margin-bottom: .5em;
