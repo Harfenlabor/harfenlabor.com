@@ -7,7 +7,10 @@
 /*CSS TO PRINT*/
 @media print {
   html{
-    width: 100%;
+    max-width: 90%;
+  }
+  body{
+    max-width: 90%;
   }
   #navigation {
     display: none!important;
@@ -56,7 +59,10 @@
   }
   .synopsis, .footnotes {
     color: var(--purpleColor);
-    padding-right: 0em;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
     margin-bottom: .5em;
     line-break: normal;
     font-size: 1rem;
