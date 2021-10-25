@@ -68,13 +68,12 @@
 
           {{ $research := .Site.GetPage "/research" }}
           {{ range $research.Data.Pages }}
-            <h6>ciao</h6>
-            <h6>{{ .Params.relatedresearch }}</h6>
-
-            {{ if eq .Title .Params.relatedresearch}}
             <h6>{{ .Title }}</h6>
-            {{/* .Render "miniarticle_toolbar" */}}
-            {{ end }}
+
+            {{/* if eq .Title .Params.relatedresearch}}
+            <h6>{{ .Title }}</h6>
+            {{ .Render "miniarticle_toolbar" }}
+            {{ end */}}
           {{ end }}
 
         {{ end }}
