@@ -65,12 +65,6 @@
 
         {{ range .Params.relatedresearch }}
         <h6>{{ . }}</h6>
-
-          {{ $research := .Site.GetPage "/research" }}
-          {{ range $research.Data.Pages }}
-            <h6>ciao</h6>
-          {{ end }}
-
         {{ end }}
       </p>
     </div>
