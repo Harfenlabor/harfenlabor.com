@@ -61,7 +61,7 @@
     <p class="footer_title footitle2">Related Research</p>
     <div class="footer_insidebox_2">
       <p class="footer_insidetext">
-        {{ range .Params.downloads }}
+        {{ range .Params.relatedresearch }}
         {{ $relatedtag := . }}
           {{ $research := $.Site.GetPage "/research" }}
           {{ range $research.Data.Pages }}
@@ -96,6 +96,8 @@
     <div class="footer_insidebox_5">
       <p class="footer_insidetext">
         {{ .Render "printPreview_toolbar" }}
+
+        {{ .Params.downloads }}
 
         {{/* range .Params.downloads }}
         <h6>ciao</h6>
