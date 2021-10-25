@@ -68,15 +68,10 @@
     <div class="footer_insidebox_3">
       <p class="footer_insidetext extlinks">
         {{ range .Params.externallinks }}
-        {{/* .Title }}
-        {{ .Type }}
-        {{ .Params.show_in_news }}
-        {{ . */}}
 
         <h6>{{ .Params.externallinks }}</h6>
-        {{ .Render "article" }}
 
-      {{ end }}
+        {{ end }}
       </p>
     </div>
   </div>
