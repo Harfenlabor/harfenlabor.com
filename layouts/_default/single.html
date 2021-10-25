@@ -107,7 +107,7 @@
           {{ range $research.Data.Pages }}
             {{ if eq (lower .Title) (lower $relatedtag) }}
               {{ .Render "miniarticle_toolbar" }}
-              {{ .Render "printPreview_toolbar" }}
+              {{ .Render "downloadFile_toolbar" }}
             {{ end }}
           {{ end }}
         {{ end }}
