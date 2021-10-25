@@ -19,18 +19,6 @@ sections:
   match: "**/*"
   new_doc_ext: md
 - type: heading
-  label: Data
-- type: directory
-  path: exampleSite/data
-  label: Homepage
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/i18n
-  label: i18n
-  create: documents
-  match: "**/*"
-- type: heading
   label: Configuration
 - type: directory
   path: exampleSite
