@@ -69,7 +69,7 @@ function populateResults(result){
     $('#search-results').append(output);
 
     if (pagesNotToRender.includes(this.item.title)){
-      console.log(this.item.title);
+      return
     } else {
 
       let article = document.createElement('article');
