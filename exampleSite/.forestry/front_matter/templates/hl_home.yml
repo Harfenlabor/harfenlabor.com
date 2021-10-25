@@ -130,7 +130,9 @@ fields:
     schema:
       format: markdown
   label: Related Research
-  description: Related Research.
+  description: To link other articles on Harfenlabor please copy and paste here the
+    titles of the articles, separated by a comma ("Disegni Per Strumenti Musicali,
+    Barberini Harp Wood Species Identification").
 - name: externallinks
   type: textarea
   default: ''
