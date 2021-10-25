@@ -19,39 +19,6 @@ sections:
   match: "**/*"
   new_doc_ext: md
 - type: heading
-  label: Blog Post
-- type: directory
-  path: exampleSite/content/english/blog
-  label: Post (en)
-  create: documents
-  match: "**/*"
-  new_doc_ext: md
-  templates:
-  - post
-- type: directory
-  path: exampleSite/content/french/blog
-  label: Post (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - post
-- type: heading
-  label: Author
-- type: directory
-  path: exampleSite/content/english/author
-  label: Author (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
-- type: directory
-  path: exampleSite/content/french/author
-  label: Author (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
-- type: heading
   label: Data
 - type: directory
   path: exampleSite/data
