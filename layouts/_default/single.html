@@ -94,7 +94,10 @@
   <div id="footer" class="foot5" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
     <p class="footer_title footitle5">Downloads</p>
     <div class="footer_insidebox_5">
-      <p class="footer_insidetext">{{ .Params.downloads }}</p>
+      <p class="footer_insidetext">
+        {{ .Render "printPreview_toolbar" }}
+        {{ .Params.downloads }}
+      </p>
     </div>
   </div>
 </footer>
@@ -424,27 +427,7 @@
         break; //break the "for" loop
       }
     }
-  })
-
-
-
-
-  /*make a downloadable pdf
-  var element = document.getElementsByClassName('container')[1];
-  var opt = {
-    margin:       0,
-    filename:     'myfile.pdf',
-    image:        { type: 'jpeg', quality: 0.98 },
-    html2canvas:  { scale: 2 },
-    jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
-  };*/
-
-  $("#this_article_title").on("click", function() {
-    window.print();
-    //var worker = html2pdf().set(opt).from(element).save();
-    //html2pdf().set(opt).from(element).save();
-  })
-  
+  })  
 
 </script>
 
