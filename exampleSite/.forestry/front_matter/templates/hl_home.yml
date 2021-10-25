@@ -121,6 +121,16 @@ fields:
     schema:
       format: markdown
   label: barberiniharpproject
+- name: relatedresearch
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Related Research
+  description: Related Research.
 - name: externallinks
   type: textarea
   default: ''
@@ -129,7 +139,7 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: externallinks
+  label: External Links
   description: Please separate each link with a comma ("www.google.it, www.google.com").
 - name: downloads
   type: textarea
@@ -139,8 +149,8 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: downloads
-  description: Downloads.
+  label: Downloads
+  description: Please separate each link with a comma ("www.google.it, www.google.com").
 pages:
 - exampleSite/content/news/between-the-strings-festival-of-historical-harp-first-edition-haydn-s-folk-harp.md
 - exampleSite/content/research/barberini-harp-wood-species-identification.md
