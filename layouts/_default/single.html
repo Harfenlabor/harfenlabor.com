@@ -64,15 +64,15 @@
         {{ .Params.relatedresearch }}
 
         {{ range .Params.relatedresearch }}
-        <h6>{{ . }}</h6>
+        <h6>TITLE: {{ . }}</h6>
         {{ $relatedtag := . }}
           {{ $research := $.Site.GetPage "/research" }}
           {{ range $research.Data.Pages }}
           <h6>{{ lower .Title }}</h6>
           <h6>{{ lower $relatedtag }}</h6>
-            {{ if eq .Title $relatedtag }}
+            {{ if eq lower .Title $relatedtag }}
               <h6>ciao</h6>
-              {{ .Render "miniarticle_toolbar" }}
+              {{/* .Render "miniarticle_toolbar" */}}
             {{ end }}
           {{ end }}
         {{ end }}
