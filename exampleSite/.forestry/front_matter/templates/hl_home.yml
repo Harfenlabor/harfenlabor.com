@@ -141,7 +141,7 @@ fields:
 - name: downloads
   type: tag_list
   default: []
-  description: To link downloadable files please copy and paste their link, separated
+  description: To display downloadable files please copy and paste their link, separated
     by a comma.
   label: Downloads
 pages:
