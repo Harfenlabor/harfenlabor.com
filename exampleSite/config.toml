@@ -83,7 +83,7 @@ url = "/aboutpage"
 weight = 8
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright Harfenlabor 2021"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
