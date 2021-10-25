@@ -5,83 +5,82 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.en.menu]
-  [[Languages.en.menu.main]]
-  identifier = "news"
-  name = "news"
-  url = "/news"
-  weight = 1
-  [[Languages.en.menu.main]]
-  identifier = "research"
-  name = "research"
-  url = "/research"
-  weight = 2
-  [[Languages.en.menu.main]]
-  identifier = "organology"
-  name = "organology"
-  url = "/research/organology"
-  parent = "research"
-  weight = "1"
-  [[Languages.en.menu.main]]
-  identifier = "performance practice"
-  name = "performance practice"
-  url = "/research/performance"
-  parent = "research"
-  weight = "2"
-  [[Languages.en.menu.main]]
-  identifier = "musicology"
-  name = "musicology"
-  url = "/research/musicology"
-  parent = "research"
-  weight = "3"
-  [[Languages.en.menu.main]]
-  identifier = "HL editions"
-  name = "HL editions"
-  url = "/research/HLeditions"
-  parent = "research"
-  weight = "4"
-  [[Languages.en.menu.main]]
-  identifier = "iconography"
-  name = "iconography"
-  url = "/research/iconography"
-  parent = "research"
-  weight = "5"
-  [[Languages.en.menu.main]]
-  identifier = "sociology of art"
-  name = "sociology of art"
-  url = "/research/sociology"
-  parent = "research"
-  weight = "6"
-  [[Languages.en.menu.main]]
-  identifier = "timeline"
-  name = "timeline"
-  url = "/timeline"
-  weight = 3
-  [[Languages.en.menu.main]]
-  identifier = "map"
-  name = "map"
-  url = "/map"
-  weight = 4
-  [[Languages.en.menu.main]]
-  identifier = "index"
-  name = "index"
-  url = "/indextag"
-  weight = 5
-  [[Languages.en.menu.main]]
-  identifier = "search"
-  name = "search"
-  url = "/search"
-  weight = 6
-  [[Languages.en.menu.main]]
-  identifier = "mediathek"
-  name = "mediathek"
-  url = ""
-  weight = 7
-  [[Languages.en.menu.main]]
-  identifier = "about"
-  name = "about"
-  url = "/aboutpage"
-  weight = 8
+[[Languages.en.menu.main]]
+identifier = "news"
+name = "news"
+url = "/news"
+weight = 1
+[[Languages.en.menu.main]]
+identifier = "research"
+name = "research"
+url = "/research"
+weight = 2
+[[Languages.en.menu.main]]
+identifier = "organology"
+name = "organology"
+parent = "research"
+url = "/research/organology"
+weight = "1"
+[[Languages.en.menu.main]]
+identifier = "performance practice"
+name = "performance practice"
+parent = "research"
+url = "/research/performance"
+weight = "2"
+[[Languages.en.menu.main]]
+identifier = "musicology"
+name = "musicology"
+parent = "research"
+url = "/research/musicology"
+weight = "3"
+[[Languages.en.menu.main]]
+identifier = "HL editions"
+name = "HL editions"
+parent = "research"
+url = "/research/HLeditions"
+weight = "4"
+[[Languages.en.menu.main]]
+identifier = "iconography"
+name = "iconography"
+parent = "research"
+url = "/research/iconography"
+weight = "5"
+[[Languages.en.menu.main]]
+identifier = "sociology of art"
+name = "sociology of art"
+parent = "research"
+url = "/research/sociology"
+weight = "6"
+[[Languages.en.menu.main]]
+identifier = "timeline"
+name = "timeline"
+url = "/timeline"
+weight = 3
+[[Languages.en.menu.main]]
+identifier = "map"
+name = "map"
+url = "/map"
+weight = 4
+[[Languages.en.menu.main]]
+identifier = "index"
+name = "index"
+url = "/indextag"
+weight = 5
+[[Languages.en.menu.main]]
+identifier = "search"
+name = "search"
+url = "/search"
+weight = 6
+[[Languages.en.menu.main]]
+identifier = "mediathek"
+name = "mediathek"
+url = ""
+weight = 7
+[[Languages.en.menu.main]]
+identifier = "about"
+name = "about"
+url = "/aboutpage"
+weight = 8
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
@@ -130,8 +129,8 @@ theme = "meghna-hugo"
 themesDir = "../.."
 title = "Harfenlabor"
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "Harfenlabor"
+description = ""
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
@@ -140,9 +139,9 @@ enable = false
 expire_days = 2
 [params.map]
 enable = false
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+gmap_api = ""
+map_latitude = ""
+map_longitude = ""
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
