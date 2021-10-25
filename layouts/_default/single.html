@@ -102,7 +102,7 @@
           <h6>ciao</h6>
         {{ end */}}
 
-        {{ range .Params.relatedresearch }}
+        {{ range .Params.downloads }}
         {{ $relatedtag := . }}
           {{ $research := $.Site.GetPage "/research" }}
           {{ range $research.Data.Pages }}
