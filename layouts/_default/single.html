@@ -106,9 +106,7 @@
         {{ $relatedtag := . }}
           {{ $research := $.Site.GetPage "/research" }}
           {{ range $research.Data.Pages }}
-            {{ if eq (lower .Title) (lower $relatedtag) }}
-              {{ .Render "downloadFile_toolbar" }}
-            {{ end }}
+            {{ .Render "downloadFile_toolbar" }}
           {{ end }}
         {{ end }}
       </p>
