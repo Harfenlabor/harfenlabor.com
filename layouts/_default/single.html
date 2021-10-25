@@ -95,10 +95,21 @@
     <p class="footer_title footitle5">Downloads</p>
     <div class="footer_insidebox_5">
       <p class="footer_insidetext">
+        {{/* .Render "printPreview_toolbar" }}
 
         {{ range .Params.downloads }}
           {{ .Render "downloadFile_toolbar" }}
           <h6>ciao</h6>
+        {{ end */}}
+
+        {{ range .Params.relatedresearch }}
+        {{ $relatedtag := . }}
+          {{ $research := $.Site.GetPage "/research" }}
+          {{ range $research.Data.Pages }}
+            {{ if eq (lower .Title) (lower $relatedtag) }}
+              {{ .Render "downloadFile_toolbar" }}
+            {{ end }}
+          {{ end }}
         {{ end }}
       </p>
     </div>
