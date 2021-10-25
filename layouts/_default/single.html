@@ -65,9 +65,7 @@
         <h6>{{ .Params.relatedresearch }}</h6>
 
         {{ range .Params.relatedresearch }}
-
-        <h6>ciao</h6>
-
+        {{ .Render "article" }}
         {{ end }}
       </p>
     </div>
