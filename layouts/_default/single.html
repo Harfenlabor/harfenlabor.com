@@ -104,8 +104,7 @@
 
         {{ range .Params.downloads }}
         {{ $relatedtag := . }}
-          {{ $research := $.Site.GetPage "/research" }}
-          {{ range $research.Data.Pages }}
+          {{ range $relatedtag }}
             {{ .Render "downloadFile_toolbar" }}
           {{ end }}
         {{ end }}
