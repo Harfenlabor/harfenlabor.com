@@ -97,9 +97,18 @@
       <p class="footer_insidetext">
         {{ .Render "printPreview_toolbar" }}
 
-        {{ range .Params }}
+        {{/* range .Params.downloads }}
           {{ .Render "downloadFile_toolbar" }}
           <h6>ciao</h6>
+        {{ end */}}
+
+        {{ range .Params.downloads }}
+          {{ $downloadLink := . }}
+          {{ $research := $.Site.GetPage "/research" }}
+          {{ range $research.Data.Pages }}
+            {{ .Render "downloadFile_toolbar" }}
+            <h6>{{ $downloadLink }}</h6>
+          {{ end }}
         {{ end }}
 
       </p>
