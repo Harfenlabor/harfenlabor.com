@@ -104,9 +104,8 @@
 
         {{ range .Params.downloads }}
         {{ $relatedtag := . }}
-          {{ range $relatedtag }}
-            {{ .Render "downloadFile_toolbar" }}
-          {{ end }}
+          <h6>{{ $relatedtag }}</h6>
+          {{ .Render "downloadFile_toolbar" }}
         {{ end }}
       </p>
     </div>
