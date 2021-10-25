@@ -15,6 +15,10 @@ var fuseOptions = {
   ]
 };
 
+let pagesNotToRender = ["About", "Index", "Map", "Timeline", "Search", "News",
+"Mediathek", "Organology", "Performance Practice", "Musicology", "HL Editions",
+"Iconography", "Sociology of Art"];
+
 
 window.addEventListener('load', function () {
   var searchQuery = param("s");
@@ -57,77 +61,54 @@ function shorten(str, maxLen, separator = ' ') {
 
 function populateResults(result){
   $.each(result,function(key,value){
-    var contents= value.item.contents;
-    /*var snippet = "";
-    var snippetHighlights=[];
-    var tags =[];
-    if( fuseOptions.tokenize ){
-      snippetHighlights.push(searchQuery);
-    }else{
-      $.each(value.matches,function(matchKey,mvalue){
-        if(mvalue.key == "tags"){
-          snippetHighlights.push(mvalue.value);
-        }else if(mvalue.key == "contents"){
-          start = mvalue.indices[0][0]-summaryInclude>0?mvalue.indices[0][0]-summaryInclude:0;
-          end = mvalue.indices[0][1]+summaryInclude<contents.length?mvalue.indices[0][1]+summaryInclude:contents.length;
-          snippet += contents.substring(start,end);
-          snippetHighlights.push(mvalue.value.substring(mvalue.indices[0][0],mvalue.indices[0][1]-mvalue.indices[0][0]+1));
-        }
-      });
-    }
-
-    if(snippet.length<1){
-      snippet += contents.substring(0,summaryInclude*2);
-    }*/
+    var contents = value.item.contents;
     //pull template from hugo template definition
     var templateDefinition = $('#search-result-template').html();
     //replace values
-    //var output = render(templateDefinition,{key:key,title:value.item.title,link:value.item.permalink,tags:value.item.tags,categories:value.item.categories,snippet:snippet});
     var output = render(templateDefinition,{key:key,title:value.item.title,link:value.item.permalink,tags:value.item.tags,categories:value.item.categories});
     $('#search-results').append(output);
 
-    /*momentarily comment the highlight part…
-    $.each(snippetHighlights,function(snipkey,snipvalue){
-      $("#summary-"+key).mark(snipvalue);
-    });
-    */
+    if (pagesNotToRender.includes(this.item.title)){
+      console.log(this.item.title);
+    } else {
 
-    let article = document.createElement('article');
-    article.setAttribute('class', 'col-lg-4 col-md-6 col-12 clearfix wow fadeInUp mb-4');
-    article.setAttribute('data-wow-duration', '500ms');
-    /**/let postBlock = document.createElement('div');
-    postBlock.setAttribute('class', 'post-block');
-    /****/let mediaWrapper = document.createElement('div');
-    mediaWrapper.setAttribute('class', 'media-wrapper');
-    /******/let imgFluid = document.createElement('img');
-    imgFluid.setAttribute('class', 'img-fluid');
-    imgFluid.setAttribute('src', 'https://harfenlabor.netlify.app'+this.item.image);
-    /****/let content = document.createElement('div');
-    content.setAttribute('class', 'content');
-    /******/let title = document.createElement('h3');
-    /********/let title_link = document.createElement('a');
-    title_link.setAttribute('href', this.item.permalink);
-    let title_link_text = document.createTextNode(this.item.title);
-    title_link.appendChild(title_link_text);
-    title.appendChild(title_link);
-    /******/let summary = document.createElement('p');
-    let summary_text = document.createTextNode(shorten(this.item.contents, 550)+'…');
+      let article = document.createElement('article');
+      article.setAttribute('class', 'col-lg-4 col-md-6 col-12 clearfix wow fadeInUp mb-4');
+      article.setAttribute('data-wow-duration', '500ms');
+      /**/let postBlock = document.createElement('div');
+      postBlock.setAttribute('class', 'post-block');
+      /****/let mediaWrapper = document.createElement('div');
+      mediaWrapper.setAttribute('class', 'media-wrapper');
+      /******/let imgFluid = document.createElement('img');
+      imgFluid.setAttribute('class', 'img-fluid');
+      imgFluid.setAttribute('src', 'https://harfenlabor.netlify.app'+this.item.image);
+      /****/let content = document.createElement('div');
+      content.setAttribute('class', 'content');
+      /******/let title = document.createElement('h3');
+      /********/let title_link = document.createElement('a');
+      title_link.setAttribute('href', this.item.permalink);
+      let title_link_text = document.createTextNode(this.item.title);
+      title_link.appendChild(title_link_text);
+      title.appendChild(title_link);
+      /******/let summary = document.createElement('p');
+      let summary_text = document.createTextNode(shorten(this.item.contents, 550)+'…');
 
-    summary.appendChild(summary_text);
-    /******/let readMore = document.createElement('a');
-    readMore.setAttribute('class', 'btn btn-transparent');
-    readMore.setAttribute('href', this.item.permalink);
-    let readMore_text = document.createTextNode("Read more");
-    readMore.appendChild(readMore_text);
+      summary.appendChild(summary_text);
+      /******/let readMore = document.createElement('a');
+      readMore.setAttribute('class', 'btn btn-transparent');
+      readMore.setAttribute('href', this.item.permalink);
+      let readMore_text = document.createTextNode("Read more");
+      readMore.appendChild(readMore_text);
 
-    mediaWrapper.append(imgFluid);
-    content.append(title);
-    content.append(summary);
-    content.append(readMore);
-    postBlock.append(mediaWrapper);
-    postBlock.append(content);
-    article.append(postBlock);
-    document.getElementById('toBePopulated').append(article);    
+      mediaWrapper.append(imgFluid);
+      content.append(title);
+      content.append(summary);
+      content.append(readMore);
+      postBlock.append(mediaWrapper);
+      postBlock.append(content);
+      article.append(postBlock);
+      document.getElementById('toBePopulated').append(article);
+    }    
   });
 }
 
