@@ -187,7 +187,9 @@
 	margin-right: 1em;
 	margin-top: 1vh;
 	height: 15vh;
-	overflow: auto;
+	overflow-x: auto;
+	overflow-y: hidden;
+	display: flex;
 }
 
 .footer_insidetext {
@@ -596,25 +598,3 @@ p > img {
 		position: relative;
 	}
 }
-
-/*CSS TO PRINT
-@media print {
-  #navigation {
-    display: none!important;
-  }
-  #menu_lid {
-    display: none!important;
-  }
-  #footer {
-    display: none!important;
-  }
-  a{
-  	color: var(--purpleColor)!important;
-  }
-  img{
-  	max-width: 70%!important;
-  }
-  p{
-  	font-family: Papyrus!important;
-  }
-}*/
