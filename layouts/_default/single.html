@@ -97,25 +97,11 @@
       <p class="footer_insidetext">
         {{ .Render "printPreview_toolbar" }}
 
-        {{/* range .Params.downloads }}
-          {{ .Render "downloadFile_toolbar" }}
-          <h6>ciao</h6>
-        {{ end */}}
-
-        {{/* range .Params.downloads }}
-          {{ $downloadLink := . }}
-          {{ $research := $.Site.GetPage "/research" }}
-          {{ range $research.Data.Pages }}
-            {{ .Render "downloadFile_toolbar" }}
-            <h6>{{ $downloadLink }}</h6>
-          {{ end }}
-        {{ end */}}
-
         {{ range .Params.downloads }}
           <article class="col-related-research clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
             <div class="post-block">
               <div class="media-wrapper">
-                <img class="img-fluid-related-research" data-src="/images/download-pdf.png" src="/images/download-pdf.png">
+                <img class="img-fluid-related-research" style="height: 4em" data-src="/images/download-pdf.png" src="/images/download-pdf.png">
               </div>
 
               <div class="content-related-research">
