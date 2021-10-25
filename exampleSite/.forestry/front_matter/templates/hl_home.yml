@@ -122,13 +122,8 @@ fields:
       format: markdown
   label: barberiniharpproject
 - name: relatedresearch
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
+  type: tag_list
+  default: []
   label: Related Research
   description: To link other articles on Harfenlabor please copy and paste here the
     titles of the articles, separated by a comma ("Disegni Per Strumenti Musicali,
@@ -144,15 +139,11 @@ fields:
   label: External Links
   description: Please separate each link with a comma ("www.google.it, www.google.com").
 - name: downloads
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
+  type: tag_list
+  default: []
+  description: To link downloadable files please copy and paste their link, separated
+    by a comma.
   label: Downloads
-  description: Please separate each link with a comma ("www.google.it, www.google.com").
 pages:
 - exampleSite/content/news/between-the-strings-festival-of-historical-harp-first-edition-haydn-s-folk-harp.md
 - exampleSite/content/research/barberini-harp-wood-species-identification.md
