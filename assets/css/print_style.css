@@ -32,10 +32,21 @@
     color: var(--purpleColor)!important;
     text-decoration: underline;
   }
+
+  .col-lg-8 {
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+  }
+
+  .offset-lg-2 {
+    margin-left: 16.666667%!important;
+  }
+
+
   p {
     font-size: 1.5rem;
     line-height: 1.7rem;
-    max-width: 94%;
   }
   p > img {
     vertical-align: top;
