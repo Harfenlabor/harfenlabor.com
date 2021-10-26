@@ -34,13 +34,13 @@
   }
 
   .col-lg-8 {
-    -ms-flex: 0 0 66.666667%;
-    flex: 0 0 66.666667%;
-    max-width: 66.666667%;
+    -ms-flex: 0 0 80%;
+    flex: 0 0 80%;
+    max-width: 80%;
   }
 
   .offset-lg-2 {
-    margin-left: 16.666667%!important;
+    margin-left: 10%!important;
   }
 
 
