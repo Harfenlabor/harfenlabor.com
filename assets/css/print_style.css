@@ -7,10 +7,10 @@
 /*CSS TO PRINT*/
 @media print {
   html{
-    max-width: 100%;
+    max-width: 80%;
   }
   body{
-    max-width: 100%;
+    max-width: 80%;
   }
   #navigation {
     display: none!important;
@@ -59,7 +59,7 @@
   }
   .synopsis, .footnotes {
     color: var(--purpleColor);
-    max-width: 90%;
+    max-width: 80%;
     padding-left: 0px;
     padding-right: 0px;
     margin-left: 0px;
@@ -71,7 +71,7 @@
   }
   .synopsis_box, .footnotes_box{
     position: relative;
-    width: 100%;
+    width: 80%;
     padding-right: 15px;
     padding-left: 15px;
     margin-left: 0px;
