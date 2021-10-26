@@ -35,11 +35,12 @@
   p {
     font-size: 1.5rem;
     line-height: 1.7rem;
+    max-width: 94%;
   }
   p > img {
     vertical-align: top;
     border-style: none;
-    max-width: 70%!important;
+    max-width: 80%!important;
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -51,7 +52,7 @@
   }
   h6 {
     font-size: 1rem;
-    max-width: 70%;
+    max-width: 80%;
     margin-left: auto;
     margin-right: auto;
     margin-top: -0.5rem;
@@ -59,7 +60,7 @@
   }
   .synopsis, .footnotes {
     color: var(--purpleColor);
-    max-width: 90%;
+    max-width: 94%;
     padding-left: 0px;
     padding-right: 0px;
     margin-left: auto;
@@ -72,7 +73,7 @@
   }
   .synopsis_box, .footnotes_box{
     position: relative;
-    width: 90%;
+    width: 94%;
     padding-right: 15px;
     padding-left: 15px;
     margin-left: auto;
