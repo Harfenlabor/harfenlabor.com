@@ -5,13 +5,17 @@
 }
 
 /*CSS TO PRINT*/
+@page { 
+  size: auto;
+  margin: 25mm 25mm 25mm 25mm;  
+}
+
 @media print {
   html{
     max-width: 100%;
   }
   body{
     max-width: 100%;
-    margin: 15mm 15mm 15mm 25mm;
   }
   #navigation {
     display: none!important;
