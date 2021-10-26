@@ -72,7 +72,7 @@
   }
   .synopsis, .footnotes {
     color: var(--purpleColor);
-    max-width: 90%;
+    max-width: 100%;
     padding-left: 0px;
     padding-right: 0px;
     margin-left: auto;
@@ -85,7 +85,7 @@
   }
   .synopsis_box, .footnotes_box{
     position: relative;
-    width: 90%;
+    width: 100%;
     padding-right: 15px;
     padding-left: 15px;
     margin-left: auto;
