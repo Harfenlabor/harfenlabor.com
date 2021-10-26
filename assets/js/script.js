@@ -257,7 +257,7 @@ function showFooterText(e) { //CHECK ??? ###
 }
 
 //MAKE EACH IMAGE CLICKABLE TO BE SEEN FULL SCREEN
-$('img').addClass('img-enlargeable').click(function() {
+$('p img').addClass('img-enlargeable').click(function() {
   var src = $(this).attr('src');
   var modal;
 
