@@ -7,7 +7,7 @@
 /*CSS TO PRINT*/
 @page { 
   size: auto;
-  margin: 15mm 15mm 15mm 80mm;  
+  margin: 15mm 15mm 25mm 15mm;  
 }
 
 @media print {
