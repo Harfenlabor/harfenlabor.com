@@ -7,8 +7,6 @@
 /*CSS TO PRINT*/
 @page { 
   size: auto;
-  margin: 15mm;
-  margin-bottom: 35mm;
 }
 
 @media print {
