@@ -7,10 +7,10 @@
 /*CSS TO PRINT*/
 @media print {
   html{
-    max-width: 90%;
+    max-width: 100%;
   }
   body{
-    max-width: 90%;
+    max-width: 100%;
   }
   #navigation {
     display: none!important;
