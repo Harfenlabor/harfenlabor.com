@@ -154,9 +154,18 @@ if ( footnotes ) {
 
 			//console.log(footnotes_paragraphs[i]);
 			if (footnotes_paragraphs[i].includes("&lt;i&gt;")){
-				console.log(footnotes_paragraphs[i]);
-				var fn_par_italic = footnotes_paragraphs[i].split('&lt;i&gt;').pop().split('&lt;/i&gt;')[0];
-				console.log(fn_par_italic);
+
+				var first = footnotes_paragraphs[i].split('&lt;i&gt;');
+				var second = first.split('&lt;/i&gt;');
+
+				var paragraphText_1 = document.createTextNode(first[0]);
+				paragraph.appendChild(paragraphText_1);
+				var paragraphText_2 = document.createTextNode(second[0]);
+				paragraphText_2.setAttribute("font-style", "italic");
+				paragraph.appendChild(paragraphText_2);
+				var paragraphText_3 = document.createTextNode(second[1]);
+				paragraph.appendChild(paragraphText_3);
+				
 			} else {
 				var paragraphText = document.createTextNode(footnotes_paragraphs[i]);
 				paragraph.appendChild(paragraphText);
