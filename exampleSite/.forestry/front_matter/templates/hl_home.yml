@@ -96,7 +96,8 @@ fields:
     schema:
       format: markdown
   label: description
-  description: The article's synopsis. Please type &amp;&amp; to break lines.
+  description: The article's synopsis. Please type &amp;&amp; to break lines. Use
+    &lt;i&gt; and &lt;/i&gt; to make any text italic (i.e. this is &lt;i&gt;italic&lt;/i&gt;).
 - name: image
   type: file
   config:
@@ -120,7 +121,8 @@ fields:
     schema:
       format: markdown
   label: Footnotes
-  description: The article's footnotes. Please type &amp;&amp; to break lines.
+  description: The article's footnotes. Please type &amp;&amp; to break lines. Use
+    &lt;i&gt; and &lt;/i&gt; to make any text italic (i.e. this is &lt;i&gt;italic&lt;/i&gt;).
 - name: barberiniharpproject
   type: textarea
   default: ''
