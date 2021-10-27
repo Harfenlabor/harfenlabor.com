@@ -58,7 +58,7 @@ Shortly after <span id="person_tag">Girolamo Frescobaldi</span>’s arrival in <
 
 <span id="person_tag">**Giovanni Carpano**</span>
 
-Another _sonatore_ of the Barberini circle who, in <span id="timeline_tag">1636</span>, regularly received harp string_s Giovanni Carpano, a pupil of <span id="person_tag">Virgilio Mazzocchi</span>,<sup>8</sup> and also a harpsichordist. In the same year, a book of instrumental sonate was copied for him<sup>9</sup>. Like Giovan Carlo Rossi and Carlo Moretti he participated in the performance of San Bonifatio at the Carnival of <span id="timeline_tag">1638</span> and that of La pazzia d’Orlando_<sup>10</sup>.
+Another _sonatore_ of the Barberini circle who, in <span id="timeline_tag">1636</span>, regularly received harp strings, was Giovanni Carpano, a pupil of <span id="person_tag">Virgilio Mazzocchi</span>,<sup>8</sup> and also a harpsichordist. In the same year, a book of instrumental sonate was copied for him<sup>9</sup>. Like Giovan Carlo Rossi and Carlo Moretti he participated in the performance of _San Bonifatio_ at the Carnival of <span id="timeline_tag">1638</span> and that of _La pazzia d’Orlando_<sup>10</sup>.
 
 <span id="person_tag">**Carlo Fausto**</span>
 
