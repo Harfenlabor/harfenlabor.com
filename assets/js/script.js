@@ -120,7 +120,6 @@ if ( footnotesBoxExists ) {
 
 //BREAK LINES IN SYNOPSIS
 var synopsis = document.getElementsByClassName('synopsis')[0];
-
 if ( synopsis ) {
 	$('.synopsis').each(function() {
 		var synopsis_paragraphs = this.innerHTML.split('&amp;&amp;');
@@ -129,9 +128,32 @@ if ( synopsis ) {
 
 		for (let i = 0; i < synopsis_paragraphs.length; i++) {
 			var paragraph = document.createElement('p');
-			var paragraphText = document.createTextNode(synopsis_paragraphs[i]);
 			paragraph.setAttribute('class', 'synopsis');
-			paragraph.appendChild(paragraphText);
+			
+			if (synopsis_paragraphs[i].includes("&lt;i&gt;")){
+
+				var first = synopsis_paragraphs[i].split('&lt;i&gt;');
+				var paragraphText_1 = document.createTextNode(first[0]);
+				paragraph.appendChild(paragraphText_1);
+
+				for (let j = 1; j < first.length; j++) {
+					var second = first[j].split('&lt;/i&gt;');	
+
+					var paragraphText_2 = document.createTextNode(second[0]);
+					var italicSpan = document.createElement('span');
+					italicSpan.setAttribute('class', 'synopsis');
+					italicSpan.setAttribute('style', 'font-style: italic');
+					italicSpan.appendChild(paragraphText_2);
+					paragraph.appendChild(italicSpan);
+
+					var paragraphText_3 = document.createTextNode(second[1]);
+					paragraph.appendChild(paragraphText_3);
+				}
+				
+			} else {
+				var paragraphText = document.createTextNode(synopsis_paragraphs[i]);
+				paragraph.appendChild(paragraphText);
+			}
 			paragraphBox.appendChild(paragraph);
 		}
 		this.innerHTML="";
@@ -176,7 +198,6 @@ if ( footnotes ) {
 				var paragraphText = document.createTextNode(footnotes_paragraphs[i]);
 				paragraph.appendChild(paragraphText);
 			}
-
 
 			paragraphBox.appendChild(paragraph);
 			if (i == footnotes_paragraphs.length-1){
