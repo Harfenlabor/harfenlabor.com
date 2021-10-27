@@ -156,23 +156,29 @@ if ( footnotes ) {
 			if (footnotes_paragraphs[i].includes("&lt;i&gt;")){
 
 				var first = footnotes_paragraphs[i].split('&lt;i&gt;');
+
 				console.log(footnotes_paragraphs[i]);
 				console.log(first);
-				var second = first[1].split('&lt;/i&gt;');
-				console.log(second);
 
 				var paragraphText_1 = document.createTextNode(first[0]);
 				paragraph.appendChild(paragraphText_1);
 
-				var paragraphText_2 = document.createTextNode(second[0]);
-				var italicSpan = document.createElement('span');
-				italicSpan.setAttribute('class', 'footnotes');
-				italicSpan.setAttribute('style', 'font-style: italic');
-				italicSpan.appendChild(paragraphText_2);
-				paragraph.appendChild(italicSpan);
+				for (let j = 1; j < first.length; j++) {
 
-				var paragraphText_3 = document.createTextNode(second[1]);
-				paragraph.appendChild(paragraphText_3);
+					var second = first[j].split('&lt;/i&gt;');
+					console.log(second);
+				
+					var paragraphText_2 = document.createTextNode(second[0]);
+					var italicSpan = document.createElement('span');
+					italicSpan.setAttribute('class', 'footnotes');
+					italicSpan.setAttribute('style', 'font-style: italic');
+					italicSpan.appendChild(paragraphText_2);
+					paragraph.appendChild(italicSpan);
+
+					var paragraphText_3 = document.createTextNode(second[1]);
+					paragraph.appendChild(paragraphText_3);
+					
+				}
 				
 			} else {
 				var paragraphText = document.createTextNode(footnotes_paragraphs[i]);
