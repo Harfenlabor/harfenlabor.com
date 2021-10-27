@@ -4,6 +4,10 @@
 }
 
 /*SIDE MENU*/
+#logo_for_print{
+	display: none;
+}
+
 .social_row {
   margin-top: auto;
   display:flex;
