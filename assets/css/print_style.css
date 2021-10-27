@@ -16,16 +16,12 @@
   body{
     max-width: 100%;
   }
-  #logo{
-    display: block!important;
-  }
-  #actual_lid {
+  #navigation{
     display: none;
   }
-  #navigation .container{
-    display: none!important;
+  #logo_for_print{
+    display: block;
   }
-
   #footer {
     display: none!important;
   }
