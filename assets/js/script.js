@@ -156,7 +156,9 @@ if ( footnotes ) {
 			if (footnotes_paragraphs[i].includes("&lt;i&gt;")){
 
 				var first = footnotes_paragraphs[i].split('&lt;i&gt;');
-				var second = first.split('&lt;/i&gt;');
+				console.log(footnotes_paragraphs[i]);
+				console.log(first);
+				var second = first.innerHTML.split('&lt;/i&gt;');
 
 				var paragraphText_1 = document.createTextNode(first[0]);
 				paragraph.appendChild(paragraphText_1);
