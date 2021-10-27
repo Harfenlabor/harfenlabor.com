@@ -32,6 +32,13 @@
         {{ end }}
       </div>
 
+      {{ if .Params.imgcaptions }}
+      <div class="imgcaptions_box">
+        <p class="imgcaptions">Images: {{ .Params.imgcaptions }}</p>
+        <div class="open_imgcaptions_box">+</div>
+      </div>
+      {{ end }}
+
       {{ if .Params.footnotes }}
       <div class="footnotes_box">
         <p class="footnotes">Footnotes: {{ .Params.footnotes }}</p>
