@@ -150,9 +150,19 @@ if ( footnotes ) {
 
 		for (let i = 0; i < footnotes_paragraphs.length; i++) {
 			var paragraph = document.createElement('p');
-			var paragraphText = document.createTextNode(footnotes_paragraphs[i]);
 			paragraph.setAttribute('class', 'footnotes');
-			paragraph.appendChild(paragraphText);
+
+			console.log(footnotes_paragraphs[i]);
+			if (footnotes_paragraphs[i].includes("<i>")){
+				console.log("ciao");
+				var fn_par_italic = footnotes_paragraphs[i].innerHTML.split(/[<i></i>]/);
+				console.log(fn_par_italic);
+			} else {
+				var paragraphText = document.createTextNode(footnotes_paragraphs[i]);
+				paragraph.appendChild(paragraphText);
+			}
+
+
 			paragraphBox.appendChild(paragraph);
 			if (i == footnotes_paragraphs.length-1){
 				var paragraph_extraSpace = document.createElement('p');
