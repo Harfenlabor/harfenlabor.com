@@ -21,6 +21,8 @@
   }
   #logo_for_print{
     display: block;
+    width: 160px;
+    position: absolute;
   }
   #footer {
     display: none!important;
