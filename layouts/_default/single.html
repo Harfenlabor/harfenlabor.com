@@ -98,7 +98,7 @@
         {{ .Render "printPreview_toolbar" }}
 
         {{ range .Params.downloads }}
-          {{ $linkandimage := split . }}
+          {{ $linkandimage := split . " " }}
           <article class="col-related-research clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
             <div class="post-block">
               <div class="media-wrapper">
