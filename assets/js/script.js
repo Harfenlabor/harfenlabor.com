@@ -152,10 +152,10 @@ if ( footnotes ) {
 			var paragraph = document.createElement('p');
 			paragraph.setAttribute('class', 'footnotes');
 
-			console.log(footnotes_paragraphs[i]);
+			//console.log(footnotes_paragraphs[i]);
 			if (footnotes_paragraphs[i].includes("<i>")){
-				console.log("ciao");
-				var fn_par_italic = footnotes_paragraphs[i].innerHTML.split(/[<i></i>]/);
+				console.log(footnotes_paragraphs[i]);
+				var fn_par_italic = footnotes_paragraphs[i].innerHTML.split('&lt;i&gt;').pop().split('&lt;/i&gt;')[0];
 				console.log(fn_par_italic);
 			} else {
 				var paragraphText = document.createTextNode(footnotes_paragraphs[i]);
