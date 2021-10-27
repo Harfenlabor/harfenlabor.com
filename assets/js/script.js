@@ -163,8 +163,14 @@ if ( footnotes ) {
 
 				var paragraphText_1 = document.createTextNode(first[0]);
 				paragraph.appendChild(paragraphText_1);
+
 				var paragraphText_2 = document.createTextNode(second[0]);
-				paragraphText_2.setAttribute("font-style", "italic");
+				var italicSpan = document.createElement('span');
+				italicSpan.setAttribute('class', 'footnotes');
+				italicSpan.setAttribute('font-style', 'italic');
+				italicSpan.appendChild(paragraphText_2);
+				paragraph.appendChild(italicSpan);
+
 				paragraph.appendChild(paragraphText_2);
 				var paragraphText_3 = document.createTextNode(second[1]);
 				paragraph.appendChild(paragraphText_3);
