@@ -1,7 +1,7 @@
 +++
 PublishDate = 2021-10-06T19:00:00Z
 author = "Alexandra Ziane"
-barberiniharpproject = "The one most important surviving Italian Baroque harp the Barberini Harp is a chromatic harp with three parallel rows of strings constructed (1632-33) for the harpist Marco Marazzoli by the instrument maker Girolamo Acciari and the wood-carver Giovanni Tubi under the patronage of Cardinal Antonio Barberini. As we lack crucial understanding of this famous harp Harfenlabor has initiated The Barberini Harp Project in order to conduct and share basic research on this harp in the fields of organology musicology and performance practice and within relevant historical and art-historical contexts. This publication presents three stages of The Barberini Harp Project: 1. Convening around the Barberini Harp Project 2. Interviews with Experts and 3. Examinations."
+barberiniharpproject = "The most important surviving Italian Baroque harp, the Barberini Harp is a chromatic harp with three parallel rows of strings constructed (1632-33) for the harpist Marco Marazzoli by the instrument maker Girolamo Acciari and the wood-carver Giovanni Tubi under the patronage of Cardinal Antonio Barberini. As we lack crucial understanding of this famous harp, Harfenlabor has initiated The Barberini Harp Project in order to conduct and share basic research on this harp in the fields of organology musicology and performance practice and within relevant historical and art-historical contexts. This publication presents three stages of The Barberini Harp Project: 1. Convening around the Barberini Harp Project 2. Interviews with Experts and 3. Examinations."
 description = "The paper does not intend to seek a definite answer to this question, but rather to begin setting the context for harp performance practices of the early 17th century Rome, by mapping the known harpists of the time. The period saw two major influences conflate in Rome: the relocation of Neapolitan harp virtuosi and the import of the Ferraran concept of concerto delle donne, resulting in a rich, vibrant scene. Powerful Roman families, most notably the Barberini and the Borghese, encouraged and shaped this development through patronage of many musicians, in demonstration of their good taste, education, and political power.&&\nThe patronage demanded visibility, which was also insured through construction of richly decorated instruments, like the Barberini Harp. The author thus states support for Chiara Granata’s hypothesis that there may have existed more than one Barberini Harp. "
 downloads = ["www.ansa.it", "www.google.it", "www.ilpost.it"]
 externallinks = "www.google.it, www.ansa.it, www.ilpost.it"
@@ -58,11 +58,11 @@ Shortly after <span id="person_tag">Girolamo Frescobaldi</span>’s arrival in <
 
 <span id="person_tag">**Giovanni Carpano**</span>
 
-Another _sonatore_ of the Barberini circle who, in <span id="timeline_tag">1636</span>, regularly received harp strings, was Giovanni Carpano, a pupil of <span id="person_tag">Virgilio Mazzocchi</span>,<sup>8</sup> and also a harpsichordist. In the same year, a book of instrumental sonate was copied for him<sup>9</sup>. Like Giovan Carlo Rossi and Carlo Moretti he participated in the performance of _San Bonifatio_ at the Carnival of <span id="timeline_tag">1638</span> and that of _La pazzia d’Orlando_<sup>10</sup>.
+Another _sonatore_ of the Barberini circle who, in <span id="timeline_tag">1636</span>, regularly received harp string_s Giovanni Carpano, a pupil of <span id="person_tag">Virgilio Mazzocchi</span>,<sup>8</sup> and also a harpsichordist. In the same year, a book of instrumental sonate was copied for him<sup>9</sup>. Like Giovan Carlo Rossi and Carlo Moretti he participated in the performance of San Bonifatio at the Carnival of <span id="timeline_tag">1638</span> and that of La pazzia d’Orlando_<sup>10</sup>.
 
 <span id="person_tag">**Carlo Fausto**</span>
 
-Carlo Fausto is also mentioned, in passing, as having been in the service of Francesco Barberini, as a harp and guitar maker and, according to Frederick Hammond, also a harpist<sup>11</sup>.
+Carlo Fausto is also mentioned, in passing, as having been in the service of Francesco Barberini, as a harp and guitar maker and, according to Frederick Hammond, also a harpist.<sup>11</sup>
 
 **Conclusion**
 
