@@ -16,12 +16,16 @@
   body{
     max-width: 100%;
   }
-  #navigation {
+  #logo{
+    display: block!important;
+  }
+  #actual_lid {
+    display: none;
+  }
+  #navigation .container{
     display: none!important;
   }
-  #menu_lid {
-    display: none!important;
-  }
+
   #footer {
     display: none!important;
   }
