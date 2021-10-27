@@ -299,7 +299,6 @@
 	border: 0.15em solid var(--purpleColor);
 	padding: 1em;
 	padding-top: 0.4em;
-	/*padding-right: 3em;*/
 	width: 30%;
 	height: 5.6em;
 	overflow: auto;
@@ -329,9 +328,6 @@
 	line-break: normal;
 	font-size: 1rem;
 	line-height: 1.2rem;
-	/*left: 0;
-	width: 100%;
-	position: absolute;*/
 }
 
 .open_footnotes_box {
@@ -341,7 +337,65 @@
 	height: fit-content;
 	transition: transform 0.3s ease-out;
 	transform: rotate(0deg);
-	transform-origin: center; /* this will be a svg turning + into - */
+	transform-origin: center;
+	margin-left: 0px;
+	margin-right: 0em;
+	position: sticky;
+	top: 0;
+	bottom: 0;
+	user-select: none;
+}
+
+/*ARTICLES IMAGE CAPTIONS*/
+.imgcaptions_box {
+	position: absolute;
+	float: left;
+	left: 0;
+	bottom: 0;
+
+	background-color: white;
+	z-index: 1;
+	border-radius: 1.2em;
+	border: 0.15em solid var(--purpleColor);
+	padding: 1em;
+	padding-top: 0.4em;
+	width: 30%;
+	height: 5.6em;
+	overflow: auto;
+	margin-left: 3vw;
+	display: flex;
+	flex-direction: row-reverse;
+	transition: width 0.3s ease-out, height 0.3s ease-out;
+	-ms-overflow-style: none;  /* hide scrollbar in IE and Edge */
+	scrollbar-width: none;  /* hide scrollbar in Firefox */
+}
+
+.imgcaptions_box::-webkit-scrollbar {
+  display: none; /* Hide scrollbar for Chrome, Safari and Opera */
+}
+
+.isopen_imgcaptions{
+	width: 70%;
+	height: 23em;
+}
+
+.imgcaptions {
+	color: var(--purpleColor);
+	padding-left: 0em;
+	margin-bottom: .5em;
+	line-break: normal;
+	font-size: 1rem;
+	line-height: 1.2rem;
+}
+
+.open_imgcaptions_box {
+	color: var(--purpleColor);
+	font-size: 1.5rem;
+	line-height: 1.5rem;
+	height: fit-content;
+	transition: transform 0.3s ease-out;
+	transform: rotate(0deg);
+	transform-origin: center;
 	margin-left: 0px;
 	margin-right: 0em;
 	position: sticky;
@@ -352,6 +406,26 @@
 
 /*FOOTNOTES BOX APPEARING ON ARTICLE*/
 #fn_appear {
+	display: none;
+
+	position: absolute;
+	background-color: white;
+	z-index: 1;
+	border-radius: 1.2em;
+	border: 0.15em solid var(--purpleColor);
+	padding: 1em;
+	padding-top: 0.4em;
+	width: 30%;
+	height: auto;
+	overflow: auto;
+	margin-right: 10%;
+
+	-ms-overflow-style: none;  /* hide scrollbar in IE and Edge */
+	scrollbar-width: none;  /* hide scrollbar in Firefox */
+}
+
+/*CAPTIONS BOX APPEARING ON ARTICLE*/
+#imgcaptions_appear {
 	display: none;
 
 	position: absolute;
