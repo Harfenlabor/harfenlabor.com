@@ -458,10 +458,7 @@
             $(this).prop('id', 'imgcaption');
             $(this).on("mouseover", function(e) {
 
-              console.log("ciao");
-
               var box = $("#imgcaptions_appear");
-              console.log(box);
               var y = e.pageY;
               var x = e.pageX;
 
@@ -474,6 +471,10 @@
                 box.empty();
               }
               box.append(fn_paragraph);
+
+              console.log(box);
+              console.log(fn_paragraph);
+              console.log(x, y);
 
               box.css('display', 'block');
               box.css('position', 'absolute');
