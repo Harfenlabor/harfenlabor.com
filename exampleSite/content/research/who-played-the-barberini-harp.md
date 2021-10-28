@@ -51,7 +51,7 @@ In <span id="timeline_tag">1631</span>, <span id="person_tag">Girolamo Acciari</
 
 **Stefano Landi**
 
-Stefano Landi, today known mainly as a composer, was also a singer who played Spanish guitar and – according to <span id="person_tag">Frederick Hammond</span> – a virtuoso harpist. He never became a part of Barberini’s household, but served both the pope and all three Barberini nephews. Landi supplied <span id="person_tag">Marin Mersenne</span> with the description of a triple harp for his _Harmonie Universelle_ of <span id="timeline_tag">1636</span>, on recommendation by <span id="person_tag">Jean Jacques Bouchard</span>, Francesco Barberini’s secretary<sup>4</sup>. We do not know whether Landi ever managed to compile a book of compositions for triple harp, as Mersenne documented that he wanted to.<sup>5</sup>
+Stefano Landi, today known mainly as a composer, was also a singer who played Spanish guitar and – according to <span id="person_tag">Frederick Hammond</span> – a virtuoso harpist. He never became a part of Barberini’s household, but served both the pope and all three Barberini nephews. Landi supplied <span id="person_tag">Marin Mersenne</span> with the description of a triple harp for his _Harmonie Universelle_ of <span id="timeline_tag">1636</span>, on recommendation by <span id="person_tag">Jean Jacques Bouchard</span>, Francesco Barberini’s secretary.<sup>4</sup> We do not know whether Landi ever managed to compile a book of compositions for triple harp, as Mersenne documented that he wanted to.<sup>5</sup>
 
 <span id="person_tag">**Antonio Maria Ciacchi**</span>
 
