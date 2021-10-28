@@ -417,6 +417,9 @@
               var x = e.pageX;
               var fn_paragraph = document.createElement('p');
               var fn_insideText = document.createTextNode(footnotes[this.textContent].textContent);
+              if (fn_insideText.includes("Footnotes: ")){
+                fn_insideText.replace("Footnotes: ", "");
+              }
               fn_paragraph.setAttribute('class', 'footnotes');
               fn_paragraph.appendChild(fn_insideText);
               if (box.children().length > 0 ) {
@@ -464,19 +467,17 @@
 
               var fn_paragraph = document.createElement('p');
               var fn_insideText = document.createTextNode(imgcaptions[this.textContent.split('(Fig. ').pop().split(')')[0]].textContent);
+              if (fn_insideText.includes("Images: ")){
+                fn_insideText.replace("Images: ", "");
+              }
               fn_paragraph.setAttribute('class', 'imgcaptions');
               fn_paragraph.appendChild(fn_insideText);
 
               if (box.children().length > 0 ) {
                 box.empty();
               }
+
               box.append(fn_paragraph);
-
-              console.log(this.textContent.split('(Fig. ').pop().split(')')[0]);
-              console.log(box);
-              console.log(fn_paragraph);
-              console.log(x, y);
-
               box.css('display', 'block');
               box.css('position', 'absolute');
 
