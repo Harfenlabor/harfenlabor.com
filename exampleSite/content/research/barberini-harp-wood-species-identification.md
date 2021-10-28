@@ -42,7 +42,7 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-11_43_01_24-still079.jpg)
 
-###### 3D-RLM investigation: the lens transmits "live" to the screen for real-time examination of the harp surfaces, Valentina Zemke, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### 3D-RLM investigation: the lens transmits "live" to the screen for real-time examination of the harp's surfaces, Valentina Zemke, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ###### 
 
