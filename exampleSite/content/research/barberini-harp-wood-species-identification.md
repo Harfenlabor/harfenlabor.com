@@ -97,9 +97,9 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_44_43_04-still065.jpg)
 
-###### Microscopic 3D image of a vertebral fragment from boxwood.
+###### 3D microscopic image of a vertebral boxwood fragment, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
-###### National Museum of Musical Instruments, Barberini Harp wood examination, comparison of an examination image with the existing database of typological wood structures, Rome, 2018
+###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_46_27_00-still064.jpg)
 
