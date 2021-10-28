@@ -25,7 +25,7 @@ type = "Research"
 
 ###### Set-up of the equipment.
 
-###### For the investigation comprehensive microscopy equipment was transported from Hamburg to Rome. At the heart of the equipment is a state-of-the-art "3D-RLM" microscope (3D-reclected-light-microscopy). This modern technology enables a completely non-destructive material analysis with which the types of wood from which the harp was built can be identified. In addition to various eyepieces and stands for different applications, a special computer with special image analysis software is also part of the scientists' repertoire.
+###### The Thünen-Institut team transported comprehensive microscopy equipment from Hamburg to Roma for this investigation. At the heart of this equipment is a state-of-the-art "3D-RLM" (3D-reclected-light microscopy) microscope. This advanced technology enables a completely non-destructive material analysis that allows identification of the types of wood that the harp was built of. The scientists’ repertoire of tools also includes a custom computer with specialist image analysis software, as well as various eyepieces and stands for different applications.
 
 ###### National Museum of Musical Instruments, Barberini Harp wood examination, Valentina Zemke of the Thünen Institute for Wood Research setting up, Rome, 2018
 
