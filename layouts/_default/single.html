@@ -416,12 +416,10 @@
               var y = e.pageY;
               var x = e.pageX;
               var fn_paragraph = document.createElement('p');
+
               var fn_plainText = footnotes[this.textContent].textContent;
-              console.log(fn_plainText);
-              if (fn_plainText.includes("Footnotes:")){
-                console.log("hi");
-                fn_plainText.replace("Footnotes:", "");
-                console.log(fn_plainText);
+              if (fn_plainText.includes("Footnotes: ")){
+                fn_plainText =  fn_plainText.replace("Footnotes: ", "");
               }
               var fn_insideText = document.createTextNode(fn_plainText);
 
@@ -472,8 +470,10 @@
 
               var fn_paragraph = document.createElement('p');
               var fn_plainText = imgcaptions[this.textContent.split('(Fig. ').pop().split(')')[0]].textContent;
+
+              var fn_plainText = imgcaptions[this.textContent].textContent;
               if (fn_plainText.includes("Images: ")){
-                fn_plainText.replace("Images: ", "");
+                fn_plainText =  fn_plainText.replace("Images: ", "");
               }
               var fn_insideText = document.createTextNode(fn_plainText);
 
