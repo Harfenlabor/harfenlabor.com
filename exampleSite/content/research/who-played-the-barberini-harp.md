@@ -23,7 +23,7 @@ titolo = ""
 type = "Research"
 
 +++
-I cannot add facts or new hypotheses to the question of who really played the Barberini Harp. Rather, I wish to present a whole panorama of harpists who were active in the first half of the 17th century in Roma, discuss where they performed, the circles and contexts, issues they faced – and in this way, in fact, end up with the question of whether they could have played the Barberini Harp or a similar instrument.
+I cannot add facts or new hypotheses to the question of who really played the Barberini Harp. Rather, I wish to present a whole panorama of harpists who were active in Roma during the first half of the 17th century, discuss where they performed, the circles and contexts, issues they faced – and in this way, in fact, end up with the question of whether they could have played the Barberini Harp or a similar instrument.
 
 <span id="person_tag">**Marco Marazzoli**</span>
 
