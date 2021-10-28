@@ -47,7 +47,7 @@ Whilst all the harpists mentioned thus far were in the service of Antonio Barber
 
 <span id="person_tag">**Carlo Moretti**</span>
 
-In <span id="timeline_tag">1631</span>, <span id="person_tag">Girolamo Acciari</span> worked on a harp that he delivered to <span id="person_tag">Stefano Landi</span>, for a Carlo Moretti, musician for Francesco Barberini, and probably a boy singer.<sup>2</sup> At the Carnival of <span id="timeline_tag">1639</span>, Carlo Moretti sang in Virgilio Mazzocchi’s rappresentazione spirituale _San Bonifatio_.<sup>3</sup>
+In <span id="timeline_tag">1631</span>, <span id="person_tag">Girolamo Acciari</span> worked on a harp that he delivered to <span id="person_tag">Stefano Landi</span>, for Carlo Moretti, a musician for Francesco Barberini, and probably a boy singer.<sup>2</sup> At the Carnival of <span id="timeline_tag">1639</span>, Carlo Moretti sang in Virgilio Mazzocchi’s rappresentazione spirituale _San Bonifatio_.<sup>3</sup>
 
 **Stefano Landi**
 
