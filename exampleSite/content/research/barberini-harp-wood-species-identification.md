@@ -127,7 +127,7 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-14_01_06_03-still069.jpg)
 
-###### Comparison of ringporous as opposed to diffuse-porous types of pore arrangement in wood, National Museum of Musical Instruments, Barberini Harp wood examination, , Rome, 2018
+###### Comparison of ringporous as opposed to diffuse-porous types of pore arrangement in wood, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ![](/images/2019-11-28_barbe-dav_lineup_2020-06-10-01_00_01_16-still007.jpg)
 
