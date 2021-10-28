@@ -103,23 +103,23 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_46_27_00-still064.jpg)
 
-###### National Museum of Musical Instruments, Barberini Harp wood examination, scaling and measuring of microscopic structures on the imaging produced by 3D Reflected Light Microscope, Rome, 2018
+###### Analysis of the microscopic wood structure (wood anatomy) based on image material, Museo Nazionale degli StrumentiMusicali, Roma, 2018.
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_50_01_14-still066.jpg)
 
-###### Analysis of the microscopic wood structure (wood anatomy) based on image material.
+###### Analysis of the microscopic wood structure (wood anatomy) based on image material, Museo Nazionale degli StrumentiMusicali, Roma, 2018.
 
-###### National Museum of Musical Instruments, Barberini Harp wood examination, Volker Haag explains parameters used in wood identification through 3D Reflected Light Microscope, Rome, 2018
+###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_36_52_10-still062.jpg)
 
-###### Comparison of the examination images with anatomical wood structures in digital databases.
+###### Comparison of the examination images with anatomical wood structures in digital databases, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
-###### National Museum of Musical Instruments, Barberini Harp wood examination, Volker Haag comparing organological structures of cherry wood and boxwood, Rome, 2018
+###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_51_03_22-still067.jpg)
 
-###### National Museum of Musical Instruments, Barberini Harp wood examination, geographical distribution of wood species in the Thünen database, Rome, 2018
+###### Geographical distribution of wood species in the Thünen database, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ![](/images/2019-11-28_barbe-dav_lineup_2020-06-10-01_10_42_13-still009.jpg)
 
