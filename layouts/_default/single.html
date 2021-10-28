@@ -418,9 +418,9 @@
               var fn_paragraph = document.createElement('p');
               var fn_plainText = footnotes[this.textContent].textContent;
               console.log(fn_plainText);
-              if (fn_plainText.includes("Footnotes: ")){
+              if (fn_plainText.includes("Footnotes:")){
                 console.log("hi");
-                fn_plainText.replace("Footnotes: ", "");
+                fn_plainText.replace("Footnotes:", "");
                 console.log(fn_plainText);
               }
               var fn_insideText = document.createTextNode(fn_plainText);
