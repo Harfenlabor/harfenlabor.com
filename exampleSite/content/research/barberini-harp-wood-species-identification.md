@@ -17,7 +17,7 @@ subjects_tag = ["Barberini Harp", "National Museum of Musical Instruments", "Th
 subtype = ["Organology"]
 tags = ""
 timeline_tag = ["1632", "1633", "2018", "2019"]
-title = "Barberini Harp Wood Species Identification"
+title = "The Barberini Harp Wood Species Identification"
 type = "Research"
 
 +++
