@@ -55,7 +55,7 @@ Stefano Landi, today known mainly as a composer, was also a singer who played Sp
 
 <span id="person_tag">**Antonio Maria Ciacchi**</span>
 
-Shortly after <span id="person_tag">Girolamo Frescobaldi</span>’s arrival in <span id="timeline_tag">1634</span>, Antonio Maria Ciacchi was engaged as third instrumentalist, originally a lutenist, at the <span id="subjects_tag">Barberini court</span>. At the same time, he served as custodian for <span id="subjects_tag">Barberini collection of musical instruments</span>. His name often appears in connection with the acquisition of strings for viols or lutes, or transporting of instruments between the different Barberini palaces. In <span id="timeline_tag">1634</span>, Giovanni Acciari constructed a harp for Ciacchi, funded by Francesco Barberini.<sup>6</sup> In <span id="timeline_tag">1636</span>, five books of music were bound for him.<sup>7</sup>
+Shortly after <span id="person_tag">Girolamo Frescobaldi</span>’s arrival in <span id="timeline_tag">1634</span>, Antonio Maria Ciacchi was engaged as third instrumentalist, originally a lutenist, at the <span id="subjects_tag">Barberini court</span>. At the same time, he served as custodian for <span id="subjects_tag">Barberini collection of musical instruments</span>. His name often appears in connection with the acquisition of strings for viols or lutes, or transportation of instruments between the different Barberini palaces. In <span id="timeline_tag">1634</span>, Giovanni Acciari constructed a harp for Ciacchi, funded by Francesco Barberini.<sup>6</sup> In <span id="timeline_tag">1636</span>, five books of music were bound for him.<sup>7</sup>
 
 <span id="person_tag">**Giovanni Carpano**</span>
 
