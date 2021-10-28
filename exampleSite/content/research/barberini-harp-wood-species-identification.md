@@ -49,9 +49,9 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-12_52_55_19-still053.jpg)
 
-###### Examination of a column fragment. Due to frequent touching of the instrument, the stain and varnish layer is particularly thin here and allows an examination of the wood surface.
+###### Frequent touching has over time thinned out stain and varnish layers on the column, enabling examination of the surface of the wood. Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
-###### National Museum of Musical Instruments, Barberini Harp wood examination, Volker Haag of the Thünen Institute for Wood Research holding the illuminator for 3D Reflected Light Microscope against a part of the column, Rome, 2018
+###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_51_53_06-still015.jpg)
 
