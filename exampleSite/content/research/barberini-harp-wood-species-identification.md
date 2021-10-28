@@ -79,11 +79,11 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_12_11_00-still056.jpg)
 
-###### National Museum of Musical Instruments, Barberini Harp wood examination, examination of a button, Rome, 2018
+###### Examination of a button, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_20_57_03-still058.jpg)
 
-###### National Museum of Musical Instruments, Barberini Harp wood examination, examination of a button, 2018
+###### Examination of a button, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_07_30_08-still054.jpg)
 
