@@ -118,6 +118,31 @@ if ( footnotesBoxExists ) {
 	}
 }
 
+/*OPEN IMAGE CAPTIONS BOX*/
+var imgcaptionsBoxExists = document.getElementsByClassName('open_imgcaptions_box')[0];
+
+if ( imgcaptionsBoxExists ) {
+	$('.open_imgcaptions_box').each(
+    function() {
+    	$(this).on("click", function() {
+				toggleImgcaptionsBox();
+			});
+    }
+  );
+	var imgcaptionsboxisclosed = true;
+	function toggleImgcaptionsBox() {
+		if (imgcaptionsboxisclosed) {
+			$('.open_imgcaptions_box').css('transform', 'rotate(45deg)');
+			$('.imgcaptions_box').addClass('isopen_imgcaptions');
+			this.imgcaptionsboxisclosed = false;
+		} else {
+			$('.open_imgcaptions_box').css('transform', 'rotate(0deg)');
+			$('.imgcaptions_box').removeClass('isopen_imgcaptions');
+			this.imgcaptionsboxisclosed = true;
+		}
+	}
+}
+
 //BREAK LINES IN SYNOPSIS
 var synopsis = document.getElementsByClassName('synopsis')[0];
 if ( synopsis ) {
