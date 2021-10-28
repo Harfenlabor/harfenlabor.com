@@ -123,7 +123,7 @@ type = "Research"
 
 ![](/images/2019-11-28_barbe-dav_lineup_2020-06-10-01_10_42_13-still009.jpg)
 
-###### National Museum of Musical Instruments, Barberini Harp wood examination, description of the characteristics of Norwegian spruce wood, Rome, 2018
+###### Description of the Norwegian spruce timber characteristics, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-14_01_06_03-still069.jpg)
 
