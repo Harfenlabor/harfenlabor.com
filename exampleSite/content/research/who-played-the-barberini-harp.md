@@ -18,7 +18,7 @@ subjects_tag = ["Teatro Barberini", "Barberini court", "Borghese court", "Chiesa
 subtype = ["Musicology", "Performance Practice", "Sociology of Art"]
 tags = ""
 timeline_tag = ["1602", "1605", "1610", "1620", "1626", "1629", "1631", "1634", "1636", "1638", "1639", "1643", "1645", "1650", "1654", "1660", "1662", "17th century"]
-title = "Who played the Barberini Harp? Harpists of the first half of the 17th century in Rome"
+title = "Who played the Barberini Harp? Harpists of the first half of the 17th century in Roma"
 titolo = ""
 type = "Research "
 
