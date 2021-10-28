@@ -43,37 +43,37 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-11_43_01_24-still079.jpg)
 
-###### 3D-RLM investigation: the lens transmits "live" to the screen for real-time examination of the harp surfaces, Valentina Zemke, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
+###### 3D-RLM investigation: the lens transmits "live" to the screen for real-time examination of the harp surfaces, Valentina Zemke, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-12_52_55_19-still053.jpg)
 
-###### Frequent touching has over time thinned out stain and varnish layers on the column, enabling examination of the surface of the wood. Museo Nazionale degli Strumenti Musicali, Roma, 2018.
+###### Frequent touching has over time thinned out stain and varnish layers on the column, enabling examination of the surface of the wood. Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_51_53_06-still015.jpg)
 
-###### Macroscopic examination of the harp’s soundboard and tailpieces with a hand magnifier, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
+###### Macroscopic examination of the harp’s soundboard and tailpieces with a hand magnifier, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_55_22_16-still075.jpg)
 
-###### Macroscopic surface examination and identification of locations suitable for microscopic investigation, Valentina Zemke, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
+###### Macroscopic surface examination and identification of locations suitable for microscopic investigation, Valentina Zemke, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_55_07_05-still020.jpg)
 
-###### Examination of damaged paint surface and identification of locations suitable for microscopic investigation, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
+###### Examination of damaged paint surface and identification of locations suitable for microscopic investigation, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_01_55_19-still005.jpg)
 
-###### Transcript of the examination protocol, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
+###### Transcript of the examination protocol, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ###### 
 
@@ -87,43 +87,43 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_07_30_08-still054.jpg)
 
-###### Creating a 3D microscopic image, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
+###### Creating a 3D microscopic image, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-11_11_36_24-still026.jpg)
 
-###### Transmission of a 3D microscopic image, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
+###### Transmission of a 3D microscopic image, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_44_43_04-still065.jpg)
 
-###### 3D microscopic image of a vertebral boxwood fragment, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
+###### 3D microscopic image of a vertebral boxwood fragment, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_46_27_00-still064.jpg)
 
-###### Analysis of the microscopic wood structure (wood anatomy) based on image material, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
+###### Analysis of the microscopic wood structure (wood anatomy) based on image material, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_50_01_14-still066.jpg)
 
-###### Analysis of the microscopic wood structure (wood anatomy) based on image material, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
+###### Analysis of the microscopic wood structure (wood anatomy) based on image material, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_36_52_10-still062.jpg)
 
-###### Comparison of the examination images with anatomical wood structures in digital databases, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
+###### Comparison of the examination images with anatomical wood structures in digital databases, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_51_03_22-still067.jpg)
 
-###### Geographical distribution of wood species in the Thünen-Institut database, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
+###### Geographical distribution of wood species in the Thünen-Institut database, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ![](/images/2019-11-28_barbe-dav_lineup_2020-06-10-01_10_42_13-still009.jpg)
 
-###### Description of the Norwegian spruce timber characteristics, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
+###### Description of the Norwegian spruce timber characteristics, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-14_01_06_03-still069.jpg)
 
