@@ -112,7 +112,7 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_36_52_10-still062.jpg)
 
-###### Comparison of the examination images with anatomical wood structures in digital databases, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Comparing the examination images with anatomical wood structures in digital databases, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ###### 
 
