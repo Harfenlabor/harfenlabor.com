@@ -7,12 +7,21 @@ fields:
   label: Show in News
   description: Toggle active to publish this article in the News section.
 - name: type
-  type: text
+  type: select
+  default: Research
   config:
     required: true
-  label: Type
+    options:
+    - News
+    - Research
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   description: This article's type (News or Research). If an article is News, the
     toolbar won't be visible.
+  label: Type
 - name: subtype
   type: tag_list
   default:
