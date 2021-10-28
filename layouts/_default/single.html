@@ -451,15 +451,17 @@
     var imgcaptions = document.getElementsByClassName('imgcaptions');
 
     if ( imgcaptions ) {
-
       for (let i = 0; i < imgcaptions.length; i++) {
-
         $('cap').each(
           function() {
-            $(this).prop('id', 'imgcaption');
 
+            $(this).prop('id', 'imgcaption');
             $(this).on("mouseover", function(e) {
+
+              console.log("ciao");
+
               var box = $("#imgcaptions_appear");
+              console.log(box);
               var y = e.pageY;
               var x = e.pageX;
 
