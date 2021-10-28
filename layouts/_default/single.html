@@ -50,7 +50,11 @@
     </div>
   </div>
 
-  <!--if there are footnotes, the box appears on each footnote number-->
+  <!--if there are image captions/footnotes, the box appears on each-->
+  {{ if .Params.imgcaptions }}
+  <div id="imgcaptions_appear"></div>
+  {{ end }}
+
   {{ if .Params.footnotes }}
   <div id="fn_appear"></div>
   {{ end }}
@@ -444,23 +448,23 @@
 
     //make image captions interactive
     //wait until the page is loaded and footnotes are replaced
-    /*var imgcaptions = document.getElementsByClassName('imgcaptions');
+    var imgcaptions = document.getElementsByClassName('imgcaptions');
 
     if ( imgcaptions ) {
 
       for (let i = 0; i < imgcaptions.length; i++) {
 
-        $('sup').each(
+        $('cap').each(
           function() {
             $(this).prop('id', 'imgcaption');
 
             $(this).on("mouseover", function(e) {
-              var box = $("#fn_appear");
+              var box = $("#imgcaptions_appear");
               var y = e.pageY;
               var x = e.pageX;
 
               var fn_paragraph = document.createElement('p');
-              var fn_insideText = document.createTextNode(imgcaptions[this.innerText].innerText);
+              var fn_insideText = document.createTextNode(imgcaptions[this.textContent].textContent);
               fn_paragraph.setAttribute('class', 'imgcaptions');
               fn_paragraph.appendChild(fn_insideText);
 
@@ -485,14 +489,14 @@
             });
 
             $(this).on("mouseout", function(e) {
-              var box = $("#fn_appear");
+              var box = $("#imgcaptions_appear");
               box.css('display', 'none');
             });
           }
         );
         break; //break the "for" loop
       }
-    }*/
+    }
   })  
 
 </script>
