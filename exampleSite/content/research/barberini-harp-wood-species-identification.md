@@ -23,7 +23,7 @@ type = "Research"
 +++
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-14_30_17_13-still071.jpg)
 
-###### Set-up of the equipment.
+###### Equipment set-up, Swati Tamantini, Valentina Zemke, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ###### The Thünen-Institut team transported comprehensive microscopy equipment from Hamburg to Roma for this investigation. At the heart of this equipment is a state-of-the-art "3D-RLM" (3D-reclected-light microscopy) microscope. This advanced technology enables a completely non-destructive material analysis that allows identification of the types of wood that the harp was built of. The scientists’ repertoire of tools also includes a custom computer with specialist image analysis software, as well as various eyepieces and stands for different applications.
 
