@@ -55,15 +55,15 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_51_53_06-still015.jpg)
 
-###### Macroscopic examination of the harp neck and tailpieces with a hand magnifier.
+###### Macroscopic examination of the harp’s soundboard and tailpieces with a hand magnifier, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
-###### National Museum of Musical Instruments, Barberini Harp wood examination, Volker Haag of the Thünen Institute for Wood Research holding the illuminator for 3D Reflected Light Microscope against the soundboard, Rome, 2018
+###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_55_22_16-still075.jpg)
 
-###### Macroscopic surface examination and search for suitable positions for microscopic examination.
+###### Macroscopic surface examination and identification of locations suitable for microscopic investigation, Valentina Zemke, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
-###### National Museum of Musical Instruments, Barberini Harp wood examination, Valentina Zemke and Volker Haag of the Thünen Institute for Wood Research, examining the base of the harp with the illuminator for 3D Reflected Light Microscope, Rome, 2018
+###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_55_07_05-still020.jpg)
 
