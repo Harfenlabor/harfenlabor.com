@@ -103,11 +103,11 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_46_27_00-still064.jpg)
 
-###### Analysis of the microscopic wood structure (wood anatomy) based on image material, Museo Nazionale degli StrumentiMusicali, Roma, 2018.
+###### Analysis of the microscopic wood structure (wood anatomy) based on image material, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_50_01_14-still066.jpg)
 
-###### Analysis of the microscopic wood structure (wood anatomy) based on image material, Museo Nazionale degli StrumentiMusicali, Roma, 2018.
+###### Analysis of the microscopic wood structure (wood anatomy) based on image material, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ###### 
 
