@@ -31,7 +31,7 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_17_16_12-still006.jpg)
 
-###### The specialist image taking and processing set-up requires a great amount of time and concentration from the scientists. Valentina Zemke, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Setting up for specialist image taking and processing requires a great amount of time and concentration from the scientists. Valentina Zemke, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ###### 
 
