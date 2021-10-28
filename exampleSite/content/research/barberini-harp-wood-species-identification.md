@@ -37,15 +37,15 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-09_52_51_16-still001.jpg)
 
-###### Fine adjustment of the device setting for 3D reflected light microscopy. Preparations for the microscopic investigation.
+###### Fine adjustments to 3D-RLM imaging device settings in preparation for microscopic investigation, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
-###### National Museum of Musical Instruments, Barberini Harp wood examination, Volker Haag of the Thünen Institute for Wood Research setting up 3D Reflected Light Microscope, Rome, 2018
+###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-11_43_01_24-still079.jpg)
 
-###### Examination of the harp's base with 3D reflected-light microscopy. While the lens transmits "live" to the computer screen by hand, the surfaces of the instrument are examined.
+###### 3D-RLM investigation: the lens transmits "live" to the screen for real-time examination of the harp surfaces, Valentina Zemke, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
-###### National Museum of Musical Instruments, Barberini Harp wood examination, Valentina Zemke and Volker Haag of the Thünen Institute for Wood Research testing image resolution for the 3D Reflected Light Microscope’s integrated image analysis software, Rome, 2018
+###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-12_52_55_19-still053.jpg)
 
