@@ -127,16 +127,16 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-14_01_06_03-still069.jpg)
 
-###### Comparison of ringporous as opposed to diffuse-porous types of pore arrangement in wood, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
+###### Comparison of ring-porous as opposed to diffuse-porous types of pore arrangement in wood, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ![](/images/2019-11-28_barbe-dav_lineup_2020-06-10-01_00_01_16-still007.jpg)
 
-###### Comparison of the harp surfaces with samples from the scientific wood collection (Xylothek) of the Thünen Institute for Wood Research in Hamburg.
+###### Volker Haag comparing the harp’s wood surfaces with samples in the scientific wood collection (Xylothek) of the Thünen-Institut, Institut für Holzforschung, Hamburg, 2018
 
-###### Thünen Institute for Wood Research, Barberini Harp wood examination, Volker Haag at his desk, studying material yielded by the examination, Hamburg, 2018
+###### 
 
 ![](/images/2019-11-28_barbe-dav_lineup_2020-06-10-01_12_39_22-still017.jpg)
 
-###### Image-analytical examination of the examination material of the Barberini harp with samples from the scientific wood collection of the Thünen Institute.
+###### Volker Haag conducts image-analytical comparison of the Barberini Harp examination material with the samples in the scientific wood collection of the Thünen-Institut, Hamburg, 2018
 
-###### Thünen Institute for Wood Research, Barberini Harp wood examination, Volker Haag explaining the wood identification process, Hamburg, 2018
+###### 
