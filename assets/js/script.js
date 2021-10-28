@@ -214,6 +214,59 @@ if ( footnotes ) {
   });
 }
 
+//BREAK LINES IN IMAGE CAPTIONS
+var imgcaptions = document.getElementsByClassName('imgcaptions')[0];
+
+if ( imgcaptions ) {
+	$('.imgcaptions').each(function() {
+		var imgcaptions_paragraphs = this.innerHTML.split('&amp;&amp;');
+		var paragraphBox = document.createElement('div');
+		paragraphBox.setAttribute('class', 'paragraph_box');
+
+		for (let i = 0; i < imgcaptions_paragraphs.length; i++) {
+			var paragraph = document.createElement('p');
+			paragraph.setAttribute('class', 'imgcaptions');
+
+			if (imgcaptions_paragraphs[i].includes("&lt;i&gt;")){
+
+				var first = imgcaptions_paragraphs[i].split('&lt;i&gt;');
+				var paragraphText_1 = document.createTextNode(first[0]);
+				paragraph.appendChild(paragraphText_1);
+
+				for (let j = 1; j < first.length; j++) {
+					var second = first[j].split('&lt;/i&gt;');	
+
+					var paragraphText_2 = document.createTextNode(second[0]);
+					var italicSpan = document.createElement('span');
+					italicSpan.setAttribute('class', 'imgcaptions');
+					italicSpan.setAttribute('style', 'font-style: italic');
+					italicSpan.appendChild(paragraphText_2);
+					paragraph.appendChild(italicSpan);
+
+					var paragraphText_3 = document.createTextNode(second[1]);
+					paragraph.appendChild(paragraphText_3);
+				}
+				
+			} else {
+				var paragraphText = document.createTextNode(imgcaptions_paragraphs[i]);
+				paragraph.appendChild(paragraphText);
+			}
+
+			paragraphBox.appendChild(paragraph);
+			if (i == imgcaptions_paragraphs.length-1){
+				var paragraph_extraSpace = document.createElement('p');
+				var extraSpace = document.createTextNode(" ");
+				paragraph_extraSpace.setAttribute('class', 'imgcaptions');
+				paragraph_extraSpace.appendChild(extraSpace);
+				paragraph_extraSpace.style.whiteSpace = 'break-spaces';
+				paragraphBox.appendChild(paragraph_extraSpace);
+			}
+		}
+		this.innerHTML="";
+		$(this).parent().append(paragraphBox);
+  });
+}
+
 //MAKE AUTHOR'S NAME A CLICKABLE LINK
 var authorsNameExists = document.getElementById('this_article_author');
 
