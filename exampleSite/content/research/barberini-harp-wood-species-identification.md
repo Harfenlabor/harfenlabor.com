@@ -73,9 +73,9 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_01_55_19-still005.jpg)
 
-###### Transcript of the examination protocol.
+###### Transcript of the examination protocol, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
-###### National Museum of Musical Instruments, Barberini Harp wood examination, Volker Haag of the Thünen Institute for Wood Research with an illustration of harp parts and a photograph of the Barberini harp, Rome, 2018
+###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_12_11_00-still056.jpg)
 
@@ -87,15 +87,13 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_07_30_08-still054.jpg)
 
-###### Creation of a microscopic 3D image.
+###### Creating a 3D microscopic image, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
-###### National Museum of Musical Instruments, Barberini Harp wood examination, 3D Reflected Light Microscope’s integrated image analysis software, examination images on the screen in order to determine porosity of the wood, Rome, 2018
+###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-11_11_36_24-still026.jpg)
 
-###### Transmission of a microscopic 3D image.
-
-###### National Museum of Musical Instruments, Barberini Harp wood examination, imaging of the wood of the soundboard and of the string holes by 3D Reflected Light Microscope, Rome, 2018
+###### Transmission of a 3D microscopic image, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_44_43_04-still065.jpg)
 
