@@ -7,30 +7,41 @@ downloads = ["www.google.it"]
 externallinks = "https://www.austriacult.roma.it/de/istituto-storico-austriaco, http://museostrumentimusicali.beniculturali.it,       https://www.factum-arte.com/pag/800/recording-and-creating-the-facsimile-of-the-barberini-harp, https://www.eric-harps.de, www.jstor.org/stable/26381197"
 footnotes = ""
 image = "/images/christina_barberini.jpg"
+imgcaptions = ""
 map_tag = ["Roma", "Rangendingen"]
 news = false
 person_tag = ["Eric Kleinmann", "Volker Haag"]
-relatedresearch = []
+relatedresearch = ["Barberini Harp Wood Species Identification"]
 show_in_news = true
 status = ""
 subjects_tag = ["Practical Examination", "Barberini Harp", "Little Ice Age", "360-degree camera", "OEHI Rome", "The German Embassy in Rome", "National Museum of Musical Instruments Rome", "Harp maker", "Construction", "Master historical harp builders", "Changes to neck", "Original", "String", "Stringing", "Examinations", "Cracks", "Gilding", "Decoration", "Pinholes", "Soundboard", "Dendrochronological examination", "Wood", "Column", "Ties", "Soundbox", "Walnut wood"]
 subtype = ["Organology", "Performance Practice"]
 tags = ""
 timeline_tag = ["1570", "1605", "1632", "1633", "1644", "2016"]
-title = "Eric Video"
+title = "Eric Kleinmann: Pratical Examination of the Barberini Harp"
 titolo = ""
 titolo_blocchi = []
 type = "Research"
 
 +++
-Delete the person tags from this article. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<div class="embed-responsive embed-responsive-16by9"> <iframe src="https://player.vimeo.com/video/639053636?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> </div>
 
-<div class="embed-responsive embed-responsive-16by9"> <iframe src="https://player.vimeo.com/video/367709381?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> </div>
+###### Harfenlabor. Eric Kleinmann: Pratical Examination of the Barberini Harp.
 
-###### [PEGGY GOU – STARRY NIGHT](https://vimeo.com/367709381 "STARRY NIGHT") from [Nicolai Niermann](https://vimeo.com/367709381 "Nicolai") on [Vimeo](https://vimeo.com/367709381 "Vimeo").
+Harfenlabor  
+The Barberini Harp Project / Convening  
+Practical Examination of the Barberini Harp
 
-And then again, excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Eric Kleinmann, harp maker  
+Istituto Storico Austriaco, Roma, 16.12.2016
 
-<div class="embed-responsive embed-responsive-16by9"> <iframe src="https://player.vimeo.com/video/430690235" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> </div>
+Camera: Giulia Bruno and Armin Linke  
+Sound: Renato Rinaldi  
+Editing: Giulia Bruno, Margret Köll and Armin Linke  
+Postproduction: Giulia Bruno
 
-###### [A Mind Sang](https://vimeo.com/367709381 "STARRY NIGHT") from [Cynthia Maar](https://vimeo.com/367709381 "Nicolai") on [Vimeo](https://vimeo.com/367709381 "Vimeo").
+With the generous support of the Istituto Storico Austriaco and the German Embassy in Rome.
+
+Original material © Armin Linke / Harfenlabor 2020.  
+Licensed under CC BY-NC-ND International 4.0  
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
