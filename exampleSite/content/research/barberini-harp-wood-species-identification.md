@@ -103,7 +103,7 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_46_27_00-still064.jpg)
 
-###### Scaling and measurements on 3D microscopic image,  Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Scaling and measurements on 3D microscopic image, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_50_01_14-still066.jpg)
 
