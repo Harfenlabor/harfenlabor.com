@@ -67,9 +67,9 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_55_07_05-still020.jpg)
 
-###### Examination of the damaged paint surface and search for suitable positions for microscopic examination.
+###### Examination of damaged paint surface and identification of locations suitable for microscopic investigation, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
-###### National Museum of Musical Instruments, Barberini Harp wood examination, Volker Haag of the Thünen Institute for Wood Research, examining the base of the harp with the illuminator for 3D Reflected Light Microscope, Rome, 2018
+###### 
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_01_55_19-still005.jpg)
 
