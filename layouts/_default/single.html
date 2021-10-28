@@ -463,7 +463,7 @@
               var x = e.pageX;
 
               var fn_paragraph = document.createElement('p');
-              //var fn_insideText = document.createTextNode(imgcaptions[this.split('(Fig. ').pop().split(')')[0]].textContent);
+              var fn_insideText = document.createTextNode(imgcaptions[0].textContent);
               fn_paragraph.setAttribute('class', 'imgcaptions');
               fn_paragraph.appendChild(fn_insideText);
 
