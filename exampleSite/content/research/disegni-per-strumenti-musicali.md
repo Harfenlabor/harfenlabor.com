@@ -110,7 +110,7 @@ La proposta attributiva al Soria dell’ideazione e del progetto per l’arpa Ba
 
 ###### Bibliografia
 
-###### Richard E. Spear, Domenichino, Yale University Press, New Haven and London 1982
+###### Richard E. Spear, <i>Domenichino</i>, Yale University Press, New Haven and London 1982
 
 ###### Disegni del Seicento Romano(Gabinetto Disegni e Stampe degli Uffizi LXXX), a cura di Ursula Verena Fischer Pace, Firenze 1997
 
