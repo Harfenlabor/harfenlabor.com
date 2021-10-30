@@ -18,7 +18,7 @@ subjects_tag = ["Practical Examination", "Barberini Harp", "Little Ice Age", "36
 subtype = ["Organology", "Performance Practice"]
 tags = ""
 timeline_tag = ["1570", "1605", "1632", "1633", "1644", "2016"]
-title = "Eric Kleinmann: Pratical Examination of the Barberini Harp"
+title = "Harfenlabor. The Barberini Harp Project / Convening   Practical Examination of the Barberini Harp"
 titolo = ""
 titolo_blocchi = []
 type = "Research"
@@ -28,7 +28,7 @@ type = "Research"
 
 ###### Harfenlabor. The Barberini Harp Project / Convening 
 
-###### Practical Examination of the Barberini Harp.
+###### Practical Examination of the Barberini Harp
 
 Eric Kleinmann, harp maker  
 Istituto Storico Austriaco, Roma, 16.12.2016
