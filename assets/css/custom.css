@@ -651,7 +651,7 @@ p > img {
 }
 
 .embed-responsive {
-	margin-bottom: 0.5rem!important;
+	margin-bottom: 1rem!important;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
@@ -683,6 +683,9 @@ p > img {
 	p {
 		font-size: 1.2rem;
 	}
+	#this_article_title{
+		max-width: 100%;
+	}
 	.synopsis_box {
 		position: relative;
 		width: 100%;
@@ -698,6 +701,8 @@ p > img {
 	}
 	#footer_mobile{
 		display: block;
+		height: 15em;
+		background-color: red;
 	}
 }
 
