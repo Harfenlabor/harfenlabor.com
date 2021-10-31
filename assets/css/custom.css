@@ -704,7 +704,7 @@ p > img {
 		padding: 2em;
 		padding-bottom: 2.5em;
 		height: 15em;
-		background-color: red;
+		background-color: var(--greyColor);
 	}
 	#footer_mob_1{
 		overflow: auto;
