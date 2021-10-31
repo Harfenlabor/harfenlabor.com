@@ -711,6 +711,7 @@ p > img {
 	.footer_bar{
 		overflow-x: auto;
 		white-space: nowrap;
+		margin-bottom: .5em;
 	}
 	.w3-bar:before,.w3-bar:after{content:"";display:table;clear:both}
 	.footer_bar .footer_bar-item{
@@ -722,18 +723,25 @@ p > img {
 		outline:0;
 	}
 	.footer_bar .footer_button{
+		background-color: var(--greyColor);
 		white-space: normal;
 		border-radius: 0 1.5em 0 0;
 		border: 2px solid #fff;
 		border-bottom: 0;
+		border-left: 0;
 		display: inline-block;
 		float: none;
 		padding-left: 2em;
 		padding-right: 2em;
+		margin-left: -20px;
+		position: relative;
+	}
+	.footer_button_active{
+		color: var(--purpleColor);
 	}
 	.footer_bar-container{
 		background-color: var(--greyColor);
-		height: 10em;
+		height: 10.5em;
 		padding:0.01em 16px;
 		overflow: auto;
 	}
@@ -741,6 +749,9 @@ p > img {
 		content:"";
 		display:table;
 		clear:both;
+	}
+	.col-related-research{
+		width: 25%;
 	}
 }
 
