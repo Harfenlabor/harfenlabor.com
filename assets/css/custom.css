@@ -709,6 +709,30 @@ p > img {
 	#footer_mob_1{
 		overflow: auto;
 	}
+	.footer_bar{
+		width: 100%;
+		overflow: hidden;
+	}
+	.w3-bar:before,.w3-bar:after{content:"";display:table;clear:both}
+	.footer_bar .footer_bar-item{
+		padding:8px 16px;
+		float:left;
+		width:auto;
+		border:none;
+		display:block;
+		outline:0;
+	}
+	.footer_bar .footer_button{
+		white-space:normal;
+	}
+	.footer_bar-container{
+		padding:0.01em 16px;
+	}
+	.footer_bar-container:before,.footer_bar-container:after, {
+		content:"";
+		display:table;
+		clear:both;
+	}
 }
 
 @media (min-width: 768px) {
