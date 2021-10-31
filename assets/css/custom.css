@@ -728,11 +728,14 @@ p > img {
 		border-bottom: 0;
 		display: inline-block;
 		float: none;
+		padding-left: 2em;
+		padding-right: 2em;
 	}
 	.footer_bar-container{
 		background-color: var(--greyColor);
 		height: 10em;
 		padding:0.01em 16px;
+		overflow: auto;
 	}
 	.footer_bar-container:before,.footer_bar-container:after, {
 		content:"";
