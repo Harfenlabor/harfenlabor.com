@@ -701,10 +701,9 @@ p > img {
 	}
 	#footer_mobile{
 		display: flex;
-		padding: 2em;
 		padding-bottom: 2.5em;
 		height: 15em;
-		background-color: var(--greyColor);
+		background-color: rgb(255,0,0,.2);
 	}
 	#footer_mob_1{
 		overflow: auto;
@@ -723,9 +722,14 @@ p > img {
 		outline:0;
 	}
 	.footer_bar .footer_button{
-		white-space:normal;
+		white-space: normal;
+		border-radius: 0 1.5em 0 0;
+		border: 2px solid #fff;
+		border-bottom: 0;
 	}
 	.footer_bar-container{
+		background-color: var(--greyColor);
+		height: 10em;
 		padding:0.01em 16px;
 	}
 	.footer_bar-container:before,.footer_bar-container:after, {
