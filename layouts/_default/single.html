@@ -268,9 +268,13 @@
     var i;
     var x = document.getElementsByClassName("footmobsection");
     for (i = 0; i < x.length; i++) {
-      x[i].style.display = "none";  
+      x[i].style.display = "none";
+      if($(x[i]).hasClass('footer_button_active')){
+         $(x[i]).removeClass('footer_button_active')
+      }
     }
-    document.getElementById(tabName).style.display = "block";  
+    document.getElementById(tabName).style.display = "block";
+    $(tabName).addClass('footer_button_active');
   }
 
   //ARTICLE
