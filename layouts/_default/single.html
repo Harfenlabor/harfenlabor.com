@@ -131,9 +131,9 @@
 
 <footer id="footer_mobile">
   <div class="w3-bar w3-black">
-    <button class="w3-bar-item w3-button" onclick="openCity('London')">London</button>
-    <button class="w3-bar-item w3-button" onclick="openCity('Paris')">Paris</button>
-    <button class="w3-bar-item w3-button" onclick="openCity('Tokyo')">Tokyo</button>
+    <button class="w3-bar-item w3-button" onclick="openTab('London')">London</button>
+    <button class="w3-bar-item w3-button" onclick="openTab('Paris')">Paris</button>
+    <button class="w3-bar-item w3-button" onclick="openTab('Tokyo')">Tokyo</button>
   </div>
 
   <div id="London" class="w3-container city">
@@ -222,6 +222,16 @@
 {{ end }}
 
 <script>
+  //FOOTER MOBILE
+  function openTab(tabName) {
+    var i;
+    var x = document.getElementsByClassName("city");
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";  
+    }
+    document.getElementById(tabName).style.display = "block";  
+  }
+
   //ARTICLE
   //add links to each person that appears in the person_tag section
   var persontags_list = {{ .Params.person_tag }};
