@@ -700,7 +700,7 @@ p > img {
 		display: none;
 	}
 	#footer_mobile{
-		display: flex;
+		display: block;
 		padding-bottom: 2.5em;
 		height: 15em;
 		background-color: rgb(255,0,0,.2);
