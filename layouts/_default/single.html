@@ -62,7 +62,7 @@
 </section>
 
 {{ if eq .Type "Research" }}
-<footer>
+<footer id="footer_desktop">
   <div id="footer" class="foot1" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
     <p class="footer_title footitle1">Barberini Harp Project</p>
     <div class="footer_insidebox_1">
@@ -104,6 +104,73 @@
     </div>
   </div>
   <div id="footer" class="foot5" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
+    <p class="footer_title footitle5">Downloads</p>
+    <div class="footer_insidebox_5">
+      <p class="footer_insidetext">
+        {{ .Render "printPreview_toolbar" }}
+
+        {{ range .Params.downloads }}
+          {{ $linkandimage := split . " " }}
+          <article class="col-related-research clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
+            <div class="post-block">
+              <div class="media-wrapper">
+                <a href="https://{{ index $linkandimage 0 | absURL }}"><img class="img-fluid-related-research" style="height: 4em" data-src="{{ index $linkandimage 1 }}" src="{{ index $linkandimage 1 }}"></a>
+              </div>
+
+              <div class="content-related-research">
+                <h6 class="title-related-research"><a href="https://{{ index $linkandimage 0 | absURL }}">{{ index $linkandimage 0 }}</a></h6>
+              </div>
+            </div>
+          </article>
+        {{ end }}
+
+      </p>
+    </div>
+  </div>
+</footer>
+
+<footer id="footer_mobile">
+  <div id="footer_mob_1">
+    <p class="footer_title footitle1">Barberini Harp Project</p>
+    <div class="footer_insidebox_1">
+      <p class="footer_insidetext">{{ .Params.barberiniharpproject }}</p>
+    </div>
+  </div>
+  <div id="footer_mob_2">
+    <p class="footer_title footitle2">Related Research</p>
+    <div class="footer_insidebox_2">
+      <p class="footer_insidetext">
+        {{ range .Params.relatedresearch }}
+        {{ $relatedtag := . }}
+          {{ $research := $.Site.GetPage "/research" }}
+          {{ range $research.Data.Pages }}
+            {{ if eq (lower .Title) (lower $relatedtag) }}
+              {{ .Render "miniarticle_toolbar" }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </p>
+    </div>
+  </div>
+  <div id="footer_mob_3">
+    <p class="footer_title footitle3">External Links</p>
+    <div class="footer_insidebox_3">
+      <p class="footer_insidetext extlinks">{{ .Params.externallinks }}</p>
+    </div>
+  </div>
+  <div id="footer_mob_4">
+    <p class="footer_title footitle4">Tags</p>
+    <div class="footer_insidebox_3">
+      <p id="tagspers" class="footer_insidetext tagspers">Persons:</p>
+      <p></p>
+      <p id="tagssubj" class="footer_insidetext tagssubj">Subjects:</p>
+      <p></p>
+      <p id="tagsyears" class="footer_insidetext tagstime">Timeline:</p>
+      <p></p>
+      <p id="tagsplaces" class="footer_insidetext tagsmap">Map:</p>
+    </div>
+  </div>
+  <div id="footer_mob_5">
     <p class="footer_title footitle5">Downloads</p>
     <div class="footer_insidebox_5">
       <p class="footer_insidetext">
