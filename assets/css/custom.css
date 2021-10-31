@@ -711,7 +711,11 @@ p > img {
 	.footer_bar{
 		overflow-x: auto;
 		white-space: nowrap;
-		margin-bottom: .5em;
+		-ms-overflow-style: none;  /* hide scrollbar in IE and Edge */
+		scrollbar-width: none;  /* hide scrollbar in Firefox */
+	}
+	.footer_bar::-webkit-scrollbar {
+	  display: none; /* Hide scrollbar for Chrome, Safari and Opera */
 	}
 	.w3-bar:before,.w3-bar:after{content:"";display:table;clear:both}
 	.footer_bar .footer_bar-item{
@@ -721,6 +725,7 @@ p > img {
 		border:none;
 		display:block;
 		outline:0;
+		height: 3em;
 	}
 	.footer_bar .footer_button{
 		background-color: var(--greyColor);
@@ -741,9 +746,11 @@ p > img {
 	}
 	.footer_bar-container{
 		background-color: var(--greyColor);
-		height: 10.5em;
+		height: 12em;
 		padding:0.01em 16px;
 		overflow: auto;
+		padding: 2em;
+		padding-bottom: 3em;
 	}
 	.footer_bar-container:before,.footer_bar-container:after, {
 		content:"";
