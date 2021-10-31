@@ -700,9 +700,14 @@ p > img {
 		display: none;
 	}
 	#footer_mobile{
-		display: block;
+		display: flex;
+		padding: 2em;
+		padding-bottom: 2.5em;
 		height: 15em;
 		background-color: red;
+	}
+	#footer_mob_1{
+		overflow: auto;
 	}
 }
 
