@@ -131,7 +131,7 @@
 
 <footer id="footer_mobile">
   <div class="footer_bar">
-    <button class="footer_bar-item footer_button" onclick="openTab('fm_Project')" style="margin-left:0px; z-index:5;">Barberini Harp Project</button>
+    <button class="footer_bar-item footer_button footer_button_active" onclick="openTab('fm_Project')" style="margin-left:0px; z-index:5;">Barberini Harp Project</button>
     <button class="footer_bar-item footer_button" onclick="openTab('fm_Related')" style="z-index:4;">Related Research</button>
     <button class="footer_bar-item footer_button" onclick="openTab('fm_External')" style="z-index:3;">External Links</button>
     <button class="footer_bar-item footer_button" onclick="openTab('fm_Tags')" style="z-index:2;">Tags</button>
@@ -269,12 +269,11 @@
     var x = document.getElementsByClassName("footmobsection");
     for (i = 0; i < x.length; i++) {
       x[i].style.display = "none";
-      if($(x[i]).hasClass('footer_button_active')){
-         $(x[i]).removeClass('footer_button_active')
-      }
+      x[i].classList.remove("footer_button_active");
     }
     document.getElementById(tabName).style.display = "block";
-    $(tabName).addClass('footer_button_active');
+    document.getElementById(tabName).classList.add("footer_button_active");
+
   }
 
   //ARTICLE
