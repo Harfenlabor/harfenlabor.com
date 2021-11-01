@@ -2323,17 +2323,17 @@ figcaption {
   width: 40px;
   height: 40px;
   border-radius: 0;
-  background-color: #26292e;
-  border: 1px solid #26292e;
+  background-color: white;
+  border: 1px solid var(--purpleColor);
   text-align: center;
   margin-right: 6px;
   font-weight: 700;
-  color: #55606a;
+  color: var(--purpleColor);
 }
 
 .pagination .page-item .page-link:hover {
-  background: #57cbcc;
-  border-color: #57cbcc;
+  background: var(--purpleColor);
+  border-color: var(--purpleColor);
   color: #fff
 }
 
@@ -2343,9 +2343,9 @@ figcaption {
 }
 
 .pagination .page-item.active .page-link {
-  background: #57cbcc;
+  background: var(--purpleColor);
   color: #fff;
-  border-color: #57cbcc;
+  border-color: var(--purpleColor);
 }
 
 #select-language {
@@ -2355,7 +2355,7 @@ figcaption {
 }
 
 .simple-icon {
-  color: #6c7b8a;
+  color: var(--purpleColor);
   padding: 10px;
   display: block;
 }
