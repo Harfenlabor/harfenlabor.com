@@ -188,8 +188,8 @@ window.addEventListener('load', function () {
 			}
 	  });
 	}
-	
-}
+
+})
 
 //BREAK LINES IN SYNOPSIS
 var synopsis = document.getElementsByClassName('synopsis')[0];
