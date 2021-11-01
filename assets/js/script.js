@@ -154,9 +154,10 @@ if ( article_title ) {
 			var span = document.createElement('span');
 			var spanText = document.createTextNode(article_title_paragraphs[i]);
 			span.appendChild(spanText);
+			linebreak = document.createElement("br");
 			
 			$(this).append(span);
-			$(this).innerHTML.append('<br>');
+			$(this).append(linebreak);
 		}
   });
 }
