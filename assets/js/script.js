@@ -149,17 +149,14 @@ if ( article_title ) {
 	$('#this_article_title').each(function() {
 		var article_title_paragraphs = this.innerHTML.split('&amp;&amp;');
 		this.innerHTML="";
-		//var paragraphBox = document.createElement('div');
-		//paragraphBox.setAttribute('id', 'this_article_title');
 
 		for (let i = 0; i < article_title_paragraphs.length; i++) {
 			var span = document.createElement('span');
-			//paragraph.setAttribute('id', 'this_article_title');
 			var spanText = document.createTextNode(article_title_paragraphs[i]);
 			span.appendChild(spanText);
-			console.log(spanText);
-			//paragraphBox.appendChild(span);
+			
 			$(this).append(span);
+			$(this).innerHTML.append('<br>');
 		}
   });
 }
