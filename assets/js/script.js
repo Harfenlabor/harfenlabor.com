@@ -143,6 +143,26 @@ if ( imgcaptionsBoxExists ) {
 	}
 }
 
+//BREAK LINES IN TITLES
+var article_title = document.getElementById('this_article_title');
+if ( article_title ) {
+	$('#this_article_title').each(function() {
+		var article_title_paragraphs = this.innerHTML.split('&amp;&amp;');
+		var paragraphBox = document.createElement('div');
+		//paragraphBox.setAttribute('id', 'this_article_title');
+
+		for (let i = 0; i < article_title_paragraphs.length; i++) {
+			var paragraph = document.createElement('p');
+			//paragraph.setAttribute('class', 'synopsis');
+			var paragraphText = document.createTextNode(article_title_paragraphs[i]);
+			paragraph.appendChild(paragraphText);
+			paragraphBox.appendChild(paragraph);
+		}
+		this.innerHTML="";
+		$(this).parent().append(paragraphBox);
+  });
+}
+
 //BREAK LINES IN SYNOPSIS
 var synopsis = document.getElementsByClassName('synopsis')[0];
 if ( synopsis ) {
