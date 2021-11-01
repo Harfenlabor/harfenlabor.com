@@ -27,10 +27,10 @@ function toggleMenu(button) {
   active =! active;
   if (active) {
     button.setAttribute("style", "transform: rotate(0deg)");
-    document.getElementById("navigation_mobile").style.top = "-200%";
+    document.getElementById("insidenav_mobile").style.top = "-200%";
   } else {
     button.setAttribute("style", "transform: rotate(45deg)");
-    document.getElementById("navigation_mobile").style.top = "0px";
+    document.getElementById("insidenav_mobile").style.top = "0px";
   }
 }
 
