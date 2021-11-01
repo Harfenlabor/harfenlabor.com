@@ -837,13 +837,13 @@ p > img {
 	}
 
 	#logo_mobile{
-    position: fixed;
-    top: 50%;
-    left: 0;
-    margin-top: 0px;
-    margin-left: 0px;
-    width: auto;
-    transform: translateY(-360%) rotate(270deg) scale(3);
+    position: absolute;
+		top: 0;
+		left: 0;
+		margin-top: 0px;
+		margin-left: 22px;
+		width: 180px;
+		transform: scale(1);
   }
 
   #insidenav_mobile{
