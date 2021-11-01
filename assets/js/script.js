@@ -169,9 +169,9 @@ window.addEventListener('load', function () {
 	var article_title_list = document.getElementById('list_article_title');
 	if ( article_title_list ) {
 		console.log(article_title_list);
-		$(article_title_list).each(function()) {
+		$(article_title_list).each(function() {
 			console.log("ok", this);
-		}
+		});
 		$('#list_article_title').each(function() {
 			console.log(this.innerHTML);
 			var list_article_title_paragraphs = this.innerHTML.split('&amp;&amp;');
