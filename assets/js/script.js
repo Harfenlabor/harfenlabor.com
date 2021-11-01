@@ -144,9 +144,9 @@ if ( imgcaptionsBoxExists ) {
 }
 
 //BREAK LINES IN TITLES
-var article_title = document.getElementById('this_article_title');
+var article_title = document.getElementsByClassName('this_article_title');
 if ( article_title ) {
-	$('#this_article_title').each(function() {
+	$('.this_article_title').each(function() {
 		var article_title_paragraphs = this.innerHTML.split('&amp;&amp;');
 		this.innerHTML="";
 
@@ -166,13 +166,10 @@ if ( article_title ) {
 
 window.addEventListener('load', function () {
 
-	var article_title_list = document.getElementById('list_article_title');
+	var article_title_list = document.getElementsByClassName('list_article_title');
+	console.log(article_title_list);
 	if ( article_title_list ) {
-		console.log(article_title_list);
-		$(article_title_list).each(function() {
-			console.log("ok", this);
-		});
-		$('#list_article_title').each(function() {
+		$('.list_article_title').each(function() {
 			console.log(this.innerHTML);
 			var list_article_title_paragraphs = this.innerHTML.split('&amp;&amp;');
 			this.innerHTML="";
