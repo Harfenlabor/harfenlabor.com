@@ -42,7 +42,7 @@ fields:
 - name: author
   type: text
   config:
-    required: true
+    required: false
   label: author
   description: Authors of the article. In case of double name or surname, use an hyphen
     (i.e. Name-Name Surname-Surname). Please remember to also <strong>paste the authors'
