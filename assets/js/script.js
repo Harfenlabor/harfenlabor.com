@@ -159,7 +159,9 @@ if ( article_title ) {
 			paragraphBox.appendChild(paragraph);
 		}
 		this.innerHTML="";
-		$(this).parent().append(paragraphBox);
+		console.log(this);
+		console.log(this.parent());
+		$(this).append(paragraphBox);
   });
 }
 
@@ -342,8 +344,10 @@ if ( authorsNameExists ) {
 	      var author = data[1] + ' ' + data[0];
 	    }
 
-	    author = author.replaceAll("-", " ");
-
+	    if (author.includes("-")){
+	    	author = author.replaceAll("-", " ");
+	    }
+	    
 			let name = document.createElement('a');
 			let nameText = document.createTextNode(single_authors[i].replaceAll("-", " "));
 			name.setAttribute('href', '..\/..\/indextag#'+author);
@@ -369,7 +373,9 @@ if ( authorsNameExists ) {
 	    var author = data[1] + ' ' + data[0];
 	  }
 
-	  author = author.replaceAll("-", " ");
+	  if (author.includes("-")){
+	   	author = author.replaceAll("-", " ");
+	  }
 
 	  let name = document.createElement('a');
 		let nameText = document.createTextNode(authors_without_by.replaceAll("-", " "));
