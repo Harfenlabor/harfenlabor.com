@@ -693,8 +693,27 @@ p > img {
 		margin-top: 0em;
 		margin-bottom: 1em;
 	}
+	.imgcaptions_box {
+		position: relative;
+		width: 100%;
+		margin-left: 0em;
+		margin-top: 0em;
+		margin-bottom: 1em;
+	}
+	.footnotes_box {
+		position: relative;
+		width: 100%;
+		margin-left: 0em;
+		margin-top: 0em;
+		margin-bottom: 1em;
+		margin-right: 0em;
+	}
 	.isopen {
 		width: 100%;
+	}
+	.isopen_imgcaptions,.isopen_footnotes{
+		width: 100%;
+		height: auto;
 	}
 	#footer_desktop{
 		display: none;
@@ -703,7 +722,6 @@ p > img {
 		display: block;
 		padding-bottom: 2.5em;
 		height: 15em;
-		background-color: rgb(255,0,0,.2);
 	}
 	#footer_mob_1{
 		overflow: auto;
