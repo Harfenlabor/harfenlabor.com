@@ -784,7 +784,28 @@ p > img {
 
 	/*MENU*/
 	#navigation{
+		display: none;
+	}
 
+	#navigation_mobile{
+		background-color: #f1f2f2;
+	  width: calc(100vw - 40px);
+	  height: calc(100vh - 60px);
+	  position: absolute;
+	  z-index: 1;
+	  top: -200%;
+	  left: 0;
+	  overflow-x: hidden;
+	  padding-top: 20px;
+	  transition: .3s ease-out;
+	  padding-top: 60px;
+	  padding-bottom: 0px;
+	  padding-left: 20px;
+	  padding-right: 20px;
+
+	  display: flex;
+	  flex-direction: column;
+	  align-items: top;
 	}
 
 	#menu_lid{
