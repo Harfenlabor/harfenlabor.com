@@ -446,7 +446,6 @@ a:hover {
 }
 
 #navigation {
-
   background-color: var(--greyColor);
   width: 0px;
   height: 100%; /* calc(100% - 50px); */
@@ -467,6 +466,10 @@ a:hover {
   align-items: top;
 }
 
+#navigation_mobile {
+  display: none;
+}
+
 #menu_lid{
   width: 60px;
   position: fixed;
@@ -478,6 +481,10 @@ a:hover {
   transform: translateY(0%); /*was -50*/
   margin-top: auto;
   margin-bottom: auto;
+}
+
+#menu_lid_mobile{
+  display: none;
 }
 
 #actual_lid{
