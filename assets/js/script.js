@@ -167,25 +167,18 @@ if ( article_title ) {
 window.addEventListener('load', function () {
 
 	var article_title_list = document.getElementsByClassName('list_article_title');
-	console.log(article_title_list);
 	if ( article_title_list ) {
 		$('.list_article_title').each(function() {
-			console.log(this.innerHTML);
 			var list_article_title_paragraphs = this.innerHTML.split('&amp;&amp;');
 			this.innerHTML="";
-			console.log(list_article_title_paragraphs);
 
 			for (let i = 0; i < list_article_title_paragraphs.length; i++) {
-				console.log("1");
 				var span = document.createElement('span');
 				var spanText = document.createTextNode(list_article_title_paragraphs[i]);
 				span.appendChild(spanText);
 				linebreak = document.createElement("br");
-				console.log("2");
-				
 				$(this).append(span);
 				$(this).append(linebreak);
-				console.log("3");
 			}
 	  });
 	}
