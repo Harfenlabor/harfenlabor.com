@@ -16,7 +16,7 @@ status = "approved by author"
 subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Musicology", "Sociology of Art"]
 timeline_tag = []
-title = "Scientific Commentary: Sol di corde soavi armo le dita? / Only music I carry as my weapon?   Different ways to use the same instrument"
+title = "Scientific Commentary: Sol di corde soavi armo le dita? Only music I carry as my weapon?   Different ways to use the same instrument"
 type = "Research"
 
 +++
