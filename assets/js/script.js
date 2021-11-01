@@ -21,6 +21,19 @@ function toggleSidebar() {
   }
 }*/
 
+//MOBILE MENU
+let active = true;
+function toggleMenu(button) {
+  active =! active;
+  if (active) {
+    button.setAttribute("style", "transform: rotate(0deg)");
+    document.getElementById("navigation_mobile").style.top = "-200%";
+  } else {
+    button.setAttribute("style", "transform: rotate(45deg)");
+    document.getElementById("navigation_mobile").style.top = "0px";
+  }
+}
+
 //DESKTOP SIDEBAR
 document.getElementById('menu_lid').addEventListener('mouseover', function(e) {
   toggleSidebar();
@@ -163,7 +176,6 @@ if ( article_title ) {
 }
 
 //BREAK LINES IN TITLES (LIST PAGES)
-
 window.addEventListener('load', function () {
 
 	var article_title_list = document.getElementsByClassName('list_article_title');
