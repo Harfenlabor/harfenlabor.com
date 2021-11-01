@@ -18,7 +18,7 @@ subjects_tag = ["Practical Examination", "Barberini Harp", "Little Ice Age", "36
 subtype = ["Organology", "Performance Practice"]
 tags = ""
 timeline_tag = ["1570", "1605", "1632", "1633", "1644", "2016"]
-title = "The Barberini Harp Project / Convening&&Practical Examination of the Barberini Harp"
+title = "The Barberini Harp Project / Convening Practical Examination of the Barberini Harp"
 titolo = ""
 titolo_blocchi = []
 type = "Research"
@@ -26,20 +26,11 @@ type = "Research"
 +++
 <div class="embed-responsive embed-responsive-16by9"> <iframe src="https://player.vimeo.com/video/639053636?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> </div>
 
-######  
+###### 
 
 ###### 
 
-Eric Kleinmann, harp maker  
-Istituto Storico Austriaco, Roma, 16.12.2016
-
-Camera: Giulia Bruno and Armin Linke  
-Sound: Renato Rinaldi  
-Editing: Giulia Bruno, Margret Köll and Armin Linke  
-Postproduction: Giulia Bruno
-
-With the generous support of the Istituto Storico Austriaco and the German Embassy in Rome.
+Convening around the Barberini Harp, a symposium organised by Harfenlabor, took place on December 14-16, at the POLEO Museo Nazionale degli Strumenti Musicali and at the Istituto Storico Austriaco in Roma. Master harp maker Eric Kleinmann was invited to reflect on his findings following years of research into and practical examinations of the Barberini Harp. Harfenlabor also commissioned Kleinmann to build a small-scale model of the top of the harp for experiments with stringing (pitch, breaking strength, number of strings, etc.).
 
 Original material © Armin Linke / Harfenlabor 2020.  
-Licensed under CC BY-NC-ND International 4.0  
-This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+Licensed under CC BY-NC-ND International 4.0
