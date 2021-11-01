@@ -30,7 +30,7 @@ type = "Research"
 
 ###### 
 
-Convening around the Barberini Harp, a symposium organised by Harfenlabor, took place on December 14-16, at the POLEO Museo Nazionale degli Strumenti Musicali and at the Istituto Storico Austriaco in Roma. Master harp maker Eric Kleinmann was invited to reflect on his findings following decades of research into and practical examinations of the Barberini Harp. Harfenlabor also commissioned Kleinmann to build a small-scale model of the top of the harp for experiments with stringing, and present his conclusions at the Convening.
+Convening around the Barberini Harp, a symposium organised by Harfenlabor, took place on December 14-16, 2016, at the POLEO Museo Nazionale degli Strumenti Musicali and at the Istituto Storico Austriaco in Roma. Master harp maker Eric Kleinmann was invited to reflect on his findings following decades of research into and practical examinations of the Barberini Harp. Harfenlabor also commissioned Kleinmann to build a small-scale model of the top of the harp for experiments with stringing, and present his conclusions at the Convening.
 
 Original material © Armin Linke / Harfenlabor 2020.  
 Licensed under CC BY-NC-ND International 4.0
