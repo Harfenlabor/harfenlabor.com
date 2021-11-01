@@ -166,7 +166,7 @@ if ( article_title ) {
 var article_title_list = document.getElementById('list_article_title');
 if ( article_title_list ) {
 	$('#list_article_title').each(function() {
-		var article_title_paragraphs = this.innerHTML.split('&amp;&amp;');
+		var list_article_title_paragraphs = this.innerHTML.split('&amp;&amp;');
 		this.innerHTML="";
 
 		for (let i = 0; i < list_article_title_paragraphs.length; i++) {
