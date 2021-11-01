@@ -148,18 +148,19 @@ var article_title = document.getElementById('this_article_title');
 if ( article_title ) {
 	$('#this_article_title').each(function() {
 		var article_title_paragraphs = this.innerHTML.split('&amp;&amp;');
-		var paragraphBox = document.createElement('div');
-		paragraphBox.setAttribute('id', 'this_article_title');
+		this.innerHTML="";
+		//var paragraphBox = document.createElement('div');
+		//paragraphBox.setAttribute('id', 'this_article_title');
 
 		for (let i = 0; i < article_title_paragraphs.length; i++) {
-			var paragraph = document.createElement('p');
-			paragraph.setAttribute('id', 'this_article_title');
-			var paragraphText = document.createTextNode(article_title_paragraphs[i]);
-			paragraph.appendChild(paragraphText);
-			paragraphBox.appendChild(paragraph);
+			var span = document.createElement('span');
+			//paragraph.setAttribute('id', 'this_article_title');
+			var spanText = document.createTextNode(article_title_paragraphs[i]);
+			span.appendChild(spanText);
+			console.log(spanText);
+			//paragraphBox.appendChild(span);
+			$(this).appendChild(span);
 		}
-		this.innerHTML="";
-		$(this).parent().append(paragraphBox);
   });
 }
 
