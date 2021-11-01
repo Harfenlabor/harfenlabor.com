@@ -20,7 +20,7 @@ title = "The Barberini Harp Project / Convening&&What We Know, and What We still
 type = "Research"
 
 +++
-Convening around the Barberini Harp, a symposium organised by Harfenlabor, took place on December 14-16, at the POLEO Museo Nazionale degli Strumenti Musicali and at the Istituto Storico Austriaco in Roma. Harfenlabor invited the historical harpist and researcher Chiara Granata and renowned luthier Dario Pontiggia to open the Convening by sharing and presenting their discoveries, findings and analysis related to new facts about the Barberini Harp that had recently come to light. Granata and Pontiggia collaborated on the analysis of these new documents on the Barberini Harp through the perspective of organology, and published the outcomes of this research in 2015, in _Recercare_.
+Harfenlabor invited the historical harpist and researcher Chiara Granata and renowned luthier Dario Pontiggia to share and present their discoveries, findings and analysis related to new facts about the Barberini Harp that had recently come to light. Granata and Pontiggia collaborated on the analysis of these new documents on the Barberini Harp through the perspective of organology, and published the outcomes of this research in 2015, in _Recercare_. Their presentation opened Convening around the Barberini Harp, a symposium organised by Harfenlabor, took place on December 14-16, at the POLEO Museo Nazionale degli Strumenti Musicali and at the Istituto Storico Austriaco in Roma. 
 
 Granata, Chiara, and Nicolaas Waanders. “‘Un’arpa Grande Tutta Intagliata e Dorata’. New Documents on the Barberini Harp.” _Recercare_ 27, no. 1/2 (2015): 139–64. [http://www.jstor.org/stable/26381197.](http://www.jstor.org/stable/26381197. "http://www.jstor.org/stable/26381197.")
 
