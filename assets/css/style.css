@@ -332,10 +332,10 @@ a:hover {
 }
 
 .title h2 {
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
   font-weight: 700;
   font-size: 38px;
-  color: black; /*was white*/
+  color: black;
 }
 
 .title h2 span {
@@ -555,7 +555,7 @@ a:hover {
 .hero-area .block h1 {
   font-size: 90px;
   color: #fff;
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
   font-weight: 700;
   margin-bottom: 20px;
 }
@@ -1311,7 +1311,7 @@ a:hover {
   margin: 0 0 6px;
   font-size: 1.5rem;
   line-height: 1.7rem;
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
 }
 
 .note .media-wrapper {
@@ -1321,7 +1321,7 @@ a:hover {
 .note .excerpt h3 {
   font-size: 20px;
   line-height: 1.5;
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
 }
 
 .all-post {
