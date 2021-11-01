@@ -1,15 +1,673 @@
-<article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
-  <div class="post-block">
-    <div class="media-wrapper">
-      <img class="img-fluid" data-src="{{ .Params.Image_webp | absURL }}" src="{{ .Params.image | absURL }}">
-    </div>
+{{ define "main" }}
 
-    <div class="content">
-      <h6 style="margin-bottom:0.5rem; max-width: 100%; text-align: center;">{{ replace .Params.author "-" " " }}</a></h6>
-      <h3 id="list_article_title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-      <p>{{ .Summary }}</p>
-      <h6 style="max-width: 100%;">{{ .PublishDate.Format "January 2, 2006" }}</a></h6>
-      <a class="btn btn-transparent" href="{{ .Permalink }}">{{ i18n "readMore" }}</a>
+{{ partial "navigation.html" . }}
+
+{{/* - partial "footer.html" . -*/}}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 offset-lg-2 text-center">
+        <img id="logo_for_print" src="/images/logo.png">
+        <p id="this_article_type"><a href="..\"{{ .Type }}>{{ .Type }}</a></p>
+        <h1 id="this_article_title">{{ .Title }}</h1>
+        {{ if and (eq .Type "Research") (.Params.author) }}
+        <p id="this_article_author">by {{ .Params.author }}</p>
+        {{ end }}
+        
+      </div>
+
+      {{ if .Description }}
+      <div class="synopsis_box">
+        <p class="synopsis">Synopsis: {{ .Description }}</p>
+        <div class="open_synopsis_box">+</div>
+      </div>
+      {{ end }}
+
+      <div class="col-lg-8 offset-lg-2">
+        <div class="post-single-content articleContent">
+          {{ .Content }}
+        </div>
+        {{ if .Params.footnotes }}
+        <div id="extraspace"></div>
+        {{ end }}
+      </div>
+
+      {{ if .Params.imgcaptions }}
+      <div class="imgcaptions_box">
+        <p class="imgcaptions">Images: {{ .Params.imgcaptions }}</p>
+        <div class="open_imgcaptions_box">+</div>
+      </div>
+      {{ end }}
+
+      {{ if .Params.footnotes }}
+      <div class="footnotes_box">
+        <p class="footnotes">Footnotes: {{ .Params.footnotes }}</p>
+        <div class="open_footnotes_box">+</div>
+      </div>
+      {{ end }}
+
     </div>
   </div>
-</article>
+
+  <!--if there are image captions/footnotes, the box appears on each-->
+  {{ if .Params.imgcaptions }}
+  <div id="imgcaptions_appear"></div>
+  {{ end }}
+
+  {{ if .Params.footnotes }}
+  <div id="fn_appear"></div>
+  {{ end }}
+
+</section>
+
+{{ if eq .Type "Research" }}
+<footer id="footer_desktop">
+  <div id="footer" class="foot1" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
+    <p class="footer_title footitle1">Barberini Harp Project</p>
+    <div class="footer_insidebox_1">
+      <p class="footer_insidetext">{{ .Params.barberiniharpproject }}</p>
+    </div>
+  </div>
+  <div id="footer" class="foot2" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
+    <p class="footer_title footitle2">Related Research</p>
+    <div class="footer_insidebox_2">
+      <p class="footer_insidetext">
+        {{ range .Params.relatedresearch }}
+        {{ $relatedtag := . }}
+          {{ $research := $.Site.GetPage "/research" }}
+          {{ range $research.Data.Pages }}
+            {{ if eq (lower .Title) (lower $relatedtag) }}
+              {{ .Render "miniarticle_toolbar" }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </p>
+    </div>
+  </div>
+  <div id="footer" class="foot3" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
+    <p class="footer_title footitle3">External Links</p>
+    <div class="footer_insidebox_3">
+      <p class="footer_insidetext extlinks">{{ .Params.externallinks }}</p>
+    </div>
+  </div>
+  <div id="footer" class="foot4" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
+    <p class="footer_title footitle4">Tags</p>
+    <div class="footer_insidebox_3">
+      <p id="tagspers" class="footer_insidetext tagspers">Persons:</p>
+      <p></p>
+      <p id="tagssubj" class="footer_insidetext tagssubj">Subjects:</p>
+      <p></p>
+      <p id="tagsyears" class="footer_insidetext tagstime">Timeline:</p>
+      <p></p>
+      <p id="tagsplaces" class="footer_insidetext tagsmap">Map:</p>
+    </div>
+  </div>
+  <div id="footer" class="foot5" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
+    <p class="footer_title footitle5">Downloads</p>
+    <div class="footer_insidebox_5">
+      <p class="footer_insidetext">
+        {{ .Render "printPreview_toolbar" }}
+
+        {{ range .Params.downloads }}
+          {{ $linkandimage := split . " " }}
+          <article class="col-related-research clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
+            <div class="post-block">
+              <div class="media-wrapper">
+                <a href="https://{{ index $linkandimage 0 | absURL }}"><img class="img-fluid-related-research" style="height: 4em" data-src="{{ index $linkandimage 1 }}" src="{{ index $linkandimage 1 }}"></a>
+              </div>
+
+              <div class="content-related-research">
+                <h6 class="title-related-research"><a href="https://{{ index $linkandimage 0 | absURL }}">{{ index $linkandimage 0 }}</a></h6>
+              </div>
+            </div>
+          </article>
+        {{ end }}
+
+      </p>
+    </div>
+  </div>
+</footer>
+
+<footer id="footer_mobile">
+  <div class="footer_bar">
+    <button class="footer_bar-item footer_button footer_button_active" onclick="select(this); openTab('fm_Project')" style="margin-left:0px; z-index:5;">Barberini Harp Project</button>
+    <button class="footer_bar-item footer_button" onclick="select(this); openTab('fm_Related')" style="z-index:4;">Related Research</button>
+    <button class="footer_bar-item footer_button" onclick="select(this); openTab('fm_External')" style="z-index:3;">External Links</button>
+    <button class="footer_bar-item footer_button" onclick="select(this); openTab('fm_Tags')" style="z-index:2;">Tags</button>
+    <button class="footer_bar-item footer_button" onclick="select(this); openTab('fm_Downloads')" style="z-index:1;">Downloads</button>
+  </div>
+
+  <div id="fm_Project" class="footer_bar-container footmobsection">
+    <p class="footer_insidetext">{{ .Params.barberiniharpproject }}</p>
+  </div>
+
+  <div id="fm_Related" class="footer_bar-container footmobsection" style="display:none">
+    <p class="footer_insidetext">
+      {{ range .Params.relatedresearch }}
+      {{ $relatedtag := . }}
+        {{ $research := $.Site.GetPage "/research" }}
+        {{ range $research.Data.Pages }}
+          {{ if eq (lower .Title) (lower $relatedtag) }}
+            {{ .Render "miniarticle_toolbar" }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </p>
+  </div>
+
+  <div id="fm_External" class="footer_bar-container footmobsection footmoblinks" style="display:none">
+    <p class="footer_insidetext extlinks">{{ .Params.externallinks }}</p>
+  </div>
+
+  <div id="fm_Tags" class="footer_bar-container footmobsection" style="display:none">
+    <p id="tagspers" class="footer_insidetext tagspers">Persons:</p>
+    <p></p>
+    <p id="tagssubj" class="footer_insidetext tagssubj">Subjects:</p>
+    <p></p>
+    <p id="tagsyears" class="footer_insidetext tagstime">Timeline:</p>
+    <p></p>
+    <p id="tagsplaces" class="footer_insidetext tagsmap">Map:</p>
+  </div>
+
+  <div id="fm_Downloads" class="footer_bar-container footmobsection" style="display:none">
+    <p class="footer_insidetext">
+      {{ .Render "printPreview_toolbar" }}
+
+      {{ range .Params.downloads }}
+        {{ $linkandimage := split . " " }}
+        <article class="col-related-research clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
+          <div class="post-block">
+            <div class="media-wrapper">
+              <a href="https://{{ index $linkandimage 0 | absURL }}"><img class="img-fluid-related-research" style="height: 4em" data-src="{{ index $linkandimage 1 }}" src="{{ index $linkandimage 1 }}"></a>
+            </div>
+
+            <div class="content-related-research">
+              <h6 class="title-related-research"><a href="https://{{ index $linkandimage 0 | absURL }}">{{ index $linkandimage 0 }}</a></h6>
+            </div>
+          </div>
+        </article>
+      {{ end }}
+
+    </p>
+  </div>
+
+
+
+  <!--div id="footer_mob_1"-->
+    <!--svg id="actual_lid" data-name="menu_lid" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 115.48 560.08"><defs><style>.cls-1{fill:#F1F2F2;fill-rule:evenodd;}</style></defs><path id="a" class="cls-1" d="M115.34,403V0H-.14V560.08H6.11V512A54.59,54.59,0,0,1,60.7,457.36h0A54.63,54.63,0,0,0,115.34,403Z" transform="translate(0.14)"/></svg-->
+    <!--p style="color:black">Barberini Harp Project</p>
+    <div>
+      <p class="footer_insidetext">{{ .Params.barberiniharpproject }}</p>
+    </div>
+  </div-->
+  <!--div id="footer_mob_2">
+    <p>Related Research</p>
+    <div>
+      <p class="footer_insidetext">
+        {{/* range .Params.relatedresearch }}
+        {{ $relatedtag := . }}
+          {{ $research := $.Site.GetPage "/research" }}
+          {{ range $research.Data.Pages }}
+            {{ if eq (lower .Title) (lower $relatedtag) }}
+              {{ .Render "miniarticle_toolbar" }}
+            {{ end }}
+          {{ end }}
+        {{ end */}}
+      </p>
+    </div>
+  </div>
+  <div id="footer_mob_3">
+    <p>External Links</p>
+    <div>
+      <p class="footer_insidetext extlinks">{{ .Params.externallinks }}</p>
+    </div>
+  </div>
+  <div id="footer_mob_4">
+    <p>Tags</p>
+    <div>
+      <p id="tagspers" class="footer_insidetext tagspers">Persons:</p>
+      <p></p>
+      <p id="tagssubj" class="footer_insidetext tagssubj">Subjects:</p>
+      <p></p>
+      <p id="tagsyears" class="footer_insidetext tagstime">Timeline:</p>
+      <p></p>
+      <p id="tagsplaces" class="footer_insidetext tagsmap">Map:</p>
+    </div>
+  </div>
+  <div id="footer_mob_5">
+    <p>Downloads</p>
+    <div>
+      <p class="footer_insidetext">
+        {{/* .Render "printPreview_toolbar" }}
+
+        {{ range .Params.downloads }}
+          {{ $linkandimage := split . " " }}
+          <article class="col-related-research clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
+            <div class="post-block">
+              <div class="media-wrapper">
+                <a href="https://{{ index $linkandimage 0 | absURL }}"><img class="img-fluid-related-research" style="height: 4em" data-src="{{ index $linkandimage 1 }}" src="{{ index $linkandimage 1 }}"></a>
+              </div>
+
+              <div class="content-related-research">
+                <h6 class="title-related-research"><a href="https://{{ index $linkandimage 0 | absURL }}">{{ index $linkandimage 0 }}</a></h6>
+              </div>
+            </div>
+          </article>
+        {{ end */}}
+
+      </p>
+    </div>
+  </div-->
+</footer>
+{{ end }}
+
+<script>
+  //FOOTER MOBILE
+  function openTab(tabName) {
+    var i;
+    var x = document.getElementsByClassName("footmobsection");
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";
+    }
+    document.getElementById(tabName).style.display = "block";
+  }
+
+  function select(thisTab) {
+    var y = document.getElementsByClassName("footer_button");
+    for (i = 0; i < y.length; i++) {
+      y[i].classList.remove("footer_button_active");
+    }
+    thisTab.classList.add("footer_button_active");
+  }
+
+  //ARTICLE
+  //add links to each person that appears in the person_tag section
+  var persontags_list = {{ .Params.person_tag }};
+  var words = [];
+  if (persontags_list) {
+    for (let i = 0; i < persontags_list.length; i++) {
+      if (persontags_list[i].includes(' ')){
+
+        var nameToSwap = persontags_list[i].split(' ');
+        for (var j = 0; j < nameToSwap.length; j++) { //capitalize first letter
+          nameToSwap[j] = nameToSwap[j].charAt(0).toUpperCase() + nameToSwap[j].slice(1);
+        }
+        if (nameToSwap.length == 4) { //rearrange
+          var nameSwapped = nameToSwap[3] + ' ' + nameToSwap[0] + ' ' + nameToSwap[1] + ' ' + nameToSwap[2];
+        } if (nameToSwap.length == 3) {
+          var nameSwapped = nameToSwap[2] + ' ' + nameToSwap[0] + ' ' + nameToSwap[1];
+        } if (nameToSwap.length == 2) {
+          var nameSwapped = nameToSwap[1] + ' ' + nameToSwap[0];
+        }
+
+        nameSwapped = nameSwapped.replaceAll("-", " ");
+
+      } else {
+        var nameSwapped = persontags_list[i];
+      }
+      //exceptions in the name (unusable characters)
+      if (nameSwapped.includes('ç')){
+        nameSwapped = nameSwapped.replaceAll('ç', 'c');
+      }
+      var Obj = {}
+      Obj.word = persontags_list[i].replaceAll("-", " ");
+      Obj.link = nameSwapped;
+      words.push(Obj);
+    }
+
+    $.each(words,
+      function() {
+        var search = this;
+        $('span#person_tag').each(
+          function() {
+            if ($(this).text() === search.word) {
+              $(this).html('<a href="..\/..\/indextag#' + search.link + '">' + search.word + '</a>');
+            }
+          }
+        );
+      }
+    );
+  }
+
+  //ARTICLE
+  //add links to each subject that appears in the subjects_tag section
+  var subjectstags_list = {{ .Params.subjects_tag }};
+  var words_subjects = [];
+  if (subjectstags_list) {
+    for (let i = 0; i < subjectstags_list.length; i++) {
+      var Obj = {}
+      Obj.word = subjectstags_list[i];
+      Obj.link = subjectstags_list[i];
+      words_subjects.push(Obj);
+    }
+
+    $.each(words_subjects,
+      function() {
+        var search = this;
+        $('span#subjects_tag').each(
+          function() {
+            if ($(this).text() === search.word) {
+              $(this).html('<a href="..\/..\/indextag#' + search.link + '">' + search.word + '</a>');
+            }
+          }
+        );
+      }
+    );
+  }
+
+  //ARTICLE
+  //add links to each year that appears in the timeline_tag section
+  var timelinetags_list = {{ .Params.timeline_tag }};
+  var words_timeline = [];
+  if (timelinetags_list) {
+    for (let i = 0; i < timelinetags_list.length; i++) {
+      var Obj = {}
+      Obj.word = timelinetags_list[i];
+      Obj.link = timelinetags_list[i];
+      words_timeline.push(Obj);
+    }
+
+    $.each(words_timeline,
+      function() {
+        var search = this;
+        $('span#timeline_tag').each(
+          function() {
+            if ($(this).text() === search.word) {
+              $(this).html('<a href="..\/..\/timeline#' + search.link + '">' + search.word + '</a>');
+            }
+          }
+        );
+      }
+    );
+  }
+
+  //ARTICLE
+  //add links to each year that appears in the map_tag section
+  var maptags_list = {{ .Params.map_tag }};
+  var words_map = [];
+  if (maptags_list) {
+    for (let i = 0; i < maptags_list.length; i++) {
+      var Obj = {}
+      Obj.word = maptags_list[i];
+      Obj.link = maptags_list[i];
+      words_map.push(Obj);
+    }
+
+    $.each(words_map,
+      function() {
+        var search = this;
+        $('span#map_tag').each(
+          function() {
+            if ($(this).text() === search.word) {
+              $(this).html('<a href="..\/..\/map#' + search.link + '">' + search.word + '</a>');
+            }
+          }
+        );
+      }
+    );
+  }
+
+  //FOOTER:
+  //make each external link clickable (External Links)
+  var extlinks = {{ .Params.externallinks }};
+
+  if (extlinks.includes(', ')){
+    document.getElementsByClassName('footer_insidebox_3')[0].innerHTML = "";
+    var extlinks_array = extlinks.split(', ');
+    for (let i = 0; i < extlinks_array.length; i++) {
+      let extlink_par = document.createElement('p');
+      let extlink_text = document.createTextNode(extlinks_array[i]);
+      extlink_par.setAttribute('class', 'footer_insidetext extlinks');
+      extlink_par.appendChild(extlink_text);
+      document.getElementsByClassName('footer_insidebox_3')[0].append(extlink_par);
+    }
+
+    document.getElementsByClassName('footmoblinks')[0].innerHTML = "";
+    var extlinks_array = extlinks.split(', ');
+    for (let i = 0; i < extlinks_array.length; i++) {
+      let extlink_par = document.createElement('p');
+      let extlink_text = document.createTextNode(extlinks_array[i]);
+      extlink_par.setAttribute('class', 'footer_insidetext extlinks');
+      extlink_par.appendChild(extlink_text);
+      document.getElementsByClassName('footmoblinks')[0].append(extlink_par);
+    }
+  }
+
+  $('p.extlinks').each(
+    function() {
+      $(this).html('<a href="https://' + this.textContent + '">' + this.textContent + '</a>');
+    }
+  );
+
+  //FOOTER:
+  //make each person tag clickable (Tags)
+  var tagspers_count = 0;
+
+  $.each(words,
+    function() {
+      var search = this;
+
+      let tagspers_span = document.createElement('span');
+      let tagspers_text = document.createTextNode({{ .Params.person_tag }}[tagspers_count].replaceAll("-", " "));
+      let tagspers_span_space = document.createElement('span');
+      let tagspers_text_space = document.createTextNode(' ');
+      tagspers_span.setAttribute('class', 'footer_insidetext');
+      tagspers_span.setAttribute('id', 'tagspers');
+      tagspers_span.appendChild(tagspers_text);
+      tagspers_span_space.appendChild(tagspers_text_space);
+      document.getElementById('tagspers').append(tagspers_span_space);
+      document.getElementById('tagspers').append(tagspers_span);
+
+      tagspers_count = tagspers_count+1;
+
+      $('span#tagspers').each(
+        function() {
+          if ($(this).text() === search.word) {
+            $(this).html('<a href="..\/..\/indextag#' + search.link + '">' + search.word + '</a>');
+          }
+        }
+      );
+    }
+  );
+
+  //make each subject tag clickable (Tags)
+  var tagssubj_count = 0;
+
+  $.each(words_subjects,
+    function() {
+      var search = this;
+
+      let tagssubj_span = document.createElement('span');
+      let tagssubj_text = document.createTextNode({{ .Params.subjects_tag }}[tagssubj_count]);
+      let tagssubj_span_space = document.createElement('span');
+      let tagssubj_text_space = document.createTextNode(' ');
+      tagssubj_span.setAttribute('class', 'footer_insidetext');
+      tagssubj_span.setAttribute('id', 'tagssubj');
+      tagssubj_span.appendChild(tagssubj_text);
+      tagssubj_span_space.appendChild(tagssubj_text_space);
+      document.getElementById('tagssubj').append(tagssubj_span_space);
+      document.getElementById('tagssubj').append(tagssubj_span);
+
+      tagssubj_count = tagssubj_count+1;
+
+      $('span#tagssubj').each(
+        function() {
+          if ($(this).text() === search.word) {
+            $(this).html('<a href="..\/..\/indextag#' + search.link + '">' + search.word + '</a>');
+          }
+        }
+      );
+    }
+  );
+
+  //make each timeline tag clickable (Tags)
+  var tagsyears_count = 0;
+
+  $.each(words_timeline,
+    function() {
+      var search = this;
+
+      let tagstime_span = document.createElement('span');
+      let tagstime_text = document.createTextNode({{ .Params.timeline_tag }}[tagsyears_count]);
+      let tagstime_span_space = document.createElement('span');
+      let tagstime_text_space = document.createTextNode(' ');
+      tagstime_span.setAttribute('class', 'footer_insidetext');
+      tagstime_span.setAttribute('id', 'tagsyears');
+      tagstime_span.appendChild(tagstime_text);
+      tagstime_span_space.appendChild(tagstime_text_space);
+      document.getElementById('tagsyears').append(tagstime_span_space);
+      document.getElementById('tagsyears').append(tagstime_span);
+
+      tagsyears_count = tagsyears_count+1;
+
+      $('span#tagsyears').each(
+        function() {
+          if ($(this).text() === search.word) {
+            $(this).html('<a href="..\/..\/timeline#' + search.link + '">' + search.word + '</a>');
+          }
+        }
+      );
+    }
+  );
+
+  //make each map tag clickable (Tags)
+  var tagsplaces_count = 0;
+  $.each(words_map,
+    function() {
+      var search = this;
+
+      let tagsplaces_span = document.createElement('span');
+      let tagsplaces_text = document.createTextNode({{ .Params.map_tag }}[tagsplaces_count]);
+      let tagsplaces_span_space = document.createElement('span');
+      let tagsplaces_text_space = document.createTextNode(' ');
+      tagsplaces_span.setAttribute('class', 'footer_insidetext');
+      tagsplaces_span.setAttribute('id', 'tagsplaces');
+      tagsplaces_span.appendChild(tagsplaces_text);
+      tagsplaces_span_space.appendChild(tagsplaces_text_space);
+      document.getElementById('tagsplaces').append(tagsplaces_span_space);
+      document.getElementById('tagsplaces').append(tagsplaces_span);
+
+      tagsplaces_count = tagsplaces_count+1;
+
+      $('span#tagsplaces').each(
+        function() {
+          if ($(this).text() === search.word) {
+            $(this).html('<a href="..\/..\/map#' + search.link + '">' + search.word + '</a>');
+          }
+        }
+      );
+    }
+  );
+
+
+
+  window.addEventListener('load', function () {
+    //make footnotes interactive
+    //wait until the page is loaded and footnotes are replaced
+    var footnotes = document.getElementsByClassName('footnotes');
+    if ( footnotes ) {
+      for (let i = 0; i < footnotes.length; i++) {
+        $('sup').each(
+          function() {
+            $(this).prop('id', 'footnote');
+            $(this).on("mouseover", function(e) {
+              var box = $("#fn_appear");
+              var y = e.pageY;
+              var x = e.pageX;
+              var fn_paragraph = document.createElement('p');
+
+              var fn_plainText = footnotes[this.textContent].textContent;
+              if (fn_plainText.includes("Footnotes: ")){
+                fn_plainText =  fn_plainText.replace("Footnotes: ", "");
+              }
+              var fn_insideText = document.createTextNode(fn_plainText);
+
+              fn_paragraph.setAttribute('class', 'footnotes');
+              fn_paragraph.appendChild(fn_insideText);
+              if (box.children().length > 0 ) {
+                box.empty();
+              }
+              box.append(fn_paragraph);
+              box.css('display', 'block');
+              box.css('position', 'absolute');
+              if(x < window.innerWidth/2){
+                x = e.pageX;
+                box.css("left", x);
+                box.css("right", "unset");
+              } else {
+                x = window.innerWidth-e.pageX;
+                box.css("left", "unset");
+                box.css("right", x);
+              }
+              box.css("top", y);
+            });
+            $(this).on("mouseout", function(e) {
+              var box = $("#fn_appear");
+              box.css('display', 'none');
+            });
+          }
+        );
+        break; //break the "for" loop
+      }
+    }
+
+    //make image captions interactive
+    //wait until the page is loaded and footnotes are replaced
+    var imgcaptions = document.getElementsByClassName('imgcaptions');
+
+    if ( imgcaptions ) {
+      for (let i = 0; i < imgcaptions.length; i++) {
+        $('cap').each(
+          function() {
+
+            $(this).prop('id', 'imgcaption');
+            $(this).on("mouseover", function(e) {
+
+              var box = $("#imgcaptions_appear");
+              var y = e.pageY;
+              var x = e.pageX;
+
+              var fn_paragraph = document.createElement('p');
+              var fn_plainText = imgcaptions[this.textContent.split('(Fig. ').pop().split(')')[0]].textContent;
+              if (fn_plainText.includes("Images: ")){
+                fn_plainText =  fn_plainText.replace("Images: ", "");
+              }
+              var fn_insideText = document.createTextNode(fn_plainText);
+              fn_paragraph.setAttribute('class', 'imgcaptions');
+              fn_paragraph.appendChild(fn_insideText);
+
+              if (box.children().length > 0 ) {
+                box.empty();
+              }
+
+              box.append(fn_paragraph);
+              box.css('display', 'block');
+              box.css('position', 'absolute');
+
+              if(x < window.innerWidth/2){
+                x = e.pageX;
+                box.css("left", x);
+                box.css("right", "unset");
+              } else {
+                x = window.innerWidth-e.pageX;
+                box.css("left", "unset");
+                box.css("right", x);
+              }
+              box.css("top", y);
+            });
+
+            $(this).on("mouseout", function(e) {
+              var box = $("#imgcaptions_appear");
+              box.css('display', 'none');
+            });
+          }
+        );
+        break; //break the "for" loop
+      }
+    }
+  })  
+
+</script>
+
+{{ end }}
