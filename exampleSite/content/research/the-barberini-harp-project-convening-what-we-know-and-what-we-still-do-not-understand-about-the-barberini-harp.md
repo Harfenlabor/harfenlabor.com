@@ -16,7 +16,7 @@ status = "draft"
 subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Musicology", "Iconography", "Sociology of Art"]
 timeline_tag = []
-title = "The Barberini Harp Project / Convening&&What We Know, and What We still Do Not Understand about the Barberini Harp"
+title = "Barberini Harp Project / Convening&&What We Know, and What We still Do Not Understand about the Barberini Harp."
 type = "Research"
 
 +++
