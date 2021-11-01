@@ -104,6 +104,9 @@ a:visited {
   text-decoration: underline;
 }
 
+tab {
+  margin-left: 2em;
+}
 
 iframe {
   border: 0;
