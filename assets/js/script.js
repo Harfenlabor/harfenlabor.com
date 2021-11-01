@@ -149,19 +149,17 @@ if ( article_title ) {
 	$('#this_article_title').each(function() {
 		var article_title_paragraphs = this.innerHTML.split('&amp;&amp;');
 		var paragraphBox = document.createElement('div');
-		//paragraphBox.setAttribute('id', 'this_article_title');
+		paragraphBox.setAttribute('id', 'this_article_title');
 
 		for (let i = 0; i < article_title_paragraphs.length; i++) {
 			var paragraph = document.createElement('p');
-			//paragraph.setAttribute('class', 'synopsis');
+			paragraph.setAttribute('id', 'this_article_title');
 			var paragraphText = document.createTextNode(article_title_paragraphs[i]);
 			paragraph.appendChild(paragraphText);
 			paragraphBox.appendChild(paragraph);
 		}
 		this.innerHTML="";
-		console.log(this);
-		console.log(this.parent());
-		$(this).append(paragraphBox);
+		$(this).parent().append(paragraphBox);
   });
 }
 
@@ -344,10 +342,8 @@ if ( authorsNameExists ) {
 	      var author = data[1] + ' ' + data[0];
 	    }
 
-	    if (author.includes("-")){
-	    	author = author.replaceAll("-", " ");
-	    }
-	    
+	    author = author.replaceAll("-", " ");
+
 			let name = document.createElement('a');
 			let nameText = document.createTextNode(single_authors[i].replaceAll("-", " "));
 			name.setAttribute('href', '..\/..\/indextag#'+author);
@@ -373,9 +369,7 @@ if ( authorsNameExists ) {
 	    var author = data[1] + ' ' + data[0];
 	  }
 
-	  if (author.includes("-")){
-	   	author = author.replaceAll("-", " ");
-	  }
+	  author = author.replaceAll("-", " ");
 
 	  let name = document.createElement('a');
 		let nameText = document.createTextNode(authors_without_by.replaceAll("-", " "));
