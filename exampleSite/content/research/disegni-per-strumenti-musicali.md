@@ -18,7 +18,7 @@ subjects_tag = []
 subtype = ["Organology", "Iconography", "Sociology of Art"]
 tags = ""
 timeline_tag = []
-title = "Disegni per strumenti musicali<sup>1</sup>"
+title = "Disegni per strumenti musicali"
 type = "Research"
 
 +++
