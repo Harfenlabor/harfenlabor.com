@@ -159,7 +159,7 @@ if ( article_title ) {
 			span.appendChild(spanText);
 			console.log(spanText);
 			//paragraphBox.appendChild(span);
-			$(this).appendChild(span);
+			$(this).append(span);
 		}
   });
 }
