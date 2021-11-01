@@ -162,6 +162,25 @@ if ( article_title ) {
   });
 }
 
+//BREAK LINES IN TITLES (LIST PAGES)
+var article_title_list = document.getElementById('list_article_title');
+if ( article_title_list ) {
+	$('#list_article_title').each(function() {
+		var article_title_paragraphs = this.innerHTML.split('&amp;&amp;');
+		this.innerHTML="";
+
+		for (let i = 0; i < list_article_title_paragraphs.length; i++) {
+			var span = document.createElement('span');
+			var spanText = document.createTextNode(list_article_title_paragraphs[i]);
+			span.appendChild(spanText);
+			linebreak = document.createElement("br");
+			
+			$(this).append(span);
+			$(this).append(linebreak);
+		}
+  });
+}
+
 //BREAK LINES IN SYNOPSIS
 var synopsis = document.getElementsByClassName('synopsis')[0];
 if ( synopsis ) {
