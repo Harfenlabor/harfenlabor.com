@@ -4,7 +4,6 @@ author = ""
 barberiniharpproject = ""
 description = ""
 downloads = []
-draft = true
 externallinks = ""
 footnotes = ""
 image = ""
