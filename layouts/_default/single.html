@@ -12,7 +12,7 @@
         <p id="this_article_type"><a href="..\"{{ .Type }}>{{ .Type }}</a></p>
         <h1 id="this_article_title">{{ .Title }}</h1>
         {{ if eq .Type "Research" }}
-        <p id="this_article_author">by {{ .Params.author }}</p>
+        <p id="this_article_author">{{ if .Params.author }}by {{ .Params.author }}{{ end }}</p>
         {{ end }}
         
       </div>
