@@ -1,14 +1,14 @@
-getJsonArray_map();
+getJsonArray_timeline();
 
-function getJsonArray_map(){
+function getJsonArray_timeline(){
   $.ajax({
       url: '/index.json',
       type: 'GET',
-      success: maptags
+      success: timelinetags
   })
 }
 
-function clean_map(array) {
+function clean_timeline(array) {
   for (var key in array) {
     if (array[key] === null || array[key] === undefined) {
       delete array[key];
@@ -17,35 +17,35 @@ function clean_map(array) {
   return array
 }
 
-var allNames_map = [];
-var allLinks_map = [];
-var allTitles_map = [];
+var allNames_timeline = [];
+var allLinks_timeline = [];
+var allTitles_timeline = [];
 
-function maptags(data){
+function timelinetags(data){
   json = data; //fetch my json
   for (var key in json) { //for each key in the json…
     if (json.hasOwnProperty(key)) { //unless that key is not used…
       var dirtyArray = json[key]; //create an array of those results…
-      var result = clean_map(dirtyArray); //and clean it.
-      if (result.hasOwnProperty("maptags")) { //and if the key "personags" exists…
-        for (let i = 0; i < result.maptags.length; i++) { //for each result in "maptags"…
+      var result = clean_timeline(dirtyArray); //and clean it.
+      if (result.hasOwnProperty("timelinetags")) { //and if the key "personags" exists…
+        for (let i = 0; i < result.timelinetags.length; i++) { //for each result in "timelinetags"…
 
-          var SurnameName = result.maptags[i];
+          var SurnameName = result.timelinetags[i];
           
           //exceptions in the name (unusable characters)
           if (SurnameName.includes('ç')){
             SurnameName = SurnameName.replace('ç', 'c');
           }
 
-          allNames_map.push(SurnameName);
-          allLinks_map.push(result.permalink);
-          allTitles_map.push(result.title);
+          allNames_timeline.push(SurnameName);
+          allLinks_timeline.push(result.permalink);
+          allTitles_timeline.push(result.title);
         }
       }
     }
   }
 
-  const sortedNames = allNames_map.map((key, ind) => ({ 'name': key, 'link': [allLinks_map[ind]], 'title': [allTitles_map[ind]]}));
+  const sortedNames = allNames_timeline.map((key, ind) => ({ 'name': key, 'link': [allLinks_timeline[ind]], 'title': [allTitles_timeline[ind]]}));
   sortedNames.sort((a, b) => (a.name > b.name) ? 1 : -1);
 
   //adjust, remove duplicates
@@ -58,15 +58,15 @@ function maptags(data){
     }
   }
 
-  populateWithResults_map(sortedNames);
-  makeItInteractive_map();
+  populateWithResults_timeline(sortedNames);
+  makeItInteractive_timeline();
   return false;
 }
 
 
 
-function populateWithResults_map(myResults){
-  var templateDefinition = $('#maptag-result').html();
+function populateWithResults_timeline(myResults){
+  var templateDefinition = $('#timetag-result').html();
 
   for (var i = 0; i < myResults.length; i++) {
 
@@ -93,7 +93,7 @@ function populateWithResults_map(myResults){
       quilink.innerHTML = myResults[i].title[j]+"<br>";
     }    
 
-    $('#maptags-search-results').append(persona);
+    $('#timelinetags-search-results').append(persona);
 
     //make a box for each result
     const indexBox = document.createElement("div");
@@ -130,7 +130,7 @@ function populateWithResults_map(myResults){
     indexBoxInside.append(indexBoxText);
     indexBox.append(indexBoxInside);
     indexBox.append(closeIndexBox);
-    $('#indexboxspace_map').append(indexBox);
+    $('#indexboxspace_timeline').append(indexBox);
   }
 
   //Delay and scroll down to selected ID
@@ -144,7 +144,7 @@ function populateWithResults_map(myResults){
   }
 };
 
-function makeItInteractive_map(){
+function makeItInteractive_timeline(){
   $('span#quinome').each(
     function() {
       $(this).on("mouseover", function(e) {
