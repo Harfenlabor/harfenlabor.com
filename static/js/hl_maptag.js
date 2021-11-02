@@ -1,14 +1,14 @@
-getJsonArray_timeline();
+getJsonArray_map();
 
-function getJsonArray_timeline(){
+function getJsonArray_map(){
   $.ajax({
       url: '/index.json',
       type: 'GET',
-      success: timelinetags
+      success: maptags
   })
 }
 
-function clean_timeline(array) {
+function clean_map(array) {
   for (var key in array) {
     if (array[key] === null || array[key] === undefined) {
       delete array[key];
@@ -17,35 +17,35 @@ function clean_timeline(array) {
   return array
 }
 
-var allNames_timeline = [];
-var allLinks_timeline = [];
-var allTitles_timeline = [];
+var allNames_map = [];
+var allLinks_map = [];
+var allTitles_map = [];
 
-function timelinetags(data){
+function maptags(data){
   json = data; //fetch my json
   for (var key in json) { //for each key in the json…
     if (json.hasOwnProperty(key)) { //unless that key is not used…
       var dirtyArray = json[key]; //create an array of those results…
-      var result = clean_timeline(dirtyArray); //and clean it.
-      if (result.hasOwnProperty("timelinetags")) { //and if the key "personags" exists…
-        for (let i = 0; i < result.timelinetags.length; i++) { //for each result in "timelinetags"…
+      var result = clean_map(dirtyArray); //and clean it.
+      if (result.hasOwnProperty("maptags")) { //and if the key "personags" exists…
+        for (let i = 0; i < result.maptags.length; i++) { //for each result in "maptags"…
 
-          var SurnameName = result.timelinetags[i];
+          var SurnameName = result.maptags[i];
           
           //exceptions in the name (unusable characters)
           if (SurnameName.includes('ç')){
             SurnameName = SurnameName.replace('ç', 'c');
           }
 
-          allNames_timeline.push(SurnameName);
-          allLinks_timeline.push(result.permalink);
-          allTitles_timeline.push(result.title);
+          allNames_map.push(SurnameName);
+          allLinks_map.push(result.permalink);
+          allTitles_map.push(result.title);
         }
       }
     }
   }
 
-  const sortedNames = allNames_timeline.map((key, ind) => ({ 'name': key, 'link': [allLinks_timeline[ind]], 'title': [allTitles_timeline[ind]]}));
+  const sortedNames = allNames_map.map((key, ind) => ({ 'name': key, 'link': [allLinks_map[ind]], 'title': [allTitles_map[ind]]}));
   sortedNames.sort((a, b) => (a.name > b.name) ? 1 : -1);
 
   //adjust, remove duplicates
@@ -58,15 +58,15 @@ function timelinetags(data){
     }
   }
 
-  populateWithResults_timeline(sortedNames);
-  makeItInteractive_timeline();
+  populateWithResults_map(sortedNames);
+  makeItInteractive_map();
   return false;
 }
 
 
 
-function populateWithResults_timeline(myResults){
-  var templateDefinition = $('#timetag-result').html();
+function populateWithResults_map(myResults){
+  var templateDefinition = $('#maptag-result').html();
 
   for (var i = 0; i < myResults.length; i++) {
 
@@ -85,15 +85,7 @@ function populateWithResults_timeline(myResults){
     spaceAfter.innerHTML = "&nbsp;";
     persona.append(spaceAfter);
 
-    for (var j = 0; j < myResults[i].link.length; j++) {
-      const quilink = document.createElement("a");
-      quilink.id = "quilink";
-      quilink.setAttribute("href", myResults[i].link[j]);
-      quilink.setAttribute("style", "font-size: 16px; color: grey;")
-      quilink.innerHTML = myResults[i].title[j]+"<br>";
-    }    
-
-    $('#timelinetags-search-results').append(persona);
+    $('#maptags-search-results').append(persona);
 
     //make a box for each result
     const indexBox = document.createElement("div");
@@ -123,14 +115,14 @@ function populateWithResults_timeline(myResults){
       const quilink = document.createElement("a");
       quilink.id = "quilink";
       quilink.setAttribute("href", myResults[i].link[j]);
-      quilink.innerHTML = myResults[i].title[j]+"<br>";
+      quilink.innerHTML = myResults[i].title[j].replaceAll("&&", " / ")+"<br>";
       indexBoxText.append(quilink);
     }
     indexBoxInside.append(indexBoxName);
     indexBoxInside.append(indexBoxText);
     indexBox.append(indexBoxInside);
     indexBox.append(closeIndexBox);
-    $('#indexboxspace_timeline').append(indexBox);
+    $('#indexboxspace_map').append(indexBox);
   }
 
   //Delay and scroll down to selected ID
@@ -144,7 +136,7 @@ function populateWithResults_timeline(myResults){
   }
 };
 
-function makeItInteractive_timeline(){
+function makeItInteractive_map(){
   $('span#quinome').each(
     function() {
       $(this).on("mouseover", function(e) {
