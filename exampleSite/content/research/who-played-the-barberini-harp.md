@@ -11,6 +11,7 @@ imgcaptions = ""
 map_tag = ["Parma", "Palazzo Barberini", "Ferrara", "Paris", "Roma"]
 news = true
 person_tag = ["Marco Marazzoli", "Orazio Michi", "Luigi Rossi", "Giacomo Carissimi", "Volker Haag", "Antonio Barberini", "Giovanni Lanfranco", "François Collignon", "Andrea Sacchi", "Virgilio Mazzocchi", "Leonora Baroni", "Francesco Barberini", "Carlo Moretti", "Girolamo Acciari", "Stefano Landi", "Frederick Hammond", "Marin Mersenne", "Girolamo Frescobaldi", "Giovanni Carpano", "Carlo Fausto", "Francesca Caccini", "Lucrezia Urbani", "Chiara Granata", "Costanza de-Ponte", "Antonio-Maria Ciacchi", "Jean-Jacques Bouchard", "Antonio-Maria Abbatini", "Gian-Lorenzo Bernini", "Alexandra Ziane"]
+project_category = "Barberini Harp Project"
 relatedresearch = ["Disegni Per Strumenti Musicali", "Barberini Harp Wood Species Identification"]
 show_in_news = true
 status = "draft"
