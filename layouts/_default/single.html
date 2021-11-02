@@ -71,20 +71,24 @@
       {{ if $.Param "projects" }}
       <p class="footer_insidetext" style="color: red">{{ printf "%#v" . }}</p>
       {{ end }}
+      {{ if $.Param "Projects.projects" }}
+      <p class="footer_insidetext" style="color: lightblue;">{{ printf "%#v" . }}</p>
+      {{ end }}
+      {{ if $.Param "Projects.projects.barberini" }}
+      <p class="footer_insidetext" style="color: pink">{{ printf "%#v" . }}</p>
+      {{ end }}
+      {{ if $.Param "Projects.projects.title" }}
+      <p class="footer_insidetext" style="color: brown">{{ printf "%#v" . }}</p>
+      {{ end }}
+      {{ if $.Param "Projects.projects[1]" }}
+      <p class="footer_insidetext" style="color: darkgreen;">{{ printf "%#v" . }}</p>
+      {{ end }}
+
       {{ if $.Param "project" }}
       <p class="footer_insidetext" style="color: blue">{{ printf "%#v" . }}</p>
       {{ end }}
       {{ if $.Param "Barberini Harp Project" }}
       <p class="footer_insidetext" style="color: green">{{ printf "%#v" . }}</p>
-      {{ end }}
-      {{ if $.Param "Projects.projects" }}
-      <p class="footer_insidetext" style="color: lightblue;">{{ printf "%#v" . }}</p>
-      {{ end }}
-      {{ if $.Param "plugins" }}
-      <p class="footer_insidetext" style="color: pink">{{ printf "%#v" . }}</p>
-      {{ end }}
-      {{ if $.Param "map" }}
-      <p class="footer_insidetext" style="color: brown">{{ printf "%#v" . }}</p>
       {{ end }}
       <!--p class="footer_insidetext">{{ .Params.barberiniharpproject }}</p-->
     </div>
