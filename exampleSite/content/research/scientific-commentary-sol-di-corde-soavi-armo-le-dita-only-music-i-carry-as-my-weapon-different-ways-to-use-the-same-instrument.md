@@ -16,6 +16,7 @@ show_in_news = false
 status = "approved by author"
 subjects_tag = ["Giostra del Saracino", "Barberini Harp"]
 subtype = ["Organology", "Performance Practice", "Musicology", "Sociology of Art"]
+summary_text = "THIS IS A CUSTOM SUMMARY. The first thing that struck me when I saw the archival document of the order for the Barberini Harp was the discovery that it was not the brilliant creation of a single maker, but the work of a group of artisans. There are the separate efforts of the luthier and the carver, and we cannot exclude the possibility that there were other contributions, on the part of a gilder, for example."
 timeline_tag = ["1633", "1634"]
 title = "Scientific Commentary: Sol di corde soavi armo le dita? Only music I carry as my weapon?   Different ways to use the same instrument"
 type = "Research"
