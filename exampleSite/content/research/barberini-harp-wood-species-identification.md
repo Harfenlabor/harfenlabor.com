@@ -16,6 +16,7 @@ show_in_news = false
 status = "draft"
 subjects_tag = ["Barberini Harp", "National Museum of Musical Instruments", "Thünen Institute of Wood Research", "Wood", "Soundboard", "Neck", "Column", "Structure", "Microscope", "Database"]
 subtype = ["Organology"]
+summary_text = ""
 tags = ""
 timeline_tag = ["1632", "1633", "2018", "2019"]
 title = "The Barberini Harp Wood Species Identification"
