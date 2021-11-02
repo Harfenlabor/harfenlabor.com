@@ -34,6 +34,21 @@ fields:
   label: subtype
   description: Used for Research articles. Delete the categories unrelated to this
     specific article.
+- name: project_category
+  type: select
+  default: ''
+  config:
+    required: true
+    options:
+    - Barberini Harp Project
+    - Haydn’s Folk Harp
+    - Harfenlabor Lectures
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Project Category
 - name: title
   type: text
   config:
