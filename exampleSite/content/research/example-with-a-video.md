@@ -11,6 +11,7 @@ imgcaptions = ""
 map_tag = ["Roma", "Rangendingen"]
 news = false
 person_tag = ["Eric Kleinmann", "Volker Haag"]
+project_category = "Barberini Harp Project"
 relatedresearch = ["Barberini Harp Wood Species Identification"]
 show_in_news = true
 status = ""
