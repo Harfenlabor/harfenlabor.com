@@ -136,7 +136,7 @@
 
 <footer id="footer_mobile">
   <div class="footer_bar">
-    <button class="footer_bar-item footer_button footer_button_active" onclick="select(this); openTab('fm_Project')" style="margin-left:0px; z-index:5;">Barberini Harp Project</button>
+    <button class="footer_bar-item footer_button footer_button_active" onclick="select(this); openTab('fm_Project')" style="margin-left:0px; z-index:5;">{{ .Params.project_category }}</button>
     <button class="footer_bar-item footer_button" onclick="select(this); openTab('fm_Related')" style="z-index:4;">Related Research</button>
     <button class="footer_bar-item footer_button" onclick="select(this); openTab('fm_External')" style="z-index:3;">External Links</button>
     <button class="footer_bar-item footer_button" onclick="select(this); openTab('fm_Tags')" style="z-index:2;">Tags</button>
@@ -144,7 +144,12 @@
   </div>
 
   <div id="fm_Project" class="footer_bar-container footmobsection">
-    <p class="footer_insidetext">{{ .Params.barberiniharpproject }}</p>
+    {{ $this_proj_cat := .Params.project_category }}
+    {{ range $.Param "Projects.projects" }}
+      {{ if eq $this_proj_cat .title}}
+      <p class="footer_insidetext">{{ .description }}</p>
+      {{ end }}
+    {{ end }}
   </div>
 
   <div id="fm_Related" class="footer_bar-container footmobsection" style="display:none">
