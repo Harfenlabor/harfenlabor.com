@@ -1,13 +1,10 @@
-[Barberini_Harp_Project]
+[Projects]
+[[Projects.element]]
+title = "Barberini Harp Project"
 description = "the Barberini Harp Project is a…"
-[Haydns_Folk_Harp]
+[[Projects.element]]
+title = "Haydn’s Folk Harp"
 description = "the Haydn’s Folk Harp is a…"
-[Harfenlabor_Lectures]
+[[Projects.element]]
+title = "Harfenlabor Lectures"
 description = "the Harfenlabor Lectures is a…"
-
-[[Barberini]]
-icon = "ti-facebook"
-link = "#"
-[[Haydn]]
-icon = "ti-facebook"
-link = "#"
