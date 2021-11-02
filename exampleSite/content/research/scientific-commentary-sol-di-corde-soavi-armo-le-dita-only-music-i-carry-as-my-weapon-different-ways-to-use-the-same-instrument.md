@@ -9,7 +9,7 @@ footnotes = "1. This document, which I have been able to find at the Vatican Lib
 image = ""
 imgcaptions = ""
 map_tag = []
-person_tag = ["Chiara Granata"]
+person_tag = ["Chiara Granata", "Stefano Landi"]
 relatedresearch = []
 show_in_news = false
 status = "approved by author"
@@ -30,13 +30,7 @@ _<tab>Let us imagine that it transpires to hear, in night time darkness, or from
 
 The performance described favours polyphony (_recercata_), and two-part counterpoint (_due cori_ that diminish in turn). This type of execution calls for an acoustically responsive space that makes the composition audible in all its parts. Hence a small and particularly sonorous space.
 
-Unlike the instances in which the harp is described together with other instruments, here there seems to be an emphasis on its sonic and rhythmical aspects. The author of _Il Corago_, the anonymous text from the start of the 1600s, describes the harp as one of the instruments best suited to dance music, because it is capable of producing a clear, resonant impulse. “Since music performed on stage is far more lively and active than music sung in church, or on other occasions, much more lively and almost airy is the stringed instrument that emits detached sounds in the air and not the continuous sound of the organ, which is why for dances the harp is considered the best instrument.”<sup>5</sup> And Stefano Landi, in _Sant’Alessio_, combines the harp with lutes, theorbos and violones, assigning it a more rhythmical bass line with respect to that of the harpsichords. Not all of the choices of acoustics or instrumentation are comprehensible to us. For example, it is hard to imagine the concert for the wedding of Francesco Farnese, Duke of Parma, with Dorothea Sophie, in which one heard a harp accompanied by as many as three harpsichords.<sup>6</sup> 
-
-<span id="timeline_tag">YEAR</span>
-
-<span id="timeline_tag">YEAR</span>
-
-Nevertheless, this variety of situations serves to bring us closer to an instrument that seems to have had highly varied and diversified use. The construction of an “absolute copy” could shed light on the various uses of this instrument. Its contradictions, which each craftsman and each musician could then resolve in a different way, would probably remain intact. Today, as in the past.
+Unlike the instances in which the harp is described together with other instruments, here there seems to be an emphasis on its sonic and rhythmical aspects. The author of _Il Corago_, the anonymous text from the start of the 1600s, describes the harp as one of the instruments best suited to dance music, because it is capable of producing a clear, resonant impulse. “Since music performed on stage is far more lively and active than music sung in church, or on other occasions, much more lively and almost airy is the stringed instrument that emits detached sounds in the air and not the continuous sound of the organ, which is why for dances the harp is considered the best instrument.”<sup>5</sup> And <span id="person_tag">Stefano Landi</span>, in _Sant’Alessio_, combines the harp with lutes, theorbos and violones, assigning it a more rhythmical bass line with respect to that of the harpsichords. Not all of the choices of acoustics or instrumentation are comprehensible to us. For example, it is hard to imagine the concert for the wedding of Francesco Farnese, Duke of Parma, with Dorothea Sophie, in which one heard a harp accompanied by as many as three harpsichords.<sup>6</sup> Nevertheless, this variety of situations serves to bring us closer to an instrument that seems to have had highly varied and diversified use. The construction of an “absolute copy” could shed light on the various uses of this instrument. Its contradictions, which each craftsman and each musician could then resolve in a different way, would probably remain intact. Today, as in the past.
 
 ***
 
