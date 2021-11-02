@@ -104,6 +104,15 @@ weight = 1
   name = "about"
   url = "/aboutpage"
   weight = 9
+
+[projects]
+[projects.Barberini_Harp_Project]
+description = "the Barberini Harp Project is a…"
+[projects.Haydns_Folk_Harp]
+description = "the Haydn’s Folk Harp is a…"
+[projects.Harfenlabor_Lectures]
+description = "the Harfenlabor Lectures is a…"
+
 [markup.goldmark.renderer]
 unsafe = true
 [outputs]
@@ -115,12 +124,12 @@ disqusShortname = ""
 home = ["HTML", "RSS", "JSON"]
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
+theme = "Harfenlabor"
 themesDir = "../.."
 title = "Harfenlabor"
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "Harfenlabor"
+description = ""
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
