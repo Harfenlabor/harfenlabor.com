@@ -162,7 +162,6 @@ function populateWithResults(myResults){
     spaceAfter.innerHTML = "&nbsp;";
     persona.append(spaceAfter);
 
-
     if (myResults[0].hasOwnProperty("name")) {
       $('#persontags-search-results').append(persona);
     }
@@ -170,7 +169,6 @@ function populateWithResults(myResults){
       $('#subjecttags-search-results').append(persona);
     }
     
-
     //make a box for each result
     const indexBox = document.createElement("div");
 
@@ -215,7 +213,13 @@ function populateWithResults(myResults){
         const quilink = document.createElement("a");
         quilink.id = "quilink";
         quilink.setAttribute("href", myResults[i].link[j]);
-        quilink.innerHTML = myResults[i].title[j]+"<br>";
+        /*if (myResults[i].title[j].includes('&amp;&amp;')){
+          console.log("ciao");
+          var correctTitle = 
+        } else {
+          var correctTitle = myResults[i].title[j];
+        }*/
+        quilink.innerHTML = myResults[i].title[j].replaceAll("&amp;&amp;", " / ")+"<br>";
         indexBoxText.append(quilink);
       }
     }
@@ -224,7 +228,7 @@ function populateWithResults(myResults){
         const quilink = document.createElement("a");
         quilink.id = "quilink";
         quilink.setAttribute("href", myResults[i].link_subject[j]);
-        quilink.innerHTML = myResults[i].title_subject[j]+"<br>";
+        quilink.innerHTML = myResults[i].title_subject[j].replaceAll("&amp;&amp;", " / ")+"<br>";
         indexBoxText.append(quilink);
       }
     }
