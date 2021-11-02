@@ -68,7 +68,24 @@
     <div class="footer_insidebox_1">
       <p class="footer_insidetext">{{ printf "%#v" $.Site }}</p>
       <p class="footer_insidetext">{{ printf "%#v" $.Site.Params }}</p>
-      <p class="footer_insidetext">{{ printf "%#v" $.Site.Params.plugins }}</p>
+      {{ if $.Param "projects" }}
+      <p class="footer_insidetext">{{ printf "%#v" . }}</p>
+      {{ end }}
+      {{ if $.Param "project" }}
+      <p class="footer_insidetext">{{ printf "%#v" . }}</p>
+      {{ end }}
+      {{ if $.Param "Barberini Harp Project" }}
+      <p class="footer_insidetext">{{ printf "%#v" . }}</p>
+      {{ end }}
+      {{ if $.Param "Projects.projects" }}
+      <p class="footer_insidetext">{{ printf "%#v" . }}</p>
+      {{ end }}
+      {{ if $.Param "plugins" }}
+      <p class="footer_insidetext">{{ printf "%#v" . }}</p>
+      {{ end }}
+      {{ if $.Param "map" }}
+      <p class="footer_insidetext">{{ printf "%#v" . }}</p>
+      {{ end }}
       <!--p class="footer_insidetext">{{ .Params.barberiniharpproject }}</p-->
     </div>
   </div>
