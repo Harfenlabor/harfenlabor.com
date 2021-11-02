@@ -76,7 +76,7 @@ function populateWithResults_timeline(myResults){
 
     persona.id = myResults[i].name.replaceAll(" ", "%20");
 
-    persona.setAttribute("style", "margin-top: 10px; line-height: 0.6em; cursor: pointer; display: inline-block;");
+    persona.setAttribute("style", "margin-top: 0px; line-height: 1.2em; cursor: pointer; display: inline-block;");
     quinome.id = "quinome";
     quinome.setAttribute("style", "font-size: 20px; color: black; margin-bottom: 0px; margin-top: 20px;");
 
@@ -84,14 +84,6 @@ function populateWithResults_timeline(myResults){
     persona.append(quinome);
     spaceAfter.innerHTML = "&nbsp;";
     persona.append(spaceAfter);
-
-    for (var j = 0; j < myResults[i].link.length; j++) {
-      const quilink = document.createElement("a");
-      quilink.id = "quilink";
-      quilink.setAttribute("href", myResults[i].link[j]);
-      quilink.setAttribute("style", "font-size: 16px; color: grey;")
-      quilink.innerHTML = myResults[i].title[j]+"<br>";
-    }    
 
     $('#timelinetags-search-results').append(persona);
 
@@ -123,7 +115,7 @@ function populateWithResults_timeline(myResults){
       const quilink = document.createElement("a");
       quilink.id = "quilink";
       quilink.setAttribute("href", myResults[i].link[j]);
-      quilink.innerHTML = myResults[i].title[j]+"<br>";
+      quilink.innerHTML = myResults[i].title[j].replaceAll("&&", " / ")+"<br>";
       indexBoxText.append(quilink);
     }
     indexBoxInside.append(indexBoxName);
