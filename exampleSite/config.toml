@@ -4,6 +4,18 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
+
+[Projects]
+  [[Projects.projects]]
+  title = "Barberini Harp Project"
+  description = "the Barberini Harp Project is a…"
+  [[Projects.projects]]
+  title = "Haydn’s Folk Harp"
+  description = "the Haydn’s Folk Harp is a…"
+  [[Projects.projects]]
+  title = "Harfenlabor Lectures"
+  description = "the Harfenlabor Lectures is a…"
+
 [menu]
   [[menu.main]]
   identifier = "news"
