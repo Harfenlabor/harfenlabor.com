@@ -10,6 +10,7 @@ image = ""
 imgcaptions = ""
 map_tag = []
 person_tag = []
+project_category = "Barberini Harp Project"
 relatedresearch = []
 show_in_news = false
 status = "draft"

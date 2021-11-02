@@ -10,6 +10,7 @@ image = "/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-11_43_01_24-still079.
 imgcaptions = ""
 map_tag = ["Roma", "Hamburg"]
 person_tag = ["Volker Haag", "Valentina Zemke"]
+project_category = "Barberini Harp Project"
 relatedresearch = []
 show_in_news = false
 status = "draft"
@@ -21,7 +22,6 @@ title = "The Barberini Harp Wood Species Identification"
 type = "Research"
 
 +++
-
 ###### The team from the Thünen-Institut, Institut für Holzforschung transported comprehensive microscopy equipment from Hamburg to Roma for this investigation. At the heart of this equipment is a state-of-the-art "3D-RLM" (3D-reclected-light microscopy) microscope. This advanced technology enables a completely non-destructive material analysis that allows identification of the types of wood that the harp was built of. The scientists’ repertoire of tools also includes a custom computer with specialist image analysis software, as well as various eyepieces and stands for different applications.
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-14_30_17_13-still071.jpg)
@@ -138,4 +138,4 @@ type = "Research"
 
 ###### Volker Haag conducts image-analytical comparison of the Barberini Harp examination material with the samples in the scientific wood collection of the Thünen-Institut, Hamburg, 2018
 
-###### 
+######
