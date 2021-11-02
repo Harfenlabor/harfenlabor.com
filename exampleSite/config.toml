@@ -4,18 +4,6 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-
-[Projects]
-  [[Projects.projects]]
-  title = "Barberini Harp Project"
-  description = "the Barberini Harp Project is a…"
-  [[Projects.projects]]
-  title = "Haydn’s Folk Harp"
-  description = "the Haydn’s Folk Harp is a…"
-  [[Projects.projects]]
-  title = "Harfenlabor Lectures"
-  description = "the Harfenlabor Lectures is a…"
-
 [menu]
   [[menu.main]]
   identifier = "news"
@@ -135,6 +123,18 @@ description = ""
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
+
+[params.Projects]
+  [[params.Projects.projects]]
+  title = "Barberini Harp Project"
+  description = "the Barberini Harp Project is a…"
+  [[params.Projects.projects]]
+  title = "Haydn’s Folk Harp"
+  description = "the Haydn’s Folk Harp is a…"
+  [[params.Projects.projects]]
+  title = "Harfenlabor Lectures"
+  description = "the Harfenlabor Lectures is a…"
+
 [params.cookies]
 enable = false
 expire_days = 2
