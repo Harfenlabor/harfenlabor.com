@@ -11,6 +11,7 @@ imgcaptions = "Fig. 1. This is a very nice <i>caption</i> about something super.
 map_tag = []
 news = false
 person_tag = ["Ursula-Verena Fischer-Pace"]
+project_category = "Barberini Harp Project"
 relatedresearch = []
 show_in_news = false
 status = "draft"
