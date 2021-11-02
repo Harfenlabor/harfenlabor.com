@@ -64,9 +64,10 @@
 {{ if eq .Type "Research" }}
 <footer id="footer_desktop">
   <div id="footer" class="foot1" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
-    <p class="footer_title footitle1">Barberini Harp Project</p>
+    <p class="footer_title footitle1">{{ .Params.project_category }}</p>
     <div class="footer_insidebox_1">
-      <p class="footer_insidetext">{{ .Params.barberiniharpproject }}</p>
+      <p class="footer_insidetext">{{ printf "%#v" $.Site }}</p>
+      <!--p class="footer_insidetext">{{ .Params.barberiniharpproject }}</p-->
     </div>
   </div>
   <div id="footer" class="foot2" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
