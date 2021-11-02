@@ -219,7 +219,7 @@ function populateWithResults(myResults){
         } else {
           var correctTitle = myResults[i].title[j];
         }*/
-        quilink.innerHTML = myResults[i].title[j].replaceAll("&amp;&amp;", " / ")+"<br>";
+        quilink.innerHTML = myResults[i].title[j].replaceAll("&&", " / ")+"<br>";
         indexBoxText.append(quilink);
       }
     }
@@ -228,7 +228,7 @@ function populateWithResults(myResults){
         const quilink = document.createElement("a");
         quilink.id = "quilink";
         quilink.setAttribute("href", myResults[i].link_subject[j]);
-        quilink.innerHTML = myResults[i].title_subject[j].replaceAll("&amp;&amp;", " / ")+"<br>";
+        quilink.innerHTML = myResults[i].title_subject[j].replaceAll("&&", " / ")+"<br>";
         indexBoxText.append(quilink);
       }
     }
