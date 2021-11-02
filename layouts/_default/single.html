@@ -68,28 +68,8 @@
     <div class="footer_insidebox_1">
       {{ range $.Param "Projects.projects" }}
       <p class="footer_insidetext" style="color: pink;">{{ printf "%#v" . }}</p>
-        
-        {{ if .description }}
-        <p class="footer_insidetext" style="color: red">{{ printf "%#v" . }}</p>
-        {{ end }}
-        {{ if .title }}
-        <p class="footer_insidetext" style="color: red">{{ printf "%#v" . }}</p>
-        {{ end }}
-
-        {{ if .Param.description }}
-        <p class="footer_insidetext" style="color: green">{{ printf "%#v" . }}</p>
-        {{ end }}
-        {{ if .Param.title }}
-        <p class="footer_insidetext" style="color: green">{{ printf "%#v" . }}</p>
-        {{ end }}
-        
-        {{ if .Params.description }}
-        <p class="footer_insidetext" style="color: blue">{{ printf "%#v" . }}</p>
-        {{ end }}
-        {{ if .Params.title }}
-        <p class="footer_insidetext" style="color: blue">{{ printf "%#v" . }}</p>
-        {{ end }}
-
+      <p class="footer_insidetext" style="color: red;">{{ printf "%#v" .description }}</p>
+      <p class="footer_insidetext" style="color: red;">{{ printf "%#v" .title }}</p>
       {{ end }}
       <!--p class="footer_insidetext">{{ .Params.barberiniharpproject }}</p-->
     </div>
