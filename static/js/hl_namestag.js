@@ -162,24 +162,6 @@ function populateWithResults(myResults){
     spaceAfter.innerHTML = "&nbsp;";
     persona.append(spaceAfter);
 
-    if (myResults[0].hasOwnProperty("name")) {
-      for (var j = 0; j < myResults[i].link.length; j++) {
-        const quilink = document.createElement("a");
-        quilink.id = "quilink";
-        quilink.setAttribute("href", myResults[i].link[j]);
-        quilink.setAttribute("style", "font-size: 16px; color: grey;")
-        quilink.innerHTML = myResults[i].title[j]+"<br>";
-      }
-    }
-    if (myResults[0].hasOwnProperty("subject")) {
-      for (var j = 0; j < myResults[i].link_subject.length; j++) {
-        const quilink = document.createElement("a");
-        quilink.id = "quilink";
-        quilink.setAttribute("href", myResults[i].link_subject[j]);
-        quilink.setAttribute("style", "font-size: 16px; color: grey;")
-        quilink.innerHTML = myResults[i].title_subject[j]+"<br>";
-      }
-    }
 
     if (myResults[0].hasOwnProperty("name")) {
       $('#persontags-search-results').append(persona);
