@@ -62,6 +62,18 @@ fields:
   description: Authors of the article. In case of double name or surname, use an hyphen
     (i.e. Name-Name Surname-Surname). Please remember to also <strong>paste the authors'
     names in the "person tag" section</strong> below.
+- name: summary_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Summary Text
+  description: A custom summary to display in main pages such as "Research" and category
+    pages such as "Organology", "Barberini Harp Project". If absent, a default summary
+    will be displayed, with the first paragraphs of the article.
 - name: PublishDate
   type: datetime
   label: Publish date
@@ -149,15 +161,6 @@ fields:
   label: Footnotes
   description: The article's footnotes. Please type &amp;&amp; to break lines. Use
     &lt;i&gt; and &lt;/i&gt; to make any text italic (i.e. this is &lt;i&gt;italic&lt;/i&gt;).
-- name: barberiniharpproject
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: barberiniharpproject
 - name: relatedresearch
   type: tag_list
   default: []
