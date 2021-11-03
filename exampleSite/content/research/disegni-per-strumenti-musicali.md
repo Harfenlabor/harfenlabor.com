@@ -38,7 +38,7 @@ Naturally, paintings of King David usually offer an opportunity to paint a harp.
 
 ###### Pier Francesco Mola, Apparizione dell’angelo a re David che suona l’arpa, disegno, Gabinetto Disegni e Stampe degli Uffizi, inv. 2064 F, Firenze. Foto: Ursula Verena Fischer Pace
 
-Less common, however, are preparatory drawings for musical instruments, intended for carvers and soundbox builders. One such drawing (fig. 3, 3a, 3b, 3c), held at the Uffizi, has been long known of (and many works on it have been published<sup>4</sup>).[\[v1\]](applewebdata://E1308F46-6F0E-4A10-AB70-FDCECA068D8C#_msocom_1) This drawing has been compared with the Barberini Harp, in the collection of the Museo Nazionale degli Strumenti Musicali in Roma, though it has not so far been identified as a preparatory drawing for this harp.<sup>5</sup>
+Less common, however, are preparatory drawings for musical instruments, intended for carvers and soundbox builders. One such drawing (fig. 3, 3a, 3b, 3c), held at the Uffizi, has been long known of (and many works on it have been published<sup>4</sup>). This drawing has been compared with the Barberini Harp, in the collection of the Museo Nazionale degli Strumenti Musicali in Roma, though it has not so far been identified as a preparatory drawing for this harp.<sup>5</sup>
 
 ![](/images/fig-3.jpg)
 
@@ -68,7 +68,7 @@ Si tratta di un progetto per un’arpa riccamente ornata ad intaglio sulla colon
 
 Lo stretto rapporto del disegno con la cosiddetta arpa Barberini conservata nel Museo degli Strumenti Musicali a Roma è ovvio, e di conseguenza anche con il dipinto di Giovanni Lanfranco _Venere che suona l’arpa o la Musica_ (Galleria Nazionale d’Arte Antica, Roma) proveniente dalla collezione del cardinale Antonio Barberini il Giovane<sup>6</sup>.
 
-![](/images/5.jpeg)
+![](/images/fig-5.jpg)
 
 ###### Giovanni Lanfranco, Venere che suona l’arpa, Galleria Nazionale d’arte antica Palazzo Barberini, Roma. Foto: dal catalogo Giovanni Lanfranco. Un pittore barocco tra Parma, Roma e Napoli, a cura di Erich Schleier, Milano 2001, fig. p. 267.
 
@@ -84,7 +84,7 @@ Il corredo figurativo del disegno, che non è di carattere tecnico ma puramente 
 
 I motivi plastici e l’aspetto stilistico sono piuttosto di derivazione cortonesca, affini ai progetti del Cortona per monumenti funebri, per incisioni e per oggetti liturgici come p.e. per una mazza da cerimonia, tra l’altro proprio con lo stemma di Antonio Barberini il giovane<sup>11</sup>.
 
-![](/images/6.jpeg)
+![](/images/fig-6.jpg)
 
 ###### Pietro da Cortona, Mazza da ceremonia, disegno, London, Victoria&Albert Museum, inv. D. 1708–1885. Foto da Karin Wolfe, Ten days in the life of a Cardinal Nephew at the Court of Pope Urban VIII: Antonio Barberini’s Diary of December 1630, in, I Barberini e la Cultura Europea Del Seicento, a cura di Lorenza Mochi Onori Sebastian schütze Francesco Solinas, Roma , Atti del convegno internazionale Palazzo Barberini alle Quattro Fontane, 7–11 dicembre 2004, Roma 2007, pp. 253–261, fig.2, p.254.
 
@@ -100,11 +100,11 @@ I motivi architettonici, figurativi ed animaleschi si assomigliano, lo stesso va
 
 Si potrebbe pensare sia a Bartolomeo de Rossi che a Giovanni Battista Soria, ambedue intagliatori attivi al servizio dei Barberini: il primo, p.e., nella cappella dei canonici in Vaticano fra il 1624 e 1627 e citati nelle carte d’archivio Barberini in quegli anni e il de Rossi come intagliatore per cornici<sup>13</sup>. Gli indizi stilistici sono tuttavia a favore del Soria nato nel 1581 da padre falegname che venne educato nella bottega di Giovanni Battista Montano, anche lui intagliatore di legname ed architetto<sup>14</sup>. Al Soria spettano sia disegno ed esecuzione della libreria Barberini, sia pure la realizzazione, nello stesso periodo, dei prospetti riccamente intagliati e dorati degli organi di S. Maria sopra Minerva su committenza del cardinale Scipione Borghese (1633). Per quanto riconoscibile dal basso il loro corredo decorativo è ad essi assai simile ed è suggestivo che si tratti anche di strumenti musicali. Tra l’altro anche il suo mentore Montano ideò ed eseguì prospetti per organi in varie chiese romane. Benché non si conoscano finora disegni decorativi del Soria, ma soltanto disegni di architettura, la sua professione di esperto ebanista ed architetto, molto attivo per committenze barberiniane accanto a Pietro da Cortona, lo favoriscono come autore e disegnatore di tale progetto<sup>15</sup>. Simili motivi di volute e racemi sono presenti nella custodia lignea che il Soria fece nel 1630 per la reliquia della cattedra Petri<sup>16</sup>, come pure in un mobile tuttora a Palazzo Barberini che custodisce un affresco di Guido Reni di un _Putto dormiente_ <sup>17</sup>.
 
-![](/images/9.jpeg)
+![](/images/fig-9.jpg)
 
 ###### Giovanni Battista Soria, Custodia della Cattedra Petri, Città del Vaticano, Fabbrica di S. Pietro. Foto: da Sankt Peter in Rom 1506 -2006. Beiträge der internationalen Tagung vom 22. – 25. Februar 2006 in Bonn, ed. Georg Satzinger und Sebastian Schütze, München 2008, p. 271, fig. 10.
 
-![](/images/10.jpeg)
+![](/images/fig-10.jpg)
 
 ###### Guido Reni, Putto Dormiente, Galleria Nazionale d’Arte antica, Palazzo Barberini Roma. Foto: UVFP
 
