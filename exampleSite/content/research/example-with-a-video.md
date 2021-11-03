@@ -15,8 +15,9 @@ project_category = "Barberini Harp Project"
 relatedresearch = ["Barberini Harp Wood Species Identification"]
 show_in_news = true
 status = ""
-subjects_tag = ["Practical Examination", "Barberini Harp", "Little Ice Age", "360-degree camera", "OEHI Rome", "The German Embassy in Rome", "National Museum of Musical Instruments Rome", "Harp maker", "Construction", "Master historical harp builders", "Changes to neck", "Original", "String", "Stringing", "Examinations", "Cracks", "Gilding", "Decoration", "Pinholes", "Soundboard", "Dendrochronological examination", "Wood", "Column", "Ties", "Soundbox", "Walnut wood"]
+subjects_tag = ["Practical Examination", "Barberini Harp", "Little Ice Age", "360-degree camera", "OEHI Rome", "The German Embassy in Rome", "Harp maker", "Construction", "Master historical harp builders", "Changes to neck", "Original", "String", "Stringing", "Examinations", "Cracks", "Gilding", "Decoration", "Pinholes", "Soundboard", "Dendrochronological examination", "Wood", "Column", "Ties", "Soundbox", "Walnut wood", "Convening around the Barberini Harp", "Istituto Storico Austriaco"]
 subtype = ["Organology", "Performance Practice"]
+summary_text = ""
 tags = ""
 timeline_tag = ["1570", "1605", "1632", "1633", "1644", "2016"]
 title = "Barberini Harp Project / Convening&&Practical Examination of the Barberini Harp"
@@ -31,9 +32,9 @@ type = "Research"
 
 ###### 
 
-Harfenlabor invited master historical harp maker Eric Kleinmann to reflect on his findings following decades of research into and practical examinations of the Barberini Harp. Harfenlabor also commissioned Kleinmann to build a small-scale model of the top of the harp for experiments with stringing, and present his conclusions at the Convening. 
+Harfenlabor invited master historical harp maker <span id="person_tag">Eric Kleinmann</span> to reflect on his findings following decades of research into and practical examinations of the <span id="subjects_tag">Barberini Harp</span>. Harfenlabor also commissioned Kleinmann to build a small-scale model of the top of the harp for experiments with stringing, and present his conclusions at the Convening.
 
-Convening around the Barberini Harp, a symposium organised by Harfenlabor, took place on December 14-16, 2016, at the POLEO Museo Nazionale degli Strumenti Musicali and at the Istituto Storico Austriaco in Roma.
+<span id="subjects_tag">Convening around the Barberini Harp</span>, a symposium organised by Harfenlabor, took place on December 14-16, 2016, at the POLEO <span id="subjects_tag">Museo Nazionale degli Strumenti Musicali</span> and at the <span id="subjects_tag">Istituto Storico Austriaco</span> in <span id="map_tag">Roma</span>.
 
 Original material © Armin Linke / Harfenlabor 2020.  
 Licensed under CC BY-NC-ND International 4.0
