@@ -3,6 +3,13 @@
   --greyColor: #F1F2F2;
 }
 
+.unselectableText{
+	-webkit-user-select: none; /* Safari */        
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+/Edge */
+	user-select: none; /* Standard */
+}
+
 /*SIDE MENU*/
 #logo_for_print{
 	display: none;
@@ -17,7 +24,6 @@
   width: 15vw;
   justify-content: space-between;
 }
-
 
 .social_row a{
 	color: var(--purpleColor);
@@ -795,7 +801,6 @@ p > img {
 	  width: 100vw;
 		height: 100vh;
 	  position: fixed;
-	  z-index: 6;
 	  top: -200%;
 	  left: 0;
 	  overflow-x: hidden;
@@ -823,6 +828,7 @@ p > img {
 	  transform: translateX(0px);
 	  margin-top: 20px;
 	  margin-bottom: auto;
+	  z-index: 2;
 	  top: 0;
 	  left: 0;
 	}
@@ -856,6 +862,8 @@ p > img {
 		margin-right: 30px;
 		color: var(--purpleColor);
 		top: 0;
+		transition: transform .3s;
+		transform-origin: center;
   }
 
   #insidenav_mobile{
@@ -884,7 +892,7 @@ p > img {
 	  margin-bottom: 40px;
 
 	  scroll-behavior: smooth;
-	  width: 15vw;
+	  width: 35vw;
 	  justify-content: space-between;
 	}
 
