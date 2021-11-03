@@ -30,13 +30,13 @@ There is an abundance of paintings with representations of concerts, musicians, 
 
 ![](/images/fig-1.jpg)
 
-###### Domenichino, <i>King David playing the Harp</i>
+###### Domenichino, _King David playing the Harp_
 
 Naturally, paintings of <span id="subjects_tag">King David</span> usually offer an opportunity to paint a harp. <span id="person_tag">Pier Francesco Mola</span>’s drawing<sup>3</sup> <span id="subjects_tag">_The Apparition of the Angel to King David Playing the Harp_</span> (Fig. 2) provides a very good example in a richly decorated harp, undoubtedly a preparatory work for a painting that, as yet, remains unknown.
 
 ![](/images/fig-2.jpg)
 
-###### Pier Francesco Mola, Apparizione dell’angelo a re David che suona l’arpa, disegno, Gabinetto Disegni e Stampe degli Uffizi, inv. 2064 F, Firenze. Foto: Ursula Verena Fischer Pace
+###### Pier Francesco Mola, _Apparizione dell’angelo a re David che suona l’arpa_, disegno, Gabinetto Disegni e Stampe degli Uffizi, inv. 2064 F, Firenze. Foto: Ursula Verena Fischer Pace
 
 Less common, however, are preparatory drawings for musical instruments, intended for carvers and soundbox builders. One such drawing (Fig. 3, 3a, 3b, 3c), held at the <span id="subjects_tag">Uffizi</span>, has been long known of (and many works on it have been published<sup>4</sup>). This drawing has been compared with the <span id="subjects_tag">Barberini Harp</span>, in the collection of the <span id="subjects_tag">Museo Nazionale degli Strumenti Musicali</span> in <span id="map_tag">Roma</span>, though it has not so far been identified as a preparatory drawing for this harp.<sup>5</sup>
 
@@ -44,7 +44,7 @@ Less common, however, are preparatory drawings for musical instruments, intended
 
 ***
 
-###### Giovanni Battista Soria attr., Progetto per un’arpa, inv. 1594 E, Gabinetto Disegni e Stampe degli Uffizi, Firenze. Foto: Ursula Verena Fischer Pace
+###### Giovanni Battista Soria attr., _Progetto per un’arpa_, inv. 1594 E, Gabinetto Disegni e Stampe degli Uffizi, Firenze. Foto: Ursula Verena Fischer Pace
 
 ![](/images/fig-3a-7915.jpg)
 
@@ -66,7 +66,7 @@ In basso a destra sotto la cassa si trova un leggero schizzo a matita nera di ca
 
 ###### Giovanni Battista Soria attr. Inv. 1594E dettaglio. Foto: UVFP
 
-The drawing and the instrument known as the Barberini Harp, at the Museo Nazionale degli Strumenti Musicali, are clearly closely related to each other as are the drawing and <span id="person_tag">Giovanni Lanfranco</span>'s painting <span id="subjects_tag">_Venus Playing the Harp_</span> _or the Music_ (ig. 5) (Galleria Nazionale d'Arte Antica, Roma) from the collection of Cardinal <span id="person_tag">Antonio Barberini the Younger</span>.<sup>6</sup>
+The drawing and the instrument known as the Barberini Harp, at the Museo Nazionale degli Strumenti Musicali, are clearly closely related to each other as are the drawing and <span id="person_tag">Giovanni Lanfranco</span>'s painting <span id="subjects_tag">_Venus Playing the Harp_</span> _or the Music_ (Fig. 5) (Galleria Nazionale d'Arte Antica, Roma) from the collection of Cardinal <span id="person_tag">Antonio Barberini the Younger</span>.<sup>6</sup>
 
 ![](/images/fig-5.jpg)
 
