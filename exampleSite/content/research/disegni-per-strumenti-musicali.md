@@ -46,23 +46,23 @@ Less common, however, are preparatory drawings for musical instruments, intended
 
 ###### Giovanni Battista Soria attr., Progetto per un’arpa, inv. 1594 E, Gabinetto Disegni e Stampe degli Uffizi, Firenze. Foto: Ursula Verena Fischer Pace
 
-![](/images/3a.jpg)
+![](/images/fig-3a-7915.jpg)
 
 ###### Dettaglio 7915. Foto: UVFP
 
-![](/images/3b.jpg)
+![](/images/fig-3b-7916.jpg)
 
 ###### Dettaglio 7916. Foto: UVFP
 
-![](/images/3c.jpg)
+![](/images/fig-3c-_7918.jpg)
 
 ###### Dettaglio 7918. Foto: UVFP
 
 The drawing presents a project for a richly decorated harp, its column adorned with carvings: architectural motifs of volutes and capitals alternating with putti; atlas figures on pedestals dividing the column in three parts; and sphinxes at the bottom. On the top frontside is the Barberini coat-of-arms: three bees surmounted by a cardinal's hat, which is in turn supported by a winged putto. Bees are also depicted on the pedestals. There is a satyr seated at the base of the support. The upper crossbeam uniting the sound box and the support ends in a volute formed by a sphinx.
 
- In basso a destra sotto la cassa si trova un leggero schizzo a matita nera di carattere architettonico a forma di tabernacolo o coronamento di un ciborio.
+In basso a destra sotto la cassa si trova un leggero schizzo a matita nera di carattere architettonico a forma di tabernacolo o coronamento di un ciborio.
 
-![](/images/4.jpg)
+![](/images/fig-4.jpg)
 
 ###### Giovanni Battista Soria attr. Inv. 1594E dettaglio. Foto: UVFP
 
@@ -90,7 +90,7 @@ I motivi plastici e l’aspetto stilistico sono piuttosto di derivazione cortone
 
 I motivi architettonici, figurativi ed animaleschi si assomigliano, lo stesso vale per la tecnica mista, penna ed acquerello. Ma il disegnatore non è nemmeno Pietro da Cortona, pur se di un disegnatore a lui vicino. L’autore potrebbe naturalmente essere anche Giovanni Tubi, l’intagliatore dello strumento, tuttavia non sappiamo niente sulla sua formazione artistica nel campo del disegno. Tre progetti decorativi nella stessa collezione degli Uffizi (Inv. 1591 E; Inv. 1592 E; Inv. 1593) sembrano spettare allo stesso disegnatore<sup>12</sup>.
 
-![](/images/7.JPG)
+![](/images/fig-7.jpg)
 
 ###### Anonimo (G. B. Soria?), Progetto per una cornice, inv. 1592 E, gabinetto Disegni e Stampe degli Uffizi, Firenze. Foto: UVFP
 
