@@ -94,7 +94,6 @@ Lanfranco's painting provides a clear chronological indication for both the draw
 
 The plastic motifs and the stylistic aspects of this drawing are rather of Cortonian origin, bearing similarity to Pietro da Cortona's designs for funerary monuments, engravings and liturgical objects such as a ceremonial mace (fig. 6), which – among other things – carries the Antonio Barberini the Younger’s coat of arms.<sup>11</sup>
 
-  
 ![](/images/fig-6.jpg)
 
 ###### Pietro da Cortona, Mazza da ceremonia, disegno, London, Victoria&Albert Museum, inv. D. 1708–1885. Foto da Karin Wolfe, Ten days in the life of a Cardinal Nephew at the Court of Pope Urban VIII: Antonio Barberini’s Diary of December 1630, in, I Barberini e la Cultura Europea Del Seicento, a cura di Lorenza Mochi Onori Sebastian schütze Francesco Solinas, Roma , Atti del convegno internazionale Palazzo Barberini alle Quattro Fontane, 7–11 dicembre 2004, Roma 2007, pp. 253–261, fig.2, p.254.
