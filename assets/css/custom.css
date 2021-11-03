@@ -814,6 +814,7 @@ p > img {
 	  display: flex;
 	  flex-direction: column;
 	  align-items: top;
+	  z-index: 1;
 	}
 
 	#menu_lid{
