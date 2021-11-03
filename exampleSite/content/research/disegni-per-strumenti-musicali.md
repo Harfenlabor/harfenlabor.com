@@ -34,7 +34,7 @@ There is an abundance of paintings with representations of concerts, musicians, 
 
 Naturally, paintings of King David usually offer an opportunity to paint a harp. Pier Francesco Mola’s drawing<sup>3</sup> _The Apparition of the Angel to King David Playing the Harp_ (fig. 2) provides a very good example in a richly decorated harp, undoubtedly a preparatory work for a painting that, as yet, remains unknown.
 
-![](/images/2.JPG)
+![](/images/fig-2.jpg)
 
 ###### Pier Francesco Mola, Apparizione dell’angelo a re David che suona l’arpa, disegno, Gabinetto Disegni e Stampe degli Uffizi, inv. 2064 F, Firenze. Foto: Ursula Verena Fischer Pace
 
