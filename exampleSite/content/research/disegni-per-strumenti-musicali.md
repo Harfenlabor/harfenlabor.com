@@ -84,7 +84,9 @@ Compared to the harp, there are, however, some variations concerning the design 
 
 ***
 
-Il gruppo di putti sotto lo stemma è formato sullo strumento da due atlanti, piccoli ercoli bambini con addosso la pelle di leone. Nel registro sottostante si trovano due atlanti di giovani drappeggiati, e in basso una maschera maschile e motivi araldici barberiniani, l’ape e un ramo di alloro. Il fatto che lo stemma Barberini manchi nel quadro del Lanfranco indizia che il dipinto non era di committenza Barberini ma del musicista stesso che probabilmente lo suonava.
+The group of putti under the coat of arms is on the instrument formed of two atlases, small herculean boys wearing lion skins. In the row below are two draped youth atlases, and at the bottom a male mask [\[v1\]](applewebdata://76373744-F6D4-4AEF-B7C1-FE4C36FDC863#_msocom_1) and the Barberini heraldic motifs, the bee and a laurel branch. The fact that the Barberini coat of arms is missing in Lanfranco's painting indicates that the painting was not commissioned by the Barberini but by the musician himself, who probably played the harp.
+
+***
 
 Il dipinto del Lanfranco fornisce una chiara indicazione cronologica sia per il disegno che per lo strumento, in quanto fu senz’altro eseguito prima della partenza del pittore per Napoli nel 1634 e dopo l’arrivo a Roma di Marco Marazzoli, committente del dipinto, dove è documentato dal 1629 al servizio del cardinale Antonio Barberini il giovane<sup>9</sup>. Questa datazione coincide con i documenti di recente ritrovati nelle carte Barberini dell’archivio Vaticano, cioè con i pagamenti il 23 di agosto 1632 al costruttore dell’arpa Geronimo Acciari, e nel 1633 all’intagliatore dell’arpa Giovanni Tubi<sup>10</sup>.
 
