@@ -86,7 +86,7 @@ Lanfranco's painting provides a clear chronological indication for both the draw
 
 ***
 
-The plastic motifs and the stylistic aspects of this drawing are rather of Cortonian origin, bearing similarity to <span id="person_tag">Pietro da Cortona</span>'s designs for funerary monuments, engravings and liturgical objects such as a ceremonial mace (fig. 6), which – among other things – carries the Antonio Barberini the Younger’s coat of arms.<sup>11</sup>
+The plastic motifs and the stylistic aspects of this drawing are rather of Cortonian origin, bearing similarity to <span id="person_tag">Pietro da Cortona</span>'s designs for funerary monuments, engravings and liturgical objects such as a ceremonial mace (Fig. 6), which – among other things – carries the Antonio Barberini the Younger’s coat of arms.<sup>11</sup>
 
 ![](/images/fig-6.jpg)
 
