@@ -70,7 +70,7 @@ The drawing and the instrument known as the Barberini Harp, at the Museo Naziona
 
 ![](/images/fig-5.jpg)
 
-###### Giovanni Lanfranco, Venere che suona l’arpa, Galleria Nazionale d’arte antica Palazzo Barberini, Roma. Foto: dal catalogo Giovanni Lanfranco. Un pittore barocco tra Parma, Roma e Napoli, a cura di Erich Schleier, Milano 2001, fig. p. 267.
+###### Giovanni Lanfranco, _Venere che suona l’arpa_, Galleria Nazionale d’arte antica Palazzo Barberini, Roma. Foto: dal catalogo Giovanni Lanfranco. Un pittore barocco tra Parma, Roma e Napoli, a cura di Erich Schleier, Milano 2001, fig. p. 267.
 
 The Cardinal himself commissioned the instrument and gave it to the musician <span id="person_tag">Marco Marazzoli</span> (<span id="timeline_tag">1619-1663</span>), known as "dell'Arpa" (of the harp). Marazzoli was in the service of the Barberini family as a singer, instrumentalist and composer. After his death, the instrument returned to Cardinal Antonio who also received Lanfranco’s above painting, which the musician originally commissioned his friend Lanfranco to paint.
 
