@@ -24,7 +24,7 @@ title = "Designs for Musical Instruments"
 type = "Research"
 
 +++
-There is an abundance of paintings with representations of concerts, musicians, and musical instruments in the seventeenth-century Italian and Flemish painting. Musical instruments depicted in these paintings often correspond precisely to instruments owned by the paintings’ patrons.<sup>1</sup> Some painters also enjoyed playing music and even built musical instruments themselves. Domenichino, for example, was also a builder and designer of sophisticated musical instruments. His deep knowledge in this area is reflected in the representations of musical instruments in his paintings, such as the meticulously depicted harp in the painting _King David Playing the Harp_ (fig.1).<sup>2</sup>
+There is an abundance of paintings with representations of concerts, musicians, and musical instruments in the seventeenth-century Italian and Flemish painting. Musical instruments depicted in these paintings often correspond precisely to instruments owned by the paintings’ patrons.<sup>1</sup> Some painters also enjoyed playing music and even built musical instruments themselves. Domenichino, for example, was also a builder and designer of sophisticated musical instruments. His deep knowledge in this area is reflected in the representations of musical instruments in his paintings, such as the meticulously depicted harp in the painting _King David Playing the Harp_ (Fig. 1).<sup>2</sup>
 
 ***
 
