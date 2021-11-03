@@ -15,7 +15,7 @@ project_category = "Barberini Harp Project"
 relatedresearch = []
 show_in_news = false
 status = "draft"
-subjects_tag = ["King David Playing the Harp", "King David", "Uffizi", "Barberini Harp", "Museo Nazionale degli Strumenti Musicali", "Venus Playing the Harp", "Golden Fleece", "Giovanni Battista Montano", "Palazzo Barberini", "Scipione Borghese", "S. Maria sopra Minerva", "Sleeping Putto", "Dizionario Biografico degli Italiani", "St. Peter's"]
+subjects_tag = ["King David Playing the Harp", "King David", "Uffizi", "Barberini Harp", "Museo Nazionale degli Strumenti Musicali", "Venus Playing the Harp", "Golden Fleece", "Giovanni Battista Montano", "Palazzo Barberini", "Scipione Borghese", "S. Maria sopra Minerva", "Sleeping Putto", "Dizionario Biografico degli Italiani", "St. Peter's", "The Apparition of the Angel to King David Playing the Harp"]
 subtype = ["Organology", "Iconography", "Sociology of Art"]
 summary_text = ""
 tags = ""
@@ -32,7 +32,7 @@ There is an abundance of paintings with representations of concerts, musicians, 
 
 ###### Domenichino, <i>King David playing the Harp</i>
 
-Naturally, paintings of <span id="subjects_tag">King David</span> usually offer an opportunity to paint a harp. <span id="person_tag">Pier Francesco Mola</span>’s drawing<sup>3</sup> _The Apparition of the Angel to King David Playing the Harp_ (Fig. 2) provides a very good example in a richly decorated harp, undoubtedly a preparatory work for a painting that, as yet, remains unknown.
+Naturally, paintings of <span id="subjects_tag">King David</span> usually offer an opportunity to paint a harp. <span id="person_tag">Pier Francesco Mola</span>’s drawing<sup>3</sup> <span id="subjects_tag">_The Apparition of the Angel to King David Playing the Harp_</span> (Fig. 2) provides a very good example in a richly decorated harp, undoubtedly a preparatory work for a painting that, as yet, remains unknown.
 
 ![](/images/fig-2.jpg)
 
