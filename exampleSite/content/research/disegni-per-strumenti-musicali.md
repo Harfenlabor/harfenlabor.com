@@ -40,7 +40,7 @@ Naturally, paintings of King David usually offer an opportunity to paint a harp.
 
 Less common, however, are preparatory drawings for musical instruments, intended for carvers and soundbox builders. One such drawing (fig. 3, 3a, 3b, 3c), held at the Uffizi, has been long known of (and many works on it have been published<sup>4</sup>). This drawing has been compared with the Barberini Harp, in the collection of the Museo Nazionale degli Strumenti Musicali in Roma, though it has not so far been identified as a preparatory drawing for this harp.<sup>5</sup>
 
-![](/images/fig-3.jpg)
+![](/images/fig-3.jpg)![](/images/fig-3.jpg)
 
 ***
 
