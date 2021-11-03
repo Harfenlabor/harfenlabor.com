@@ -14,7 +14,7 @@ project_category = "Barberini Harp Project"
 relatedresearch = []
 show_in_news = false
 status = "draft"
-subjects_tag = ["Barberini Harp", "National Museum of Musical Instruments", "Thünen Institute of Wood Research", "Wood", "Soundboard", "Neck", "Column", "Structure", "Microscope", "Database"]
+subjects_tag = ["Barberini Harp", "Wood", "Soundboard", "Neck", "Column", "Structure", "Microscope", "Database", "Thünen-Institut", "Institut für Holzforschung", "3D-RLM", "3D-reclected-light microscopy", "Museo Nazionale degli Strumenti Musicali"]
 subtype = ["Organology"]
 summary_text = ""
 tags = ""
@@ -23,11 +23,11 @@ title = "The Barberini Harp Wood Species Identification"
 type = "Research"
 
 +++
-###### The team from the Thünen-Institut, Institut für Holzforschung transported comprehensive microscopy equipment from Hamburg to Roma for this investigation. At the heart of this equipment is a state-of-the-art "3D-RLM" (3D-reclected-light microscopy) microscope. This advanced technology enables a completely non-destructive material analysis that allows identification of the types of wood that the harp was built of. The scientists’ repertoire of tools also includes a custom computer with specialist image analysis software, as well as various eyepieces and stands for different applications.
+###### The team from the <span id="subjects_tag">Thünen-Institut</span>, <span id="subjects_tag">Institut für Holzforschung</span> transported comprehensive microscopy equipment from <span id="map_tag">Hamburg</span> to <span id="map_tag">Roma</span> for this investigation. At the heart of this equipment is a state-of-the-art <span id="subjects_tag">3D-RLM</span> (<span id="subjects_tag">3D-reclected-light microscopy</span>) microscope. This advanced technology enables a completely non-destructive material analysis that allows identification of the types of wood that the harp was built of. The scientists’ repertoire of tools also includes a custom computer with specialist image analysis software, as well as various eyepieces and stands for different applications.
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-14_30_17_13-still071.jpg)
 
-###### Equipment set-up, Swati Tamantini, Valentina Zemke, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Equipment set-up, Swati Tamantini, Valentina Zemke, <span id="subjects_tag">Museo Nazionale degli Strumenti Musicali</span>, Roma, 2018
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_17_16_12-still006.jpg)
 
@@ -139,4 +139,4 @@ type = "Research"
 
 ###### Volker Haag conducts image-analytical comparison of the Barberini Harp examination material with the samples in the scientific wood collection of the Thünen-Institut, Hamburg, 2018
 
-######
+###### 
