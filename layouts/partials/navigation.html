@@ -56,9 +56,26 @@
 	</div>
 
 	<div id="insidenav_mobile">
-	    <div class="container_mobile unselectableText" style="color:black;">
-	      <p>Harfenlabor (HL) is a platform for open discourse on topics related to the enigma of historical harp. Already active as an analogue network, HL initiates and organises research, symposia and workshops / masterclasses. In its digital form as a web-based publication (coming soon), the HL will present and disseminate this valuable research content, making it more visible and widely accessible.</p>
-	    </div>
+	    <ul class="navbar-nav ml-auto">
+			{{ range site.Menus.main }}
+			<li class="nav-item unselectableText">
+				{{ if and (ne .Name "projects") (ne .Name "mediathek") }}
+    				<a class="nav-link" {{if findRE `^http` .URL}}target="_blank"{{end}} href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
+    			{{ else }}
+    				<a class="nav-link" style="opacity: 0.3; cursor:pointer">{{ .Name }}</a>
+    			{{ end }}
+
+				{{ if .HasChildren }}
+				<!--a class="nav-link" {{if findRE `^http` .URL}}target="_blank"{{end}} href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a-->
+				<ul class="sub-menu">
+					{{ range .Children }}
+					<a class="nav-link nav-link-submenu" {{if findRE `^http` .URL}}target="_blank"{{end}} href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
+					{{ end }}
+				</ul>
+				{{ end }}
+			</li>
+			{{ end }}
+		</ul>
 
 	    <div class="social_row_mobile unselectableText">
 	      <a href="https://www.facebook.com/harfenlabor">FB</a>
