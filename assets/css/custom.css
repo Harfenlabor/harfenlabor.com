@@ -702,21 +702,21 @@ p > img {
 		position: relative;
 		width: 100%;
 		margin-left: 0em;
-		margin-top: 0em;
+		margin-top: 1em;
 		margin-bottom: 1em;
 	}
 	.imgcaptions_box {
 		position: relative;
 		width: 100%;
 		margin-left: 0em;
-		margin-top: 0em;
+		margin-top: 1em;
 		margin-bottom: 1em;
 	}
 	.footnotes_box {
 		position: relative;
 		width: 100%;
 		margin-left: 0em;
-		margin-top: 0em;
+		margin-top: 1em;
 		margin-bottom: 1em;
 		margin-right: 0em;
 	}
