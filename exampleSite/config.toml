@@ -122,7 +122,7 @@ google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
 [[params.Projects.projects]]
-description = "update this description"
+description = "The Barberini Harp is the most important surviving Italian Baroque harp. This chromatic harp with three parallel rows of strings was constructed in 1632-33 for the harpist Marco Marazzoli by the instrument maker Girolamo Acciari and the wood-carver Giovanni Tubi under the patronage of Cardinal Antonio Barberini.    As we still lack crucial understanding of this famous harp, Harfenlabor’s Barberini Harp Project intends to share and initiate research on this harp in the fields of organology, musicology, and performance practice.    This publication presents three stages of the Barberini Harp Project: Convening in Roma in 2016, Interviews with Experts, and Examinations."
 title = "Barberini Harp Project"
 [[params.Projects.projects]]
 description = "the Haydn’s Folk Harp is a…"
