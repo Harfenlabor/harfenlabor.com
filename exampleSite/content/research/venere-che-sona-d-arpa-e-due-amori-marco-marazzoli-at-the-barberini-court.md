@@ -13,7 +13,7 @@ project_category = "Barberini Harp Project"
 relatedresearch = []
 show_in_news = false
 status = "to be approved by author"
-subjects_tag = ["Venere che suona l’arpa", "Venus playing the harp", "Barberini Harp", "Venere e il suonatore di Organo", "Venus", "Giostra del Saracino", "Pontifical chapel", "Cortegiano", "Vite de’ pittori", "Museo degli Strumenti Musicali", "Barberini Archive", "Barberini court", "Vite de’ pittori"]
+subjects_tag = ["Venere che suona l’arpa", "Venus playing the harp", "Barberini Harp", "Venere e il suonatore di Organo", "Venus", "Giostra del Saracino", "Pontifical chapel", "Cortegiano", "Vite de’ pittori", "Museo degli Strumenti Musicali", "Barberini Archive", "Barberini court", "Vite de’ pittori", "“Venere che sona d’arpa e due amori”"]
 subtype = ["Performance Practice", "Musicology", "Iconography", "Sociology of Art"]
 summary_text = ""
 timeline_tag = ["1575", "1671", "1500s", "1730s", "1636-44", "1633", "1634", "1626", "1629", "1637", "1639", "1640", "1630s", "1644", "1653", "1662", "1632-33"]
@@ -21,7 +21,7 @@ title = "“Venere che sona d’arpa e due amori”: Marco Marazzoli at the Barb
 type = "Research"
 
 +++
-This article focuses on a painting by <span id="subjects_tag">Giovanni Lanfranco</span> that is today on display at the Galleria Nazionale d’Arte Antica di Palazzo Barberini (fig. 1),<sup>1</sup> depicting a harp very similar to the one usually referred to as the <span id="subjects_tag">Barberini Harp</span>,<sup>2</sup> today at the <span id="subjects_tag">Museo degli Strumenti Musicali</span> in <span id="map_tag">Roma</span> (Fig. 2). It had long been thought that the Barberini family commissioned the painter Giovanni Lanfranco to produce the painting, until it was discovered that it had, in fact, been bequeathed to <span id="person_tag">Antonio Barberini</span> by the famous harpist, composer and singer <span id="person_tag">Marco Marazzoli</span>.<sup>3</sup> This article intends to, first of all, provide insights into the painting with particular regard to the representation of the harp, and to offer a more precise consideration as to when this painting was created. Later, we intend to analyse the painting inside Marazzoli's home by relating it to other paintings exhibited there.
+This article focuses on a painting by <span id="subjects_tag">Giovanni Lanfranco</span> that is today on display at the Galleria Nazionale d’Arte Antica di Palazzo Barberini (Fig. 1),<sup>1</sup> depicting a harp very similar to the one usually referred to as the <span id="subjects_tag">Barberini Harp</span>,<sup>2</sup> today at the <span id="subjects_tag">Museo degli Strumenti Musicali</span> in <span id="map_tag">Roma</span> (Fig. 2). It had long been thought that the Barberini family commissioned the painter Giovanni Lanfranco to produce the painting, until it was discovered that it had, in fact, been bequeathed to <span id="person_tag">Antonio Barberini</span> by the famous harpist, composer and singer <span id="person_tag">Marco Marazzoli</span>.<sup>3</sup> This article intends to, first of all, provide insights into the painting with particular regard to the representation of the harp, and to offer a more precise consideration as to when this painting was created. Later, we intend to analyse the painting inside Marazzoli's home by relating it to other paintings exhibited there.
 
 **1)** The painting and Marazzoli
 
