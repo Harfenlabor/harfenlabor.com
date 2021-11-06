@@ -128,8 +128,8 @@ title = "Barberini Harp Project"
 description = "the Haydn’s Folk Harp is a…"
 title = "Haydn’s Folk Harp"
 [[params.Projects.projects]]
-description = "the Harfenlabor lectures is a…"
-title = "Harfenlabor lectures"
+description = "Historical harp practice demands an ongoing engagement between scientific knowledge and artistic creation. Harfenlabor Lectures series offers a space for sharing multi-disciplinary knowledge on Historical Harp, whilst encouraging and supporting discussion and debate among diverse musicians, scientists, artists and instrument makers."
+title = "Harfenlabor Lectures"
 [params.cookies]
 enable = false
 expire_days = 2
