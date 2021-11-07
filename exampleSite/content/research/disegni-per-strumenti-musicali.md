@@ -64,9 +64,7 @@ On the top frontside is the Barberini coat-of-arms: three bees surmounted by a c
 
 In basso a destra sotto la cassa si trova un leggero schizzo a matita nera di carattere architettonico a forma di tabernacolo o coronamento di un ciborio.
 
-![](/images/fig-4.jpg)
-
-###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (Fig. 4). Dettaglio 7918. Foto: UVFP
+###### 
 
 The drawing and the instrument known as the Barberini Harp, at the Museo Nazionale degli Strumenti Musicali, are clearly closely related to each other as are the drawing and <span id="person_tag">Giovanni Lanfranco</span>'s painting <span id="subjects_tag">_Venus Playing the Harp_</span> _or the Music_ (Fig. 5) (Galleria Nazionale d'Arte Antica, Roma) from the collection of Cardinal <span id="person_tag">Antonio Barberini the Younger</span>.<sup>6</sup>
 
@@ -114,7 +112,13 @@ One could think of both <span id="person_tag">Bartolomeo de Rossi</span> and <sp
 
 ###### Guido Reni, Putto Dormiente, Galleria Nazionale d’Arte antica, Palazzo Barberini Roma. Foto: UVFP
 
-The decorative vocabulary is in this case so incredibly similar to that of the drawing for the harp and to another in the Uffizi used for the base of a piece of furniture,<sup>18</sup> that it could indeed be attributed to the same designer. This type of naturalistic and sculptural decoration doesn’t reflect the typical Bernini style, although many have already suggested <span id="person_tag">Gian Lorenzo Bernini</span>’s name as the author of "one of the most beautiful musical instruments ever known."<sup>19</sup> But as <span id="person_tag">Alvar Gonzáles Palacios</span> points out, "it is somehow older," permeated by the Barberini culture based on a more serious style.<sup>20</sup> The presence on the sheet of an architectural sketch (Fig. 4) may also provide further evidence of Soria’s activity as an architect, although one should keep in mind that his profession as an architect was far less important than has long been assumed, as <span id="person_tag">Cristiano Marchegiani</span> recently rightly pointed out thus downgrading Soria’s profile as an architect in the <span id="subjects_tag">_Dizionario Biografico degli Italiani_</span>.<sup>21</sup> His apprenticeship with Giovanni Battista Montano and with <span id="person_tag">Antonio Pomarancio</span> was a guarantee of his solid artistic professionalism, which is also undoubtedly recognisable in this project of refined decoration. Among other things, Soria was responsible for the edition of the architectural drawings of his master Giovanni Battista Montano, whose teaching played an important role for Cortona as well, the Barberini artist _par excellence_ and one of Soria’s closest friends.
+The decorative vocabulary is in this case so incredibly similar to that of the drawing for the harp and to another in the Uffizi used for the base of a piece of furniture,<sup>18</sup> that it could indeed be attributed to the same designer. This type of naturalistic and sculptural decoration doesn’t reflect the typical Bernini style, although many have already suggested <span id="person_tag">Gian Lorenzo Bernini</span>’s name as the author of "one of the most beautiful musical instruments ever known."<sup>19</sup> But as <span id="person_tag">Alvar Gonzáles Palacios</span> points out, "it is somehow older," permeated by the Barberini culture based on a more serious style.<sup>20</sup> The presence on the sheet of an architectural sketch (Fig. 4) may also provide further evidence of Soria’s activity as an architect, although one should keep in mind that his profession as an architect was far less important than has long been assumed, as <span id="person_tag">Cristiano Marchegiani</span> recently rightly pointed out thus downgrading Soria’s profile as an architect in the <span id="subjects_tag">_Dizionario Biografico degli Italiani_</span>.<sup>21</sup> 
+
+![](/images/fig-4.jpg)
+
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (Fig. 4). Dettaglio 7918. Foto: UVFP
+
+His apprenticeship with Giovanni Battista Montano and with <span id="person_tag">Antonio Pomarancio</span> was a guarantee of his solid artistic professionalism, which is also undoubtedly recognisable in this project of refined decoration. Among other things, Soria was responsible for the edition of the architectural drawings of his master Giovanni Battista Montano, whose teaching played an important role for Cortona as well, the Barberini artist _par excellence_ and one of Soria’s closest friends.
 
 The proposal to attribute the conception and design of the Barberini harp to Soria is further justified by the close relationship between the artist and Barberini's commissions for the works in <span id="subjects_tag">St. Peter's</span> and Palazzo Barberini.
 
