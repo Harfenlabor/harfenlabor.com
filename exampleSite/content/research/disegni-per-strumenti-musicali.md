@@ -94,7 +94,7 @@ Moreover, the architectural, figurative and animal motifs are also similar, as a
 
 ###### Anonimo (G. B. Soria?), Progetto per una cornice, inv. 1592 E, gabinetto Disegni e Stampe degli Uffizi, Firenze. Foto: UVFP
 
-![](/images/8.JPG)
+![](/images/fig-8.jpg)
 
 ###### Anonimo (G.B. Soria?), Progetto per un mobile, inv. 1593 E, Gabinetto Disegni e Stampe degli Uffizi, Firenze. Foto: UVFP
 
