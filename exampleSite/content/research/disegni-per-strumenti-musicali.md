@@ -15,7 +15,7 @@ project_category = "Barberini Harp Project"
 relatedresearch = []
 show_in_news = false
 status = "draft"
-subjects_tag = ["King David Playing the Harp", "King David", "Uffizi", "Barberini Harp", "Museo Nazionale degli Strumenti Musicali", "Venus Playing the Harp", "Golden Fleece", "Giovanni Battista Montano", "Palazzo Barberini", "Scipione Borghese", "S. Maria sopra Minerva", "Sleeping Putto", "Dizionario Biografico degli Italiani", "St. Peter's", "The Apparition of the Angel to King David Playing the Harp", "Apparizione dell’angelo a re David che suona l’arpa"]
+subjects_tag = ["King David Playing the Harp", "King David", "Uffizi", "Barberini Harp", "Museo Nazionale degli Strumenti Musicali", "Venus Playing the Harp", "Golden Fleece", "Giovanni Battista Montano", "Palazzo Barberini", "Scipione Borghese", "S. Maria sopra Minerva", "Sleeping Putto", "Dizionario Biografico degli Italiani", "St. Peter's", "The Apparition of the Angel to King David Playing the Harp", "Apparizione dell’angelo a re David che suona l’arpa", "Venere che suona l’arpa"]
 subtype = ["Organology", "Iconography", "Sociology of Art"]
 summary_text = ""
 tags = ""
@@ -62,11 +62,11 @@ On the top frontside is the Barberini coat-of-arms: three bees surmounted by a c
 
 ###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (Fig. 3a). Dettaglio 7915. Foto: UVFP
 
-The drawing and the instrument known as the Barberini Harp, at the Museo Nazionale degli Strumenti Musicali, are clearly closely related to each other as are the drawing and <span id="person_tag">Giovanni Lanfranco</span>'s painting <span id="subjects_tag">_Venus Playing the Harp_</span> _or the Music_ (Fig. 5) (Galleria Nazionale d'Arte Antica, Roma) from the collection of Cardinal <span id="person_tag">Antonio Barberini il Giovane</span>.<sup>6</sup>
+The drawing and the instrument known as the Barberini Harp, at the Museo Nazionale degli Strumenti Musicali, are clearly closely related to each other as are the drawing and <span id="person_tag">Giovanni Lanfranco</span>'s painting <span id="subjects_tag">_Venere che suona l’arpa_</span> _or the Music_ from the collection of <span id="person_tag">Antonio Barberini il Giovane</span>.<sup>6</sup>
 
 ![](/images/fig-5.jpg)
 
-###### Giovanni Lanfranco, _Venere che suona l’arpa_, Galleria Nazionale d’arte antica Palazzo Barberini, Roma. Foto: dal catalogo Giovanni Lanfranco. Un pittore barocco tra Parma, Roma e Napoli, a cura di Erich Schleier, Milano 2001, fig. p. 267.
+###### Giovanni Lanfranco, _Venus Playing the Harp_, (Fig. 5) Galleria Nazionale d’arte antica Palazzo Barberini, Roma. Foto: dal catalogo Giovanni Lanfranco. Un pittore barocco tra Parma, Roma e Napoli, a cura di Erich Schleier, Milano 2001, fig. p. 267.
 
 The Cardinal himself commissioned the instrument and gave it to the musician <span id="person_tag">Marco Marazzoli</span> (<span id="timeline_tag">1619-1663</span>), known as "dell'Arpa" (of the harp). Marazzoli was in the service of the Barberini family as a singer, instrumentalist and composer. After his death, the instrument returned to Cardinal Antonio who also received Lanfranco’s above painting, which the musician originally commissioned his friend Lanfranco to paint.
 
