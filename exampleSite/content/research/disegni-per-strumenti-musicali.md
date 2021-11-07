@@ -46,21 +46,21 @@ Less common, however, are preparatory drawings for musical instruments, intended
 
 ###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ (Fig. 3).
 
-![](/images/fig-3a-7915.jpg)
-
-###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (Fig. 3a). Dettaglio 7915. Foto: UVFP
-
-![](/images/fig-3b-7916.jpg)
-
-###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (Fig. 3b). Dettaglio 7916. Foto: UVFP
+The drawing presents a project for a richly decorated harp, its column adorned with carvings: architectural motifs of volutes and capitals alternating with putti; atlas figures on pedestals dividing the column in three parts; and sphinxes at the bottom.
 
 ![](/images/fig-3c-_7918.jpg)
 
 ###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (Fig. 3c). Dettaglio 7918. Foto: UVFP
 
-The drawing presents a project for a richly decorated harp, its column adorned with carvings: architectural motifs of volutes and capitals alternating with putti; atlas figures on pedestals dividing the column in three parts; and sphinxes at the bottom.
+![](/images/fig-3b-7916.jpg)
+
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (Fig. 3b). Dettaglio 7916. Foto: UVFP
 
 On the top frontside is the Barberini coat-of-arms: three bees surmounted by a cardinal's hat, which is in turn supported by a winged putto. Bees are also depicted on the pedestals. There is a satyr seated at the base of the support. The upper crossbeam uniting the sound box and the support ends in a volute formed by a sphinx.
+
+![](/images/fig-3a-7915.jpg)
+
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (Fig. 3a). Dettaglio 7915. Foto: UVFP
 
 In basso a destra sotto la cassa si trova un leggero schizzo a matita nera di carattere architettonico a forma di tabernacolo o coronamento di un ciborio.
 
