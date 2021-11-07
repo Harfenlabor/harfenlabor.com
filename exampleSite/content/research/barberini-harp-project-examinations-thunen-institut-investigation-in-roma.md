@@ -22,7 +22,7 @@ type = "Research"
 
 +++
 
-Harfenlabor invited wood scientists Volker Haag and Valentina Zemke of the Institut für Holzforschung, Thünen-Institut, Hamburg, to investigate the wood species used for the construction of the Barberini Harp. For the first time ever the wood on the Harp’s column was examined using new non-invasive methodology (some of the other parts have been examined using different methods). The investigation took place at the Museo Nazionali degli Strumenti Musicali, in Roma, on December 16-18, 2018.
+Harfenlabor invited wood scientists Volker Haag and Valentina Zemke of the Institut für Holzforschung, Thünen-Institut, Hamburg, to investigate the wood species used for the construction of the Barberini Harp. For the first time ever the wood on the Harp’s column was examined using new non-invasive methodology. The investigation took place at the Museo Nazionali degli Strumenti Musicali, in Roma, on December 16-18, 2018.
 
 As the most important remaining Baroque harp, the Barberini Harp is under a strict conservation protocol. In close consultation with the museum’s management, Haag and Zemke used the non-destructive high-resolution 3D-reflected-light microscopy. Their delicate examinations produced material that was then transported to Hamburg for analysis and comparisons.
 
