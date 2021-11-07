@@ -84,6 +84,8 @@ Lanfranco's painting provides a clear chronological indication for both the draw
 
 The plastic motifs and the stylistic aspects of this drawing are rather of Cortonesque origin, bearing similarity to <span id="person_tag">Pietro da Cortona</span>'s designs for funerary monuments, engravings and liturgical objects such as a ceremonial mace, which – among other things – carries the Antonio Barberini il Giovane’s coat of arms.<sup>11</sup>
 
+![](/images/fig-6.jpg)
+
 ###### Pietro da Cortona, Mazza da ceremonia, disegno, (Fig. 6)
 
 Moreover, the architectural, figurative and animal motifs are also similar, as are the mixed technique of pen and watercolour. But the draftsman is not Pietro da Cortona either, thought it appears they could have been someone close to him. The author could also be Giovanni Tubi, the carver of the instrument, but we know nothing about his artistic background in drawing. Three decorative projects from the same Uffizi collection (Inv. 1591 E; Inv. 1592 E (fig. 7); Inv. 1593 (fig. 8)) are likely to have been made by the same draftsman.<sup>12</sup>
