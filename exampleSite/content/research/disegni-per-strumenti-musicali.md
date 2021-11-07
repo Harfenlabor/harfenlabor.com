@@ -15,7 +15,7 @@ project_category = "Barberini Harp Project"
 relatedresearch = []
 show_in_news = false
 status = "draft"
-subjects_tag = ["King David Playing the Harp", "King David", "Uffizi", "Barberini Harp", "Museo Nazionale degli Strumenti Musicali", "Venus Playing the Harp", "Golden Fleece", "Giovanni Battista Montano", "Palazzo Barberini", "Scipione Borghese", "S. Maria sopra Minerva", "Sleeping Putto", "Dizionario Biografico degli Italiani", "St. Peter's", "The Apparition of the Angel to King David Playing the Harp"]
+subjects_tag = ["King David Playing the Harp", "King David", "Uffizi", "Barberini Harp", "Museo Nazionale degli Strumenti Musicali", "Venus Playing the Harp", "Golden Fleece", "Giovanni Battista Montano", "Palazzo Barberini", "Scipione Borghese", "S. Maria sopra Minerva", "Sleeping Putto", "Dizionario Biografico degli Italiani", "St. Peter's", "The Apparition of the Angel to King David Playing the Harp", "Apparizione dell’angelo a re David che suona l’arpa"]
 subtype = ["Organology", "Iconography", "Sociology of Art"]
 summary_text = ""
 tags = ""
@@ -24,19 +24,19 @@ title = "Designs for Musical Instruments"
 type = "Research"
 
 +++
-There is an abundance of paintings with representations of concerts, musicians, and musical instruments in the <span id="timeline_tag">seventeenth-century</span> Italian and Flemish painting. Musical instruments depicted in these paintings often correspond precisely to instruments owned by the paintings’ patrons.<sup>1</sup> Some painters also enjoyed playing music and even built musical instruments themselves. <span id="person_tag">Domenichino</span>, for example, was also a builder and designer of sophisticated musical instruments. His deep knowledge in this area is reflected in the representations of musical instruments in his paintings, such as the meticulously depicted harp in the painting <span id="subjects_tag">_King David Playing the Harp_</span> (Fig. 1).<sup>2</sup>
+There is an abundance of paintings with representations of concerts, musicians, and musical instruments in the <span id="timeline_tag">seventeenth-century</span> Italian and Flemish painting. Musical instruments depicted in these paintings often correspond precisely to instruments owned by the paintings’ patrons.<sup>1</sup> Some painters also enjoyed playing music and even built musical instruments themselves. <span id="person_tag">Domenichino</span>, for example, was also a builder and designer of sophisticated musical instruments. His deep knowledge in this area is reflected in the representations of musical instruments in his paintings, such as the meticulously depicted harp in the painting <span id="subjects_tag">_King David Playing the Harp_</span>.<sup>2</sup>
 
 ***
 
 ![](/images/fig-1.jpg)
 
-###### Domenichino, _King David playing the Harp_
+###### Domenichino, _King David playing the Harp,_ (Fig. 1)
 
-Naturally, paintings of <span id="subjects_tag">King David</span> usually offer an opportunity to paint a harp. <span id="person_tag">Pier Francesco Mola</span>’s drawing<sup>3</sup> <span id="subjects_tag">_The Apparition of the Angel to King David Playing the Harp_</span> (Fig. 2) provides a very good example in a richly decorated harp, undoubtedly a preparatory work for a painting that, as yet, remains unknown.
+Naturally, paintings of <span id="subjects_tag">King David</span> usually offer an opportunity to paint a harp. <span id="person_tag">Pier Francesco Mola</span>’s drawing<sup>3</sup> <span id="subjects_tag">_Apparizione dell’angelo a re David che suona l’arpa_</span> provides a very good example in a richly decorated harp, undoubtedly a preparatory work for a painting that, as yet, remains unknown.
 
 ![](/images/fig-2.jpg)
 
-###### Pier Francesco Mola, _Apparizione dell’angelo a re David che suona l’arpa_, disegno,
+###### Pier Francesco Mola, _The Apparition of the Angel to King David Playing the Harp_, (Fig. 2).
 
 Less common, however, are preparatory drawings for musical instruments, intended for carvers and soundbox builders. One such drawing (Fig. 3, 3a, 3b, 3c), held at the <span id="subjects_tag">Uffizi</span>, has been long known of (and many works on it have been published<sup>4</sup>). This drawing has been compared with the <span id="subjects_tag">Barberini Harp</span>, in the collection of the <span id="subjects_tag">Museo Nazionale degli Strumenti Musicali</span> in <span id="map_tag">Roma</span>, though it has not so far been identified as a preparatory drawing for this harp.<sup>5</sup>
 
@@ -44,7 +44,7 @@ Less common, however, are preparatory drawings for musical instruments, intended
 
 ***
 
-###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa_ 
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa_
 
 ![](/images/fig-3a-7915.jpg)
 
@@ -90,7 +90,7 @@ The plastic motifs and the stylistic aspects of this drawing are rather of Corto
 
 ![](/images/fig-6.jpg)
 
-###### Pietro da Cortona, Mazza da ceremonia, disegno, 
+###### Pietro da Cortona, Mazza da ceremonia, disegno,
 
 Moreover, the architectural, figurative and animal motifs are also similar, as are the mixed technique of pen and watercolour. But the draftsman is not Pietro da Cortona either, thought it appears they could have been someone close to him. The author could also be Giovanni Tubi, the carver of the instrument, but we know nothing about his artistic background in drawing. Three decorative projects from the same Uffizi collection (Inv. 1591 E; Inv. 1592 E (fig. 7); Inv. 1593 (fig. 8)) are likely to have been made by the same draftsman.<sup>12</sup>
 
