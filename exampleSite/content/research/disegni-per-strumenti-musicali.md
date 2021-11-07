@@ -30,7 +30,7 @@ There is an abundance of paintings with representations of concerts, musicians, 
 
 ![](/images/fig-1.jpg)
 
-###### Domenichino, _King David playing the Harp,_ (Fig. 1)
+###### Domenichino, _King David playing the Harp_ (Fig. 1)
 
 Naturally, paintings of <span id="subjects_tag">King David</span> usually offer an opportunity to paint a harp. <span id="person_tag">Pier Francesco Mola</span>’s drawing<sup>3</sup> <span id="subjects_tag">_Apparizione dell’angelo a re David che suona l’arpa_</span> provides a very good example in a richly decorated harp, undoubtedly a preparatory work for a painting that, as yet, remains unknown.
 
