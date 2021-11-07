@@ -66,7 +66,7 @@ In basso a destra sotto la cassa si trova un leggero schizzo a matita nera di ca
 
 ![](/images/fig-4.jpg)
 
-###### Giovanni Battista Soria attr. Inv. 1594E dettaglio. Foto: UVFP
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (Fig. 4). Dettaglio 7918. Foto: UVFP
 
 The drawing and the instrument known as the Barberini Harp, at the Museo Nazionale degli Strumenti Musicali, are clearly closely related to each other as are the drawing and <span id="person_tag">Giovanni Lanfranco</span>'s painting <span id="subjects_tag">_Venus Playing the Harp_</span> _or the Music_ (Fig. 5) (Galleria Nazionale d'Arte Antica, Roma) from the collection of Cardinal <span id="person_tag">Antonio Barberini the Younger</span>.<sup>6</sup>
 
