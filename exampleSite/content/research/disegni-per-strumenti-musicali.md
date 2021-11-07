@@ -10,7 +10,7 @@ image = "/images/fig-1.jpg"
 imgcaptions = "Fig. 1 Domenichino, King David playing the Harp, Musée National du Chateau de Versailles. Foto dal catalogo Mostra Domenichino 1581 – 1641. Milano 1996, p. 437&&\nFig. 2. Pier Francesco Mola, <i>Apparizione dell’angelo a re David che suona l’arpa</i>, disegno, Gabinetto Disegni e Stampe degli Uffizi, inv. 2064 F, Firenze. Photo: Ursula Verena Fischer Pace.&&\nFig. 3 Attributed to Giovanni Battista Soria, Progetto per un’arpa (Project for a harp), inv. 1594 E, Gabinetto Disegni e Stampe degli Uffizi, Firenze. Foto: Ursula Verena Fischer Pace&&\nFig. 4 &&\nFig. 5&&\nFig. 6 London, Victoria&Albert Museum, inv. D. 1708–1885. Foto da Karin Wolfe, Ten days in the life of a Cardinal Nephew at the Court of Pope Urban VIII: Antonio Barberini’s Diary of December 1630, in, I Barberini e la Cultura Europea Del Seicento, a cura di Lorenza Mochi Onori Sebastian schütze Francesco Solinas, Roma , Atti del convegno internazionale Palazzo Barberini alle Quattro Fontane, 7–11 dicembre 2004, Roma 2007, pp. 253–261, Fig.2, p.254."
 map_tag = ["Roma", "Napoli", "Vatican"]
 news = false
-person_tag = ["Ursula-Verena Fischer-Pace", "Domenichino", "Pier Francesco Mola", "Giovanni Lanfranco", "Antonio Barberini the Younger", "Marco Marazzoli", "Antonio Barberini", "Maffeo Barberini", "Geronimo Acciari", "Giovanni Tubi", "Pietro da Cortona", "Bartolomeo de Rossi", "Giovanni Battista Soria", "Guido Reni", "Gian Lorenzo Bernini", "Alvar Gonzáles Palacios", "Cristiano Marchegiani", "Antonio Pomarancio"]
+person_tag = ["Ursula-Verena Fischer-Pace", "Domenichino", "Pier Francesco Mola", "Giovanni Lanfranco", "Antonio Barberini the Younger", "Marco Marazzoli", "Antonio Barberini", "Maffeo Barberini", "Geronimo Acciari", "Giovanni Tubi", "Pietro da Cortona", "Bartolomeo de Rossi", "Giovanni Battista Soria", "Guido Reni", "Gian Lorenzo Bernini", "Alvar Gonzáles Palacios", "Cristiano Marchegiani", "Antonio Pomarancio", "Antonio Barberini il Giovane"]
 project_category = "Barberini Harp Project"
 relatedresearch = []
 show_in_news = false
@@ -62,7 +62,7 @@ On the top frontside is the Barberini coat-of-arms: three bees surmounted by a c
 
 ###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (Fig. 3a). Dettaglio 7915. Foto: UVFP
 
-The drawing and the instrument known as the Barberini Harp, at the Museo Nazionale degli Strumenti Musicali, are clearly closely related to each other as are the drawing and <span id="person_tag">Giovanni Lanfranco</span>'s painting <span id="subjects_tag">_Venus Playing the Harp_</span> _or the Music_ (Fig. 5) (Galleria Nazionale d'Arte Antica, Roma) from the collection of Cardinal <span id="person_tag">Antonio Barberini the Younger</span>.<sup>6</sup>
+The drawing and the instrument known as the Barberini Harp, at the Museo Nazionale degli Strumenti Musicali, are clearly closely related to each other as are the drawing and <span id="person_tag">Giovanni Lanfranco</span>'s painting <span id="subjects_tag">_Venus Playing the Harp_</span> _or the Music_ (Fig. 5) (Galleria Nazionale d'Arte Antica, Roma) from the collection of Cardinal <span id="person_tag">Antonio Barberini il Giovane</span>.<sup>6</sup>
 
 ![](/images/fig-5.jpg)
 
@@ -78,11 +78,11 @@ Compared to the harp, there are, however, some variations concerning the design 
 
 ***
 
-Lanfranco's painting provides a clear chronological indication for both the drawing and the instrument, since it was undoubtedly painted before the painter’s departure to <span id="map_tag">Napoli</span> in <span id="timeline_tag">1634</span> and after the arrival in Roma of Marco Marazzoli, who commissioned the painting, and – as shown in some documents – had been in the service of Cardinal Antonio Barberini the Younger since <span id="timeline_tag">1629</span>.<sup>9</sup> This date matches the dates indicated in the documents recently found in the Barberini papers of the Vatican archives. These dates refer to the payments made, respectively, to the harp maker <span id="person_tag">Geronimo Acciari</span> on August 23rd, <span id="timeline_tag">1632</span>, and to the harp carver <span id="person_tag">Giovanni Tubi</span> in <span id="timeline_tag">1633</span>.<sup>10</sup> The figurative toolset of this drawing is not of a technical nature but purely decorative, confirming that the drawing dates back to the beginning of the <span id="timeline_tag">1630s</span>, in line with the dating of the painting. However, the drawing cannot be attributed to Lanfranco due to its different graphic style. Rather, the evident correspondence in the carved motifs between the painting and the harp, seems to indicate that Lanfranco had his friend's instrument as a model in front of him.
+Lanfranco's painting provides a clear chronological indication for both the drawing and the instrument, since it was undoubtedly painted before the painter’s departure to <span id="map_tag">Napoli</span> in <span id="timeline_tag">1634</span> and after the arrival in Roma of Marco Marazzoli, who commissioned the painting, and – as shown in some documents – had been in the service of Cardinal Antonio Barberini il Giovane since <span id="timeline_tag">1629</span>.<sup>9</sup> This date matches the dates indicated in the documents recently found in the Barberini papers of the Vatican archives. These dates refer to the payments made, respectively, to the harp maker <span id="person_tag">Geronimo Acciari</span> on August 23rd, <span id="timeline_tag">1632</span>, and to the harp carver <span id="person_tag">Giovanni Tubi</span> in <span id="timeline_tag">1633</span>.<sup>10</sup> The figurative toolset of this drawing is not of a technical nature but purely decorative, confirming that the drawing dates back to the beginning of the <span id="timeline_tag">1630s</span>, in line with the dating of the painting. However, the drawing cannot be attributed to Lanfranco due to its different graphic style. Rather, the evident correspondence in the carved motifs between the painting and the harp, seems to indicate that Lanfranco had his friend's instrument as a model in front of him.
 
 ***
 
-The plastic motifs and the stylistic aspects of this drawing are rather of Cortonian origin, bearing similarity to <span id="person_tag">Pietro da Cortona</span>'s designs for funerary monuments, engravings and liturgical objects such as a ceremonial mace (Fig. 6), which – among other things – carries the Antonio Barberini the Younger’s coat of arms.<sup>11</sup>
+The plastic motifs and the stylistic aspects of this drawing are rather of Cortonian origin, bearing similarity to <span id="person_tag">Pietro da Cortona</span>'s designs for funerary monuments, engravings and liturgical objects such as a ceremonial mace (Fig. 6), which – among other things – carries the Antonio Barberini il Giovane’s coat of arms.<sup>11</sup>
 
 ![](/images/fig-6.jpg)
 
@@ -113,8 +113,6 @@ The decorative vocabulary is in this case so incredibly similar to that of the d
 ![](/images/fig-4.jpg)
 
 ###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (Fig. 4). Dettaglio 7918. Foto: UVFP
-
-In basso a destra sotto la cassa si trova un leggero schizzo a matita nera di carattere architettonico a forma di tabernacolo o coronamento di un ciborio.
 
 His apprenticeship with Giovanni Battista Montano and with <span id="person_tag">Antonio Pomarancio</span> was a guarantee of his solid artistic professionalism, which is also undoubtedly recognisable in this project of refined decoration. Among other things, Soria was responsible for the edition of the architectural drawings of his master Giovanni Battista Montano, whose teaching played an important role for Cortona as well, the Barberini artist _par excellence_ and one of Soria’s closest friends.
 
