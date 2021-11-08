@@ -30,7 +30,7 @@ There is an abundance of paintings with representations of concerts, musicians, 
 
 ![](/images/fig-1.jpg)
 
-###### Domenichino, _King David playing the Harp_ (<cap>Fig. 1</cap>).
+###### Domenichino, _King David playing the Harp_ <cap>(Fig. 1)</cap>.
 
 Naturally, paintings of <span id="subjects_tag">King David</span> usually offer an opportunity to paint a harp. <span id="person_tag">Pier Francesco Mola</span>’s drawing<sup>3</sup> <span id="subjects_tag">_Apparizione dell’angelo a re David che suona l’arpa_</span> provides a very good example in a richly decorated harp, undoubtedly a preparatory work for a painting that, as yet, remains unknown.
 
@@ -66,7 +66,7 @@ The drawing and the instrument known as the Barberini Harp, at the Museo Naziona
 
 ![](/images/fig-5.jpg)
 
-###### Giovanni Lanfranco, _Venus Playing the Harp_ _or the Music_ (<cap>Fig. 5</cap>) Galleria Nazionale d’arte antica Palazzo Barberini, Roma. Foto: dal catalogo Giovanni Lanfranco. Un pittore barocco tra Parma, Roma e Napoli, a cura di Erich Schleier, Milano 2001, fig. p. 267.
+###### Giovanni Lanfranco, _Venus Playing the Harp_ _or the Music_ <cap>(Fig. 5)</cap> Galleria Nazionale d’arte antica Palazzo Barberini, Roma. Foto: dal catalogo Giovanni Lanfranco. Un pittore barocco tra Parma, Roma e Napoli, a cura di Erich Schleier, Milano 2001, fig. p. 267.
 
 The Cardinal himself commissioned the instrument and gave it to the musician <span id="person_tag">Marco Marazzoli</span> (<span id="timeline_tag">1619-1663</span>), known as "dell'Arpa" (of the harp). Marazzoli was in the service of the Barberini family as a singer, instrumentalist and composer. After his death, the instrument returned to Cardinal Antonio who also received Lanfranco’s above painting, which the musician originally commissioned his friend Lanfranco to paint.
 
