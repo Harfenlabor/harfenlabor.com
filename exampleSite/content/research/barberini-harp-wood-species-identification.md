@@ -11,7 +11,7 @@ imgcaptions = ""
 map_tag = ["Roma", "Hamburg"]
 person_tag = ["Volker Haag", "Valentina Zemke"]
 project_category = "Barberini Harp Project"
-relatedresearch = []
+relatedresearch = ["Volker Haag: Analysis of the Examination Material", "Examinations  Thünen-Institut Investigation in Roma", "Practical Examination of the Barberini Harp"]
 show_in_news = false
 status = "draft"
 subjects_tag = ["Barberini Harp", "Wood", "Soundboard", "Neck", "Column", "Structure", "Microscope", "Database", "Thünen-Institut", "Institut für Holzforschung", "3D-RLM", "3D-reclected-light microscopy", "Museo Nazionale degli Strumenti Musicali"]
@@ -139,4 +139,4 @@ type = "Research"
 
 ###### Volker Haag conducts image-analytical comparison of the Barberini Harp examination material with the samples in the scientific wood collection of the Thünen-Institut, Hamburg, 2018
 
-###### 
+######
