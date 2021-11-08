@@ -36,9 +36,9 @@ Naturally, paintings of <span id="subjects_tag">King David</span> usually offer 
 
 ![](/images/fig-2.jpg)
 
-###### Pier Francesco Mola, _The Apparition of the Angel to King David Playing the Harp_, (<cap>Fig. 2</cap>).
+###### Pier Francesco Mola, _The Apparition of the Angel to King David Playing the Harp_, <cap>(Fig. 2)</cap>.
 
-Less common, however, are preparatory drawings for musical instruments, intended for carvers and soundbox builders. One such drawing (<cap>Fig. 3</cap>, 3a, 3b, 3c), held at the <span id="subjects_tag">Uffizi</span>, has been long known of (and many works on it have been published<sup>4</sup>). This drawing has been compared with the <span id="subjects_tag">Barberini Harp</span>, in the collection of the Museo Nazionale degli Strumenti Musicali in <span id="map_tag">Roma</span>, though it has not so far been identified as a preparatory drawing for this harp.<sup>5</sup>
+Less common, however, are preparatory drawings for musical instruments, intended for carvers and soundbox builders. One such drawing <cap>(Fig. 3</cap>, 3a, 3b, 3c), held at the <span id="subjects_tag">Uffizi</span>, has been long known of (and many works on it have been published<sup>4</sup>). This drawing has been compared with the <span id="subjects_tag">Barberini Harp</span>, in the collection of the Museo Nazionale degli Strumenti Musicali in <span id="map_tag">Roma</span>, though it has not so far been identified as a preparatory drawing for this harp.<sup>5</sup>
 
 ![](/images/fig-3.jpg)
 
