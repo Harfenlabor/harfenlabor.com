@@ -30,21 +30,21 @@ There is an abundance of paintings with representations of concerts, musicians, 
 
 ![](/images/fig-1.jpg)
 
-###### Domenichino, _King David playing the Harp_ (Fig. 1)
+###### Domenichino, _King David playing the Harp_ (<cap>Fig. 1</cap>).
 
 Naturally, paintings of <span id="subjects_tag">King David</span> usually offer an opportunity to paint a harp. <span id="person_tag">Pier Francesco Mola</span>’s drawing<sup>3</sup> <span id="subjects_tag">_Apparizione dell’angelo a re David che suona l’arpa_</span> provides a very good example in a richly decorated harp, undoubtedly a preparatory work for a painting that, as yet, remains unknown.
 
 ![](/images/fig-2.jpg)
 
-###### Pier Francesco Mola, _The Apparition of the Angel to King David Playing the Harp_, (Fig. 2).
+###### Pier Francesco Mola, _The Apparition of the Angel to King David Playing the Harp_, (<cap>Fig. 2</cap>).
 
-Less common, however, are preparatory drawings for musical instruments, intended for carvers and soundbox builders. One such drawing (Fig. 3, 3a, 3b, 3c), held at the <span id="subjects_tag">Uffizi</span>, has been long known of (and many works on it have been published<sup>4</sup>). This drawing has been compared with the <span id="subjects_tag">Barberini Harp</span>, in the collection of the Museo Nazionale degli Strumenti Musicali in <span id="map_tag">Roma</span>, though it has not so far been identified as a preparatory drawing for this harp.<sup>5</sup>
+Less common, however, are preparatory drawings for musical instruments, intended for carvers and soundbox builders. One such drawing (<cap>Fig. 3</cap>, 3a, 3b, 3c), held at the <span id="subjects_tag">Uffizi</span>, has been long known of (and many works on it have been published<sup>4</sup>). This drawing has been compared with the <span id="subjects_tag">Barberini Harp</span>, in the collection of the Museo Nazionale degli Strumenti Musicali in <span id="map_tag">Roma</span>, though it has not so far been identified as a preparatory drawing for this harp.<sup>5</sup>
 
 ![](/images/fig-3.jpg)
 
 ***
 
-###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ (Fig. 3).
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ (<cap>Fig. 3</cap>).
 
 The drawing presents a project for a richly decorated harp, its column adorned with carvings: architectural motifs of volutes and capitals alternating with putti; atlas figures on pedestals dividing the column in three parts; and sphinxes at the bottom.
 
@@ -66,7 +66,7 @@ The drawing and the instrument known as the Barberini Harp, at the Museo Naziona
 
 ![](/images/fig-5.jpg)
 
-###### Giovanni Lanfranco, _Venus Playing the Harp_ _or the Music_ (Fig. 5) Galleria Nazionale d’arte antica Palazzo Barberini, Roma. Foto: dal catalogo Giovanni Lanfranco. Un pittore barocco tra Parma, Roma e Napoli, a cura di Erich Schleier, Milano 2001, fig. p. 267.
+###### Giovanni Lanfranco, _Venus Playing the Harp_ _or the Music_ (<cap>Fig. 5</cap>) Galleria Nazionale d’arte antica Palazzo Barberini, Roma. Foto: dal catalogo Giovanni Lanfranco. Un pittore barocco tra Parma, Roma e Napoli, a cura di Erich Schleier, Milano 2001, fig. p. 267.
 
 The Cardinal himself commissioned the instrument and gave it to the musician <span id="person_tag">Marco Marazzoli</span> (<span id="timeline_tag">1619-1663</span>), known as "dell'Arpa" (of the harp). Marazzoli was in the service of the Barberini family as a singer, instrumentalist and composer. After his death, the instrument returned to Cardinal Antonio who also received Lanfranco’s above painting, which the musician originally commissioned his friend Lanfranco to paint.
 
