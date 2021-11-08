@@ -29,7 +29,7 @@ This article focuses on a painting by <span id="subjects_tag">Giovanni Lanfranco
 
 ![](/images/2-barberini-harp-rome-museo-nazionale-degli-strumenti-musicali.jpg)
 
-TO BE REPLACED BY AN IMAGE FROM ARMIN (Fig. 2)
+###### TO BE REPLACED BY AN IMAGE FROM ARMIN (<cap>Fig. 1</cap>)
 
 It had long been thought that the Barberini family commissioned the painter Giovanni Lanfranco to produce the painting, until it was discovered that it had, in fact, been bequeathed to <span id="person_tag">Antonio Barberini</span> by the famous harpist, composer and singer <span id="person_tag">Marco Marazzoli</span>.<sup>3</sup> This article intends to, first of all, provide insights into the painting with particular regard to the representation of the harp, and to offer a more precise consideration as to when this painting was created. Later, we intend to analyse the painting inside Marazzoli's home by relating it to other paintings exhibited there.
 
