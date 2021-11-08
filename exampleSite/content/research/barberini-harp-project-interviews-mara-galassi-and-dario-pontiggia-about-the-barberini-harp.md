@@ -10,7 +10,7 @@ imgcaptions = ""
 map_tag = []
 person_tag = ["Mara Galassi", "Dario Pontiggia"]
 project_category = "Barberini Harp Project"
-relatedresearch = []
+relatedresearch = [" Scientific Commentary: Sol di corde soavi armo le dita? Only music I carry as my weapon?   Different ways to use the same instrument"]
 show_in_news = false
 status = "draft"
 subjects_tag = []
@@ -21,3 +21,5 @@ title = "Barberini Harp Project / Interviews&& Mara Galassi and Dario Pontiggia:
 type = "Research"
 
 +++
+
+Scientific Commentary by Chiara Granata: [Sol di corde soavi armo le dita? Only music I carry as my weapon? Different ways to use the same instrument]()
