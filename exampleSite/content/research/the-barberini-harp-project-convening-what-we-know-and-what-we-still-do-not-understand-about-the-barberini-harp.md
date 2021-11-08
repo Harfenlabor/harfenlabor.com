@@ -18,7 +18,7 @@ subjects_tag = ["Barberini Harp", "Convening around the Barberini Harp", "Museo 
 subtype = ["Organology", "Performance Practice", "Musicology", "Iconography", "Sociology of Art"]
 summary_text = ""
 timeline_tag = ["2016"]
-title = "Barberini Harp Project / Convening&&What We Know, and What We still Do Not Understand about the Barberini Harp."
+title = "Barberini Harp Project / Convening&&What We Know, and What We still Do Not Understand about the Barberini Harp"
 type = "Research"
 
 +++
