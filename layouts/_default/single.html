@@ -563,9 +563,13 @@
     var imgcaptions = document.getElementsByClassName('imgcaptions');
 
     if ( imgcaptions ) {
+      console.log("imgcaptions");
       for (let i = 0; i < imgcaptions.length; i++) {
+        console.log(i);
         $('cap').each(
           function() {
+
+            console.log(this);
 
             $(this).prop('id', 'imgcaption');
             $(this).on("mouseover", function(e) {
@@ -573,6 +577,8 @@
               var box = $("#imgcaptions_appear");
               var y = e.pageY;
               var x = e.pageX;
+
+              console.log(x,y);
 
               var fn_paragraph = document.createElement('p');
               var fn_plainText = imgcaptions[this.textContent.split('(Fig. ').pop().split(')')[0]].textContent;
