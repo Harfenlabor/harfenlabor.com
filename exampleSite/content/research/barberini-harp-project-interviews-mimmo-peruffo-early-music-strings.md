@@ -23,4 +23,6 @@ type = "Research"
 +++
 In his workshop in Vicenza, master string maker Mimmo Peruffo demonstrates elements of the ancient technique of making musical strings from animal guts. Peruffo is one of the very few remaining string makers. He learnt this secret art from an old master from Abruzzo through oral transmission and teaching of gestures. Peruffo thus warns us against relying solely on written accounts to learn about the ancient techniques of his art, as they, Peruffo tells us, “cannot be described in a book.”
 
+Original material © Armin Linke / Harfenlabor 2020. All rights reserved.
+
 Patrizio Barbieri,  "Roman and Neapolitan Gut Strings 1550-1950." _The Galpin Society Journal_ 59 (2006): 147-81. www.jstor.org/stable/25163864
