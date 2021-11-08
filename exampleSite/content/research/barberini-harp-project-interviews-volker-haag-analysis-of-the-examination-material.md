@@ -26,5 +26,4 @@ Following the <span id="subjects_tag">Barberini Harp</span> <span id="subjects_t
 With the generous support of the Museo Nazionale degli Strumenti Musicali, Istituto Storico Austriaco and the Deutsche Botschaft in Rom.
 
   
-  
-Original material © Armin Linke / Harfenlabor 2020. All rights reserved.
+© Armin Linke / Harfenlabor 2020
