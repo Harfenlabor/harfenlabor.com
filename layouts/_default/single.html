@@ -509,68 +509,6 @@
 
 
   window.addEventListener('load', function () {
-    //make image captions interactive
-    //wait until the page is loaded and footnotes are replaced
-    var imgcaptions = document.getElementsByClassName('imgcaptions');
-
-    if ( imgcaptions ) {
-      console.log("imgcaptions");
-      for (let i = 0; i < imgcaptions.length; i++) {
-        console.log(i);
-        $('cap').each(
-          function() {
-
-            console.log(this);
-
-            $(this).prop('id', 'imgcaption');
-            $(this).on("mouseover", function(e) {
-
-              var box = $("#imgcaptions_appear");
-              var y = e.pageY;
-              var x = e.pageX;
-
-              console.log(x,y);
-
-              var fn_paragraph = document.createElement('p');
-              var fn_plainText = imgcaptions[this.textContent.split('(Fig. ').pop().split(')')[0]].textContent;
-              if (fn_plainText.includes("Images: ")){
-                fn_plainText =  fn_plainText.replace("Images: ", "");
-              }
-              var fn_insideText = document.createTextNode(fn_plainText);
-              fn_paragraph.setAttribute('class', 'imgcaptions');
-              fn_paragraph.appendChild(fn_insideText);
-
-              if (box.children().length > 0 ) {
-                box.empty();
-              }
-
-              box.append(fn_paragraph);
-              box.css('display', 'block');
-              box.css('position', 'absolute');
-
-              if(x < window.innerWidth/2){
-                x = e.pageX;
-                box.css("left", x);
-                box.css("right", "unset");
-              } else {
-                x = window.innerWidth-e.pageX;
-                box.css("left", "unset");
-                box.css("right", x);
-              }
-              box.css("top", y);
-            });
-
-            $(this).on("mouseout", function(e) {
-              var box = $("#imgcaptions_appear");
-              box.css('display', 'none');
-            });
-          }
-        );
-        break; //break the "for" loop
-      }
-    }
-
-    
     //make footnotes interactive
     //wait until the page is loaded and footnotes are replaced
     var footnotes = document.getElementsByClassName('footnotes');
@@ -620,8 +558,67 @@
       }
     }
 
-    
+    //make image captions interactive
+    //wait until the page is loaded and footnotes are replaced
+    var imgcaptions = document.getElementsByClassName('imgcaptions');
+    if ( imgcaptions ) {
+      console.log("imgcaptions");
+      for (let i = 0; i < imgcaptions.length; i++) {
+        console.log(i);
+        $('cap').each(
+          function() {
 
+            console.log(this);
+
+            $(this).prop('id', 'imgcaption');
+            $(this).on("mouseover", function(e) {
+
+              var box = $("#imgcaptions_appear");
+              var y = e.pageY;
+              var x = e.pageX;
+
+              console.log(x,y);
+
+              var fn_paragraph = document.createElement('p');
+              //var fn_plainText = imgcaptions[this.textContent.split('(Fig. ').pop().split(')')[0]].textContent;
+              var fn_plainText = imgcaptions[this.textContent.split('Fig. ').pop()[0]].textContent;
+              console.log(imgcaptions[this.textContent.split('Fig. ').pop()[0]].textContent);
+              if (fn_plainText.includes("Images: ")){
+                fn_plainText =  fn_plainText.replace("Images: ", "");
+              }
+              var fn_insideText = document.createTextNode(fn_plainText);
+              fn_paragraph.setAttribute('class', 'imgcaptions');
+              fn_paragraph.appendChild(fn_insideText);
+
+              if (box.children().length > 0 ) {
+                box.empty();
+              }
+
+              box.append(fn_paragraph);
+              box.css('display', 'block');
+              box.css('position', 'absolute');
+
+              if(x < window.innerWidth/2){
+                x = e.pageX;
+                box.css("left", x);
+                box.css("right", "unset");
+              } else {
+                x = window.innerWidth-e.pageX;
+                box.css("left", "unset");
+                box.css("right", x);
+              }
+              box.css("top", y);
+            });
+
+            $(this).on("mouseout", function(e) {
+              var box = $("#imgcaptions_appear");
+              box.css('display', 'none');
+            });
+          }
+        );
+        break; //break the "for" loop
+      }
+    }
   })  
 
 </script>
