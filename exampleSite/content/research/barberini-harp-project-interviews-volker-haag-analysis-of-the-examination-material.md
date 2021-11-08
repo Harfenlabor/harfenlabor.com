@@ -21,3 +21,10 @@ title = "Barberini Harp Project / Interviews&&Volker Haag: Analysis of the Exami
 type = "Research"
 
 +++
+Following the Barberini Harp wood species investigation by the Thünen-Institut's Institut für Holzforschung in Roma, Harfenlabor interviewed wood scientist Volker Haag 
+
+of the Barberini Harp Analysis of the Examination Material
+
+Volker Haag, wood scientist
+
+Institut für Holzforschung, Thünen-Institut, Hamburg, 16.12.2016
