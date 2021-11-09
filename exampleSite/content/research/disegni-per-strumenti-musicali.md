@@ -86,13 +86,13 @@ The plastic motifs and the stylistic aspects of this drawing are rather of Corto
 
 ![](/images/fig-6.jpg)
 
-###### Pietro da Cortona, Mazza da ceremonia, disegno, (<cap>Fig. 6</cap>)
+###### Pietro da Cortona, _Mazza da ceremonia_, disegno, (<cap>Fig. 6</cap>)
 
-Moreover, the architectural, figurative and animal motifs are also similar, as are the mixed technique of pen and watercolour. But the draftsman is not Pietro da Cortona either, thought it appears they could have been someone close to him. The author could also be Giovanni Tubi, the carver of the instrument, but we know nothing about his artistic background in drawing. Three decorative projects from the same Uffizi collection (Inv. 1591 E; Inv. 1592 E (<cap>Fig. 7</cap>); Inv. 1593 (<cap>Fig. 8</cap>) are likely to have been made by the same draftsman.<sup>12</sup>
+Moreover, the architectural, figurative and animal motifs are also similar, as are the mixed technique of pen and watercolour. But the draftsman is not Pietro da Cortona either, thought it appears they could have been someone close to him. The author could also be Giovanni Tubi, the carver of the instrument, but we know nothing about his artistic background in drawing. Three decorative projects from the same Uffizi collection (Inv. 1591 E; Inv. 1592 E; Inv. 1593 (<cap>Fig. 8</cap>) are likely to have been made by the same draftsman.<sup>12</sup>
 
 ![](/images/fig-7.jpg)
 
-###### Anonimo (G. B. Soria?), Progetto per una cornice, inv. 1592 E, gabinetto Disegni e Stampe degli Uffizi, Firenze. Foto: UVFP
+###### Anonimo (G. B. Soria?), Progetto per una cornice, inv. 1592 E, gabinetto Disegni e Stampe degli Uffizi, Firenze. Foto: UVFP (<cap>Fig. 7</cap>)
 
 ![](/images/fig-8.jpg)
 
