@@ -3,24 +3,24 @@ PublishDate = 2021-11-07T23:00:00Z
 author = ""
 description = "Pioneering harpist Mara Galassi and master historical harp builder Dario Pontiggia discuss various considerations affecting any attempt to produce a facsimile of a historical instrument, especially one as old and enigmatic as the Barberini Harp. Sitting in Pontiggia’s workshop in Milan, with a copy of the Barberini Harp he built for Galassi, they discuss some of the finer points of organology in relation to copies of historical harps, starting with Galassi’s account of how luthier David Brown approached building the first copy ever of the Barberini Harp, and how important the question of diapason (pitch) of the instrument is for performance practice. Pontiggia points out technical issues arising out of insufficient understanding of the original Barberini Harp, such as changes to the neck, column and soundbox, as well as inconsistencies in the number of pinholes and problems with stringing. A disagreement over aspects of the Barberini Harp produces an insight into how building copies as close to the original as possible could yield additional knowledge of historical performance practice, harp technique and buon gusto of the period."
 downloads = []
-externallinks = "https://www.gallerie-estensi.beniculturali.it/en/works-of-art/dpuble-harp/, gallerie-estensi.beniculturali.it, "
+externallinks = "https://www.gallerie-estensi.beniculturali.it/en/works-of-art/dpuble-harp/, gallerie-estensi.beniculturali.it, gallerie-estensi.beniculturali.it, David Brown Website, Recercare, https://www.factum-arte.com/pag/38/a-facsimile-of-the-wedding-at-cana-by-paolo-veronese, \nhttps://www.gallerie-estensi.beniculturali.it/en/works-of-art/dpuble-harp, www.jstor.org/stable/26381197, https://mitpress.mit.edu/books/shanzhai, \""
 footnotes = ""
 image = ""
 imgcaptions = ""
-map_tag = []
-person_tag = ["Mara Galassi", "Dario Pontiggia"]
+map_tag = ["Milano", "Roma", "Baltimore", "Modena"]
+person_tag = ["Mara Galassi", "Dario Pontiggia", "Hermann Hauser Sr. ", "Hermann Hauser III", "David Brown", "Chiara Granata"]
 project_category = "Barberini Harp Project"
 relatedresearch = [" Scientific Commentary: Sol di corde soavi armo le dita? Only music I carry as my weapon?   Different ways to use the same instrument"]
 show_in_news = false
 status = "draft"
-subjects_tag = []
-subtype = ["Organology", "Performance Practice", "Musicology", "Iconography", "Sociology of Art"]
+subjects_tag = ["Barberini Harp", "wood", "soundboard", "neck", "column", "strings", "construction", "copy", "luthier", "pitch", "diapason", "historical performance practice", "buon gusto", "harp technique", "drone bass", "drone strings", "bourdon", "Estense harp", "facsimile", "organological"]
+subtype = ["Organology", "Performance Practice"]
 summary_text = ""
-timeline_tag = []
+timeline_tag = ["1632-1633", "1980-90", "2016"]
 title = "Barberini Harp Project / Interviews&& Mara Galassi and Dario Pontiggia: About the Barberini Harp"
 type = "Research"
 
 +++
-Harpist and researcher Mara Galassi and master luthier Dario Pontiggia are In Dario Pontiggia’s workshop in Milano, with a copy of the Barberini Harp he built for Galassi, discussing some of the finer points in making copies of historical harps. As one of the pioneers in the field of organological research into the historical harp, Galassi commissioned the first copy ever made of the Barberini Harp from the luthier David Brown. Galassi and Pontiggia have since collaborated on several replicas of the harp, affording deep consideration to various issues affecting any attempt to produce a facsimile of a historical instrument. Galassi and Pontiggia live in the same city and their collaboration has influenced their respective approaches to their own disciplines. In this interview, a disagreement over aspects of the Barberini Harp produces an insight into how building copies as close to the original as possible could yield additional knowledge within related fields. Chiara Granata provides Scientific Commentary on the ensuing debate in [Sol di corde soavi armo le dita? Only music I carry as my weapon? Different ways to use the same instrument]().
+Harpist and researcher <span id="person_tag">Mara Galassi</span> and master luthier <span id="person_tag">Dario Pontiggia</span> are in Pontiggia’s workshop in <span id="map_tag">Milano</span>, with a copy of the <span id="subjects_tag">Barberini Harp</span> he built for Galassi, discussing some of the finer points in making copies of historical harps. As one of the pioneers in the field of organological research into the historical harp, Galassi commissioned the first copy ever made of the Barberini Harp from the luthier <span id="person_tag">David Brown</span>. Galassi and Pontiggia have since collaborated on several replicas of the harp, affording deep consideration to various issues affecting any attempt to produce a facsimile of a historical instrument. Galassi and Pontiggia live in the same city and their collaboration has influenced their respective approaches to their own disciplines. In this interview, a disagreement over aspects of the Barberini Harp produces an insight into how building copies as close to the original as possible could yield additional knowledge within related fields. <span id="person_tag">Chiara Granata</span> provides Scientific Commentary on the ensuing debate in [Sol di corde soavi armo le dita? Only music I carry as my weapon? Different ways to use the same instrument]().
 
 Original material © Armin Linke / Harfenlabor 2020. All rights reserved.
