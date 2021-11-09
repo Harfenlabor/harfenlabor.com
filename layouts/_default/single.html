@@ -93,9 +93,11 @@
   <div id="footer" class="foot3" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
     <p class="footer_title footitle3">External Links</p>
     <div class="footer_insidebox_3">
-      {{ range .Params.externallinks }}
-        {{ $titleandlink := split . " && " }}
+      {{ $eachExtLink := split .Params.externallinks " && " }}
+      {{ range $eachExtLink }}
+        {{ $titleandlink := split . " - " }}
         <a href="https://{{ index $titleandlink 1 | absURL }}"><p class="footer_insidetext extlinks">{{ index $titleandlink 0 }}</p></a>
+        }
       {{ end }}
     </div>
   </div>
@@ -170,10 +172,10 @@
   </div>
 
   <div id="fm_External" class="footer_bar-container footmobsection footmoblinks" style="display:none">
-    {{ range .Params.externallinks }}
+    {{/* range .Params.externallinks }}
       {{ $titleandlink := split . " && " }}
       <a href="https://{{ index $titleandlink 1 | absURL }}"><p class="footer_insidetext extlinks">{{ index $titleandlink 0 }}</p></a>
-    {{ end }}
+    {{ end */}}
   </div>
 
   <div id="fm_Tags" class="footer_bar-container footmobsection" style="display:none">
