@@ -42,8 +42,6 @@ Less common, however, are preparatory drawings for musical instruments, intended
 
 ![](/images/fig-3.jpg)
 
-***
-
 ###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ (<cap>Fig. 3</cap>).
 
 The drawing presents a project for a richly decorated harp, its column adorned with carvings: architectural motifs of volutes and capitals alternating with putti; atlas figures on pedestals dividing the column in three parts; and sphinxes at the bottom.
