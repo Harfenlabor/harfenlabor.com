@@ -93,7 +93,7 @@
   <div id="footer" class="foot3" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
     <p class="footer_title footitle3">External Links</p>
     <div class="footer_insidebox_3">
-      {{ range .Params.downloads }}
+      {{ range .Params.externallinks }}
         {{ $titleandlink := split . " && " }}
         <a href="https://{{ index $titleandlink 1 | absURL }}"><p class="footer_insidetext extlinks">{{ index $titleandlink 0 }}</p></a>
       {{ end }}
@@ -170,7 +170,7 @@
   </div>
 
   <div id="fm_External" class="footer_bar-container footmobsection footmoblinks" style="display:none">
-    {{ range .Params.downloads }}
+    {{ range .Params.externallinks }}
       {{ $titleandlink := split . " && " }}
       <a href="https://{{ index $titleandlink 1 | absURL }}"><p class="footer_insidetext extlinks">{{ index $titleandlink 0 }}</p></a>
     {{ end }}
@@ -536,13 +536,9 @@
     //wait until the page is loaded and footnotes are replaced
     var imgcaptions = document.getElementsByClassName('imgcaptions');
     if ( imgcaptions ) {
-      console.log("imgcaptions");
       for (let i = 0; i < imgcaptions.length; i++) {
-        console.log(i);
         $('cap').each(
           function() {
-
-            console.log(this);
 
             $(this).prop('id', 'imgcaption');
             $(this).on("mouseover", function(e) {
@@ -551,11 +547,9 @@
               var y = e.pageY;
               var x = e.pageX;
 
-              console.log(x,y);
-
               var fn_paragraph = document.createElement('p');
               var fn_plainText = imgcaptions[this.textContent.split('Fig. ').pop().split(/[), ]/)[0]].textContent;
-              console.log(imgcaptions[this.textContent.split('Fig. ').pop()[0]].textContent);
+              
               if (fn_plainText.includes("Images: ")){
                 fn_plainText =  fn_plainText.replace("Images: ", "");
               }
