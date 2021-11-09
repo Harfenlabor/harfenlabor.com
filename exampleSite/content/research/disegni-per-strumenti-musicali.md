@@ -122,32 +122,32 @@ The proposal to attribute the conception and design of the Barberini harp to Sor
 
 ***
 
-###### Bibliography
+###### **Bibliography**
 
-###### Spear, Richard E., <i>Domenichino</i>. New Haven and London: Yale University Press, 1982.
+**_Dizionario Biografico degli Italiani_ \[Istituto della Enciclopedia Italiana\].**
 
-###### _Disegni del Seicento Romano_ (Gabinetto Disegni e Stampe degli Uffizi LXXX), curated by Ursula Verena Fischer Pace, Firenze 1997
+**Granata, Chiara. “’Un arpa grande tutta intagliata e dorata’. New documents on the Barberini harp.” _Recercare_ XXVII/1 – 2 (2015): 139 – 164.**
 
-###### Luisa Marcucci, _Mostra di Strumenti musicali in disegni degli Uffizi_, Firenze 1952
+**Lizzani, Goffredo. _Il Mobile Romano_. Milano 1970.**
 
-###### _Inventario 2, Disegni Esposti_ (Gabinetto Disegni e Stampe degli Uffizi), curated by Anna Maria Petrioli Tofani, Firenze 1987.
+**Marcucci, Luisa. _Mostra di Strumenti musicali in disegni degli Uffizi_. Firenze 1952.**
 
-###### _La Galleria Armonica, Catalogo del Museo degli strumenti musicali di Roma_, curated by Luisa Cervelli, Roma 1994.
+**Onori, Lorenza Mochi and Vodret, Rossella, _Galleria Nazionale d’Arte Antica. I Dipinti. Catalogo sistematico_. Roma 2008**
 
-###### _Giovanni Lanfranco. Un pittore barocco tra Parma, Roma e Napoli_, curated by Erich Schleier, Milano 2001.
+**Ringbeck, Brigitta. _Giovanni Battista Soria Architekt Scipione Borgheses_. Münster 1989.**
 
-###### Chiara Granata, “Un arpa grande tutta intagliata e dorata”. New documents on the Barberini harp, in, RECERCARE XXVII/1 – 2, 2015, pp. 139 – 164
+**Satzinger, Georg and Schütze, Sebastian. _Sankt Peter in Rom 1506 – 2006. Beiträge der internationalen Tagung vom 22. – 25. Februar 2006 in Bonn_. München 2008.**
 
-###### Erich Schleier, _Disegni di Giovanni Lanfranco (1582 – 1647)_. (Gabinetto Disegni e Stampe degli Uffizi LIX), Firenze 1983.
+**Schleier, Erich. _Disegni di Giovanni Lanfranco (1582 – 1647)_. (Gabinetto Disegni e Stampe degli Uffizi LIX), Firenze 1983.**
 
-###### Ward – Jackson, Peter, _Italian Drawings, Vol. Two: 17th – 18th Century_, London 1980
+**Spear, Richard E. <i>Domenichino</i>. New Haven and London: Yale University Press, 1982.**
 
-###### _Dizionario Biografico degli Italiani_ \[Istituto della Enciclopedia Italiana\].
+**Ward–Jackson, Peter. _Italian Drawings, Vol. Two: 17th – 18th Century_. London 1980.**
 
-###### Brigitta Ringbeck, _Giovanni Battista Soria Architekt Scipione Borgheses_, Münster 1989
+**_Disegni del Seicento Romano_ (Gabinetto Disegni e Stampe degli Uffizi LXXX), curated by Ursula Verena Fischer Pace, Firenze 1997.**
 
-###### Sankt Peter in Rom 1506 – 2006. Beiträge der internationalen Tagung vom 22. – 25. Februar 2006 in Bonn, ed. Georg Satzinger und Sebastian Schütze, München 2008
+**_Giovanni Lanfranco. Un pittore barocco tra Parma, Roma e Napoli_, curated by Erich Schleier, Milano 2001.**
 
-###### Lorenza Mochi Onori, Rossella Vodret, _Galleria Nazionale d’Arte Antica. I Dipinti. Catalogo sistematico_, Roma 2008
+**_Inventario 2, Disegni Esposti_ (Gabinetto Disegni e Stampe degli Uffizi), curated by Anna Maria Petrioli Tofani, Firenze 1987.**
 
-###### Goffredo Lizzani, _Il Mobile Romano_, Milano 1970
+**_La Galleria Armonica, Catalogo del Museo degli strumenti musicali di Roma_, curated by Luisa Cervelli, Roma 1994.**
