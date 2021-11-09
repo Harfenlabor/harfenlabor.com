@@ -93,7 +93,10 @@
   <div id="footer" class="foot3" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
     <p class="footer_title footitle3">External Links</p>
     <div class="footer_insidebox_3">
-      <p class="footer_insidetext extlinks">{{ .Params.externallinks }}</p>
+      {{ range .Params.downloads }}
+        {{ $titleandlink := split . " && " }}
+        <a href="https://{{ index $titleandlink 1 | absURL }}"><p class="footer_insidetext extlinks">{{ index $titleandlink 0 }}</p></a>
+      {{ end }}
     </div>
   </div>
   <div id="footer" class="foot4" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
@@ -167,7 +170,10 @@
   </div>
 
   <div id="fm_External" class="footer_bar-container footmobsection footmoblinks" style="display:none">
-    <p class="footer_insidetext extlinks">{{ .Params.externallinks }}</p>
+    {{ range .Params.downloads }}
+      {{ $titleandlink := split . " && " }}
+      <a href="https://{{ index $titleandlink 1 | absURL }}"><p class="footer_insidetext extlinks">{{ index $titleandlink 0 }}</p></a>
+    {{ end }}
   </div>
 
   <div id="fm_Tags" class="footer_bar-container footmobsection" style="display:none">
@@ -353,38 +359,6 @@
       }
     );
   }
-
-  //FOOTER:
-  //make each external link clickable (External Links)
-  var extlinks = {{ .Params.externallinks }};
-
-  if (extlinks.includes(', ')){
-    document.getElementsByClassName('footer_insidebox_3')[0].innerHTML = "";
-    var extlinks_array = extlinks.split(', ');
-    for (let i = 0; i < extlinks_array.length; i++) {
-      let extlink_par = document.createElement('p');
-      let extlink_text = document.createTextNode(extlinks_array[i]);
-      extlink_par.setAttribute('class', 'footer_insidetext extlinks');
-      extlink_par.appendChild(extlink_text);
-      document.getElementsByClassName('footer_insidebox_3')[0].append(extlink_par);
-    }
-
-    document.getElementsByClassName('footmoblinks')[0].innerHTML = "";
-    var extlinks_array = extlinks.split(', ');
-    for (let i = 0; i < extlinks_array.length; i++) {
-      let extlink_par = document.createElement('p');
-      let extlink_text = document.createTextNode(extlinks_array[i]);
-      extlink_par.setAttribute('class', 'footer_insidetext extlinks');
-      extlink_par.appendChild(extlink_text);
-      document.getElementsByClassName('footmoblinks')[0].append(extlink_par);
-    }
-  }
-
-  $('p.extlinks').each(
-    function() {
-      $(this).html('<a href="https://' + this.textContent + '">' + this.textContent + '</a>');
-    }
-  );
 
   //FOOTER:
   //make each person tag clickable (Tags)
