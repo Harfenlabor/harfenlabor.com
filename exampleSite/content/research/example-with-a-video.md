@@ -15,12 +15,12 @@ project_category = "Barberini Harp Project"
 relatedresearch = ["Barberini Harp Wood Species Identification", "Mara Galassi and Dario Pontiggia: About the Barberini Harp", "Mimmo Peruffo: Early Music Strings", "Volker Haag: Analysis of the Examination Material", "Thünen-Institut Investigation in Roma", "What We Know, and What We still Do Not Understand about the Barberini Harp", "Designs for Musical Instruments"]
 show_in_news = true
 status = ""
-subjects_tag = ["Barberini Harp", "Little Ice Age", "360-degree camera", "The German Embassy in Rome", "Convening around the Barberini Harp", "Istituto Storico Austriaco", "Museo Nazionale degli Strumenti Musicali", "neck", "Baroque Harp", "Historical Harp", "arpa", "arpa barocca", "arpa doppia", "arpa tripla", "Triple harp", "harpe", "harpe baroque", "X-ray", "ties", "soundbox", "gilding", "decoration", "stringing", "wood", "column", "string", "changes to neck", "construction", "crack", "pinholes", "soundboard", "pinhole", "examination", "practical examination", "harp maker", "master historical harp builder", "Deutsche Botschaft in Rom", "dendrochronological examination", "walnut wood", "growth ring", "commission", "harp model"]
+subjects_tag = ["Barberini Harp", "Little Ice Age", "360-degree camera", "The German Embassy in Rome", "Convening around the Barberini Harp", "Istituto Storico Austriaco", "Museo Nazionale degli Strumenti Musicali", "neck", "Baroque Harp", "Historical Harp", "arpa", "arpa barocca", "arpa doppia", "arpa tripla", "Triple harp", "harpe", "harpe baroque", "X-ray", "ties", "soundbox", "gilding", "decoration", "stringing", "wood", "column", "string", "changes to neck", "construction", "crack", "pinholes", "soundboard", "pinhole", "examination", "practical examination", "harp maker", "master historical harp builder", "Deutsche Botschaft in Rom", "dendrochronological examination", "walnut wood", "growth ring", "commission", "harp model", "Barberini Harp Project"]
 subtype = ["Organology", "Performance Practice"]
 summary_text = ""
 tags = ""
 timeline_tag = ["1570", "1605", "1632", "1633", "1644", "2016", "-1644", "1570-", "1632-1633", "1610"]
-title = "Barberini Harp Project / Convening&&Practical Examination of the Barberini Harp"
+title = "Eric Kleinmann: Practical Examination of the Barberini Harp"
 titolo = ""
 titolo_blocchi = []
 type = "Research"
@@ -32,7 +32,7 @@ type = "Research"
 
 ###### 
 
-Harfenlabor invited master historical harp maker <span id="person_tag">Eric Kleinmann</span> to reflect on his findings following decades of research into, and practical examinations of the <span id="subjects_tag">Barberini Harp</span>. Harfenlabor also commissioned Kleinmann to build a small-scale model of the top of the harp for experiments with stringing, and present his conclusions at the <span id="subjects_tag">Convening around the Barberini Harp</span>, a symposium organised by Harfenlabor that took place on December 14-16, 2016, at the Museo Nazionale degli Strumenti Musicali and at the Istituto Storico Austriaco, Roma.
+As part of continued research within the <span id="subjects_tag">Barberini Harp Project</span>, Harfenlabor invited master historical harp maker <span id="person_tag">Eric Kleinmann</span> to reflect on his findings following decades of research into, and practical examinations of the <span id="subjects_tag">Barberini Harp</span>. Harfenlabor also commissioned Kleinmann to build a small-scale model of the top of the harp for experiments with stringing, and present his conclusions at the <span id="subjects_tag">Convening around the Barberini Harp</span>, a symposium organised by Harfenlabor that took place on December 14-16, 2016, at the Museo Nazionale degli Strumenti Musicali and at the Istituto Storico Austriaco, Roma.
 
 Original material © Armin Linke / Harfenlabor 2020.  
 Licensed under CC BY-NC-ND International 4.0
