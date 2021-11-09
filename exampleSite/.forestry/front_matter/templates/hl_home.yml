@@ -177,7 +177,9 @@ fields:
     schema:
       format: markdown
   label: External Links
-  description: Please separate each link with a comma ("www.google.it, www.google.com").
+  description: Please type " &amp;&amp; " (with spaces) to separate each reference
+    and " - " to separate the title from the link ("Google - www.google.it &amp;&amp;
+    Ecosia - www.ecosia.org").
 - name: downloads
   type: tag_list
   default: []
