@@ -50,11 +50,11 @@ The drawing presents a project for a richly decorated harp, its column adorned w
 
 ![](/images/fig-3c-_7918.jpg)
 
-###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 3</cap>).
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 3c</cap>).
 
 ![](/images/fig-3b-7916.jpg)
 
-###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 3c</cap>).
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 3b</cap>).
 
 On the top frontside is the Barberini coat of arms: three bees surmounted by a cardinal's hat, which is in turn supported by a winged putto. Bees are also depicted on the pedestals. There is a satyr seated at the base of the support. The upper crossbeam uniting the soundbox and the support ends in a volute formed by a sphinx.
 
