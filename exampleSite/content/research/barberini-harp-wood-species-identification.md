@@ -27,7 +27,7 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-14_30_17_13-still071.jpg)
 
-###### Equipment set-up, Swati Tamantini, Valentina Zemke, <span id="subjects_tag">Museo Nazionale degli Strumenti Musicali</span>, Roma, 2018
+###### Equipment set-up, Swati Tamantini, Valentina Zemke, Museo Nazionale degli Strumenti Musicali, Roma, 2018
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_17_16_12-still006.jpg)
 
