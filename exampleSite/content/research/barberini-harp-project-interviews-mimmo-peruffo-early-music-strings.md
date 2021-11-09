@@ -21,10 +21,12 @@ title = "Barberini Harp Project / Interviews&&Mimmo Peruffo: Early Music Strings
 type = "Research"
 
 +++
-In his workshop in <span id="map_tag">Vicenza</span>, master string maker <span id="person_tag">Mimmo Peruffo</span> demonstrates elements of the ancient technique of making musical strings from animal guts. Peruffo is one of the very few remaining string makers. He learnt this secret art from an old master from <span id="map_tag">Abruzzo</span> through oral transmission and teaching of gestures. Peruffo thus warns us against relying solely on written accounts to learn about the ancient techniques of his art, as they, Peruffo tells us, “cannot be described in a book.”
+In this edition of the Barberini Harp Project Interviews, Harfenlabor visits master string maker <span id="person_tag">Mimmo Peruffo</span> in his workshop in <span id="map_tag">Vicenza</span> where he demonstrates elements of the ancient technique of making musical strings from animal guts. Peruffo is one of the very few remaining string makers. He learnt this secret art from an old master from <span id="map_tag">Abruzzo</span> through oral transmission and teaching of gestures. Peruffo thus warns us against relying solely on written accounts to learn about the ancient techniques of his art, as they, Peruffo tells us, “cannot be described in a book.”
 
 SMTHING ABOUT WHY THIS PIECE HERE
 
 [Patrizio Barbieri, "Roman and Neapolitan Gut Strings 1550-1950." _The Galpin Society Journal_ 59 (2006): 147-81.](www.jstor.org/stable/25163864 'Patrizio Barbieri, "Roman and Neapolitan Gut Strings 1550-1950." The Galpin Society Journal 59 (2006): 147-81.')
 
 © Armin Linke / Harfenlabor 2020
+
+[All rights reserved.](https://harfenlabor.netlify.app/aboutpage/#allrightsreserved)
