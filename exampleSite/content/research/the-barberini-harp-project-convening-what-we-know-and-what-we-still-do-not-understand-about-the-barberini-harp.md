@@ -14,10 +14,10 @@ project_category = "Barberini Harp Project"
 relatedresearch = ["Designs for Musical Instruments", "“Venere che sona d’arpa e due amori”: Marco Marazzoli at the Barberini Court", "Scientific Commentary: Sol di corde soavi armo le dita? Only music I carry as my weapon? Different ways to use the same instrument", "Practical Examination of the Barberini Harp"]
 show_in_news = false
 status = "to be approved by author"
-subjects_tag = ["Barberini Harp", "Convening around the Barberini Harp", "Museo Nazionale degli Strumenti Musicali", "Istituto Storico Austriaco", "Barberini Archive"]
+subjects_tag = ["Barberini Harp", "Convening around the Barberini Harp", "Museo Nazionale degli Strumenti Musicali", "Istituto Storico Austriaco", "Barberini Archive", "harp", "new documents", "data sheets", "richly decorated", "gilded"]
 subtype = ["Organology", "Performance Practice", "Musicology", "Iconography", "Sociology of Art"]
 summary_text = ""
-timeline_tag = ["2016"]
+timeline_tag = ["2016", "2015", "1632-1633"]
 title = "Barberini Harp Project / Convening&&What We Know, and What We still Do Not Understand about the Barberini Harp"
 type = "Research"
 
