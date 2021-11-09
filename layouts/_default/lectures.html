@@ -17,7 +17,7 @@
 
       {{ $research := .Site.GetPage "/research" }}
       {{ range $research.Data.Pages }}
-        {{ if eq .Params.project_category "Harfenlabor lectures" }}
+        {{ if eq .Params.project_category "Harfenlabor Lectures" }}
         {{ .Render "article" }}
         {{ end }}
       {{ end }}
