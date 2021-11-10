@@ -346,35 +346,6 @@ if ( imgcaptions ) {
   });
 }
 
-/*BREAK LINES IN RELATED RESEARCH
-var relresearch = document.getElementsByClassName('title-related-research');
-if ( relresearch ) {
-	$('.title-related-research').each(function() {
-		var relresearch_paragraphs = this.textContent.split('&&');
-		console.log(relresearch_paragraphs);
-		console.log(this);
-		//this.textContent="";
-
-		for (let i = 0; i < relresearch_paragraphs.length; i++) {
-			var span = document.createElement('span');
-			var spanText = document.createTextNode(relresearch_paragraphs[i]);
-			span.appendChild(spanText);
-			linebreak = document.createElement("br");
-
-			console.log(relresearch_paragraphs[i]);
-			console.log(span);
-
-			console.log(this);
-
-			//$(this).textContent.append(span);
-			//$(this).textContent.append(linebreak);
-			
-			//$(this).append(span);
-			//$(this).append(linebreak);
-		}
-  });
-}*/
-
 //MAKE AUTHOR'S NAME A CLICKABLE LINK
 var authorsNameExists = document.getElementById('this_article_author');
 
