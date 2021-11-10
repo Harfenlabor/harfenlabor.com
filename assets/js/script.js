@@ -363,9 +363,9 @@ if ( relresearch ) {
 			console.log(relresearch_paragraphs[i]);
 			console.log(span);
 
-			console.log(this.textContent);
+			console.log(this);
 
-			this.textContent += span;
+			this.textContent += spanText;
 			this.textContent += linebreak;
 
 			//$(this).textContent.append(span);
