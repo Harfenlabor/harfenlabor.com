@@ -47,7 +47,7 @@ Among other things, it is worth noting that Marazzoli's _Venus_ loses its connot
 
 ![](/images/4-andrea-sacchi-devine-wisdom-detail-rome-fresco-on-a-ceyling-of-palazzo-barberini.jpg)
 
-###### Andrea Sacchi, _Allegoria della Divina Sapienza,_ detail of a ceiling fresco (<cap>Fig. 4</cap>)
+###### Andrea Sacchi, _Allegoria della Divina Sapienza,_ detail (<cap>Fig. 4</cap>)
 
 The clogs, often worn by courtesans, and the earrings are elements contributing to the sensuous character of the figure. The same goes for musical activity, as music has been since antiquity considered capable of arousing strong emotions, especially if interpreted by a woman.<sup>10</sup>
 
