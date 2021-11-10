@@ -21,7 +21,7 @@ title = "Giovanni Girolamo Kapsberger"
 type = "Research"
 
 +++
-<iframe src="https://player.vimeo.com/video/643964471?h=edc2ee98ed&badge=0&autopause=0&player_id=0&app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Harfenlabor. Anne Marie Dragosits,&nbsp;Michele Pasotti moderated by Margret K&ouml;ll: Giovanni Girolamo Kapsberger"></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/643964471?h=edc2ee98ed&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Harfenlabor. Anne Marie Dragosits,&amp;nbsp;Michele Pasotti moderated by Margret K&amp;ouml;ll: Giovanni Girolamo Kapsberger"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Harfenlabor presents an online lecture held on Zoom, on April 17th, 2021, on <span id="person_tag">Giovanni Girolamo Kaspberger</span> with two speakers: <span id="person_tag">Anne Marie Dragosits</span>, harpsichord player, with “New information on Giovanni Girolamo Kapsperger - with special focus on his material for the basso continuo”; and <span id="person_tag">Michele Pasotti</span>, lutenist, with “Passaggi per suonare sopra la parte. Kapsberger and other <span id="timeline_tag">17th century</span> Italian sources for basso continuo on the theorbo.”
 
