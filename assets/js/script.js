@@ -346,6 +346,25 @@ if ( imgcaptions ) {
   });
 }
 
+//BREAK LINES IN RELATED RESEARCH
+var relresearch = document.getElementsByClassName('title-related-research');
+if ( relresearch ) {
+	$('.title-related-research').each(function() {
+		var relresearch_paragraphs = this.innerHTML.split('&amp;&amp;');
+		this.innerHTML="";
+
+		for (let i = 0; i < relresearch_paragraphs.length; i++) {
+			var span = document.createElement('span');
+			var spanText = document.createTextNode(relresearch_paragraphs[i]);
+			span.appendChild(spanText);
+			linebreak = document.createElement("br");
+			
+			$(this).append(span);
+			$(this).append(linebreak);
+		}
+  });
+}
+
 //MAKE AUTHOR'S NAME A CLICKABLE LINK
 var authorsNameExists = document.getElementById('this_article_author');
 
