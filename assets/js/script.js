@@ -363,8 +363,6 @@ if ( relresearch ) {
 			console.log(relresearch_paragraphs[i]);
 			console.log(span);
 			
-			$(this).appendChild(span);
-			$(this).appendChild(linebreak);
 			$(this).append(span);
 			$(this).append(linebreak);
 		}
