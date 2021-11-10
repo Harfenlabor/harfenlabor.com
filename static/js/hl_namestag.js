@@ -91,7 +91,21 @@ function persontags(data){
   sortedNames.sort((a, b) => (a.name > b.name) ? 1 : -1);
 
   const sortedSubjects = allSubjects.map((key, ind) => ({ 'subject': key, 'link_subject': [allLinks_subject[ind]], 'title_subject': [allTitles_subject[ind]]}));
-  sortedSubjects.sort((a, b) => (a.subject > b.subject) ? 1 : -1);
+  //sortedSubjects.sort((a, b) => (a.subject > b.subject) ? 1 : -1);
+
+  sortedSubjects.sort(function(a, b) {
+    var subjectA = a.subject.toUpperCase(); // ignore upper and lowercase
+    var subjectB = b.subject.toUpperCase(); // ignore upper and lowercase
+    if (subjectA < subjectB) {
+      return -1;
+    }
+    if (subjectA > subjectB) {
+      return 1;
+    }
+
+    // names must be equal
+    return 0;
+  });
 
   //adjust, remove duplicates
   for (var i = 0; i < sortedNames.length; i++) {
