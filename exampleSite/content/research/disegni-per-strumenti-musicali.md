@@ -118,7 +118,7 @@ His apprenticeship with <span id="person_tag">Giovanni Battista Montano</span> a
 
 The proposal to attribute the conception and design of the Barberini harp to Soria is further justified by the above mentioned close relationship between the artist and Barberini's commissions for the works in <span id="subjects_tag">St. Peter's</span> and Palazzo Barberini.
 
-###### Translated by Annamaria Celeste, with the generous support of the Istituto Storico Austriaco, Roma.
+##### Translated by Annamaria Celeste, with the generous support of the Istituto Storico Austriaco, Roma.
 
 ***
 
