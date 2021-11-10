@@ -21,9 +21,8 @@ title = "Barberini Harp Project / Interviews&& Mara Galassi and Dario Pontiggia:
 type = "Research"
 
 +++
-
 <div class="embed-responsive embed-responsive-16by9">
-<iframe src="[https://player.vimeo.com/video/643952116?h=4f58678a6e](https://player.vimeo.com/video/643952116?h=4f58678a6e "https://player.vimeo.com/video/643952116?h=4f58678a6e")" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="[https://player.vimeo.com/video/643952116?h=4f58678a6e](https://player.vimeo.com/video/643952116?h=4f58678a6e "https://player.vimeo.com/video/643952116?h=4f58678a6e")" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Harpist and researcher <span id="person_tag">Mara Galassi</span> and master luthier <span id="person_tag">Dario Pontiggia</span> are in Pontiggia’s workshop in <span id="map_tag">Milano</span>, with a copy of the <span id="subjects_tag">Barberini Harp</span> he built for Galassi, discussing some of the finer points in making copies of historical harps. As one of the pioneers in the field of organological research into the historical harp, Galassi commissioned the first copy ever made of the Barberini Harp from the luthier <span id="person_tag">David Brown</span>. Galassi and Pontiggia have since collaborated on several replicas of the harp, affording deep consideration to various issues affecting any attempt to produce a facsimile of a historical instrument. Galassi and Pontiggia live in the same city and their collaboration has influenced their respective approaches to their own disciplines. In this interview, a disagreement over aspects of the Barberini Harp produces an insight into how building copies as close to the original as possible could yield additional knowledge within related fields. <span id="person_tag">Chiara Granata</span> provides Scientific Commentary on the ensuing debate in [Sol di corde soavi armo le dita? Only music I carry as my weapon? Different ways to use the same instrument]().
