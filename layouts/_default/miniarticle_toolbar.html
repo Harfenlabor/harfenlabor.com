@@ -10,6 +10,7 @@
         {{ $titleLines := split .Title "&&" }}
         {{ range $titleLines }}
           {{ . }}
+          {{ "<br>" }}
         {{ end }}
       {{ else }}{{ .Title }}{{ end }}</a></h6>
     </div>
