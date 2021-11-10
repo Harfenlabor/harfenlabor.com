@@ -21,9 +21,8 @@ title = "Barberini Harp Project / Interviews&&Mimmo Peruffo: Early Music Strings
 type = "Research"
 
 +++
-
 <div class="embed-responsive embed-responsive-16by9">
-<iframe src="[https://vimeo.com/643957091](https://vimeo.com/643957091 "https://vimeo.com/643957091")" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="<iframe title="vimeo-player" src="[https://player.vimeo.com/video/643957091?h=c65ae58271](https://player.vimeo.com/video/643957091?h=c65ae58271 "https://player.vimeo.com/video/643957091?h=c65ae58271")" width="640" height="360" frameborder="0" allowfullscreen></iframe>" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 In this edition of the Barberini Harp Project Interviews, Harfenlabor visits master string maker <span id="person_tag">Mimmo Peruffo</span> in his workshop in <span id="map_tag">Vicenza</span> where he demonstrates elements of the ancient technique of making musical strings from animal guts. Peruffo is one of the very few remaining string makers. He learnt this secret art from an old master from <span id="map_tag">Abruzzo</span> through oral transmission and teaching of gestures. Peruffo thus warns us against relying solely on written accounts to learn about the ancient techniques of his art, as they, Peruffo tells us, “cannot be described in a book.”
