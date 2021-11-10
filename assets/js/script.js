@@ -350,7 +350,7 @@ if ( imgcaptions ) {
 var relresearch = document.getElementsByClassName('title-related-research');
 if ( relresearch ) {
 	$('.title-related-research').each(function() {
-		var relresearch_paragraphs = this.innerHTML.split('&amp;&amp;');
+		var relresearch_paragraphs = this.textContent.split('&amp;&amp;');
 		console.log(relresearch_paragraphs);
 		//this.innerHTML="";
 
