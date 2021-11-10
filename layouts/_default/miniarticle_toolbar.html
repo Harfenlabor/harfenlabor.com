@@ -5,7 +5,13 @@
     </div>
 
     <div class="content-related-research">
-      <h6 class="title-related-research"><a href="{{ .Permalink }}">{{ if in .Title "&&" }}{{ replace .Title "&&" "newline" }}{{ else }}{{ .Title }}{{ end }}</a></h6>
+      <h6 class="title-related-research"><a href="{{ .Permalink }}">
+      {{ if in .Title "&&" }}
+        {{ $titleLines := split .Title "&&" }}
+        {{ range $titleLines }}
+          {{ . }}
+        {{ end }}
+      {{ else }}{{ .Title }}{{ end }}</a></h6>
     </div>
   </div>
 </article>
