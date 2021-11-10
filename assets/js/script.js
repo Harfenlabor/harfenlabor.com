@@ -362,9 +362,12 @@ if ( relresearch ) {
 
 			console.log(relresearch_paragraphs[i]);
 			console.log(span);
+
+			$(this).textContent.append(span);
+			$(this).textContent.append(linebreak);
 			
-			$(this).append(span);
-			$(this).append(linebreak);
+			//$(this).append(span);
+			//$(this).append(linebreak);
 		}
   });
 }
