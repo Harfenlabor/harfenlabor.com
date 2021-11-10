@@ -132,7 +132,7 @@ The proposal to attribute the conception and design of the Barberini harp to Sor
 
 ###### Marcucci, Luisa. _Mostra di Strumenti musicali in disegni degli Uffizi_. Firenze 1952.
 
-###### Onori, Lorenza Mochi and Vodret, Rossella, _Galleria Nazionale d’Arte Antica. I Dipinti. Catalogo sistematico_. Roma 2008
+###### Onori, Lorenza Mochi and Vodret, Rossella, _Galleria Nazionale d’Arte Antica. I Dipinti. Catalogo sistematico_. Roma 2008.
 
 ###### Ringbeck, Brigitta. _Giovanni Battista Soria Architekt Scipione Borgheses_. Münster 1989.
 
