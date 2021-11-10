@@ -13,10 +13,10 @@ project_category = "Barberini Harp Project"
 relatedresearch = [" Scientific Commentary: Sol di corde soavi armo le dita? Only music I carry as my weapon?   Different ways to use the same instrument", "“Venere che sona d’arpa e due amori”: Marco Marazzoli at the Barberini Court", "Barberini Harp Project / Convening What We Know, and What We still Do Not Understand about the Barberini Harp", "Barberini Harp Project / Convening Practical Examination of the Barberini Harp"]
 show_in_news = false
 status = "approved by author"
-subjects_tag = ["Barberini Harp", "wood", "soundboard", "neck", "column", "strings", "construction", "copy", "luthier", "pitch", "diapason", "historical performance practice", "buon gusto", "harp technique", "drone bass", "drone strings", "bourdon", "Estense harp", "facsimile", "organological"]
+subjects_tag = ["Barberini Harp", "wood", "soundboard", "neck", "column", "strings", "construction", "copy", "luthier", "pitch", "diapason", "historical performance practice", "buon gusto", "harp technique", "drone bass", "drone strings", "bourdon", "facsimile", "organological", "drawing", "triangle", "sculptural work", "ornament", "classical guitar", "concert instrument", "bass strings", "high range", "holes", "Estense Harp", "drilling", "identical copy", "original Barberini", "plucked instruments", "gilder", "carver", "soundbox", "absolute copy"]
 subtype = ["Organology", "Performance Practice"]
 summary_text = ""
-timeline_tag = ["1632-1633", "1980-90", "2016"]
+timeline_tag = ["1632-1633", "1980-90", "2016", "-1940s"]
 title = "Barberini Harp Project / Interviews&& Mara Galassi and Dario Pontiggia: About the Barberini Harp"
 type = "Research"
 
