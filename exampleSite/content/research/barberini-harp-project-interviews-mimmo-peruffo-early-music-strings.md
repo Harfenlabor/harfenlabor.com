@@ -21,9 +21,9 @@ title = "Barberini Harp Project / Interviews&&Mimmo Peruffo: Early Music Strings
 type = "Research"
 
 +++
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/643957091?h=c65ae58271&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Harfenlabor. Mimmo Peruffo: Early Music Strings"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/643957091?h=c65ae58271&badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Harfenlabor. Mimmo Peruffo: Early Music Strings"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-In this edition of the Barberini Harp Project Interviews, Harfenlabor visits master string maker <span id="person_tag">Mimmo Peruffo</span> in his workshop in <span id="map_tag">Vicenza</span> where he demonstrates elements of the ancient technique of making musical strings from animal guts. Peruffo is one of the very few remaining string makers. He learnt this secret art from an old master from <span id="map_tag">Abruzzo</span> through oral transmission and teaching of gestures. Peruffo thus warns us against relying solely on written accounts to learn about the ancient techniques of his art, as they, Peruffo tells us, “cannot be described in a book.”
+In this edition of the Barberini Harp Project Interviews, Harfenlabor visits master string maker <span id="person_tag">Mimmo Peruffo</span> in his workshop in <span id="map_tag">Vicenza</span> where he demonstrates elements of the ancient technique of making musical strings from animal guts. Peruffo is one of the very few remaining string makers. He has learnt this secret art from an old master from <span id="map_tag">Abruzzo</span> through oral transmission and teaching of gestures. Peruffo thus warns us against relying solely on written accounts to learn about the ancient techniques of his art, as they, Peruffo tells us, “cannot be described in a book.”
 
 © Armin Linke / Harfenlabor 2020
 
