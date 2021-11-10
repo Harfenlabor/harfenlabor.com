@@ -351,16 +351,20 @@ var relresearch = document.getElementsByClassName('title-related-research');
 if ( relresearch ) {
 	$('.title-related-research').each(function() {
 		var relresearch_paragraphs = this.innerHTML.split('&amp;&amp;');
-		this.innerHTML="";
+		console.log(relresearch_paragraphs);
+		//this.innerHTML="";
 
 		for (let i = 0; i < relresearch_paragraphs.length; i++) {
 			var span = document.createElement('span');
 			var spanText = document.createTextNode(relresearch_paragraphs[i]);
 			span.appendChild(spanText);
 			linebreak = document.createElement("br");
+
+			console.log(relresearch_paragraphs[i]);
+			console.log(span);
 			
-			$(this).append(span);
-			$(this).append(linebreak);
+			/*$(this).append(span);
+			$(this).append(linebreak);*/
 		}
   });
 }
