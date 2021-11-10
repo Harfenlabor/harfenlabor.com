@@ -352,7 +352,8 @@ if ( relresearch ) {
 	$('.title-related-research').each(function() {
 		var relresearch_paragraphs = this.textContent.split('&&');
 		console.log(relresearch_paragraphs);
-		this.textContent="";
+		console.log(this);
+		//this.textContent="";
 
 		for (let i = 0; i < relresearch_paragraphs.length; i++) {
 			var span = document.createElement('span');
@@ -364,9 +365,6 @@ if ( relresearch ) {
 			console.log(span);
 
 			console.log(this);
-
-			this.textContent += spanText;
-			this.textContent += linebreak;
 
 			//$(this).textContent.append(span);
 			//$(this).textContent.append(linebreak);
