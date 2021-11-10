@@ -32,4 +32,4 @@ Harfenlabor invited the historical harpist and researcher <span id="person_tag">
 [Pontiggia, Dario. “Barberini Harp. Data Sheets.” _Recercare_ 27, no. 1/2 (2015): 165–84.](http://www.jstor.org/stable/26381198 "Pontiggia, Dario. “Barberini Harp. Data Sheets.” Recercare 27, no. 1/2 (2015): 165–84. ")
 
 © Armin Linke / Harfenlabor 2020.  
-Licensed under CC BY-NC-ND International 4.0
+Licensed under [CC BY-NC-ND International 4.0](https://harfenlabor.netlify.app/aboutpage/#ccbyncnd)
