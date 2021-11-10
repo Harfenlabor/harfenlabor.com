@@ -352,7 +352,7 @@ if ( relresearch ) {
 	$('.title-related-research').each(function() {
 		var relresearch_paragraphs = this.textContent.split('&amp;&amp;');
 		console.log(relresearch_paragraphs);
-		//this.innerHTML="";
+		this.textContent="";
 
 		for (let i = 0; i < relresearch_paragraphs.length; i++) {
 			var span = document.createElement('span');
@@ -363,8 +363,10 @@ if ( relresearch ) {
 			console.log(relresearch_paragraphs[i]);
 			console.log(span);
 			
-			/*$(this).append(span);
-			$(this).append(linebreak);*/
+			$(this).appendChild(span);
+			$(this).appendChild(linebreak);
+			$(this).append(span);
+			$(this).append(linebreak);
 		}
   });
 }
