@@ -17,7 +17,7 @@ subjects_tag = ["Gabinetto dei Disegni e delle Stampe", "Le Gallerie degli Uffiz
 subtype = ["Organology", "Iconography", "Sociology of Art"]
 summary_text = ""
 timeline_tag = ["16th century", "17th century", "1670s", "15th century", "early 16th century"]
-title = "Barberini Harp Project / Interviews&&Marzia Faetti: Two Souls of a Harp"
+title = "Barberini Harp Project / Interviews\\Marzia Faetti: Two Souls of a Harp"
 type = "Research"
 
 +++
