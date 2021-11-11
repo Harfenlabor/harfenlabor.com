@@ -8,7 +8,7 @@
 
     <!--from here-->
     {{ if .Description }}
-    <div class="synopsis_box" style="margin-top: -3em;">
+    <div class="synopsis_box synopsis_in_news">
       <p class="synopsis">Synopsis: {{ .Description }}</p>
       <div class="open_synopsis_box">+</div>
     </div>
@@ -29,7 +29,7 @@
       <div id="extraspace"></div>
       {{ end }}
       {{ if .Params.footnotes }}
-      <div class="footnotes_box" style="margin-bottom: 7.5em;">
+      <div class="footnotes_box footnotes_in_news">
         <p class="footnotes">Footnotes: {{ .Params.footnotes }}</p>
         <div class="open_footnotes_box">+</div>
       </div>
