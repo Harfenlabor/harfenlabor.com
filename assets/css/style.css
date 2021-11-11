@@ -157,22 +157,20 @@ iframe {
 }
 
 .border-meghna {
-  border-top: 0px;
+  border-top: 0;
   height: 1px;
-  margin: 15px auto 0;
+  margin: auto;
   position: relative;
-  width: 30%;
+  width: 100%;
 }
 
 .border-meghna:before {
-  background-color: #fff;
   content: '';
-  height: 6px;
-  left: 50%;
-  margin-left: -20px;
+  height: 3.4px;
+  left: 0;
   position: absolute;
   top: -4px;
-  width: 50px;
+  width: 100%;
   background-color: var(--purpleColor);
 }
 
