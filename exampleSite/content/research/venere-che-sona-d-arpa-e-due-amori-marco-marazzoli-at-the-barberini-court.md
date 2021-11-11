@@ -1,6 +1,6 @@
 +++
 PublishDate = 2021-11-02T23:00:00Z
-author = "Elisabetta Frullini"
+author = "Elisabetta Frullini \""
 description = ""
 downloads = []
 externallinks = "Davide Daolmi, \"L’armi e gli amori\". Un’opera di cappa e spada nella Roma di mezzo Seicento (PhD diss., Università degli studi di Roma \"La Sapienza\", 2001) - http://www.examenapium.it/armi && Museo Nazionale d'Arte Antica di Palazzo Barberini - https://www.barberinicorsini.org/en/art/collections/ && Museo Nazionale degli Strumenti Musicali - http://museostrumentimusicali.beniculturali.it/index.php?it/129/arpa-barberini && "
@@ -43,7 +43,7 @@ Before <span id="person_tag">Franca Trinchieri Camiz</span> recognised it as men
 
 ###### Tiziano, _Venere e il suonatore di liuto_ (<cap>Fig. 3</cap>)
 
-Among other things, it is worth noting that Marazzoli's _Venus_ loses its connotation the moment it enters the Barberini collections, where it was inventoried from <span id="timeline_tag">1671</span> simply as a “donna grande al naturale che suona l’Arpa mezza nuda mano del Cav. Lanfranco.”<sup>9</sup> The painting could be in relation to the representations of Venetian women (often courtesans), particularly in vogue in the <span id="timeline_tag">1500s</span>, depicted playing an instrument, usually a lute. They often assumed characteristics of Venus, goddess of love, by virtue of the erotic character of the image. Just like in the Venetian paintings, the woman is very 'true'; her hairstyle is fashioned in the way we find in other works from the early <span id="timeline_tag">1730s</span>.
+Among other things, it is worth noting that Marazzoli's _Venus_ loses its connotation the moment it enters the Barberini collections, where it was inventoried from <span id="timeline_tag">1671</span> simply as a “donna grande al naturale che suona l’Arpa mezza nuda mano del Cav. Lanfranco.”<sup>9</sup> The painting could be in relation to the representations of Venetian women (often courtesans), particularly in vogue in the <span id="timeline_tag">1500s</span>, depicted playing an instrument, usually a lute. They often assumed characteristics of Venus, goddess of love, by virtue of the erotic character of the image. Just like in the Venetian paintings, the woman is very "true"; her hairstyle is fashioned in the way we find in other works from the early <span id="timeline_tag">1730s</span>.
 
 ![](/images/4-andrea-sacchi-devine-wisdom-detail-rome-fresco-on-a-ceyling-of-palazzo-barberini.jpg)
 
