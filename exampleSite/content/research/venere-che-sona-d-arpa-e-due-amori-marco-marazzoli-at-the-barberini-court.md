@@ -1,6 +1,6 @@
 +++
 PublishDate = 2021-11-02T23:00:00Z
-author = "Elisabetta Frullini \""
+author = "Elisabetta Frullini"
 description = ""
 downloads = []
 externallinks = "Davide Daolmi, \"L’armi e gli amori\". Un’opera di cappa e spada nella Roma di mezzo Seicento (PhD diss., Università degli studi di Roma \"La Sapienza\", 2001) - http://www.examenapium.it/armi && Museo Nazionale d'Arte Antica di Palazzo Barberini - https://www.barberinicorsini.org/en/art/collections/ && Museo Nazionale degli Strumenti Musicali - http://museostrumentimusicali.beniculturali.it/index.php?it/129/arpa-barberini && "
