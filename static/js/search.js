@@ -91,15 +91,13 @@ function populateResults(result){
 
       //let title_link_text = document.createTextNode(this.item.title);
 
-      console.log(this.item.title);
       if (this.item.title.includes("&&")){
         var title_lines = this.item.title.split("&&");
 
         for (let i = 0; i < title_lines.length; i++) {
-          console.log(i);
-          console.log(title_lines[i]);
           let title_link_text = document.createTextNode(title_lines[i]);
           title_link.appendChild(title_link_text);
+          title_link.appendChild(document.createElement('br'));
         }
 
       } else {
