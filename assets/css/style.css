@@ -31,22 +31,29 @@ body {
 
 h1,
 h2,
-h3,
-h4 {
+h3 {
   font-weight: 400;
   font-family: Jungka;
   font-size: 2.4rem; /*edited*/
   color: black;
 }
 
-h5 {
+h4 /*USED FOR TRANSLATION QUOTES*/ {
+  font-family: Jungka;
+  font-size: 1.5rem;
+  line-height: 1.7rem;
+  border-top: 1px solid var(--purpleColor);
+  padding-top: 0.6em;
+}
+
+h5 /*USED FOR INDENT PARAGRAPHS*/ {
   font-family: Jungka;
   font-size: 1.5rem;
   line-height: 1.7rem;
   margin-left: 2em;
 }
 
-h6 {
+h6 /*USED FOR IMAGE CAPTIONS*/ {
   font-family: Jungka;
   max-width: 70%;
   margin-left: auto;
