@@ -17,7 +17,8 @@ var fuseOptions = {
 
 let pagesNotToRender = ["About", "Index", "Map", "Timeline", "Search", "News",
 "Mediathek", "Organology", "Performance Practice", "Musicology", "HL Editions",
-"Iconography", "Sociology of Art"];
+"Iconography", "Sociology of Art", "Harfenlabor lectures", "Barberini Harp Project",
+"Haydn’s Folk Harp"];
 
 
 window.addEventListener('load', function () {
