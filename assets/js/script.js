@@ -156,47 +156,6 @@ if ( imgcaptionsBoxExists ) {
 	}
 }
 
-//BREAK LINES IN TITLES
-var article_title = document.getElementsByClassName('this_article_title');
-if ( article_title ) {
-	$('.this_article_title').each(function() {
-		var article_title_paragraphs = this.innerHTML.split('&amp;&amp;');
-		this.innerHTML="";
-
-		for (let i = 0; i < article_title_paragraphs.length; i++) {
-			var span = document.createElement('span');
-			var spanText = document.createTextNode(article_title_paragraphs[i]);
-			span.appendChild(spanText);
-			linebreak = document.createElement("br");
-			
-			$(this).append(span);
-			$(this).append(linebreak);
-		}
-  });
-}
-
-//BREAK LINES IN TITLES (LIST PAGES)
-window.addEventListener('load', function () {
-
-	var article_title_list = document.getElementsByClassName('list_article_title');
-	if ( article_title_list ) {
-		$('.list_article_title').each(function() {
-			var list_article_title_paragraphs = this.innerHTML.split('&amp;&amp;');
-			this.innerHTML="";
-
-			for (let i = 0; i < list_article_title_paragraphs.length; i++) {
-				var span = document.createElement('span');
-				var spanText = document.createTextNode(list_article_title_paragraphs[i]);
-				span.appendChild(spanText);
-				linebreak = document.createElement("br");
-				$(this).append(span);
-				$(this).append(linebreak);
-			}
-	  });
-	}
-
-})
-
 //BREAK LINES IN SYNOPSIS
 var synopsis = document.getElementsByClassName('synopsis')[0];
 if ( synopsis ) {
