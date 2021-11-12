@@ -16,7 +16,7 @@ status = "approved by author"
 subjects_tag = ["Gabinetto dei Disegni e delle Stampe", "Le Gallerie degli Uffizi", "Uffizi", "richly decorated", "Barberini Harp", "harp", "drawing", "preparatory drawing", "Kunsthistorisches Institut in Florenz – Max-Planck-Institut", "Museo Nazionale dei Strumenti Musicali", "graphic art", "Cabinet of Drawings and Prints", "Uffizi Gallery", "collection", "Tuscan artists", "Florentine artists", "Orpheus", "Orfeo", "Bentivolesco", "Ferrara school", "Bolognese artists", "Ferraran artists", "cultural crossroads", "David", "Davide", "immersion in music", "engraver", "Post-Raphaelite", "Durerian landscape", "Roman period", "Bolognese period", "bulino engraving", "Eurydice", "underworld", "Apollo", "angelic choir", "lute", "memory drawing", "strings", "perimeter element", "primacy of the arts", "architectural", "scupltural", "pictorial", "construction", "iconographic", "column", "pictorial frieze", "decoration", "ornament", "decorative richness", "commission"]
 subtype = ["Organology", "Iconography", "Sociology of Art"]
 summary_text = ""
-timeline_tag = ["16th century", "17th century", "1670s", "15th century", "early 16th century"]
+timeline_tag = ["16th century", "17th century", "1670s", "15th century"]
 title = "Barberini Harp Project / Interviews&&Marzia Faetti: Two Souls of a Harp"
 type = "Research"
 
