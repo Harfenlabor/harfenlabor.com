@@ -686,6 +686,22 @@ p > img {
 	padding-left: 0px; /* was .5rem!important;*/
 }
 
+.flexbox{
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+
+.flexbox div{
+  margin: 10px;
+  width: auto;
+}
+
+.flexbox img{
+}
+
 /*@media (min-width: 576px) {
 	.container {
 		max-width: 960px!important;
