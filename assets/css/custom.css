@@ -687,7 +687,7 @@ p > img {
 }
 
 .flexbox{
-  width: auto;
+  width: 100%;
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
@@ -696,10 +696,10 @@ p > img {
 
 .flexbox div{
   margin: 10px;
-  width: auto;
 }
 
 .flexbox img{
+	width: 100%;
 }
 
 /*@media (min-width: 576px) {
