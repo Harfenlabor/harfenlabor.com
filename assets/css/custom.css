@@ -261,11 +261,13 @@
 	padding: 1em;
 	padding-top: 0.4em;
 	/*padding-right: 3em;*/
-	width: 20%;
+	width: 25%;
+	text-align: left;
 	height: 5.6em;
 	overflow: auto;
-	margin-left: 3vw; /*was 4em*/
-	margin-top: 2em;
+
+	margin-left: 0%;
+	margin-top: -3em;
 
 	display: flex;
 	flex-direction: row-reverse;
