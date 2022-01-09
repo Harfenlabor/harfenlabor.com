@@ -108,7 +108,7 @@ weight = 1
 [markup.goldmark.renderer]
 unsafe = true
 [outputs]
-baseURL = "http://harfenlabor.com"
+baseURL = "http://www.harfenlabor.com"
 disableLanguages = ["Fr"]
 disqusShortname = ""
 home = ["HTML", "RSS", "JSON"]
@@ -124,16 +124,18 @@ google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
 
-[params.Projects]
-  [[params.Projects.projects]]
-  title = "Barberini Harp Project"
-  description = "the Barberini Harp Project is a…"
-  [[params.Projects.projects]]
-  title = "Haydn’s Folk Harp"
-  description = "the Haydn’s Folk Harp is a…"
-  [[params.Projects.projects]]
-  title = "Harfenlabor lectures"
-  description = "the Harfenlabor lectures is a…"
+[[params.Projects.projects]]
+description = "By commissioning new works for Historical Harp through HL Editions, Harfenlabor aims to contribute to articulating a contemporary language of performance practice for the instrument. In collaboration with contemporary composers and performers, Harfenlabor intends to develop a new performative and interpretive plane for the instrument and keep its repertoire alive. "
+title = "HL Editions"
+[[params.Projects.projects]]
+description = "The Barberini Harp is the most important surviving Italian Baroque harp. This chromatic harp with three parallel rows of strings was constructed in 1632-33 for the harpist Marco Marazzoli by the instrument maker Girolamo Acciari and the wood-carver Giovanni Tubi under the patronage of Cardinal Antonio Barberini.    As we still lack crucial understanding of this famous harp, Harfenlabor’s Barberini Harp Project intends to share and initiate research on this harp in the fields of organology, musicology, and performance practice.    This publication presents three stages of the Barberini Harp Project: Convening in Roma in 2016, Interviews with Experts, and Examinations."
+title = "Barberini Harp Project"
+[[params.Projects.projects]]
+description = "the Haydn’s Folk Harp is a…"
+title = "Haydn’s Folk Harp"
+[[params.Projects.projects]]
+description = "Historical harp practice demands an ongoing engagement between scientific knowledge and artistic creation. Harfenlabor Lectures series offers a space for sharing multi-disciplinary knowledge on Historical Harp, whilst encouraging and supporting discussion and debate among diverse musicians, scientists, artists and instrument makers."
+title = "Harfenlabor Lectures"
 
 [params.cookies]
 enable = false
