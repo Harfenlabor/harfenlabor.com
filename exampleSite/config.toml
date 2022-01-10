@@ -108,7 +108,7 @@ weight = 1
 [markup.goldmark.renderer]
 unsafe = true
 [outputs]
-baseURL = "http://www.harfenlabor.com"
+baseURL = "harfenlabor.netlify.app"
 disableLanguages = ["Fr"]
 disqusShortname = ""
 home = ["HTML", "RSS", "JSON"]
