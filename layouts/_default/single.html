@@ -602,22 +602,39 @@
   const iframe = document.querySelector('iframe');
   const player = new Vimeo.Player(iframe);
 
+  function setVideoTime(timeToBeSet) {
+    player.setCurrentTime(timeToBeSet).then(function(seconds) {
+    // seconds = the actual time that the player seeked to
+    }).catch(function(error) {
+        switch (error.name) {
+            case 'RangeError':
+                // the time was less than 0 or greater than the video’s duration
+                break;
+
+            default:
+                // some other error occurred
+                break;
+        }
+    });
+  }
+
   player.getChapters().then(function(chapters) {
     var allStartTimes = [];
 
     $.each(chapters,
       function() {
         var indexOfTimes = this.index;
-
         allStartTimes.push(this.startTime);
 
         var chapter_paragraph = document.createElement('h6');
         chapter_paragraph.style.textIndent = "-1.5em";
         chapter_paragraph.style.color = "var(--purpleColor)";
         chapter_paragraph.style.cursor = "pointer";
+        chapter_paragraph.style.marginBottom = ".5rem";
         var chapter_insideText = document.createTextNode(this.index + " – " + this.title);
         chapter_paragraph.appendChild(chapter_insideText);
-        chapter_paragraph.onclick = function() {console.log(allStartTimes[indexOfTimes-1])};
+        //chapter_paragraph.onclick = function() {console.log(allStartTimes[indexOfTimes-1])};
+        chapter_paragraph.onclick = function() {setVideoTime(allStartTimes[indexOfTimes-1])};        
 
         document.getElementsByClassName('chapters')[0].append(chapter_paragraph);
       }
