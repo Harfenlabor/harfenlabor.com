@@ -602,15 +602,19 @@
   const iframe = document.querySelector('iframe');
   const player = new Vimeo.Player(iframe);
 
-  console.log(iframe);
-  console.log("ciao");
-
   player.on('play', function() {
       console.log('played the video!');
   });
 
   player.getVideoTitle().then(function(title) {
       console.log('title:', title);
+  });
+
+  player.getChapters().then(function(chapters) {
+    console.log(chapters);
+  }).catch(function(error) {
+    console.log("ciao");
+    console.log(error);
   });
 
 </script>
