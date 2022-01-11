@@ -617,10 +617,8 @@
       function() {
         console.log(this.title, this.startTime);
 
-        var chapter_paragraph = document.createElement('p');
-        var chapter_plainText = this.title;
-        var chapter_insideText = document.createTextNode(chapter_plainText);
-        chapter_paragraph.setAttribute('class', 'footnotes');
+        var chapter_paragraph = document.createElement('h6');
+        var chapter_insideText = document.createTextNode(this.index + " – " + this.title);
         chapter_paragraph.appendChild(chapter_insideText);
         document.getElementsByClassName('chapters')[0].append(chapter_paragraph);
       }
