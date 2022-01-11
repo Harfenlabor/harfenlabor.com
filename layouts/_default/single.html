@@ -615,25 +615,17 @@
 
     $.each(chapters,
       function() {
-        console.log(this);
+        console.log(this.title, this.startTime);
       }
     );
 
+    var chapter_paragraph = document.createElement('p');
+    var chapter_plainText = this.title;
+    var chapter_insideText = document.createTextNode(chapter_plainText);
+    chapter_paragraph.setAttribute('class', 'footnotes');
+    chapter_paragraph.appendChild(chapter_insideText);
+    document.getElementsByClassName('embed-responsive embed-responsive-16by9')[0].append(chapter_paragraph);
 
-    var fn_paragraph = document.createElement('p');
-
-    var fn_plainText = footnotes[this.textContent].textContent;
-    if (fn_plainText.includes("Footnotes: ")){
-      fn_plainText =  fn_plainText.replace("Footnotes: ", "");
-    }
-    var fn_insideText = document.createTextNode(fn_plainText);
-
-    fn_paragraph.setAttribute('class', 'footnotes');
-    fn_paragraph.appendChild(fn_insideText);
-
-
-
-box.append(fn_paragraph);
   }).catch(function(error) {
     console.log(error);
   });
