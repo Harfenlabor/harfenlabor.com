@@ -602,6 +602,9 @@
   const iframe = document.querySelector('iframe');
   const player = new Vimeo.Player(iframe);
 
+  console.log(iframe);
+  console.log("ciao");
+
   player.on('play', function() {
       console.log('played the video!');
   });
