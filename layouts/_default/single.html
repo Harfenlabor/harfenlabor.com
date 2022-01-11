@@ -616,15 +616,16 @@
     $.each(chapters,
       function() {
         console.log(this.title, this.startTime);
+
+        var chapter_paragraph = document.createElement('p');
+        var chapter_plainText = this.title;
+        var chapter_insideText = document.createTextNode(chapter_plainText);
+        chapter_paragraph.setAttribute('class', 'footnotes');
+        chapter_paragraph.appendChild(chapter_insideText);
+        //document.getElementsByClassName('embed-responsive embed-responsive-16by9')[0].append(chapter_paragraph);
+        $( "<p>"+chapter_insideText+"</p>" ).insertAfter( ".embed-responsive embed-responsive-16by9" );
       }
     );
-
-    var chapter_paragraph = document.createElement('p');
-    var chapter_plainText = this.title;
-    var chapter_insideText = document.createTextNode(chapter_plainText);
-    chapter_paragraph.setAttribute('class', 'footnotes');
-    chapter_paragraph.appendChild(chapter_insideText);
-    document.getElementsByClassName('embed-responsive embed-responsive-16by9')[0].append(chapter_paragraph);
 
   }).catch(function(error) {
     console.log(error);
