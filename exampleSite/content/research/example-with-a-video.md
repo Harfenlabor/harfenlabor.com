@@ -26,7 +26,7 @@ titolo_blocchi = []
 type = "Research"
 
 +++
-<div class="embed-responsive embed-responsive-16by9"> <iframe src="https://player.vimeo.com/video/639053636?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe><div class="chapters"></div></div>
+<div class="embed-responsive embed-responsive-16by9"> <iframe src="https://player.vimeo.com/video/639053636?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><div class="chapters"></div>
 
 ###### 
 
