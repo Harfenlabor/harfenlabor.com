@@ -602,20 +602,12 @@
   const iframe = document.querySelector('iframe');
   const player = new Vimeo.Player(iframe);
 
-  player.on('play', function() {
-      console.log('played the video!');
-  });
-
-  player.getVideoTitle().then(function(title) {
-      console.log('title:', title);
-  });
-
   player.getChapters().then(function(chapters) {
-    console.log(chapters);
+    var allStartTimes = [];
 
     $.each(chapters,
       function() {
-        console.log(this.title, this.startTime);
+        allStartTimes.push(this.startTime);
 
         var chapter_paragraph = document.createElement('h6');
         chapter_paragraph.style.textIndent = "-1.5em";
@@ -623,7 +615,7 @@
         chapter_paragraph.style.cursor = "pointer";
         var chapter_insideText = document.createTextNode(this.index + " – " + this.title);
         chapter_paragraph.appendChild(chapter_insideText);
-        chapter_paragraph.onclick = function() {console.log(this.startTime)};
+        chapter_paragraph.onclick = function() {console.log(allStartTimes[this.index])};
 
         document.getElementsByClassName('chapters')[0].append(chapter_paragraph);
       }
