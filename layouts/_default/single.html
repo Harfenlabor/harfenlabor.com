@@ -607,6 +607,8 @@
 
     $.each(chapters,
       function() {
+        var indexOfTimes = this.index;
+
         allStartTimes.push(this.startTime);
 
         var chapter_paragraph = document.createElement('h6');
@@ -616,8 +618,8 @@
         var chapter_insideText = document.createTextNode(this.index + " – " + this.title);
         chapter_paragraph.appendChild(chapter_insideText);
         //chapter_paragraph.onclick = function() {console.log(allStartTimes[this.index])};
-        chapter_paragraph.onclick = function() {console.log("ciao")};
-        console.log(allStartTimes);
+        chapter_paragraph.onclick = function() {console.log(indexOfTimes)};
+        console.log(allStartTimes[1]);
 
         document.getElementsByClassName('chapters')[0].append(chapter_paragraph);
       }
