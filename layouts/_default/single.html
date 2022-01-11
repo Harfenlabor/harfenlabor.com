@@ -622,8 +622,7 @@
         var chapter_insideText = document.createTextNode(chapter_plainText);
         chapter_paragraph.setAttribute('class', 'footnotes');
         chapter_paragraph.appendChild(chapter_insideText);
-        //document.getElementsByClassName('embed-responsive embed-responsive-16by9')[0].append(chapter_paragraph);
-        $( "<p>"+this.title+"</p>" ).insertAfter( ".embed-responsive-16by9" );
+        document.getElementsByClassName('chapters')[0].append(chapter_paragraph);
       }
     );
 
