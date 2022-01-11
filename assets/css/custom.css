@@ -739,6 +739,7 @@ p > img {
 	}
 	.section{
 		padding: 0px;
+		margin-top: 80px;
 	}
 	.synopsis_in_news{
 		margin-top: 2em;
