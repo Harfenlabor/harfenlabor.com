@@ -617,9 +617,7 @@
         chapter_paragraph.style.cursor = "pointer";
         var chapter_insideText = document.createTextNode(this.index + " – " + this.title);
         chapter_paragraph.appendChild(chapter_insideText);
-        //chapter_paragraph.onclick = function() {console.log(allStartTimes[this.index])};
-        chapter_paragraph.onclick = function() {console.log(indexOfTimes)};
-        console.log(allStartTimes[1]);
+        chapter_paragraph.onclick = function() {console.log(allStartTimes[indexOfTimes])};
 
         document.getElementsByClassName('chapters')[0].append(chapter_paragraph);
       }
