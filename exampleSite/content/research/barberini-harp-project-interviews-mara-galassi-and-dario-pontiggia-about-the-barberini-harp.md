@@ -17,7 +17,7 @@ subjects_tag = ["Barberini Harp", "wood", "soundboard", "neck", "column", "strin
 subtype = ["Organology", "Performance Practice"]
 summary_text = ""
 timeline_tag = ["1632-1633", "1980-90", "2016", "-1940s"]
-title = "Barberini Harp Project / Interviews&& Mara Galassi and Dario Pontiggia: About the Barberini Harp"
+title = "Barberini Harp Project / Interviews&&Mara Galassi and Dario Pontiggia: About the Barberini Harp"
 type = "Research"
 
 +++
