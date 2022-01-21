@@ -6,9 +6,3 @@
   HUGO_VERSION = "0.79.0"
   HUGO_THEME = "repo"
   HUGO_BASEURL = "/"
-
-[[redirects]]
-  from = "https://harfenlabor.netlify.app"
-  to = "https://harfenlabor.com"
-  status = 301
-  force = true
