@@ -960,3 +960,9 @@ p > img {
 		position: relative;
 	}
 }
+
+@media (min-width: 992px) {
+	.synopsis_box {
+		margin-left: -20%;
+	}
+}
