@@ -36,11 +36,15 @@ There is an abundance of paintings with representations of concerts, musicians, 
 
 Naturally, paintings of <span id="subjects_tag">King David</span> usually offer an opportunity to paint a harp. <span id="person_tag">Pier Francesco Mola</span>’s drawing<sup>3</sup> <span id="subjects_tag">_Apparizione dell’angelo a re David che suona l’arpa_</span> provides a very good example in a richly decorated harp, undoubtedly a preparatory work for a painting that, as yet, remains unknown.
 
+***
+
 ![](/images/fig-2.jpg)
 
 ###### Pier Francesco Mola, _Apparizione dell’angelo a re David che suona l’arpa_ (<cap>Fig. 2</cap>).
 
 Less common, however, are preparatory drawings for musical instruments, intended for carvers and soundbox builders. One such drawing, held at the <span id="subjects_tag">Uffizi</span>, has been long known of (and many works on it have been published<sup>4</sup>). This drawing has been compared with the <span id="subjects_tag">Barberini Harp</span>, in the collection of the Museo Nazionale degli Strumenti Musicali in <span id="map_tag">Roma</span>, though it has not so far been identified as a preparatory drawing for this harp.<sup>5</sup>
+
+***
 
 ![](/images/fig-3.jpg)
 
@@ -48,13 +52,19 @@ Less common, however, are preparatory drawings for musical instruments, intended
 
 The drawing presents a project for a richly decorated harp, its column adorned with carvings: architectural motifs of volutes and capitals alternating with putti; atlas figures on pedestals dividing the column in three parts; and sphinxes at the bottom.
 
+***
+
 ![](/images/fig-3c-_7918.jpg)
 
 ###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 4</cap>).
 
+***
+
 ![](/images/fig-3b-7916.jpg)
 
 ###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 5</cap>).
+
+***
 
 On the top frontside is the Barberini coat of arms: three bees surmounted by a cardinal's hat, which is in turn supported by a winged putto. Bees are also depicted on the pedestals. There is a satyr seated at the base of the support. The upper crossbeam uniting the soundbox and the support ends in a volute formed by a sphinx.
 
@@ -62,7 +72,11 @@ On the top frontside is the Barberini coat of arms: three bees surmounted by a c
 
 ###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 6</cap>)
 
+***
+
 The drawing and the instrument known as the Barberini Harp, at the Museo Nazionale degli Strumenti Musicali, are clearly closely related to each other as are the drawing and <span id="person_tag">Giovanni Lanfranco</span>'s painting <span id="subjects_tag">_Venere che suona l’arpa_</span> _o la Musica_ from the collection of <span id="person_tag">Antonio Barberini il Giovane</span>.<sup>6</sup>
+
+***
 
 ![](/images/fig-5.jpg)
 
@@ -84,37 +98,57 @@ Lanfranco's painting provides a clear chronological indication for both the draw
 
 The plastic motifs and the stylistic aspects of this drawing are rather of Cortonesque origin, bearing similarity to <span id="person_tag">Pietro da Cortona</span>'s designs for funerary monuments, engravings and liturgical objects such as a ceremonial mace, which – among other things – carries the Antonio Barberini il Giovane’s coat of arms.<sup>11</sup>
 
+***
+
 ![](/images/fig-6.jpg)
 
 ###### Pietro da Cortona, _Mazza da ceremonia_, drawing (<cap>Fig. 8</cap>).
 
 Moreover, the architectural, figurative and animal motifs are also similar, as are the mixed technique of pen and watercolour. But the draftsman is not Pietro da Cortona either, thought it appears they could have been someone close to him. The author could also be Giovanni Tubi, the carver of the instrument, but we know nothing about his artistic background in drawing. Three decorative projects from the same Uffizi collection (Inv. 1591 E; Inv. 1592 E; Inv. 1593 are likely to have been made by the same draftsman.<sup>12</sup>
 
+***
+
 ![](/images/fig-7.jpg)
 
 ###### Anonymous (G. B. Soria?), _Progetto per una cornice_ (<cap>Fig. 9</cap>).
+
+***
 
 ![](/images/fig-8.jpg)
 
 ###### Anonymous (G.B. Soria?), _Progetto per un mobile_ (<cap>Fig. 10</cap>).
 
+***
+
 One could think of both <span id="person_tag">Bartolomeo de Rossi</span> and <span id="person_tag">Giovanni Battista Soria</span>, both active carvers in the service of the Barberini family (the former, for example, in the chapel of the canons in the <span id="map_tag">Vatican</span> between <span id="timeline_tag">1624</span> and <span id="timeline_tag">1627</span>, and the latter as a carver of frames). Both are mentioned in the Barberini archives for those three years.<sup>13</sup> All the stylistic clues, however, seem to lead to Soria, born in <span id="timeline_tag">1581</span>. His father was a carpenter. Soria was educated in the workshop of <span id="person_tag">Giovanni Battista Montano</span>, also a carver and architect.<sup>14</sup> Both the design and the execution of the <span id="subjects_tag">Palazzo Barberini</span> library are attributed to Soria, as well as the realisation, in the same period, of the richly carved and gilded organ façade for organs in the <span id="subjects_tag">S. Maria sopra Minerva</span>, commissioned by Cardinal <span id="person_tag">Scipione Borghese</span> (1633). Although the organs can be recognised from the bottom, their decorations seem to be very similar to the ones of the afore mentioned projects, and it is indeed interesting to notice that in this case these are musical instruments too. Besides, his mentor Montano also conceived and executed designs for organs in various Roman churches. Although no decorative drawings by Soria have been clearly identified so far (only architectural drawings), the fact that he was an expert cabinetmaker and architect, who was very active for Barberini together with Pietro da Cortona, corroborates my proposal that he might be the author and designer of such a project.<sup>15</sup>
+
+***
 
 ![](/images/fig-9.jpg)
 
 ###### Giovanni Battista Soria, _Custodia della Cattedra Petri_, (<cap>Fig. 11</cap>).
 
+***
+
 Similar motifs of volutes and racemes are present on the wooden case that Soria made in <span id="timeline_tag">1630</span> for the relic of the Petri Chair,<sup>16</sup> as well as on a piece of furniture still in the Palazzo Barberini that contains a fresco by <span id="person_tag">Guido Reni</span>, the <span id="subjects_tag">_Putto Dormiente_</span>.<sup>17</sup>
+
+***
 
 ![](/images/fig-10.jpg)
 
 ###### Guido Reni, _Putto Dormiente_ (<cap>Fig. 12</cap>).
 
+***
+
 The decorative vocabulary is in this case so incredibly similar to that of the drawing for the harp and to another in the Uffizi used for the base of a piece of furniture,<sup>18</sup> that it could indeed be attributed to the same designer. This type of naturalistic and sculptural decoration doesn’t reflect the typical Bernini style, although many have already suggested <span id="person_tag">Gian Lorenzo Bernini</span>’s name as the author of "one of the most beautiful musical instruments ever known."<sup>19</sup> But as <span id="person_tag">Alvar Gonzáles Palacios</span> points out, "it is somehow older," permeated by the Barberini culture based on a more serious style.<sup>20</sup> The presence on the sheet of an architectural black-pencil sketch in the form of a tabernacle or the cornice of a ciborium, in the lower right corner under the soundbox, may also provide further evidence of Soria’s activity as an architect, although one should keep in mind that his profession as an architect was far less important than has long been assumed, as <span id="person_tag">Cristiano Marchegiani</span> recently rightly pointed out thus downgrading Soria’s profile as an architect in the <span id="subjects_tag">_Dizionario Biografico degli Italiani_</span>.<sup>21</sup>
+
+***
 
 ![](/images/fig-4.jpg)
 
 ###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 13</cap>).
+
+***
 
 His apprenticeship with <span id="person_tag">Giovanni Battista Montano</span> and with <span id="person_tag">Antonio Pomarancio</span> was a guarantee of his solid artistic professionalism, which is also undoubtedly recognisable in this project of refined decoration. Among other things, Soria was responsible for the edition of the architectural drawings of his master Giovanni Battista Montano, whose teaching played an important role for Cortona as well, the Barberini artist _par excellence_ and one of Soria’s closest friends.
 
