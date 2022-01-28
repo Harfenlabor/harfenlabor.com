@@ -17,7 +17,7 @@ status = "approved by author"
 subjects_tag = ["Giostra del Saracino", "Barberini Harp", "Estense Harp", "Il Corago", "luthier", "harpist", "absolute copy", "copy", "early music", "carver", "gilder", "soundbox", "neck", "column", "stringing", "strings", "harp", "construction", "organological", "listeners", "acoustics", "instrumentation", "sonic", "parade", "polyphony", "recercata", "counterpoint", "due cori", "lute", "theorbo", "violone", "organ", "concert", "harpsichord", "treatise", "performance", "dynamics", "modification"]
 subtype = ["Organology", "Performance Practice", "Musicology", "Sociology of Art"]
 summary_text = "One of the typical forms of ancient knowledge, still very much in use in the early 1600s in oral or written form, is that of the debate. Rather than advancing a thesis, it presents a dialogue between opposing views. With this in mind, I find it very interesting that the luthier Dario Pontiggia and the harpist and researcher Mara Galassi express two opposite viewpoints regarding the Barberini Harp."
-timeline_tag = ["1633", "1634", "1600s", "17th century"]
+timeline_tag = ["1633", "1634", "1600s"]
 title = "Scientific Commentary: Sol di corde soavi armo le dita? Only music I carry as my weapon? Different ways to use the same instrument"
 type = "Research"
 
