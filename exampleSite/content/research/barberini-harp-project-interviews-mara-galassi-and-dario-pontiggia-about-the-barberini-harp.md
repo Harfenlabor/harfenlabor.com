@@ -16,7 +16,7 @@ status = "approved by author"
 subjects_tag = ["Barberini Harp", "wood", "soundboard", "neck", "column", "strings", "construction", "copy", "luthier", "pitch", "diapason", "historical performance practice", "buon gusto", "harp technique", "drone bass", "drone strings", "bourdon", "facsimile", "organological", "drawing", "triangle", "sculptural work", "ornament", "classical guitar", "concert instrument", "bass strings", "high range", "holes", "Estense Harp", "drilling", "identical copy", "original Barberini", "plucked instruments", "gilder", "carver", "soundbox", "absolute copy", "parade", "open air", "instrument for representation", "parade instrument", "instrumentalist"]
 subtype = ["Organology", "Performance Practice"]
 summary_text = ""
-timeline_tag = ["1632-1633", "1980-90", "2016", "-1940s"]
+timeline_tag = ["1632-1633", "1980-90", "2016", "1940s"]
 title = "Barberini Harp Project / Interviews&&Mara Galassi and Dario Pontiggia: About the Barberini Harp"
 type = "Research"
 
