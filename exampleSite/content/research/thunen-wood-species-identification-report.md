@@ -21,9 +21,9 @@ title = "Thünen-Institut Wood Species Identification Report"
 type = "Research"
 
 +++
-###### Reference: KO/1355/18                   Date: 18/02/2019
+Reference: KO/1355/18                   Date: 18/02/2019
 
-###### **Determination of Wood Species**
+**Determination of Wood Species**
 
 As part of an exploratory trip, we were in the Museo Nazionale degli Strumenti Musicali in Roma from December 16 to 18, 2018, and have a wood species determination of the individual components of the
 
