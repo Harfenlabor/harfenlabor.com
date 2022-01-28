@@ -65,7 +65,7 @@ The anatomical determination of the structural features for wood species identif
 
 ![](/images/thunen-report-image-6-copy.png)
 
-###### The blue arrow points to the tailpieces (Fig. 4).
+###### The blue arrow points to tailpieces (Fig. 4).
 
 **The examined tailpieces (6)** show full correspondence with the wood of the botanical genus
 
