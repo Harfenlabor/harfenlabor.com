@@ -5,7 +5,7 @@ description = ""
 downloads = []
 externallinks = ""
 footnotes = ""
-image = ""
+image = "/images/thunen-report-landing-image.png"
 imgcaptions = ""
 map_tag = []
 person_tag = []
@@ -15,13 +15,12 @@ show_in_news = false
 status = "draft"
 subjects_tag = []
 subtype = ["Organology"]
-summary_text = ""
+summary_text = "As part of an exploratory trip, we were in the Museo Nazionale degli Strumenti Musicali in Roma from December 16 to 18, 2018, and have a wood species determination of the individual components of the\nBarberini Harp (Rome 1633, Geronimo Acciari)."
 timeline_tag = []
 title = "Thünen-Institut Wood Species Identification Report"
 type = "Research"
 
 +++
-![](/images/thunen-report-landing-image.png)
 
 Reference: KO/1355/18 
 
