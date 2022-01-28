@@ -16,7 +16,7 @@ status = "approved by author"
 subjects_tag = ["musical strings", "strings", "string maker", "pope", "animal guts", "guild", "oral transmission", "Aquilla Corde Armoniche", "string maker", "luthier", "gut", "ancient technique", "wood", "split reed", "Pope", "Papa", "master", "economy", "consortium", "King of France", "King of Spain", "monopoly", "historical system", "aged oak timber", "membrane", "art", "artisanal craft", "stripping", "gesture", "ancient sources", "decoding", "ancient string making"]
 subtype = ["Organology", "Sociology of Art"]
 summary_text = "In this edition of the Barberini Harp Project Interviews, Harfenlabor visits master string maker Mimmo Peruffo in his workshop in Vicenza where he demonstrates elements of the ancient technique of making musical strings from animal guts. Peruffo is one of the very few remaining string makers. He has learnt this secret art from an old master from Abruzzo through oral transmission and teaching of gestures. Peruffo thus warns us against relying solely on written accounts to learn about the ancient techniques of his art, as they, Peruffo tells us, “cannot be described in a book.” "
-timeline_tag = ["1600", "2016", "18th century", "17th century"]
+timeline_tag = ["1600", "2016", "1600s", "1700s"]
 title = "Barberini Harp Project / Interviews&&Mimmo Peruffo: Early Music Strings"
 type = "Research"
 
