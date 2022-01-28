@@ -17,7 +17,7 @@ subjects_tag = []
 subtype = ["Organology"]
 summary_text = ""
 timeline_tag = []
-title = "Thünen Wood Species Identification Report"
+title = "Thünen-Institut Wood Species Identification Report"
 type = "Research"
 
 +++
