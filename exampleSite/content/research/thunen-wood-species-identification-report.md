@@ -21,8 +21,7 @@ title = "Thünen-Institut Wood Species Identification Report"
 type = "Research"
 
 +++
-
-Reference: KO/1355/18 
+Reference: KO/1355/18
 
 Date: 18/02/2019
 
@@ -50,9 +49,11 @@ The anatomical determination of the structural features for wood species identif
 
 **Abies spp. = Fir, fir**; from the family of **PINACEAE**.
 
-![](/images/thunen-report-image-5.png)
+![](/images/thunen-report-images-5.png)
 
 **The body (5)** of the Barberini Harp is also made of softwood—further examination was not possible at this point, as damage to the paintwork has over the centuries been thickly brushed over or retouched several times. An examination inside the instrument was not possible either.
+
+![](/images/thunen-report-image-6-copy.png)
 
 **The examined tailpieces (6)** show full correspondence with the wood of the botanical genus
 
