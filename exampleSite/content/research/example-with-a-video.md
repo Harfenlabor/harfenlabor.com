@@ -26,11 +26,11 @@ titolo_blocchi = []
 type = "Research"
 
 +++
+***
+
 <div class="embed-responsive embed-responsive-16by9"> <iframe src="https://player.vimeo.com/video/639053636?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><div class="chapters"></div>
 
-###### 
-
-###### 
+***
 
 As part of continued research within the <span id="subjects_tag">Barberini Harp Project</span>, Harfenlabor invited master historical harp maker <span id="person_tag">Eric Kleinmann</span> to reflect on his findings following decades of research into, and practical examinations of the <span id="subjects_tag">Barberini Harp</span>. Harfenlabor also commissioned Kleinmann to build a small-scale model of the top of the harp for experiments with stringing, and present his conclusions at the <span id="subjects_tag">Convening around the Barberini Harp</span>, a symposium organised by Harfenlabor that took place on December 14-16, 2016, at the Museo Nazionale degli Strumenti Musicali and at the Istituto Storico Austriaco, Roma.
 
