@@ -6,7 +6,7 @@ downloads = []
 externallinks = ""
 footnotes = ""
 image = "/images/thunen-report-landing-image.png"
-imgcaptions = ""
+imgcaptions = "Fig. 1 Examined components of the harp, the column (marked with 1) and the neck (marked with 2). Photo: Thünen-Institut, 2018.&&\nFig. 2 Examined component of the harp, the soundboard (marked with 3). Photo: Thünen-Institut, 2018.&&\nFig. 3 Examined component of the harp, the body (left, marked with 5) and unexamined interior of the body (right, marked with 5). Photo: Thünen-Institut, 2018.&&\nFig. 4 Examined component of the harp, the tailpieces (marked 6). Photo: Thünen-Institut, 2018.&&"
 map_tag = []
 person_tag = []
 project_category = "Barberini Harp Project"
@@ -37,14 +37,17 @@ In addition, we have other wood samples (fragments) from an institute in Bologna
 
 The anatomical determination of the structural features for wood species identification was carried out in a completely non-destructive way (with a few exceptions, in consultation with the museum management), with the help of a high-resolution 3D-reflected light microscope (Keyence: VHX-S550). This special microscope has an integrated image analysis software that enables the production of flat observation surfaces so as to enable identification of structural features. The detected structural features of the examined areas of the harp were prepared for comparison with the scientific wood collection at the Thünen Institute for Wood Research, as well as with the databases macroHOLZdata and microHOLZdata (the two databases were developed at the Thünen-Institut, Institut für Holzforschung \[Institute for Wood Research).
 
-  
 ![](/images/thunen-report-image-1-and-2.png)
+
+###### Examined components of the harp, marked (Fig. 1).
 
 **The column and the neck (1 and 2)** correspond fully, in terms of macroscopic and microscopic structural features, to the wood of the botanical genus
 
 **Juglans spp. = Walnut, walnut**; from the **JUGLANDACEAE** family.
 
 ![](/images/thunen-report-image-3.png)
+
+###### Examined component of the harp, marked (Fig. 2).
 
 **The soundboard (3)** corresponds fully, in terms of macroscopic and microscopic structural features, to the wood of the botanical genus
 
@@ -56,9 +59,13 @@ The anatomical determination of the structural features for wood species identif
 
 ![](/images/thunen-report-images-5.png)
 
+###### Examined components of the harp, marked (Fig. 3).
+
 **The body (5)** of the Barberini Harp is also made of softwood—further examination was not possible at this point, as damage to the paintwork has over the centuries been thickly brushed over or retouched several times. An examination inside the instrument was not possible either.
 
 ![](/images/thunen-report-image-6-copy.png)
+
+###### Examined component of the harp, marked (Fig. 4).
 
 **The examined tailpieces (6)** show full correspondence with the wood of the botanical genus
 
