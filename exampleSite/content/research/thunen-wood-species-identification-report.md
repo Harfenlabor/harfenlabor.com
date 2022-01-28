@@ -21,6 +21,7 @@ title = "Thünen-Institut Wood Species Identification Report"
 type = "Research"
 
 +++
+![](/images/thunen-report-landing-image.png)
 
 Reference: KO/1355/18 
 
