@@ -29,7 +29,7 @@ Date: 18/02/2019
 
 As part of an exploratory trip, we were in the Museo Nazionale degli Strumenti Musicali in Roma from December 16 to 18, 2018, and have a wood species determination of the individual components of the
 
-**Barberini Harp (Rome 1633, Geronimo Acciari).**
+##### **Barberini Harp (Rome 1633, Geronimo Acciari).**
 
 In addition, we have other wood samples (fragments) from an institute in Bologna (preliminary investigation 2017 / X-ray technology and SEM), which we were able examine at the Thünen-Institut for the purpose of microscopic determination. The results of our investigation are not entirely in agreement with the results of the Bologna team investigation.
 
