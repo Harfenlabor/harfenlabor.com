@@ -43,7 +43,7 @@ The anatomical determination of the structural features for wood species identif
 
 **The column and the neck (1 and 2)** correspond fully, in terms of macroscopic and microscopic structural features, to the wood of the botanical genus
 
-**Juglans spp. = Walnut, walnut**; from the **JUGLANDACEAE** family.
+##### **Juglans spp. = Walnut, walnut**; from the **JUGLANDACEAE** family.
 
 ![](/images/thunen-report-image-3.png)
 
@@ -51,11 +51,11 @@ The anatomical determination of the structural features for wood species identif
 
 **The soundboard (3)** corresponds fully, in terms of macroscopic and microscopic structural features, to the wood of the botanical genus
 
-**Abies spp. = Fir, fir**; from the family of **PINACEAE**.
+##### **Abies spp. = Fir, fir**; from the family of **PINACEAE**.
 
 **The inner construction timbers (4)** could be examined in the area connecting to the soundboard (which cannot be seen in the image) and also show full correspondence with the wood of the botanical genus
 
-**Abies spp. = Fir, fir**; from the family of **PINACEAE**.
+##### **Abies spp. = Fir, fir**; from the family of **PINACEAE**.
 
 ![](/images/thunen-report-images-5.png)
 
@@ -69,6 +69,6 @@ The anatomical determination of the structural features for wood species identif
 
 **The examined tailpieces (6)** show full correspondence with the wood of the botanical genus
 
-**Buxus spp. = Boxwood, box**; from the family of **BUXACEAE**.
+##### **Buxus spp. = Boxwood, box**; from the family of **BUXACEAE**.
 
 As previously mentioned, we are planning to publish the results in a scientific article: probably once in a well-known German-language "specialist" journal and in an international scientific publication. However, this will be delayed a little, as other scientific articles (publications) must first be completed.
