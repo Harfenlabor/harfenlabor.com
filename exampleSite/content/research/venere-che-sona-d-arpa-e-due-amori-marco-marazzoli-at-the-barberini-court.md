@@ -21,11 +21,15 @@ title = "“Venere che sona d’arpa e due amori”: Marco Marazzoli at the Barb
 type = "Research"
 
 +++
+***
+
 ![](/images/1-giovanni-lanfranco-venus-playing-the-harp-rome-museo-nazionale-d-arte-antica-di-palazzo-barberini.jpg)
 
 ###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
 
 This article focuses on a painting by <span id="subjects_tag">Giovanni Lanfranco</span> that is today on display at the Galleria Nazionale d’Arte Antica di Palazzo Barberini,<sup>1</sup> depicting a harp very similar to the one usually referred to as the <span id="subjects_tag">Barberini Harp</span>,<sup>2</sup> today at the Museo degli Strumenti Musicali in <span id="map_tag">Roma</span>.
+
+***
 
 ![](/images/dif_000185_602_c.jpg)
 
@@ -39,11 +43,15 @@ The humanist <span id="person_tag">Sabba Castiglione</span> writes in his _Ricor
 
 Before <span id="person_tag">Franca Trinchieri Camiz</span> recognised it as mentioned in Marco Marazzoli's will,<sup>6</sup> the painting was considered as an allegory of music or known as, simply, “la musica.”<sup>7</sup> Marazzoli, the first owner of the painting, describes it as <span id="subjects_tag">“Venere che sona d’arpa e due Amori</span>.”<sup>8</sup> The identification with <span id="subjects_tag">Venus</span>, the goddess of love, is demonstrated only by two cupids in the background, as the woman depicted has no attributes that would characterise her as Venus. The iconography of Venus as a musician is certainly unusual. Even as it is true that depictions of Venus connect her with music, for example, in <span id="person_tag">Tiziano</span>’s Venus and a musician series of paintings, Venus herself is rarely represented in the act of playing.
 
+***
+
 ![](/images/3-titian-venus-and-the-lute-palyer-new-york-metropolitan-museum.jpg)
 
 ###### Tiziano, _Venere e il suonatore di liuto_ (<cap>Fig. 3</cap>)
 
 It is worth noting that Marazzoli's _Venus_ loses its connotation the moment it enters the Barberini collections, where it was inventoried from <span id="timeline_tag">1671</span> simply as a “donna grande al naturale che suona l’Arpa mezza nuda mano del Cav. Lanfranco.”<sup>9</sup> The painting could be in relation to the representations of Venetian women (often courtesans), particularly in vogue in the <span id="timeline_tag">1600s</span>, depicted playing an instrument, usually a lute. They often assumed characteristics of Venus, goddess of love, by virtue of the erotic character of the image. Just like in the Venetian paintings, the woman is lifelike; her hairstyle is fashioned in the way we find in other works from the early <span id="timeline_tag">1730s</span>.
+
+***
 
 ![](/images/4-andrea-sacchi-devine-wisdom-detail-rome-fresco-on-a-ceyling-of-palazzo-barberini.jpg)
 
@@ -56,6 +64,8 @@ It is the subject matter, but also the theatricality of the composition that mak
 **1) The painting inside Marazzoli’s home**
 
 Marazzoli's relationship with the Barberini family began shortly after his arrival in Roma from <span id="map_tag">Parma</span>, his hometown, in <span id="timeline_tag">1626</span>, probably following Cardinal <span id="person_tag">Ippolito Aldobrandini</span>.<sup>14</sup> The earliest documents attesting to his service at the <span id="subjects_tag">Barberini court</span> date back to <span id="timeline_tag">1629</span> and concern harp maintenance costs.<sup>15</sup> Indeed, he must have been known as a harpist, given that he was referred to in documents as "Marco dell’arpa." His rise within the Barberini circle and at the papal court is attested in his role of “bussolante”<sup>16</sup> conferred on him by the pope – <span id="person_tag">Urbano VIII Barberini</span> – in 1634. That same year he took part in the music performance at the <span id="subjects_tag">Giostra del Saracino</span>, a knightly tournament; Marazzoli can perhaps be identified as the harpist depicted on the ship of Bacchus.
+
+***
 
 ![](/images/5-francois-colignon-after-andrea-sacchi-ship-of-bacchus-on-the-piazza-navona-bei-the-jousting-tournament-la-giostra-del-sarracino-1634.jpg)
 
