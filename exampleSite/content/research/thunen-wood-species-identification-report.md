@@ -23,7 +23,6 @@ type = "Research"
 +++
 ***
 
-  
 Reference: KO/1355/18                   Date: 18/02/2019
 
 ***
@@ -38,7 +37,7 @@ In addition, we have other wood samples (fragments) from an institute in Bologna
 
 ***
 
-**INVESTIGATION REPORT**
+**Investigation Report**
 
 The anatomical determination of the structural features for wood species identification was carried out in a completely non-destructive way (with a few exceptions, in consultation with the museum management), with the help of a high-resolution 3D-reflected light microscope (Keyence: VHX-S550). This special microscope has an integrated image analysis software that enables the production of flat observation surfaces so as to enable identification of structural features. The detected structural features of the examined areas of the harp were prepared for comparison with the scientific wood collection at the Thünen Institute for Wood Research, as well as with the databases macroHOLZdata and microHOLZdata (the two databases were developed at the Thünen-Institut, Institut für Holzforschung \[Institute for Wood Research).
 
