@@ -7,16 +7,16 @@ externallinks = "Istituto Storico Austriaco - https://www.austriacult.roma.it/de
 footnotes = ""
 image = "/images/thunen-report-landing-image.png"
 imgcaptions = "Fig. 1 Examined components of the harp, the column (marked with 1) and the neck (marked with 2). Photo: Thünen-Institut, 2018.&&\nFig. 2 Examined component of the harp, the soundboard (marked with 3). Photo: Thünen-Institut, 2018.&&\nFig. 3 Examined component of the harp, the body (left, marked with 5) and unexamined interior of the body (right, marked with 5). Photo: Thünen-Institut, 2018.&&\nFig. 4 Examined component of the harp, the tailpieces (marked 6). Photo: Thünen-Institut, 2018.&&"
-map_tag = []
+map_tag = ["Roma", "Hamburg", "Bologna"]
 person_tag = []
 project_category = "Barberini Harp Project"
 relatedresearch = ["Designs for Musical Instruments", "The Barberini Harp Wood Species Identification", "Barberini Harp Project / Convening&&What We Know, and What We still Do Not Understand about the Barberini Harp"]
 show_in_news = false
 status = "draft"
-subjects_tag = []
+subjects_tag = ["X-ray technology", "SEM", "Thünen-Institut", "Barberini Harp", "wood species", "Museo Nazionale degli Strumenti Musicali", "microscopic determination", "investigation", "anatomical determination", "structural features", "wood species identification", "3D-reflected light microscope", "integrated image analysis", "scientific wood collection", "macroHOLZdata", "microHOLZdata", "Thünen-Institut, Institut für Holzforschung", "Thünen-Institut, Institute for Wood Research", "column", "neck", "soundboard", "walnut", "soundboard", "timber", "fir", "body of the harp", "softwood", "tailpiece", "boxwood"]
 subtype = ["Organology"]
 summary_text = "As part of an exploratory trip, we were in the Museo Nazionale degli Strumenti Musicali in Roma from December 16 to 18, 2018, and have a wood species determination of the individual components of the\nBarberini Harp (Rome 1633, Geronimo Acciari)."
-timeline_tag = []
+timeline_tag = ["2018"]
 title = "Thünen-Institut Wood Species Identification Report"
 type = "Research"
 
@@ -31,7 +31,7 @@ Reference: KO/1355/18                   Date: 18/02/2019
 
 As part of an exploratory trip, we were in the Museo Nazionale degli Strumenti Musicali in Roma from December 16 to 18, 2018, and have a wood species determination of the individual components of the
 
-##### **Barberini Harp (Rome 1633, Geronimo Acciari).**
+##### **Barberini Harp (Roma 1633,** <span id="person_tag">**Geronimo Acciari**</span>**).**
 
 In addition, we have other wood samples (fragments) from an institute in Bologna (preliminary investigation 2017 / X-ray technology and SEM), which we were able examine at the Thünen-Institut for the purpose of microscopic determination. The results of our investigation are not entirely in agreement with the results of the Bologna team investigation.
 
@@ -39,7 +39,7 @@ In addition, we have other wood samples (fragments) from an institute in Bologna
 
 **Investigation Report**
 
-The anatomical determination of the structural features for wood species identification was carried out in a completely non-destructive way (with a few exceptions, in consultation with the museum management), with the help of a high-resolution 3D-reflected light microscope (Keyence: VHX-S550). This special microscope has an integrated image analysis software that enables the production of flat observation surfaces so as to enable identification of structural features. The detected structural features of the examined areas of the harp were prepared for comparison with the scientific wood collection at the Thünen Institute for Wood Research, as well as with the databases macroHOLZdata and microHOLZdata (the two databases were developed at the Thünen-Institut, Institut für Holzforschung \[Institute for Wood Research).
+The anatomical determination of the structural features for wood species identification was carried out in a completely non-destructive way (with a few exceptions, in consultation with the museum management), with the help of a high-resolution 3D-reflected light microscope (Keyence: VHX-S550). This special microscope has an integrated image analysis software that enables the production of flat observation surfaces so as to enable identification of structural features. The detected structural features of the examined areas of the harp were prepared for comparison with the scientific wood collection at the Thünen Institute für Holzforschung, as well as with the databases macroHOLZdata and microHOLZdata (the two databases were developed at the Thünen-Institut, Institut für Holzforschung \[Institute for Wood Research).
 
 ***
 
