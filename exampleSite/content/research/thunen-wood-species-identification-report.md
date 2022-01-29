@@ -8,7 +8,7 @@ footnotes = ""
 image = "/images/thunen-report-landing-image.png"
 imgcaptions = "Fig. 1 Examined components of the harp, the column (marked with 1) and the neck (marked with 2). Photo: Thünen-Institut, 2018.&&\nFig. 2 Examined component of the harp, the soundboard (marked with 3). Photo: Thünen-Institut, 2018.&&\nFig. 3 Examined component of the harp, the body (left, marked with 5) and unexamined interior of the body (right, marked with 5). Photo: Thünen-Institut, 2018.&&\nFig. 4 Examined component of the harp, the tailpieces (marked 6). Photo: Thünen-Institut, 2018.&&"
 map_tag = ["Roma", "Hamburg", "Bologna"]
-person_tag = []
+person_tag = ["Geronimo Acciari"]
 project_category = "Barberini Harp Project"
 relatedresearch = ["Designs for Musical Instruments", "The Barberini Harp Wood Species Identification", "Barberini Harp Project / Convening&&What We Know, and What We still Do Not Understand about the Barberini Harp"]
 show_in_news = false
@@ -16,7 +16,7 @@ status = "draft"
 subjects_tag = ["X-ray technology", "SEM", "Thünen-Institut", "Barberini Harp", "wood species", "Museo Nazionale degli Strumenti Musicali", "microscopic determination", "investigation", "anatomical determination", "structural features", "wood species identification", "3D-reflected light microscope", "integrated image analysis", "scientific wood collection", "macroHOLZdata", "microHOLZdata", "Thünen-Institut, Institut für Holzforschung", "Thünen-Institut, Institute for Wood Research", "column", "neck", "soundboard", "walnut", "soundboard", "timber", "fir", "body of the harp", "softwood", "tailpiece", "boxwood", "wood species identification", "macroscopic structural features", "microscopic structural features"]
 subtype = ["Organology"]
 summary_text = "As part of an exploratory trip, we were in the Museo Nazionale degli Strumenti Musicali in Roma from December 16 to 18, 2018, and have a wood species determination of the individual components of the\nBarberini Harp (Rome 1633, Geronimo Acciari)."
-timeline_tag = ["2018"]
+timeline_tag = ["2018", "2017"]
 title = "Thünen-Institut Wood Species Identification Report"
 type = "Research"
 
