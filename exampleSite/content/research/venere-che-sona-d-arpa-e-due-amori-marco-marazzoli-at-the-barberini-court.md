@@ -27,7 +27,7 @@ type = "Research"
 
 ###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
 
-This article focuses on a painting by <span id="subjects_tag">Giovanni Lanfranco</span> that is today on display at the Galleria Nazionale d’Arte Antica di Palazzo Barberini,<sup>1</sup> depicting a harp very similar to the one usually referred to as the <span id="subjects_tag">Barberini Harp</span>,<sup>2</sup> today at the Museo degli Strumenti Musicali in <span id="map_tag">Roma</span>.
+This article focuses on a painting by <span id="subjects_tag">Giovanni Lanfranco</span> that is today on display at the Galleria Nazionale d’Arte Antica di Palazzo Barberini,<sup>1</sup> depicting a harp very similar to the one usually referred to as the <span id="subjects_tag">Barberini Harp</span>,<sup>2</sup> today at the Museo Nazionale degli Strumenti Musicali in <span id="map_tag">Roma</span>.
 
 ***
 
