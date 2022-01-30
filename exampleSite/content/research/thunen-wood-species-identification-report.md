@@ -33,7 +33,11 @@ As part of an exploratory trip, we were in the Museo Nazionale degli Strumenti M
 
 ##### **Barberini Harp (Roma 1633,** <span id="person_tag">**Geronimo Acciari**</span>**).**
 
+***
+
 In addition, we have other wood samples (fragments) from an institute in Bologna (preliminary investigation 2017 / X-ray technology and SEM), which we were able examine at the Thünen-Institut for the purpose of microscopic determination. The results of our investigation are not entirely in agreement with the results of the Bologna team investigation.
+
+***
 
 ***
 
