@@ -49,7 +49,7 @@ Before <span id="person_tag">Franca Trinchieri Camiz</span> recognised it as men
 
 ###### Tiziano, _Venere e il suonatore di liuto_ (<cap>Fig. 3</cap>)
 
-It is worth noting that Marazzoli's _Venus_ loses its connotation the moment it enters the Barberini collections, where it was inventoried from <span id="timeline_tag">1671</span> simply as a “donna grande al naturale che suona l’Arpa mezza nuda mano del Cav. Lanfranco.”<sup>9</sup> The painting could be in relation to the representations of Venetian women (often courtesans), particularly in vogue in the <span id="timeline_tag">1600s</span>, depicted playing an instrument, usually a lute. They often assumed characteristics of Venus, goddess of love, by virtue of the erotic character of the image. Just like in the Venetian paintings, the woman is lifelike; her hairstyle is fashioned in the way we find in other works from the early <span id="timeline_tag">1730s</span>.
+It is worth noting that Marazzoli's _Venus_ loses its connotation the moment it enters the Barberini collections, where it was inventoried from <span id="timeline_tag">1671</span> simply as a “donna grande al naturale che suona l’Arpa mezza nuda mano del Cav. Lanfranco.”<sup>9</sup> The painting could be in relation to the representations of Venetian women (often courtesans), particularly in vogue in the <span id="timeline_tag">1600s</span>, depicted playing an instrument, usually a lute. They often assumed characteristics of Venus, goddess of love, by virtue of the erotic character of the image. Just like in the Venetian paintings, the woman is lifelike; her hairstyle is fashioned in the way we find in other works from the early <span id="timeline_tag">1630s</span>.
 
 ***
 
