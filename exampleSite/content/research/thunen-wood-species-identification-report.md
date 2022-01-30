@@ -57,7 +57,7 @@ The anatomical determination of the structural features for wood species identif
 
 ***
 
-##### 
+***
 
 ![](/images/thunen-report-image-3.png)
 
@@ -69,19 +69,23 @@ The anatomical determination of the structural features for wood species identif
 
 ***
 
+***
+
 **The inner construction timbers (4)** could be examined in the area connecting to the soundboard (which cannot be seen in the image) and also show full correspondence with the wood of the botanical genus
 
 ##### **Abies spp. = Fir, fir**; from the family of **PINACEAE**.
 
 ***
 
-##### 
+***
 
 ![](/images/thunen-report-images-5.png)
 
 ###### The body of the harp, left, and the interior, right (Fig. 3).
 
 **The body (5)** of the Barberini Harp is also made of softwood—further examination was not possible at this point, as damage to the paintwork has over the centuries been thickly brushed over or retouched several times. An examination inside the instrument was not possible either.
+
+***
 
 ***
 
@@ -95,6 +99,6 @@ The anatomical determination of the structural features for wood species identif
 
 ***
 
-##### 
+***
 
 As previously mentioned, we are planning to publish the results in a scientific article: probably once in a well-known German-language "specialist" journal and in an international scientific publication. However, this will be delayed a little, as other scientific articles (publications) must first be completed.
