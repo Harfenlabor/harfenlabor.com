@@ -40,6 +40,8 @@ To fully understand an instrument, it is necessary to hear it played in differen
 
 ###### François Collignon after Andrea Sacchi, _La nave di Bacco_ (<cap>Fig. 1</cap>).
 
+***
+
 What kind of sonic presence could a stringed instrument have in an enormous square packed with revellers? Was it the same instrument that entertained a small group of illustrious listeners in the hall of a palace? I have the impression, from the many references in the treatises and historical chronicles, that performances in the 1600s paid subtle attention to questions of acoustics, and that the choice of instrumentation was much more closely related to the sonic possibilities of instruments and spaces. For this reason, it is hard for me to imagine the existence of “parade” instruments that were impressive to look at, but not from the standpoint of emitted sound.
 
 ***
