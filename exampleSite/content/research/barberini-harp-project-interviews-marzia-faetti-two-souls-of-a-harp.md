@@ -1,7 +1,7 @@
 +++
 PublishDate = 2021-11-07T23:00:00Z
 author = ""
-description = ""
+description = "Marzia Faetti, the director of the Gabinetto dei Disegni e delle Stampe at Le Gallerie degli Uffizi in 2019, when this interview was recorded, shares insights into the origins of the collection, the representation of musical instruments within it, and addresses some of the questions surrounding the drawing titled <i>Progetto per un’arpa</i> (often attributed to Giovanni Battista Soria). Faetti’s art historical and iconographic analyses of the works in the collection, of their context and provenance, structure a rich interpretation of the aesthetic, musical, political, ceremonial and economic importance of precious historical musical instruments such as, in particular, the Barberini Harp. Faetti focuses on the drawing Progetto per un’arpa, which she believes to be one of the preparatory drawings for a sumptuously decorated harp, and an exquisite example of the strong closeness of the various arts involved in such a project. This drawing is believed to be a preparatory drawing for the Barberini Harp, now preserved at the Museo Nazionale dei Strumenti Musicali, Roma. "
 downloads = []
 externallinks = "Gabinetto Disegni e Stampe degli Uffizi - https://www.uffizi.it/en/the-uffizi/prints-and-drawings && Museo Nazionale degli Strumenti Musicali - http://museostrumentimusicali.beniculturali.it/index.php?it/129/arpa-barberini && Kunsthistorisches Institut in Florenz–Max-Planck-Institut - https://www.khi.fi.it && Istituto Storico Austriaco - http://www.oehirom.it/it/ && "
 footnotes = ""
