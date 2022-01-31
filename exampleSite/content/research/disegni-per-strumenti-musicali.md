@@ -48,7 +48,7 @@ Less common, however, are preparatory drawings for musical instruments, intended
 
 ![](/images/fig-3.jpg)
 
-###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa_ (<cap>Fig. 3</cap>).
+###### Anonymous Roman, _Progetto per un’arpa_ (<cap>Fig. 3</cap>).
 
 The drawing presents a project for a richly decorated harp, its column adorned with carvings: architectural motifs of volutes and capitals alternating with putti; atlas figures on pedestals dividing the column in three parts; and sphinxes at the bottom.
 
@@ -56,11 +56,11 @@ The drawing presents a project for a richly decorated harp, its column adorned w
 
 ![](/images/fig-3c-_7918.jpg)
 
-###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 4</cap>).
+###### Anonymous Roman, _Progetto per un’arpa,_ detail (<cap>Fig. 4</cap>).
 
 ![](/images/fig-3b-7916.jpg)
 
-###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 5</cap>).
+###### Anonymous Roman, _Progetto per un’arpa,_ detail (<cap>Fig. 5</cap>).
 
 On the top frontside is the Barberini coat of arms: three bees surmounted by a cardinal's hat, which is in turn supported by a winged putto. Bees are also depicted on the pedestals. There is a satyr seated at the base of the support. The upper crossbeam uniting the soundbox and the support ends in a volute formed by a sphinx.
 
@@ -68,7 +68,7 @@ On the top frontside is the Barberini coat of arms: three bees surmounted by a c
 
 ![](/images/fig-3a-7915.jpg)
 
-###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 6</cap>)
+###### Anonymous Roman, _Progetto per un’arpa,_ detail (<cap>Fig. 6</cap>)
 
 The drawing and the instrument known as the Barberini Harp, at the Museo Nazionale degli Strumenti Musicali, are clearly closely related to each other as are the drawing and <span id="person_tag">Giovanni Lanfranco</span>'s painting <span id="subjects_tag">_Venere che suona l’arpa_</span> _o la Musica_ from the collection of <span id="person_tag">Antonio Barberini il Giovane</span>.<sup>6</sup>
 
