@@ -58,17 +58,23 @@ The drawing presents a project for a richly decorated harp, its column adorned w
 
 ###### Anonymous Roman, _Progetto per un’arpa,_ detail (<cap>Fig. 4</cap>).
 
-![](/images/fig-3b-7916.jpg)
-
-###### Anonymous Roman, _Progetto per un’arpa,_ detail (<cap>Fig. 5</cap>).
-
-On the top frontside is the Barberini coat of arms: three bees surmounted by a cardinal's hat, which is in turn supported by a winged putto. Bees are also depicted on the pedestals. There is a satyr seated at the base of the support. The upper crossbeam uniting the soundbox and the support ends in a volute formed by a sphinx.
-
 ***
 
 ![](/images/fig-3a-7915.jpg)
 
 ###### Anonymous Roman, _Progetto per un’arpa,_ detail (<cap>Fig. 6</cap>)
+
+***
+
+On the top frontside is the Barberini coat of arms: three bees surmounted by a cardinal's hat, which is in turn supported by a winged putto. Bees are also depicted on the pedestals. There is a satyr seated at the base of the support. The upper crossbeam uniting the soundbox and the support ends in a volute formed by a sphinx.
+
+***
+
+![](/images/fig-3b-7916.jpg)
+
+###### Anonymous Roman, _Progetto per un’arpa,_ detail (<cap>Fig. 5</cap>).
+
+***
 
 The drawing and the instrument known as the Barberini Harp, at the Museo Nazionale degli Strumenti Musicali, are clearly closely related to each other as are the drawing and <span id="person_tag">Giovanni Lanfranco</span>'s painting <span id="subjects_tag">_Venere che suona l’arpa_</span> _o la Musica_ from the collection of <span id="person_tag">Antonio Barberini il Giovane</span>.<sup>6</sup>
 
