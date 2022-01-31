@@ -180,7 +180,7 @@ The proposal to attribute the conception and design of the Barberini Harp to Sor
 
 ###### Roser, Hannes. "_Sankt Peter in den Sacri trofei romani des Francesco Maria Torrigio._" In _Sankt Peter in Rom 1506 – 2006. Beiträge der internationalen Tagung vom 22. – 25. Februar 2006 in Bonn_, edited by Georg Satzinger and Sebastian Schütze. München: Hirmer, 2008, 257-273, 271, fig. 10.
 
-###### Schleier, Erich. _Disegni di Giovanni Lanfranco (1582 – 1647)_. Firenze: Olschki, 1983.
+###### Schleier, Erich, ed. _Disegni di Giovanni Lanfranco (1582 – 1647)_. Firenze: Olschki, 1983.
 
 ###### Schleier, Erich, ed. _Giovanni Lanfranco. Un pittore barocco tra Parma, Roma e Napoli_. Milano: Electa, 2001.
 
