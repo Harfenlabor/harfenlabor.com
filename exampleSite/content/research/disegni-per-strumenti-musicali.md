@@ -162,15 +162,15 @@ The proposal to attribute the conception and design of the Barberini Harp to Sor
 
 ###### _Dizionario Biografico degli Italiani_. Volume 93, 2018.
 
-###### Faletti, Franca and Renato Meucci, Gabriele Rossi-Rognoni, eds. _Meraviglie sonore. Strumenti Musicali Del Barocco Italiano._ Firenze: Giunti, 2007. 
+###### Faletti, Franca and Renato Meucci, Gabriele Rossi-Rognoni, eds. _Meraviglie sonore. Strumenti Musicali Del Barocco Italiano._ Firenze: Giunti, 2007.
 
 ###### Ferino-Pagden, Sylvia and Wilfried Seipel, eds. _Dipingere la musica. Musik in der Malerei des 16. und 17. Jahrhunderts_. Wien: Kunsthistorischen Museum Wien, 2001.
 
-###### Fischer Pace, Ursula Verena. _Disegni del Seicento Romano_. Firenze: Olschki, 1997. 
+###### Fischer Pace, Ursula Verena. _Disegni del Seicento Romano_. Firenze: Olschki, 1997.
 
 ###### Gonzáles Palacios, Alvar. “Avvio allo studio della mobilia romana.” Introduction to _Il Mobile Romano_, by Goffredo Lizzani. Milano: Görlich, 1970, VIII.
 
-###### Granata, Chiara. “’Un arpa grande tutta intagliata e dorata’. New documents on the Barberini harp.” _Recercare_ XXVII/1 – 2 (2015): 139 – 164.
+###### Granata, Chiara. “"Un arpa grande tutta intagliata e dorata". New documents on the Barberini harp.” _Recercare_ XXVII/1 – 2 (2015): 139 – 164.
 
 ###### Marcucci, Luisa. _Mostra di Strumenti musicali in disegni degli Uffizi_. Firenze: Olschki, 1952.
 
