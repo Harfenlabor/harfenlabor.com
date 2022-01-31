@@ -140,7 +140,7 @@ The decorative vocabulary is in this case so incredibly similar to that of the d
 
 ![](/images/fig-4.jpg)
 
-###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 13</cap>).
+###### Anonymous Roman, _Progetto per un’arpa,_ detail (<cap>Fig. 13</cap>).
 
 His apprenticeship with <span id="person_tag">Giovanni Battista Montano</span> and with <span id="person_tag">Antonio Pomarancio</span> was a guarantee of his solid artistic professionalism, which is also undoubtedly recognisable in this project of refined decoration. Among other things, Soria was responsible for the edition of the architectural drawings of his master Giovanni Battista Montano, whose teaching played an important role for Cortona as well, the Barberini artist _par excellence_ and one of Soria’s closest friends.
 
