@@ -48,7 +48,7 @@ Less common, however, are preparatory drawings for musical instruments, intended
 
 ![](/images/fig-3.jpg)
 
-###### Anonymous Roman, _Progetto per un’arpa_ (<cap>Fig. 3</cap>).
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa_ (<cap>Fig. 3</cap>).
 
 The drawing presents a project for a richly decorated harp, its column adorned with carvings: architectural motifs of volutes and capitals alternating with putti; atlas figures on pedestals dividing the column in three parts; and sphinxes at the bottom.
 
@@ -56,13 +56,13 @@ The drawing presents a project for a richly decorated harp, its column adorned w
 
 ![](/images/fig-3c-_7918.jpg)
 
-###### Anonymous Roman, _Progetto per un’arpa,_ detail (<cap>Fig. 4</cap>).
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 4</cap>).
 
 ***
 
 ![](/images/fig-3a-7915.jpg)
 
-###### Anonymous Roman, _Progetto per un’arpa,_ detail (<cap>Fig. 6</cap>)
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 6</cap>)
 
 ***
 
@@ -72,7 +72,7 @@ On the top frontside is the Barberini coat of arms: three bees surmounted by a c
 
 ![](/images/fig-3b-7916.jpg)
 
-###### Anonymous Roman, _Progetto per un’arpa,_ detail (<cap>Fig. 5</cap>).
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 5</cap>).
 
 ***
 
@@ -140,7 +140,7 @@ The decorative vocabulary is in this case so incredibly similar to that of the d
 
 ![](/images/fig-4.jpg)
 
-###### Anonymous Roman, _Progetto per un’arpa,_ detail (<cap>Fig. 13</cap>).
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 13</cap>).
 
 His apprenticeship with <span id="person_tag">Giovanni Battista Montano</span> and <span id="person_tag">Antonio Pomarancio</span> was a guarantee of his solid artistic professionalism, undoubtedly  recognisable in this project of refined decoration. Soria was also responsible for an edition of architectural drawings by his master Giovanni Battista Montano, whose teaching was just an important to da Cortona, the Barberini artist _par excellence_ and one of Soria’s closest friends.
 
