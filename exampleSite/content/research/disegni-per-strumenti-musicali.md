@@ -142,9 +142,9 @@ The decorative vocabulary is in this case so incredibly similar to that of the d
 
 ###### Anonymous Roman, _Progetto per un’arpa,_ detail (<cap>Fig. 13</cap>).
 
-His apprenticeship with <span id="person_tag">Giovanni Battista Montano</span> and <span id="person_tag">Antonio Pomarancio</span> was a guarantee of his solid artistic professionalism, undoubtedly also recognisable in this project of refined decoration. Soria was also responsible for the edition of architectural drawings by his master Giovanni Battista Montano, whose teaching was just an important to Cortona, the Barberini artist _par excellence_ and one of Soria’s closest friends.
+His apprenticeship with <span id="person_tag">Giovanni Battista Montano</span> and <span id="person_tag">Antonio Pomarancio</span> was a guarantee of his solid artistic professionalism, undoubtedly  recognisable in this project of refined decoration. Soria was also responsible for the edition of architectural drawings by his master Giovanni Battista Montano, whose teaching was just an important to Cortona, the Barberini artist _par excellence_ and one of Soria’s closest friends.
 
-The proposal to attribute the conception and design of the Barberini harp to Soria is further justified by the above mentioned close relationship between the artist and Barberini's commissions for the works in <span id="subjects_tag">St. Peter's</span> and Palazzo Barberini.
+The proposal to attribute the conception and design of the Barberini Harp to Soria is further justified by the above mentioned close relationship between the artist and Barberini's commissions for the works in <span id="subjects_tag">St. Peter's</span> and Palazzo Barberini.
 
 ***
 
