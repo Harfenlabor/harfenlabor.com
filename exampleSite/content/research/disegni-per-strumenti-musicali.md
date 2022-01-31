@@ -189,7 +189,3 @@ The proposal to attribute the conception and design of the Barberini Harp to Sor
 ###### Tofani Petrioli_,_ Annamaria, ed. _Inventario 2, Disegni Esposti_ Firenze: Olschki 1987.
 
 ###### Ward–Jackson, Peter. _Italian Drawings, Vol. Two: 17th – 18th Century_. London: HMSO, 1980.
-
-###### 
-
-###### 
