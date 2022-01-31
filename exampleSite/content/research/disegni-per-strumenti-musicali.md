@@ -42,7 +42,7 @@ Naturally, paintings of <span id="subjects_tag">King David</span> usually offer 
 
 ***
 
-Less common, however, are preparatory drawings for musical instruments, intended for carvers and soundbox builders. One such drawing, held at the <span id="subjects_tag">Uffizi</span>, has been long known of (and many works on it have been published).<sup>4</sup> This drawing has been compared with the <span id="subjects_tag">Barberini Harp</span>, in the collection of the Museo Nazionale degli Strumenti Musicali in <span id="map_tag">Roma</span>, though it has not so far been identified as a preparatory drawing for this harp.<sup>5</sup>
+Less common, however, are preparatory drawings for musical instruments, intended for carvers and soundbox builders. One such drawing, held at the <span id="subjects_tag">Uffizi</span>, has been long known of (and many works on it published).<sup>4</sup> This drawing has been compared with the <span id="subjects_tag">Barberini Harp</span>, in the collection of the Museo Nazionale degli Strumenti Musicali in <span id="map_tag">Roma</span>, though it has not so far been identified as a preparatory drawing for this harp.<sup>5</sup>
 
 ***
 
