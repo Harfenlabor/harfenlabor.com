@@ -76,7 +76,7 @@ On the top frontside is the Barberini coat of arms: three bees surmounted by a c
 
 ***
 
-The drawing and the instrument known as the Barberini Harp, at the Museo Nazionale degli Strumenti Musicali, are clearly closely related to each other as are the drawing and <span id="person_tag">Giovanni Lanfranco</span>'s painting <span id="subjects_tag">_Venere che suona l’arpa_</span> _o la Musica_ from the collection of <span id="person_tag">Antonio Barberini il Giovane</span>.<sup>6</sup>
+The drawing and the instrument known as the Barberini Harp, at the Museo Nazionale degli Strumenti Musicali, are clearly closely related to each other as are the drawing and <span id="person_tag">Giovanni Lanfranco</span>'s painting <span id="subjects_tag">_Venere che suona l’arpa_ _o la Musica_</span> from the collection of <span id="person_tag">Antonio Barberini il Giovane</span>.<sup>6</sup>
 
 ***
 
