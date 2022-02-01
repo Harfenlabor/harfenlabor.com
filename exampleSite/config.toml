@@ -4,109 +4,107 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[menu]
-  [[menu.main]]
-  identifier = "news"
-  name = "news"
-  url = "/news"
-  weight = 1
-  [[menu.main]]
-  identifier = "projects"
-  name = "projects"
-  url = "/projects"
-  weight = 2
-  [[menu.main]]
-  identifier = "Barberini harp project"
-  name = "Barberini harp project"
-  url = "/projects/barberini"
-  parent = "projects"
-  weight = "1"
-  [[menu.main]]
-  identifier = "Haydn’s  Folk Harp"
-  name = "Haydn’s  Folk Harp"
-  url = "/projects/haydn"
-  parent = "projects"
-  weight = "2"
-  [[menu.main]]
-  identifier = "Harfenlabor lectures"
-  name = "Harfenlabor lectures"
-  url = "/projects/lectures"
-  parent = "projects"
-  weight = "3"
-  [[menu.main]]
-  identifier = "research"
-  name = "research"
-  url = "/research"
-  weight = 3
-  [[menu.main]]
-  identifier = "organology"
-  name = "organology"
-  url = "/research/organology"
-  parent = "research"
-  weight = "1"
-  [[menu.main]]
-  identifier = "performance practice"
-  name = "performance practice"
-  url = "/research/performance"
-  parent = "research"
-  weight = "2"
-  [[menu.main]]
-  identifier = "musicology"
-  name = "musicology"
-  url = "/research/musicology"
-  parent = "research"
-  weight = "3"
-  [[menu.main]]
-  identifier = "HL editions"
-  name = "HL editions"
-  url = "/research/HLeditions"
-  parent = "research"
-  weight = "4"
-  [[menu.main]]
-  identifier = "iconography"
-  name = "iconography"
-  url = "/research/iconography"
-  parent = "research"
-  weight = "5"
-  [[menu.main]]
-  identifier = "sociology of art"
-  name = "sociology of art"
-  url = "/research/sociology"
-  parent = "research"
-  weight = "6"
-  [[menu.main]]
-  identifier = "timeline"
-  name = "timeline"
-  url = "/timeline"
-  weight = 4
-  [[menu.main]]
-  identifier = "map"
-  name = "map"
-  url = "/map"
-  weight = 5
-  [[menu.main]]
-  identifier = "index"
-  name = "index"
-  url = "/indextag"
-  weight = 6
-  [[menu.main]]
-  identifier = "search"
-  name = "search"
-  url = "/search"
-  weight = 7
-  [[menu.main]]
-  identifier = "mediathek"
-  name = "mediathek"
-  url = ""
-  weight = 8
-  [[menu.main]]
-  identifier = "about"
-  name = "about"
-  url = "/aboutpage"
-  weight = 9
-
 [markup.goldmark.renderer]
 unsafe = true
+[[menu.main]]
+identifier = "news"
+name = "news"
+url = "/news"
+weight = 1
+[[menu.main]]
+identifier = "projects"
+name = "projects"
+url = "/projects"
+weight = 2
+[[menu.main]]
+identifier = "Barberini harp project"
+name = "Barberini harp project"
+parent = "projects"
+url = "/projects/barberini"
+weight = "1"
+[[menu.main]]
+identifier = "Haydn’s  Folk Harp"
+name = "Haydn’s  Folk Harp"
+parent = "projects"
+url = "/projects/haydn"
+weight = "2"
+[[menu.main]]
+identifier = "Harfenlabor lectures"
+name = "Harfenlabor lectures"
+parent = "projects"
+url = "/projects/lectures"
+weight = "3"
+[[menu.main]]
+identifier = "research"
+name = "research"
+url = "/research"
+weight = 3
+[[menu.main]]
+identifier = "organology"
+name = "organology"
+parent = "research"
+url = "/research/organology"
+weight = "1"
+[[menu.main]]
+identifier = "performance practice"
+name = "performance practice"
+parent = "research"
+url = "/research/performance"
+weight = "2"
+[[menu.main]]
+identifier = "musicology"
+name = "musicology"
+parent = "research"
+url = "/research/musicology"
+weight = "3"
+[[menu.main]]
+identifier = "HL editions"
+name = "HL editions"
+parent = "research"
+url = "/projects/HLeditions"
+weight = "4"
+[[menu.main]]
+identifier = "iconography"
+name = "iconography"
+parent = "research"
+url = "/research/iconography"
+weight = "5"
+[[menu.main]]
+identifier = "sociology of art"
+name = "sociology of art"
+parent = "research"
+url = "/research/sociology"
+weight = "6"
+[[menu.main]]
+identifier = "timeline"
+name = "timeline"
+url = "/timeline"
+weight = 4
+[[menu.main]]
+identifier = "map"
+name = "map"
+url = "/map"
+weight = 5
+[[menu.main]]
+identifier = "index"
+name = "index"
+url = "/indextag"
+weight = 6
+[[menu.main]]
+identifier = "search"
+name = "search"
+url = "/search"
+weight = 7
+[[menu.main]]
+identifier = "mediathek"
+name = "mediathek"
+url = ""
+weight = 8
+[[menu.main]]
+identifier = "about"
+name = "about"
+url = "/aboutpage"
+weight = 9
 [outputs]
 baseURL = "harfenlabor.netlify.app"
 disableLanguages = ["Fr"]
@@ -123,7 +121,6 @@ description = ""
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
-
 [[params.Projects.projects]]
 description = "By commissioning new works for Historical Harp through HL Editions, Harfenlabor aims to contribute to articulating a contemporary language of performance practice for the instrument. In collaboration with contemporary composers and performers, Harfenlabor intends to develop a new performative and interpretive plane for the instrument and keep its repertoire alive. "
 title = "HL Editions"
@@ -136,7 +133,6 @@ title = "Haydn’s Folk Harp"
 [[params.Projects.projects]]
 description = "Historical harp practice demands an ongoing engagement between scientific knowledge and artistic creation. Harfenlabor Lectures series offers a space for sharing multi-disciplinary knowledge on Historical Harp, whilst encouraging and supporting discussion and debate among diverse musicians, scientists, artists and instrument makers."
 title = "Harfenlabor Lectures"
-
 [params.cookies]
 enable = false
 expire_days = 2
