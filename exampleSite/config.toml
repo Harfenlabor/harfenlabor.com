@@ -61,7 +61,7 @@ weight = "3"
 identifier = "HL editions"
 name = "HL editions"
 parent = "research"
-url = "/projects/HLeditions"
+url = "/research/HLeditions"
 weight = "4"
 [[menu.main]]
 identifier = "iconography"
