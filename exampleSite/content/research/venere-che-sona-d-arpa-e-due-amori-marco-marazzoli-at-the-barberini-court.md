@@ -23,6 +23,12 @@ type = "Research"
 +++
 ***
 
+##### DOI HERE
+
+***
+
+***
+
 ![](/images/1-giovanni-lanfranco-venus-playing-the-harp-rome-museo-nazionale-d-arte-antica-di-palazzo-barberini.jpg)
 
 ###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
