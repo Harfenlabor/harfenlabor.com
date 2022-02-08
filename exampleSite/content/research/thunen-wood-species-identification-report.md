@@ -102,3 +102,9 @@ The anatomical determination of the structural features for wood species identif
 ***
 
 As previously mentioned, we are planning to publish the results in a scientific article: probably once in a well-known German-language "specialist" journal and in an international scientific publication. However, this will be delayed a little, as other scientific articles (publications) must first be completed.
+
+***
+
+***
+
+***
