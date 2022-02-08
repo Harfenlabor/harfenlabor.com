@@ -122,9 +122,6 @@ google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
 [[params.Projects.projects]]
-description = "By commissioning new works for Historical Harp through HL Editions, Harfenlabor aims to contribute to articulating a contemporary language of performance practice for the instrument. In collaboration with contemporary composers and performers Harfenlabor intends to develop a new performative and interpretive plane for the instrument and keep its repertoire alive. "
-title = "HL Editions"
-[[params.Projects.projects]]
 description = "By commissioning new works for Historical Harp through HL Editions, Harfenlabor aims to contribute to articulating a contemporary language of performance practice for the instrument. In collaboration with contemporary composers and performers, Harfenlabor intends to develop a new performative and interpretive plane for the instrument and keep its repertoire alive. "
 title = "HL Editions"
 [[params.Projects.projects]]
