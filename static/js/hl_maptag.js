@@ -115,7 +115,7 @@ function populateWithResults_map(myResults){
       const quilink = document.createElement("a");
       quilink.id = "quilink";
       quilink.setAttribute("href", myResults[i].link[j]);
-      quilink.innerHTML = myResults[i].title[j].replaceAll("&&", " / ")+"<br>";
+      quilink.innerHTML = "• "+myResults[i].title[j].replaceAll("&&", " / ")+"<br>";
       indexBoxText.append(quilink);
     }
     indexBoxInside.append(indexBoxName);
@@ -157,6 +157,7 @@ function makeItInteractive_map(){
         indexBackground.style.display = "block";
         var thisIndexBox = this.textContent.replaceAll(" ", "-");
         $("#"+thisIndexBox+".index_box").css('display', 'flex');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
       });
     }
   );
