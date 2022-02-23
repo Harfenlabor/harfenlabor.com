@@ -13,11 +13,11 @@
 
           {{ $this_proj_title := .Title }}
           {{ range $.Param "Projects.projects" }}
-            {{ if eq $this_proj_title .title}}
+            {{ if eq (lower $this_proj_title) (lower .title)}}
             <p>{{ .description }}</p>
             {{ end }}
           {{ end }}
-          
+
           <div class="border-meghna"></div>
         </div>
       </div>
