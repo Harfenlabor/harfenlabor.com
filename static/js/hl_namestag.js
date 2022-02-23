@@ -233,7 +233,7 @@ function populateWithResults(myResults){
         } else {
           var correctTitle = myResults[i].title[j];
         }*/
-        quilink.innerHTML = myResults[i].title[j].replaceAll("&&", " / ")+"<br>";
+        quilink.innerHTML = "• "+myResults[i].title[j].replaceAll("&&", " / ")+"<br>";
         indexBoxText.append(quilink);
       }
     }
@@ -247,13 +247,14 @@ function populateWithResults(myResults){
       }
     }
 
-    
-
     indexBoxInside.append(indexBoxName);
     indexBoxInside.append(indexBoxText);
     indexBox.append(indexBoxInside);
     indexBox.append(closeIndexBox);
     $('#indexboxspace').append(indexBox);
+
+    window.scrollTo(0, 0);
+    //XXX
 
   }
 
