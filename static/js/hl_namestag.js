@@ -252,10 +252,6 @@ function populateWithResults(myResults){
     indexBox.append(indexBoxInside);
     indexBox.append(closeIndexBox);
     $('#indexboxspace').append(indexBox);
-
-    document.querySelector("#indexBackground").scrollIntoView();
-    //XXX
-
   }
 
   //Delay and scroll down to selected ID
@@ -298,6 +294,7 @@ function makeItInteractive(){
         indexBackground.style.display = "block";
         var thisIndexBox = this.textContent.replaceAll(" ", "-");
         $("#"+thisIndexBox+".index_box").css('display', 'flex');
+        document.querySelector("#"+thisIndexBox).scrollIntoView();
       });
     }
   );
