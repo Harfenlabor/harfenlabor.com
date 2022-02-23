@@ -30,12 +30,18 @@ body {
 }
 
 h1,
-h2,
-h3 {
+h2 {
   font-weight: 400;
   font-family: Jungka;
   font-size: 2.4rem; /*edited*/
   color: black;
+}
+
+h3 /*USED FOR DOI*/ {
+  font-family: Jungka;
+  font-size: 1.5rem;
+  line-height: 1.7rem;
+  text-align: right;
 }
 
 h4 /*USED FOR TRANSLATION QUOTES*/ {
