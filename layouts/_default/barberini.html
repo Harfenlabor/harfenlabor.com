@@ -12,11 +12,10 @@
           <h1>{{ .Title }}</h1>
 
           {{ range $.Param "Projects.projects" }}
-            {{ if eq .Params.project_category "Barberini Harp Project"}}
+            {{ if eq .title .Title}}
             <p>{{ .description }}</p>
             {{ end }}
             <p>{{ . }}</p>
-            <p>{{ .description }}</p>
             <p>{{ .title }}</p>
           {{ end }}
 
