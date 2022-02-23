@@ -12,7 +12,7 @@
           <h1>{{ .Title }}</h1>
 
           {{ range $.Param "Projects.projects" }}
-            {{ if eq .Params.project_category .Title}}
+            {{ if eq .Params.project_category .title}}
             <p>{{ .description }}</p>
             {{ end }}
           {{ end }}
