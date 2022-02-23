@@ -15,6 +15,9 @@
             {{ if eq .Params.project_category "Barberini Harp Project"}}
             <p>{{ .description }}</p>
             {{ end }}
+            <p>{{ . }}</p>
+            <p>{{ .Params }}</p>
+            <p>{{ .Params.project_category }}</p>
           {{ end }}
 
           <div class="border-meghna"></div>
