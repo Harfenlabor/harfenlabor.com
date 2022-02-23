@@ -253,7 +253,7 @@ function populateWithResults(myResults){
     indexBox.append(closeIndexBox);
     $('#indexboxspace').append(indexBox);
 
-    $(window).scrollTop(0);
+    document.querySelector("#indexBackground").scrollIntoView();
     //XXX
 
   }
