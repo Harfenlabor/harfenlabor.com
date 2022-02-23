@@ -12,7 +12,9 @@
           <h1>{{ .Title }}</h1>
 
           {{ range $.Param "Projects.projects" }}
+            {{ if eq $this_proj_cat .title}}
             <p>{{ .description }}</p>
+            {{ end }}
           {{ end }}
 
           <div class="border-meghna"></div>
