@@ -242,7 +242,7 @@ function populateWithResults(myResults){
         const quilink = document.createElement("a");
         quilink.id = "quilink";
         quilink.setAttribute("href", myResults[i].link_subject[j]);
-        quilink.innerHTML = myResults[i].title_subject[j].replaceAll("&&", " / ")+"<br>";
+        quilink.innerHTML = "• "+myResults[i].title_subject[j].replaceAll("&&", " / ")+"<br>";
         indexBoxText.append(quilink);
       }
     }
@@ -253,7 +253,7 @@ function populateWithResults(myResults){
     indexBox.append(closeIndexBox);
     $('#indexboxspace').append(indexBox);
 
-    window.scrollTo(0, 0);
+    $(window).scrollTop(0);
     //XXX
 
   }
