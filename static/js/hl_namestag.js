@@ -294,7 +294,7 @@ function makeItInteractive(){
         indexBackground.style.display = "block";
         var thisIndexBox = this.textContent.replaceAll(" ", "-");
         $("#"+thisIndexBox+".index_box").css('display', 'flex');
-        document.querySelector("#indexBackground").scrollIntoView();
+        window.scrollTo(0, 0);
       });
     }
   );
