@@ -11,9 +11,8 @@
         <div class="title text-center wow fadeInDown">
           <h1>{{ .Title }}</h1>
 
-          {{ $this_proj_cat := .Params.project_category }}
           {{ range $.Param "Projects.projects" }}
-            {{ if eq $this_proj_cat .title}}
+            {{ if eq .Params.project_category "Barberini Harp Project"}}
             <p>{{ .description }}</p>
             {{ end }}
           {{ end }}
