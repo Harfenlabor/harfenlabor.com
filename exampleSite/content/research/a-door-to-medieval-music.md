@@ -23,5 +23,5 @@ type = "Research"
 +++
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe src="<div id="buzzsprout-player-10051864"></div><script src="[https://www.buzzsprout.com/1934249/10051864-a-door-to-medieval-music.js?container_id=buzzsprout-player-10051864&player=small](https://www.buzzsprout.com/1934249/10051864-a-door-to-medieval-music.js?container_id=buzzsprout-player-10051864&player=small "https://www.buzzsprout.com/1934249/10051864-a-door-to-medieval-music.js?container_id=buzzsprout-player-10051864&player=small")" type="text/javascript" charset="utf-8"></script>" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="[https://www.buzzsprout.com/1934249/10051864-a-door-to-medieval-music.js?container_id=buzzsprout-player-10051864&player=small](https://www.buzzsprout.com/1934249/10051864-a-door-to-medieval-music.js?container_id=buzzsprout-player-10051864&player=small "https://www.buzzsprout.com/1934249/10051864-a-door-to-medieval-music.js?container_id=buzzsprout-player-10051864&player=small")" type="text/javascript" charset="utf-8"></script>" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div><div class="chapters"></div>
