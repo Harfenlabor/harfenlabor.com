@@ -22,6 +22,7 @@ title = "Barberini Harp Project / Interviews&&Mimmo Peruffo: Early Music Strings
 type = "Research"
 
 +++
+
 ***
 
 <div class="embed-responsive embed-responsive-16by9"><iframe src="https://player.vimeo.com/video/643957091?h=c65ae58271&badge=0&autopause=0&player_id=0&app_id=58479" width="640" hei_ht="360"_frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Harfenlabor. Mimmo Peruffo: Early Music Strings"></iframe></div><div class="chapters"></div>
@@ -33,3 +34,5 @@ In this edition of the Barberini Harp Project Interviews, Harfenlabor visits mas
 © Armin Linke / Harfenlabor 2020
 
 [All rights reserved.](https://harfenlabor.netlify.app/aboutpage/#allrightsreserved)
+
+<iframe src="[https://www.buzzsprout.com/1934249/10051864-a-door-to-medieval-music?client_source=small_player&iframe=true](https://www.buzzsprout.com/1934249/10051864-a-door-to-medieval-music?client_source=small_player&iframe=true "https://www.buzzsprout.com/1934249/10051864-a-door-to-medieval-music?client_source=small_player&iframe=true")" loading="lazy" width="100%" height="200" frameborder="0" scrolling="no" title='Between the Strings , A Door to Medieval Music'></iframe>
