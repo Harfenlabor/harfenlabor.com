@@ -85,7 +85,7 @@ function populateResults(result){
       imgFluid.setAttribute('src', 'https://harfenlabor.netlify.app'+this.item.image);
       /****/let content = document.createElement('div');
       content.setAttribute('class', 'content');
-      /******/let title = document.createElement('h3');
+      /******/let title = document.createElement('p'); /*was h3*/
       /********/let title_link = document.createElement('a');
       title_link.setAttribute('href', this.item.permalink);
 
