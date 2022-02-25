@@ -285,7 +285,7 @@ function makeItInteractive(){
         $('span').each(
 
           function() {
-            if (this.textContent.length > 1) {
+            if (this.textContent.length > 2) {
               $(this).css('color', 'black');
               $(this).css('cursor', 'pointer');
             } else {
@@ -297,7 +297,7 @@ function makeItInteractive(){
       });
 
       $(this).on("mouseout", function(e) {
-        if (this.textContent.length > 1) {
+        if (this.textContent.length > 2) {
           $(this).css('color', 'black');
         }
       });
@@ -305,7 +305,7 @@ function makeItInteractive(){
       $(this).on("click", function(e) {
         console.log(this.textContent);
         console.log(this.textContent.length);
-        if (this.textContent.length > 1) {
+        if (this.textContent.length > 2) {
           indexBackground.style.display = "block";
           var thisIndexBox = this.textContent.substring(0, this.textContent.length - 1).replaceAll(" ", "-");
           $("#"+thisIndexBox+".index_box").css('display', 'flex');
