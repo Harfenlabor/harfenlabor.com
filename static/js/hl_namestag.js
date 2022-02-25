@@ -120,7 +120,7 @@ function persontags(data){
     }
 
     //PUT THE FIRST LETTER IN THE LIST
-    if ((i == 0)||(sortedNames[i-1].name.charAt(0) != myResults[i].name.charAt(0))) {
+    if ((i == 0)||(sortedNames[i-1].name.charAt(0) != sortedNames[i].name.charAt(0))) {
       console.log(sortedNames[i].name.charAt(0));
       console.log(sortedNames[i]);
       //sortedNames.push(quinome);
