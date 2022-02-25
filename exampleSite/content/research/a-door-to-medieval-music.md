@@ -13,10 +13,10 @@ project_category = "Barberini Harp Project"
 relatedresearch = []
 show_in_news = false
 status = "draft"
-subjects_tag = ["dulcedo", "Ars subtilior", "\"medieval music\"", "middle ages", "Between the Strings", "early music", "musical civilisation", "manuscript", "scribe", "musical book", "requiem", "Ensemble Organum"]
+subjects_tag = ["dulcedo", "Ars subtilior", "\"medieval music\"", "middle ages", "Between the Strings", "early music", "musical civilisation", "manuscript", "scribe", "musical book", "requiem", "Ensemble Organum", "rhythm", "riddle", "poem", "polyrhythm"]
 subtype = ["Performance Practice", "Musicology", "Sociology of Art"]
 summary_text = ""
-timeline_tag = []
+timeline_tag = ["1410–1497"]
 title = "A Door to Medieval Music"
 type = "Research"
 
