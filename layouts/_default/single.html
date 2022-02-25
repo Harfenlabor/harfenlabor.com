@@ -21,15 +21,15 @@
           {{ end }}
         {{ else }}{{ .Title }}{{ end }}</h1>
 
+        {{ if and (eq .Type "Research") (.Params.author) }}
+        <p id="this_article_author">by {{ .Params.author }}</p>
+        {{ end }}
+
         {{ if .Description }}
         <div class="synopsis_box">
           <p class="synopsis">Synopsis: {{ .Description }}</p>
           <div class="open_synopsis_box">+</div>
         </div>
-        {{ end }}
-
-        {{ if and (eq .Type "Research") (.Params.author) }}
-        <p id="this_article_author">by {{ .Params.author }}</p>
         {{ end }}
         
       </div>
