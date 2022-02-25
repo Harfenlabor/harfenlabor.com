@@ -94,7 +94,7 @@ function persontags(data){
   //sortedSubjects.sort((a, b) => (a.subject > b.subject) ? 1 : -1);
 
   sortedSubjects.sort(function(a, b) {
-    /*var subjectA = a.subject.toUpperCase(); // ignore upper and lowercase
+    var subjectA = a.subject.toUpperCase(); // ignore upper and lowercase
     var subjectB = b.subject.toUpperCase(); // ignore upper and lowercase
     if (subjectA < subjectB) {
       return -1;
@@ -104,9 +104,9 @@ function persontags(data){
     }
 
     // names must be equal
-    return 0;*/
+    return 0;
 
-    return /[A-Za-z]/.test(a.subject) - /[A-Za-z]/.test(b.subject) || (a.subject.toUpperCase() < b.subject.toUpperCase() ? -1 : a.subject.toUpperCase() > b.subject.toUpperCase() ? 1 : 0)
+    //return /[A-Za-z]/.test(a.subject) - /[A-Za-z]/.test(b.subject) || (a.subject.toUpperCase() < b.subject.toUpperCase() ? -1 : a.subject.toUpperCase() > b.subject.toUpperCase() ? 1 : 0)
 
   });
 
@@ -167,7 +167,7 @@ function populateWithResults(myResults){
 
     persona.setAttribute("style", "margin-top: 0px; line-height: 1.2em; cursor: pointer;");
     quinome.id = "quinome";
-    quinome.setAttribute("style", "font-size: 20px; color: black; margin-bottom: 0px; margin-top: 20px;");
+    quinome.setAttribute("style", "font-size: 20px; color: black; margin-bottom: 0px; margin-top: 20px; display: table-cell;");
 
     if (myResults[0].hasOwnProperty("name")) {
       quinome.innerHTML = myResults[i].name;
