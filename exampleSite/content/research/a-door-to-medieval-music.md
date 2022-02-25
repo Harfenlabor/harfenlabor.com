@@ -13,10 +13,10 @@ project_category = "Barberini Harp Project"
 relatedresearch = []
 show_in_news = false
 status = "draft"
-subjects_tag = ["dulcedo", "Ars subtilior", "\"medieval music\"", "middle ages", "Between the Strings", "early music", "musical civilisation", "manuscript", "scribe", "musical book", "requiem", "Ensemble Organum", "rhythm", "riddle", "poem", "polyrhythm", "fumeur", "fumeux", "wordplay", "smoke", "subtiles", "syncopation", "measure", " beat", "tempo", "subtilior composer", "complex rhythm", "gesture", "freedom", "Renaissance music", "early Baroque", "tactus", "Italian monody", "La Fonte Musica", "source", "joy", "life", "pleasure", "fountain", "La Harpe de Melodie", "triplet of octaves", "rhetoric", "pure rhythm", "treatise manuscript", "Tractatus Figurarum", "A Treatise on Noteshapes", "Chantilly Codex", "stave", "harp", "strings", "acoustic result", "pill against melancholy", "melody instrument", "complete instrument", "organ", "lute", "fiddle", "polyphony", "Gothic harp", "Il Solazzo", "canon", "tenor"]
+subjects_tag = ["dulcedo", "Ars subtilior", "\"medieval music\"", "middle ages", "Between the Strings", "early music", "musical civilisation", "manuscript", "scribe", "musical book", "requiem", "Ensemble Organum", "rhythm", "riddle", "poem", "polyrhythm", "fumeur", "fumeux", "wordplay", "smoke", "subtiles", "syncopation", "measure", " beat", "tempo", "subtilior composer", "complex rhythm", "gesture", "freedom", "Renaissance music", "early Baroque", "tactus", "Italian monody", "La Fonte Musica", "source", "joy", "life", "pleasure", "fountain", "La Harpe de Melodie", "triplet of octaves", "rhetoric", "pure rhythm", "treatise manuscript", "Tractatus Figurarum", "A Treatise on Noteshapes", "Chantilly Codex", "stave", "harp", "strings", "acoustic result", "pill against melancholy", "melody instrument", "complete instrument", "organ", "lute", "fiddle", "polyphony", "Gothic harp", "Il Solazzo", "canon", "tenor", "basso continuo", "harpist", "14th century music", "15th century music", "vocalising"]
 subtype = ["Performance Practice", "Musicology", "Sociology of Art"]
 summary_text = ""
-timeline_tag = ["1410–1497", "1300s", "1810–1849", "1395", "1391", "1600s"]
+timeline_tag = ["1410–1497", "1300s", "1810–1849", "1395", "1391", "1600s", "1400s"]
 title = "A Door to Medieval Music"
 type = "Research"
 
