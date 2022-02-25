@@ -549,6 +549,14 @@ p > img {
 
 
 /*INDEX SELECTION BETWEEN PERSONS & SUBJECT */
+#quinome {
+	font-size: 20px;
+	color: black;
+	margin-bottom: 0px;
+	margin-top: 20px;
+	display: table-row;
+}
+
 .index_sel_container {
   display: flex;
 }
