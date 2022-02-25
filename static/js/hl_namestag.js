@@ -164,8 +164,13 @@ function populateWithResults(myResults){
       }
     }
 
+    //if (myResults[i].charAt[0])
+    if (i % 10) {
+      console.log(myResults[i].charAt[0]);
+    }
 
-    persona.setAttribute("style", "margin-top: 0px; line-height: 1.2em; cursor: pointer; display: inline-block;");
+
+    persona.setAttribute("style", "margin-top: 0px; line-height: 1.2em; cursor: pointer;");
     quinome.id = "quinome";
     //quinome.setAttribute("style", "font-size: 20px; color: black; margin-bottom: 0px; margin-top: 20px; display: table-row;");
 
