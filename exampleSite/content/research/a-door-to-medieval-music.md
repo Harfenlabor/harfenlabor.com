@@ -16,7 +16,7 @@ status = "draft"
 subjects_tag = ["dulcedo", "Ars subtilior", "\"medieval music\"", "middle ages", "Between the Strings", "early music", "musical civilisation", "manuscript", "scribe", "musical book", "requiem", "Ensemble Organum", "rhythm", "riddle", "poem", "polyrhythm", "fumeur", "fumeux", "wordplay", "smoke", "subtiles", "syncopation", "measure", " beat", "tempo", "subtilior composer", "complex rhythm", "gesture", "freedom", "Renaissance music", "early Baroque", "tactus", "Italian monody", "La Fonte Musica", "source", "joy", "life", "pleasure", "fountain", "La Harpe de Melodie", "triplet of octaves", "rhetoric", "pure rhythm"]
 subtype = ["Performance Practice", "Musicology", "Sociology of Art"]
 summary_text = ""
-timeline_tag = ["1410–1497", "1300s", "1810–1849", "1395"]
+timeline_tag = ["1410–1497", "1300s", "1810–1849", "1395", "1391"]
 title = "A Door to Medieval Music"
 type = "Research"
 
