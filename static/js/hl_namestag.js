@@ -166,7 +166,7 @@ function populateWithResults(myResults){
 
     //if (myResults[i].charAt[0])
     if (i % 10) {
-      console.log(myResults[i].name.innerText());
+      console.log(myResults[i].name.innerText);
     }
 
 
