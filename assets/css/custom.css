@@ -557,6 +557,14 @@ p > img {
 	display: inline;
 	white-space: break-spaces;
 }
+.quinome {
+	font-size: 20px;
+	color: black;
+	margin-bottom: 0px;
+	margin-top: 20px;
+	display: inline;
+	white-space: break-spaces;
+}
 
 .index_sel_container {
   display: flex;
