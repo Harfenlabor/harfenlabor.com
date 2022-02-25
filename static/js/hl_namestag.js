@@ -94,7 +94,7 @@ function persontags(data){
   //sortedSubjects.sort((a, b) => (a.subject > b.subject) ? 1 : -1);
 
   sortedSubjects.sort(function(a, b) {
-    var subjectA = a.subject.toUpperCase(); // ignore upper and lowercase
+    /*var subjectA = a.subject.toUpperCase(); // ignore upper and lowercase
     var subjectB = b.subject.toUpperCase(); // ignore upper and lowercase
     if (subjectA < subjectB) {
       return -1;
@@ -104,7 +104,10 @@ function persontags(data){
     }
 
     // names must be equal
-    return 0;
+    return 0;*/
+
+    return /[A-Za-z]/.test(a.a) - /[A-Za-z]/.test(b.a) || (a.a.toUpperCase() < b.a.toUpperCase() ? -1 : a.a.toUpperCase() > b.a.toUpperCase() ? 1 : 0)
+
   });
 
   //adjust, remove duplicates
@@ -162,7 +165,7 @@ function populateWithResults(myResults){
     }
 
 
-    persona.setAttribute("style", "margin-top: 0px; line-height: 1.2em; cursor: pointer; display: inline-block;");
+    persona.setAttribute("style", "margin-top: 0px; line-height: 1.2em; cursor: pointer;");
     quinome.id = "quinome";
     quinome.setAttribute("style", "font-size: 20px; color: black; margin-bottom: 0px; margin-top: 20px;");
 
