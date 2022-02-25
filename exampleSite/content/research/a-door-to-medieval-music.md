@@ -34,3 +34,5 @@ type = "Research"
 ***
 
 Michele Pasotti, musician, lutenist, conductor, researcher and philosopher shares fascinating insights into his musical passion, the "medieval music," in particular the musical style known as _Ars subtilior_. Thrilled by the refinement, elegance and complexity of this music, moved by its “dulcedo” and sensuality, Pasotti elaborates on his ongoing discoveries of the layers of subtle information that can be found between the lines in music and text of the period.
+
+You can find out more about Michele Pasotti’s practice on [https://lafontemusica.com](https://lafontemusica.com "https://lafontemusica.com").
