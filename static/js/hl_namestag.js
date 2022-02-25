@@ -118,8 +118,9 @@ function persontags(data){
     if ((i == 0)||(i == 10)||(i == 20)||(i == 30)) {  
       console.log(sortedNames[i].name.charAt(0));
       console.log(sortedNames[i]);
-      sortedNames.splice(sortedNames[i-2], 0, sortedNames[i].name.charAt(0));
+      sortedNames.splice(i, 0, sortedNames[i].name.charAt(0));
       console.log(sortedNames);
+      return;
     }
 
     //adjust, remove duplicates
