@@ -106,7 +106,7 @@ function persontags(data){
     // names must be equal
     return 0;*/
 
-    return /[A-Za-z]/.test(a.a) - /[A-Za-z]/.test(b.a) || (a.a.toUpperCase() < b.a.toUpperCase() ? -1 : a.a.toUpperCase() > b.a.toUpperCase() ? 1 : 0)
+    return /[A-Za-z]/.test(a.subject) - /[A-Za-z]/.test(b.subject) || (a.subject.toUpperCase() < b.subject.toUpperCase() ? -1 : a.subject.toUpperCase() > b.subject.toUpperCase() ? 1 : 0)
 
   });
 
