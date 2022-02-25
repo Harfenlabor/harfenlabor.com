@@ -291,28 +291,33 @@ function makeItInteractive(){
         $(this).css('color', 'var(--purpleColor)');
       }
 
-      if (this.textContent.length > 2) {
-        $(this).on("mouseover", function(e) {
-          $('span').each(
-            function() {
+      $(this).on("mouseover", function(e) {
+        $('span').each(
+
+          function() {
+            if (this.textContent.length > 2) {
               $(this).css('color', 'black');
               $(this).css('cursor', 'pointer');
             }
-          );
-          $(this).css('color', 'var(--purpleColor)');
-        });
+          }
+        );
+        $(this).css('color', 'var(--purpleColor)');
+      });
 
-        $(this).on("mouseout", function(e) {
+      $(this).on("mouseout", function(e) {
+        if (this.textContent.length > 2) {
           $(this).css('color', 'black');
-        });
+        }
+      });
 
-        $(this).on("click", function(e) {
-          //indexBackground.style.display = "block";
+      $(this).on("click", function(e) {
+        if (this.textContent.length > 2) {
+          indexBackground.style.display = "block";
           var thisIndexBox = this.textContent.substring(0, this.textContent.length - 1).replaceAll(" ", "-");
           $("#"+thisIndexBox+".index_box").css('display', 'flex');
           window.scrollTo({ top: 0, behavior: 'smooth' });
-        });
-      }
+        }
+      });
     }
   );
 
