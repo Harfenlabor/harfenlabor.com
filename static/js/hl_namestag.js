@@ -303,14 +303,13 @@ function makeItInteractive(){
       });
 
       $(this).on("click", function(e) {
+        console.log(this.textContent);
+        console.log(this.textContent.length);
         if (this.textContent.length > 1) {
           indexBackground.style.display = "block";
-          var thisIndexBox = this.textContent.replaceAll(" ", "-");
+          var thisIndexBox = this.textContent.substring(0, this.textContent.length - 1).replaceAll(" ", "-");
           $("#"+thisIndexBox+".index_box").css('display', 'flex');
           window.scrollTo({ top: 0, behavior: 'smooth' });
-
-          console.log(this);
-          console.log(this.textContent);
         }
       });
     }
