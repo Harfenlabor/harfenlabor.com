@@ -554,7 +554,8 @@ p > img {
 	color: black;
 	margin-bottom: 0px;
 	margin-top: 20px;
-	display: table-row;
+	display: inline;
+	white-space: break-spaces;
 }
 
 .index_sel_container {
