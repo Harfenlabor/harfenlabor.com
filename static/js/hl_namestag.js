@@ -114,13 +114,11 @@ function persontags(data){
   for (var i = 0; i < sortedNames.length; i++) {
 
     //push the first letter to the list
-    //if ((i == 0)||(sortedNames[i-1].name.charAt(0) != sortedNames[i].name.charAt(0))) {
-    if ((i == 0)||(i == 10)||(i == 20)||(i == 30)) {  
-      console.log(sortedNames[i].name.charAt(0));
-      console.log(sortedNames[i]);
-      //sortedNames.splice(i, 0, sortedNames[i].name.charAt(0));
+    if ((i == 0)||(sortedNames[i-1].name.charAt(0) != sortedNames[i].name.charAt(0))) {
+      //console.log(sortedNames[i].name.charAt(0));
+      //console.log(sortedNames[i]);
       sortedNames.splice(i, 0, { 'name': sortedNames[i].name.charAt(0), 'link': ' ', 'title': sortedNames[i].name.charAt(0)});
-      console.log(sortedNames);
+      //console.log(sortedNames);
     }
 
     //adjust, remove duplicates
