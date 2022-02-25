@@ -1,6 +1,6 @@
 +++
 PublishDate = 2022-02-23T23:00:00Z
-author = "Podcast by Margret Köll, with Michele Pasotti"
+author = "Margret Köll, with Michele Pasotti"
 description = ""
 downloads = []
 externallinks = ""
