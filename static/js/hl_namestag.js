@@ -175,7 +175,8 @@ function populateWithResults(myResults){
     }
 
 
-    quinome.setAttribute("style", "margin-top: 0px; line-height: 1.2em; cursor: pointer; display: contents;");
+    //quinome.setAttribute("style", "margin-top: 0px; line-height: 1.2em; cursor: pointer;");
+    quinome.setAttribute("style", "cursor: pointer;");
     //quinome.id = "quinome";
     quinome.classList.add('quinome');
 
@@ -296,17 +297,19 @@ function makeItInteractive(){
           }
         );
 
-        $(this).css('color', '#B44BEB');
+        $(this).css('color', 'var(--purpleColor)');
       });
       $(this).on("mouseout", function(e) {
         $(this).css('color', 'black');
       });
 
       $(this).on("click", function(e) {
-        indexBackground.style.display = "block";
+        /*indexBackground.style.display = "block";
         var thisIndexBox = this.textContent.replaceAll(" ", "-");
         $("#"+thisIndexBox+".index_box").css('display', 'flex');
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        window.scrollTo({ top: 0, behavior: 'smooth' });*/
+        console.log(this);
+        console.log(this.textContent);
       });
     }
   );
