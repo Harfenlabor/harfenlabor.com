@@ -62,7 +62,7 @@ function persontags(data){
             surnameName = surnameName.replace('ç', 'c');
           }
           if (surnameName.includes("'")){
-            surnameName = surnameName.replace("'", '');
+            surnameName = surnameName.replace("'", '’');
           }
 
           allNames.push(surnameName);
