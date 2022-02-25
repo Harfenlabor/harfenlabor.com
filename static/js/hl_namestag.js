@@ -61,6 +61,9 @@ function persontags(data){
           if (surnameName.includes('ç')){
             surnameName = surnameName.replace('ç', 'c');
           }
+          if (surnameName.includes("'")){
+            surnameName = surnameName.replace("'", '');
+          }
 
           allNames.push(surnameName);
           allLinks.push(result.permalink);
@@ -77,6 +80,9 @@ function persontags(data){
           //exceptions in the name (unusable characters)
           if (subjectName.includes('ç')){
             subjectName = subjectName.replace('ç', 'c');
+          }
+          if (surnameName.includes("'")){
+            surnameName = surnameName.replace("'", '');
           }
 
           allSubjects.push(subjectName);
@@ -281,6 +287,10 @@ function populateWithResults(myResults){
 function makeItInteractive(){
   $('span').each(
     function() {
+      if (this.textContent.length <= 2) {
+        $(this).css('color', 'var(--purpleColor)');
+      }
+
       $(this).on("mouseover", function(e) {
         $('span').each(
 
