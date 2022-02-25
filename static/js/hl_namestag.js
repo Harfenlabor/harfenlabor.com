@@ -142,7 +142,7 @@ function populateWithResults(myResults){
 
   for (var i = 0; i < myResults.length; i++) {
 
-    const persona = document.createElement("span");
+    const persona = document.createElement("div"); /*was span*/
     const quinome = document.createElement("span");
     const spaceAfter = document.createElement("span");
 
@@ -166,11 +166,11 @@ function populateWithResults(myResults){
 
     //if (myResults[i].charAt[0])
     if (i % 10) {
-      console.log(myResults[i]);
+      console.log(myResults[i].name.charAt[0]);
     }
 
 
-    persona.setAttribute("style", "margin-top: 0px; line-height: 1.2em; cursor: pointer;");
+    persona.setAttribute("style", "margin-top: 0px; line-height: 1.2em; cursor: pointer; display: inline-block;");
     quinome.id = "quinome";
     //quinome.setAttribute("style", "font-size: 20px; color: black; margin-bottom: 0px; margin-top: 20px; display: table-row;");
 
