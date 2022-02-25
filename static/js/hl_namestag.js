@@ -154,7 +154,6 @@ function populateWithResults(myResults){
 
     //const persona = document.createElement("div"); /*was span*/
     const quinome = document.createElement("span");
-    const spaceAfter = document.createElement("span");
 
     if (myResults[0].hasOwnProperty("name")) {
       if (myResults[i].name.includes(" ")){
@@ -186,8 +185,8 @@ function populateWithResults(myResults){
     if (myResults[0].hasOwnProperty("subject")) {
       quinome.innerHTML = myResults[i].subject;
     }
-    spaceAfter.innerHTML = "&nbsp;";
-    quinome.append(spaceAfter);
+
+    quinome.innerText = quinome.innerText+" ";
 
     if (myResults[0].hasOwnProperty("name")) {
       $('#persontags-search-results').append(quinome);
