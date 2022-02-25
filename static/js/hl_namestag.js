@@ -112,18 +112,21 @@ function persontags(data){
 
   //adjust, remove duplicates
   for (var i = 0; i < sortedNames.length; i++) {
+
+    //push the first letter to the list
+    if ((i == 0)||(sortedNames[i-1].name.charAt(0) != sortedNames[i].name.charAt(0))) {
+      console.log(sortedNames[i].name.charAt(0));
+      console.log(sortedNames[i]);
+      sortedNames.splice(sortedNames[i], 0, sortedNames[i].name.charAt(0));
+      console.log(sortedNames);
+    }
+
+    //adjust, remove duplicates
     if ((i != 0)&&(sortedNames[i].name == sortedNames[i-1].name)){
       sortedNames[i-1].link.push(sortedNames[i].link[0]);
       sortedNames[i-1].title.push(sortedNames[i].title[0]);
       sortedNames.splice(i, 1);
       i = i-1;
-    }
-
-    //PUT THE FIRST LETTER IN THE LIST
-    if ((i == 0)||(sortedNames[i-1].name.charAt(0) != sortedNames[i].name.charAt(0))) {
-      console.log(sortedNames[i].name.charAt(0));
-      console.log(sortedNames[i]);
-      //sortedNames.push(quinome);
     }
   }
 
