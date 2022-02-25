@@ -177,23 +177,9 @@ function populateWithResults(myResults){
 
     quinome.setAttribute("style", "margin-top: 0px; line-height: 1.2em; cursor: pointer; display: contents;");
     //quinome.id = "quinome";
+    quinome.classList.add('quinome');
 
     if (myResults[0].hasOwnProperty("name")) {
-
-
-
-      /*PUT THE FIRST LETTER IN THE LIST
-      if ((i == 0)||(myResults[i-1].name.charAt(0) != myResults[i].name.charAt(0))) {
-        console.log(myResults[i].name.charAt(0));
-        quinome.innerHTML = myResults[i].name.charAt(0);
-        persona.append(quinome);
-        i = i - 1;
-        return;
-      }*/
-
-
-
-
       quinome.innerHTML = myResults[i].name;
     }
     if (myResults[0].hasOwnProperty("subject")) {
@@ -300,11 +286,11 @@ function populateWithResults(myResults){
 };
 
 function makeItInteractive(){
-  $('span#quinome').each(
+  $('span').each(
     function() {
       $(this).on("mouseover", function(e) {
 
-        $('span#quinome').each(
+        $('span').each(
           function() {
             $(this).css('color', 'black');
           }
