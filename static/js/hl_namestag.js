@@ -294,9 +294,9 @@ function makeItInteractive(){
       if (this.textContent.length > 2) {
         $(this).on("mouseover", function(e) {
           $('span').each(
-
             function() {
-              $(this).css('color', 'var(--purpleColor)');
+              $(this).css('color', 'black');
+              $(this).css('cursor', 'pointer');
             }
           );
           $(this).css('color', 'var(--purpleColor)');
