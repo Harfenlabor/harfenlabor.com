@@ -152,31 +152,31 @@ function populateWithResults(myResults){
 
   for (var i = 0; i < myResults.length; i++) {
 
-    const persona = document.createElement("div"); /*was span*/
+    //const persona = document.createElement("div"); /*was span*/
     const quinome = document.createElement("span");
     const spaceAfter = document.createElement("span");
 
     if (myResults[0].hasOwnProperty("name")) {
       if (myResults[i].name.includes(" ")){
         var nameForID = myResults[i].name.replaceAll(" ", "%20");
-        persona.id = nameForID;
+        quinome.id = nameForID; /*was persona.id*/
       } else {
-        persona.id = myResults[i].name;
+        quinome.id = myResults[i].name; /*was persona.id*/
       }
     }
 
     if (myResults[0].hasOwnProperty("subject")) {
       if (myResults[i].subject.includes(" ")){
         var nameForID = myResults[i].subject.replaceAll(" ", "%20");
-        persona.id = nameForID;
+        quinome.id = nameForID; /*was persona.id*/
       } else {
-        persona.id = myResults[i].subject;
+        quinome.id = myResults[i].subject; /*was persona.id*/
       }
     }
 
 
-    persona.setAttribute("style", "margin-top: 0px; line-height: 1.2em; cursor: pointer; display: contents;");
-    quinome.id = "quinome";
+    quinome.setAttribute("style", "margin-top: 0px; line-height: 1.2em; cursor: pointer; display: contents;");
+    //quinome.id = "quinome";
 
     if (myResults[0].hasOwnProperty("name")) {
 
@@ -199,15 +199,14 @@ function populateWithResults(myResults){
     if (myResults[0].hasOwnProperty("subject")) {
       quinome.innerHTML = myResults[i].subject;
     }
-    persona.append(quinome);
     spaceAfter.innerHTML = "&nbsp;";
-    persona.append(spaceAfter);
+    quinome.append(spaceAfter);
 
     if (myResults[0].hasOwnProperty("name")) {
-      $('#persontags-search-results').append(persona);
+      $('#persontags-search-results').append(quinome);
     }
     if (myResults[0].hasOwnProperty("subject")) {
-      $('#subjecttags-search-results').append(persona);
+      $('#subjecttags-search-results').append(quinome);
     }
     
     //make a box for each result
