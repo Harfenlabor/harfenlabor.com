@@ -115,10 +115,7 @@ function persontags(data){
 
     //push the first letter to the list
     if ((i == 0)||(sortedNames[i-1].name.charAt(0) != sortedNames[i].name.charAt(0))) {
-      //console.log(sortedNames[i].name.charAt(0));
-      //console.log(sortedNames[i]);
       sortedNames.splice(i, 0, { 'name': sortedNames[i].name.charAt(0), 'link': ' ', 'title': sortedNames[i].name.charAt(0)});
-      //console.log(sortedNames);
     }
 
     //adjust, remove duplicates
@@ -175,18 +172,14 @@ function populateWithResults(myResults){
 
 
     //quinome.setAttribute("style", "margin-top: 0px; line-height: 1.2em; cursor: pointer;");
-    quinome.setAttribute("style", "cursor: pointer;");
-    //quinome.id = "quinome";
     quinome.classList.add('quinome');
 
     if (myResults[0].hasOwnProperty("name")) {
-      quinome.innerHTML = myResults[i].name;
+      quinome.innerHTML = myResults[i].name+" ";
     }
     if (myResults[0].hasOwnProperty("subject")) {
-      quinome.innerHTML = myResults[i].subject;
+      quinome.innerHTML = myResults[i].subject+" ";
     }
-
-    quinome.innerText = quinome.innerText+" ";
 
     if (myResults[0].hasOwnProperty("name")) {
       $('#persontags-search-results').append(quinome);
@@ -289,26 +282,36 @@ function makeItInteractive(){
   $('span').each(
     function() {
       $(this).on("mouseover", function(e) {
-
         $('span').each(
+
           function() {
-            $(this).css('color', 'black');
+            if (this.textContent.length > 1) {
+              $(this).css('color', 'black');
+              $(this).css('cursor', 'pointer');
+            } else {
+              $(this).css('color', 'var(--purpleColor)');
+            }
           }
         );
-
         $(this).css('color', 'var(--purpleColor)');
       });
+
       $(this).on("mouseout", function(e) {
-        $(this).css('color', 'black');
+        if (this.textContent.length > 1) {
+          $(this).css('color', 'black');
+        }
       });
 
       $(this).on("click", function(e) {
-        /*indexBackground.style.display = "block";
-        var thisIndexBox = this.textContent.replaceAll(" ", "-");
-        $("#"+thisIndexBox+".index_box").css('display', 'flex');
-        window.scrollTo({ top: 0, behavior: 'smooth' });*/
-        console.log(this);
-        console.log(this.textContent);
+        if (this.textContent.length > 1) {
+          indexBackground.style.display = "block";
+          var thisIndexBox = this.textContent.replaceAll(" ", "-");
+          $("#"+thisIndexBox+".index_box").css('display', 'flex');
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+
+          console.log(this);
+          console.log(this.textContent);
+        }
       });
     }
   );
