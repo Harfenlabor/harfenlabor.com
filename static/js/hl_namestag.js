@@ -115,7 +115,7 @@ function persontags(data){
 
     //push the first letter to the list
     //if ((i == 0)||(sortedNames[i-1].name.charAt(0) != sortedNames[i].name.charAt(0))) {
-    if (i % 20) {  
+    if ((i == 0)||(i == 10)||(i == 20)||(i == 30)) {  
       console.log(sortedNames[i].name.charAt(0));
       console.log(sortedNames[i]);
       sortedNames.splice(sortedNames[i-2], 0, sortedNames[i].name.charAt(0));
