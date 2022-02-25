@@ -167,7 +167,7 @@ function populateWithResults(myResults){
 
     persona.setAttribute("style", "margin-top: 0px; line-height: 1.2em; cursor: pointer;");
     quinome.id = "quinome";
-    quinome.setAttribute("style", "font-size: 20px; color: black; margin-bottom: 0px; margin-top: 20px; display: table-cell;");
+    quinome.setAttribute("style", "font-size: 20px; color: black; margin-bottom: 0px; margin-top: 20px; display: inline;");
 
     if (myResults[0].hasOwnProperty("name")) {
       quinome.innerHTML = myResults[i].name;
