@@ -118,6 +118,13 @@ function persontags(data){
       sortedNames.splice(i, 1);
       i = i-1;
     }
+
+    //PUT THE FIRST LETTER IN THE LIST
+    if ((i == 0)||(sortedNames[i-1].name.charAt(0) != myResults[i].name.charAt(0))) {
+      console.log(sortedNames[i].name.charAt(0));
+      console.log(sortedNames[i]);
+      //sortedNames.push(quinome);
+    }
   }
 
   for (var i = 0; i < sortedSubjects.length; i++) {
@@ -164,17 +171,26 @@ function populateWithResults(myResults){
       }
     }
 
-    //if (myResults[i].charAt[0])
-    if ((i == 0)||(myResults[i-1].name.charAt(0) != myResults[i].name.charAt(0))) {
-      console.log(myResults[i].name.charAt(0));
-    }
-
 
     persona.setAttribute("style", "margin-top: 0px; line-height: 1.2em; cursor: pointer; display: contents;");
     quinome.id = "quinome";
-    //quinome.setAttribute("style", "font-size: 20px; color: black; margin-bottom: 0px; margin-top: 20px; display: table-row;");
 
     if (myResults[0].hasOwnProperty("name")) {
+
+
+
+      /*PUT THE FIRST LETTER IN THE LIST
+      if ((i == 0)||(myResults[i-1].name.charAt(0) != myResults[i].name.charAt(0))) {
+        console.log(myResults[i].name.charAt(0));
+        quinome.innerHTML = myResults[i].name.charAt(0);
+        persona.append(quinome);
+        i = i - 1;
+        return;
+      }*/
+
+
+
+
       quinome.innerHTML = myResults[i].name;
     }
     if (myResults[0].hasOwnProperty("subject")) {
