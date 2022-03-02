@@ -189,3 +189,5 @@ The proposal to attribute the conception and design of the Barberini Harp to Sor
 ###### Tofani Petrioli, Annamaria, ed. _Inventario 2, Disegni Esposti_. Firenze: Olschki, 1987.
 
 ###### Ward–Jackson, Peter. _Italian Drawings, Vol. Two: 17th – 18th Century_. London: HMSO, 1980.
+
+###### Wolfe, Karin. "Ten days in the life of a Cardinal Nephew at the Court of Pope Urban VIII: Antonio Barberini’s Diary of December 1630," in _I Barberini e la Cultura Europea Del Seicento: Atti del convegno internazionale Palazzo Barberini alle Quattro Fontane, 7–11 dicembre 2004_, edited by Lorenza Mochi Onori, Sebastian Schütze, Francesco Solinas, 253–261. Roma: De Luca Editori D'Arte, 2007. 
