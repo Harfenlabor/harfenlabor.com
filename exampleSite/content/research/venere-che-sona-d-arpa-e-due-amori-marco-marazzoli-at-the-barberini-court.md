@@ -99,7 +99,7 @@ In conclusion, Lanfranco's painting appears as a tribute to Marazzoli and his qu
 
 ###### Barb.lat. 4209. Vatican Apostolic Library, Roma.
 
-###### Bruno, Silvia. “Musici e pittori tra Firenze e Roma nel secondo quarto del Seicento.“ _Studi Secenteschi_ 49 (2008): 204.
+###### Bruno, Silvia. “Musici e pittori tra Firenze e Roma nel secondo quarto del Seicento.“ _Studi Secenteschi_ 49 (2008): **185-217**.
 
 ###### Calenne, Luca and Maria Cristina Paciello. "Pittor de’ gli orecchi è Rodomonte. Ricerche su Domenico Palombi, Musico e Pittore del ‘600.“ _Annali della Pontificia Insigne Accademia di Belle Arti e Lettere dei Virtuosi al Pantheon_ 12 (2012): 241–264, 449–463.
 
