@@ -94,3 +94,47 @@ In conclusion, Lanfranco's painting appears as a tribute to Marazzoli and his qu
 ***
 
 ***
+
+Vol. 2082, f.36r–v.; f. 50v.; ff. 36v–38r.; ff. 38r–39v; f. 38v., f. 50r. Archivio di Stato, Notarial Archives of the Reverenda Camera Apostolica. Roma.
+
+Bruno, Silvia. “Musici e pittori tra Firenze e Roma nel secondo quarto del Seicento.“ _Studi Secenteschi_ 49 (2008): 204.
+
+Calenne, Luca and Maria Cristina Paciello. "Pittor de’ gli orecchi è Rodomonte. Ricerche su Domenico Palombi, Musico e Pittore del ‘600.“ _Annali della Pontificia Insigne Accademia di Belle Arti e Lettere dei Virtuosi al Pantheon_ 12 (2012): 241–264, 449–463.
+
+Castiglione, Sabba. _Ricordi, overo Ammaestramenti_. Venezia, 1575.
+
+Daolmi, Davide. "L’armi e gli amori". Un’opera di cappa e spada nella Roma di mezzo Seicento.” PhD diss., Università degli studi di Roma "La Sapienza", 2001. [http://www.examenapium.it/armi.](http://www.examenapium.it/armi. "http://www.examenapium.it/armi.")
+
+Doni, Giovanni Battista. _Lyra Barberina amphicordos. De’ trattati di musica_, vol. 2. Firenze, 1763.
+
+Database. Getty Provenance Index.
+
+Granata, Chiara. “‘Un’arpa grande tutta intagliata e dorata’. New documents on the Barberini harp.” _Recercare_ 27, 1/2 (2015): 139–164. [https://www.jstor.org/stable/26381197.](https://www.jstor.org/stable/26381197. "https://www.jstor.org/stable/26381197.")
+
+Haiduk, Marina. In _Wege des Barock. Die Nationalgalerien Barberini Corsini in Rom_, edited by Ortrud Westheider and Michael Philipp. München, London, New York: Prestel, 2019.
+
+Hess, Jakob ed. _Die Künstlerbiographien des Giovanni Battista Passeri. Nach den Handschriften des Autors_. Leipzig: Keller, 1934.
+
+Lionnet, Jean. “Andrè Maugars: risposta data a un curioso sul sentimento della musica in Italia.” _Nuova rivista musicale italiana_ 19, 4 (1985): 691, note 12.
+
+Marazzoli, Marco. _Reliquie di Roma II: Caro sposo_. ATALANTE (ensemble), Erin Headley (director). CD. Destino Classics/Nimbus Alliance NI 6185, 2012.
+
+Mochi Onori, Lorenza and Rossella Vodret Adamo. _Galleria Nazionale d’Arte Antica – Palazzo Barberini – I dipinti. Catalogo sistematico_. Roma: L’Erma di Bretschneider, 2008.
+
+Mochi Onori, Lorenza and Rossela Vodret Adamo. _La Galleria Nazionale d’Arte Antica, Regesto delle didascalie._Roma: Palombi, 1989.
+
+Morelli, Arnaldo. “Carlo Rainaldi musicista gentiluomo. Una riconsiderazione e qualche novità.” In _La festa delle arti. Scritti in onore di Marcello Fagiolo per cinquant’anni di studi_, edited by Vincenzo Cazzato, Sebastiano Roberto, Mario Bevilacqua, 432–435. Roma: Gangemi, 2001.
+
+Morelli, Arnaldo. “Marco Marazzoli (ad vocem).” In _Dizionario Biografico degli Italiani_, edited by Alberto M. Ghisalberti, vol. 69, 466–471. Roma: Istituto della Enciclopedia Italiana, 2007.
+
+Simi Bonini, Eleonora. “Uno strumento e la sua storia: l’arpa Barberini,” _Nuova rivista musicale italiana_ XLVI (2012): 205–226.
+
+Speck, Christian. _Das italienische Oratorium, 1625–1665: Musik und Dichtung_. Turnhout: Brepols, 2003.
+
+Tezi, Girolamo. _Aedes Barberinae ad Quirinalem descriptae_, edited by Lucia Faedo. Pisa: Ed. della Normale, 2005.
+
+Trinchieri Camiz, Franca. “Una Venere, un’Erminia, una Cleopatra di Giovanni Lanfranco in un documento inedito.” _Bollettino d’arte_ 67 (1991): 165–168.
+
+Barb.lat. 4209. Vatican Apostolic Library, Roma.
+
+Ziane, Alexandra. “Santa o cortigiana? La figura della donna musicista dopo i suonatori di liuto di Caravaggio.” In _La musica al tempo di Caravaggio_, edited by Stefania Macioce and Enrico de Pascale, 149–164. Roma: Gangemi, 2012.
