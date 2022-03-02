@@ -123,7 +123,7 @@ In conclusion, Lanfranco's painting appears as a tribute to Marazzoli and his qu
 
 ###### Mochi Onori, Lorenza and Rossella Vodret Adamo. _Galleria Nazionale d’Arte Antica – Palazzo Barberini – I dipinti. Catalogo sistematico_. Roma: L’Erma di Bretschneider, 2008.
 
-###### Mochi Onori, Lorenza and Rossela Vodret Adamo. _La Galleria Nazionale d’Arte Antica, Regesto delle didascalie._Roma: Palombi, 1989.
+###### Mochi Onori, Lorenza and Rossela Vodret Adamo. _La Galleria Nazionale d’Arte Antica, Regesto delle didascalie_. Roma: Palombi, 1989.
 
 ###### Morelli, Arnaldo. “Carlo Rainaldi musicista gentiluomo. Una riconsiderazione e qualche novità.” In _La festa delle arti. Scritti in onore di Marcello Fagiolo per cinquant’anni di studi_, edited by Vincenzo Cazzato, Sebastiano Roberto, Mario Bevilacqua, 432–435. Roma: Gangemi, 2001.
 
