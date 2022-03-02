@@ -117,13 +117,13 @@ In conclusion, Lanfranco's painting appears as a tribute to Marazzoli and his qu
 
 ###### Hess, Jakob ed. _Die Künstlerbiographien des Giovanni Battista Passeri. Nach den Handschriften des Autors_. Leipzig: Keller, 1934.
 
-###### Lionnet, Jean. “Andrè Maugars: risposta data a un curioso sul sentimento della musica in Italia.” _Nuova rivista musicale italiana_ 19, 4 (1985): 691, note 12.
+###### Lionnet, Jean. “Andrè Maugars: risposta data a un curioso sul sentimento della musica in Italia.” _Nuova rivista musicale italiana_ 19, 4 (1985): 681-707.
 
 ###### Marazzoli, Marco. _Reliquie di Roma II: Caro sposo_. ATALANTE (ensemble), Erin Headley (director). CD. Destino Classics/Nimbus Alliance NI 6185, 2012.
 
 ###### Mochi Onori, Lorenza and Rossella Vodret Adamo. _Galleria Nazionale d’Arte Antica – Palazzo Barberini – I dipinti. Catalogo sistematico_. Roma: L’Erma di Bretschneider, 2008.
 
-###### Mochi Onori, Lorenza and Rossela Vodret Adamo. _La Galleria Nazionale d’Arte Antica, Regesto delle didascalie._Roma: Palombi, 1989.
+###### Mochi Onori, Lorenza and Rossela Vodret Adamo. _La Galleria Nazionale d’Arte Antica, Regesto delle didascalie_. Roma: Palombi, 1989.
 
 ###### Morelli, Arnaldo. “Carlo Rainaldi musicista gentiluomo. Una riconsiderazione e qualche novità.” In _La festa delle arti. Scritti in onore di Marcello Fagiolo per cinquant’anni di studi_, edited by Vincenzo Cazzato, Sebastiano Roberto, Mario Bevilacqua, 432–435. Roma: Gangemi, 2001.
 
