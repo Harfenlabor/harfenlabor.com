@@ -97,7 +97,7 @@ In conclusion, Lanfranco's painting appears as a tribute to Marazzoli and his qu
 
 ###### Bibliography
 
-###### Barb.lat. 4209. Vatican Apostolic Library, Roma.
+###### Barb.lat. 4209. Vatican Apostolic Library, Vatican City.
 
 ###### Bruno, Silvia. “Musici e pittori tra Firenze e Roma nel secondo quarto del Seicento.“ _Studi Secenteschi_ 49 (2008): **185-217**.
 
