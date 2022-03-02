@@ -32,7 +32,7 @@ The first thing that struck me when I saw the archival document of the order for
 
 ***
 
-To fully understand an instrument, it is necessary to hear it played in different spaces. It is very probable that the Barberini Harp made its first appearance for the <span id="subjects_tag">_Giostra del Saracino_</span> held in <span id="timeline_tag">1634</span> at <span id="map_tag">Piazza Navona</span>. The report on this spectacular event, illustrated with etchings by <span id="person_tag">François Collignon</span> and <span id="person_tag">Andrea Sacchi</span>, bears witness to the presence of a large carved harp placed inside the golden ship that entered Piazza Navona late at night, transporting singers and musicians and astonishing the audience.<sup>3</sup> 
+To fully understand an instrument, it is necessary to hear it played in different spaces. It is very probable that the Barberini Harp made its first appearance for the <span id="subjects_tag">_Giostra del Saracino_</span> held in <span id="timeline_tag">1634</span> at <span id="map_tag">Piazza Navona</span>. The report on this spectacular event, illustrated with etchings by <span id="person_tag">François Collignon</span> and <span id="person_tag">Andrea Sacchi</span>, bears witness to the presence of a large carved harp placed inside the golden ship that entered Piazza Navona late at night, transporting singers and musicians and astonishing the audience.<sup>3</sup>
 
 ***
 
@@ -57,3 +57,23 @@ The performance described favours polyphony (_recercata_), and two-part counterp
 ***
 
 Unlike the instances in which the harp is described together with other instruments, here there seems to be an emphasis on its sonic and rhythmical aspects. The author of <span id="subjects_tag">_Il Corago_</span>, the anonymous text from the start of the 1600s, describes the harp as one of the instruments best suited to dance music, because it is capable of producing a clear, resonant impulse. “Essendo la musica rappresentata in scena più vivace et attuosa assai di quella cantata in chiesa o in altra occasione, molto più viva \[= vivo\] e quasi arieggiante \[?\] è l’istromento di corde che stacca per aria la botta che non è il continuo suono dell’organo, per questo nei balli l’arpa è stimata la migliore.”<sup>5</sup> And <span id="person_tag">Stefano Landi</span>, in _Sant’Alessio_, combines the harp with lutes, theorbos and violones, assigning it a more rhythmical bass line with respect to that of the harpsichords. Not all of the choices of acoustics or instrumentation are comprehensible to us. For example, it is hard to imagine the concert for the wedding of <span id="person_tag">Francesco Farnese</span>, Duke of Parma, with <span id="person_tag">Dorothea Sophie</span>, in which one heard a harp accompanied by as many as three harpsichords.<sup>6</sup> Nevertheless, this variety of situations serves to bring us closer to an instrument that seems to have had highly varied and diversified use. The construction of an “absolute copy” could shed light on the various uses of this instrument. Its contradictions, which each craftsman and each musician could then resolve in a different way, would probably remain intact. Today, as in the past.
+
+***
+
+***
+
+###### Bibliography
+
+###### Archivio Barberini, Giustificazioni I, vol. 236, f. 116v. _Le Giustificazioni dell’Archivio Barberini_, edited by Luigi Cacciaglia. Vatican City: BAV, 2014.
+
+###### Bartoli, Daniello. _Opere del padre Daniello Bartoli_. Venezia: 1659.
+
+###### Collignon, François after Andrea Sacchi. _La nave di Bacco_. 1634, Etching, 41 x 44 cm. In Guido Bentivoglio, _Festa fatta in Roma alli 25 di febraio MDCXXXIV_. Roma: Vitale Mascardi, 1635.
+
+###### Fabbri, Paolo and Angelo Pompilio, eds. _Il Corago, o vero alcune osservazioni per mettere bene in scena le composizioni drammatiche_. Firenze: Leo S. Olschki, 1983.
+
+###### Granata, Chiara. “'Un’arpa grande tutta intagliata e dorata'. New documents on the Barberini harp.” _Recercare_ XXVII (2015): 139-164.
+
+###### Pontiggia, Dario. “Barberini Harp. Datasheet.” _Recercare_ XXVII (2015): 165-184.
+
+###### Galassi, Mara and Chiara Granata. “'Tanto che non si potrebbe sentire cosa più bella'. L’arpa come strumento di basso continuo a Roma negli anni di attività di Orazio Michi.” In _Basler Jahrbuch für Historische Musikpraxis_, vol. 39 (2015): 313-344.
