@@ -119,7 +119,7 @@ In conclusion, Lanfranco's painting appears as a tribute to Marazzoli and his qu
 
 ###### Lionnet, Jean. “Andrè Maugars: risposta data a un curioso sul sentimento della musica in Italia.” _Nuova rivista musicale italiana_ 19, 4 (1985): 691, note 12.
 
-###### Marazzoli, Marco. _Oratorio di Santa Caterina_. In _Reliquie di Roma II: Caro sposo_. ATALANTE (ensemble), Erin Headley (director). Destino Classics/Nimbus Alliance NI 6185, 2012. CD.
+###### Marazzoli, Marco. _Oratorio di Santa Caterina_. In _Reliquie di Roma II: Caro sposo_. Atalante (ensemble), Erin Headley (director). Destino Classics/Nimbus Alliance NI 6185, 2012. CD.
 
 ###### Mochi Onori, Lorenza and Rossella Vodret Adamo. _Galleria Nazionale d’Arte Antica – Palazzo Barberini – I dipinti. Catalogo sistematico_. Roma: L’Erma di Bretschneider, 2008.
 
