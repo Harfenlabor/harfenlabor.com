@@ -115,48 +115,48 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_46_27_00-still064.jpg)
 
-###### Scaling and measurements on 3D microscopic image, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Scaling and measurements on 3D microscopic image, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_50_01_14-still066.jpg)
 
-###### Analysis of microscopic wood structure (wood anatomy) based on image material, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Analysis of microscopic wood structure (wood anatomy) based on image material, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_36_52_10-still062.jpg)
 
-###### Comparing the examination images with anatomical wood structures in digital databases, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Comparing the examination images with anatomical wood structures in digital databases, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_51_03_22-still067.jpg)
 
-###### Geographical distribution of wood species in the Thünen-Institut database, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Geographical distribution of wood species in the Thünen-Institut database, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
 ![](/images/2019-11-28_barbe-dav_lineup_2020-06-10-01_10_42_13-still009.jpg)
 
-###### Description of the characteristics of Norway spruce, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Description of the characteristics of Norway spruce, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-14_01_06_03-still069.jpg)
 
-###### Comparison of ring-porous as opposed to diffuse-porous types of pore arrangement in wood, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Comparison of ring-porous as opposed to diffuse-porous types of pore arrangement in wood, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
 ![](/images/2019-11-28_barbe-dav_lineup_2020-06-10-01_00_01_16-still007.jpg)
 
-###### Volker Haag comparing the harp’s wood surfaces with samples in the scientific wood collection (Xylothek) of the Thünen-Institut, Institut für Holzforschung, Hamburg, 2018
+###### Volker Haag comparing the harp’s wood surfaces with samples in the scientific wood collection (Xylothek) of the Thünen-Institut, Institut für Holzforschung, Hamburg, 2018.
 
 ***
 
 ![](/images/2019-11-28_barbe-dav_lineup_2020-06-10-01_12_39_22-still017.jpg)
 
-###### Volker Haag conducts image-analytical comparison of the Barberini Harp examination material with the samples in the scientific wood collection of the Thünen-Institut, Hamburg, 2018
+###### Volker Haag conducts image-analytical comparison of the Barberini Harp examination material with the samples in the scientific wood collection of the Thünen-Institut, Hamburg, 2018.
 
 ###### All images © Armin Linke / Harfenlabor 2020. Licensed under [CC BY-NC-ND International 4.0](https://harfenlabor.netlify.app/aboutpage/#ccbyncnd)
