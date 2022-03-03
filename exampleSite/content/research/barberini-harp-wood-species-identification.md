@@ -31,85 +31,85 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-14_30_17_13-still071.jpg)
 
-###### Equipment set-up, Swati Tamantini, Valentina Zemke, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Equipment set-up, Swati Tamantini, Valentina Zemke, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_17_16_12-still006.jpg)
 
-###### Setting up for specialist image taking and processing requires a great amount of time and concentration from the scientists. Valentina Zemke, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Setting up for specialist image taking and processing requires a great amount of time and concentration from the scientists. Valentina Zemke, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-09_52_51_16-still001.jpg)
 
-###### Fine adjustments to 3D-RLM imaging device settings in preparation for microscopic investigation, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Fine adjustments to 3D-RLM imaging device settings in preparation for microscopic investigation, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-11_43_01_24-still079.jpg)
 
-###### 3D-RLM investigation: the lens transmits "live" to the screen for real-time examination of the harp's surfaces, Valentina Zemke, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### 3D-RLM investigation: the lens transmits "live" to the screen for real-time examination of the harp's surfaces, Valentina Zemke, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-12_52_55_19-still053.jpg)
 
-###### Frequent touching has over time thinned out stain and varnish layers on the column, enabling examination of the surface of the wood. Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Frequent touching has over time thinned out stain and varnish layers on the column, enabling examination of the surface of the wood. Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_51_53_06-still015.jpg)
 
-###### Macroscopic examination of the harp’s soundboard and tailpieces with a hand magnifier, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Macroscopic examination of the harp’s soundboard and tailpieces with a hand magnifier, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_55_22_16-still075.jpg)
 
-###### Macroscopic surface examination and identification of locations suitable for microscopic investigation, Valentina Zemke, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Macroscopic surface examination and identification of locations suitable for microscopic investigation, Valentina Zemke, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_55_07_05-still020.jpg)
 
-###### Examination of damaged paint surface and identification of locations suitable for microscopic investigation, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Examination of damaged paint surface and identification of locations suitable for microscopic investigation, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_01_55_19-still005.jpg)
 
-###### Transcript of the examination protocol, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Transcript of the examination protocol, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_12_11_00-still056.jpg)
 
-###### Examination of a button, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Examination of a button, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_20_57_03-still058.jpg)
 
-###### Examination of a button, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Examination of a button, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_07_30_08-still054.jpg)
 
-###### Creating a 3D microscopic image, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Creating a 3D microscopic image, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-11_11_36_24-still026.jpg)
 
-###### Transmission of a 3D microscopic image, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### Transmission of a 3D microscopic image, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-13_44_43_04-still065.jpg)
 
-###### 3D microscopic image of a vertebral boxwood fragment, Museo Nazionale degli Strumenti Musicali, Roma, 2018
+###### 3D microscopic image of a vertebral boxwood fragment, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
