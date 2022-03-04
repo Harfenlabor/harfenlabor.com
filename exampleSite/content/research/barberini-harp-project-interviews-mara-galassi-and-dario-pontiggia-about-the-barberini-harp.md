@@ -16,7 +16,7 @@ status = "approved by author"
 subjects_tag = ["Barberini Harp", "wood", "soundboard", "neck", "column", "strings", "construction", "copy", "luthier", "pitch", "diapason", "historical performance practice", "buon gusto", "harp technique", "drone bass", "drone strings", "bourdon", "facsimile", "organological", "drawing", "triangle", "sculptural work", "ornament", "classical guitar", "concert instrument", "bass strings", "high range", "Estense Harp", "drilling", "identical copy", "original Barberini", "plucked instruments", "gilder", "carver", "soundbox", "absolute copy", "parade", "open air", "instrument for representation", "parade instrument", "instrumentalist"]
 subtype = ["Organology", "Performance Practice"]
 summary_text = "Harpist and researcher Mara Galassi and master luthier Dario Pontiggia  discuss some of the finer points in making copies of historical harps. As one of the pioneers in the field of organological research into the historical harp, Galassi commissioned the luthier David Brown to make the first copy ever of the Barberini Harp. Galassi and Pontiggia grapple with the pros and cons of building authentic copies of the harp. As a luthier, Pontiggia believes he ought to \"correct the mistakes\" on the Barberini Harp. As a performer, Galassi believes an authentic copy would offer valuable insights into historical harp practice. "
-timeline_tag = ["1632-1633", "1980-90", "2016", "1940s"]
+timeline_tag = ["1980-90", "2016", "1940s", "1632-1633"]
 title = "Barberini Harp Project / Interviews&&Mara Galassi and Dario Pontiggia: About the Barberini Harp"
 type = "Research"
 
