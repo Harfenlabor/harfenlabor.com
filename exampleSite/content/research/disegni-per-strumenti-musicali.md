@@ -158,9 +158,7 @@ The proposal to attribute the conception and design of the Barberini Harp to Sor
 
 ###### De Simone, Arianna. "Domenichino and Music." _Studies in Art History_ 27 (2016): 175-192.
 
-###### _Dizionario Biografico degli Italiani_. Volume 75, 2011.
-
-###### _Dizionario Biografico degli Italiani_. Volume 93, 2018.
+###### _Dizionario Biografico degli Italiani_. Volume 75, 2011; Volume 93, 2018.
 
 ###### Faletti, Franca and Renato Meucci, Gabriele Rossi-Rognoni, eds. _Meraviglie sonore. Strumenti Musicali Del Barocco Italiano._ Firenze: Giunti, 2007.
 
