@@ -252,7 +252,7 @@
 
 /*ARTICLES SYNOPSIS*/
 .synopsis_box {
-	position: relative; /*absolute;*/
+	position: absolute;
 	background-color: white;
 	z-index: 1;
 	border-radius: 1.2em;
@@ -305,6 +305,8 @@
 
 .italic {
 	font-style: italic;
+	color: var(--purpleColor)!important;
+	cursor: text!important;
 }
 
 .open_synopsis_box {
