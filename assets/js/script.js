@@ -179,8 +179,7 @@ if ( synopsis ) {
 
 					var paragraphText_2 = document.createTextNode(second[0]);
 					var italicSpan = document.createElement('span');
-					italicSpan.setAttribute('class', 'synopsis_italic');
-					italicSpan.setAttribute('style', 'font-style: italic');
+					italicSpan.setAttribute('class', 'italic');
 					italicSpan.appendChild(paragraphText_2);
 					paragraph.appendChild(italicSpan);
 
@@ -223,8 +222,7 @@ if ( footnotes ) {
 
 					var paragraphText_2 = document.createTextNode(second[0]);
 					var italicSpan = document.createElement('span');
-					italicSpan.setAttribute('class', 'footnotes_italic');
-					italicSpan.setAttribute('style', 'font-style: italic');
+					italicSpan.setAttribute('class', 'italic');
 					italicSpan.appendChild(paragraphText_2);
 					paragraph.appendChild(italicSpan);
 
@@ -276,8 +274,7 @@ if ( imgcaptions ) {
 
 					var paragraphText_2 = document.createTextNode(second[0]);
 					var italicSpan = document.createElement('span');
-					italicSpan.setAttribute('class', 'imgcaptions_italic');
-					italicSpan.setAttribute('style', 'font-style: italic');
+					italicSpan.setAttribute('class', 'italic');
 					italicSpan.appendChild(paragraphText_2);
 					paragraph.appendChild(italicSpan);
 
