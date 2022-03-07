@@ -565,9 +565,37 @@
               if (fn_plainText.includes("Images: ")){
                 fn_plainText =  fn_plainText.replace("Images: ", "");
               }
-              var fn_insideText = document.createTextNode(fn_plainText);
+              
+              /*check for italics*/
+              if (fn_plainText.includes("&lt;i&gt;")){
+
+                var first = fn_plainText.split('&lt;i&gt;');
+                var fn_insideText_1 = document.createTextNode(first[0]);
+                fn_paragraph.setAttribute('class', 'imgcaptions');
+                fn_paragraph.appendChild(paragraphText_1);
+
+                for (let j = 1; j < first.length; j++) {
+                  var second = first[j].split('&lt;/i&gt;');  
+
+                  var fn_insideText_2 = document.createTextNode(second[0]);
+                  var italicSpan = document.createElement('span');
+                  italicSpan.setAttribute('class', 'italic');
+                  italicSpan.appendChild(paragraphText_2);
+                  fn_paragraph.appendChild(italicSpan);
+
+                  var fn_insideText_3 = document.createTextNode(second[1]);
+                  fn_paragraph.appendChild(fn_insideText_3);
+                }
+                
+              } else {
+                var fn_insideText = document.createTextNode(fn_plainText);
+                fn_paragraph.setAttribute('class', 'imgcaptions');
+                fn_paragraph.appendChild(fn_insideText);
+              }
+
+              /*var fn_insideText = document.createTextNode(fn_plainText);
               fn_paragraph.setAttribute('class', 'imgcaptions');
-              fn_paragraph.appendChild(fn_insideText);
+              fn_paragraph.appendChild(fn_insideText);*/
 
               if (box.children().length > 0 ) {
                 box.empty();
