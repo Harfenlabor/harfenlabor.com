@@ -1,5 +1,5 @@
 :root {
-  --purpleColor: #B44BEB;
+  --purpleColor: #FF6F61; /*#B44BEB*/
   --greyColor: #F1F2F2;
 }
 
@@ -252,8 +252,7 @@
 
 /*ARTICLES SYNOPSIS*/
 .synopsis_box {
-	/*display: block;*/
-	position: absolute;
+	position: relative; /*absolute;*/
 	background-color: white;
 	z-index: 1;
 	border-radius: 1.2em;
@@ -267,7 +266,7 @@
 	overflow: auto;
 
 	margin-left: 0%;
-	margin-top: -3em;
+	margin-top: -2em; /*was 3*/
 
 	display: flex;
 	flex-direction: row-reverse;
@@ -302,6 +301,10 @@
 	line-break: normal;
 	font-size: 1rem;
 	line-height: 1.2rem;
+}
+
+.italic {
+	font-style: italic;
 }
 
 .open_synopsis_box {
