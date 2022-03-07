@@ -562,6 +562,11 @@
 
               var fn_paragraph = document.createElement('p');
               var fn_plainText = imgcaptions[this.textContent.split('Fig. ').pop().split(/[), ]/)[0]].textContent;
+
+              console.log(imgcaptions[this.textContent.split('Fig. ').pop().split(/[), ]/)[0]].textContent);
+              console.log(imgcaptions[this.textContent.split('Fig. ').pop().split(/[), ]/)[0]].innerText);
+              console.log(imgcaptions[this.textContent.split('Fig. ').pop().split(/[), ]/)[0]].innerHTML);
+
               
               if (fn_plainText.includes("Images: ")){
                 fn_plainText =  fn_plainText.replace("Images: ", "");
