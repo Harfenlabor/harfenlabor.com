@@ -168,7 +168,7 @@ The proposal to attribute the conception and design of the Barberini Harp to Sor
 
 ###### Gonzáles Palacios, Alvar. “Avvio allo studio della mobilia romana.” Introduction to _Il Mobile Romano_, by Goffredo Lizzani. Milano: Görlich, 1970.
 
-###### Granata, Chiara. “'Un arpa grande tutta intagliata e dorata'. New documents on the Barberini harp.” _Recercare_ XXVII (2015): 139 – 164.
+###### Granata, Chiara. “'Un arpa grande tutta intagliata e dorata'. New documents on the Barberini harp.” _Recercare_ XXVII (2015): 139 – 164. [**https://www.jstor.org/stable/26381197.**](https://www.jstor.org/stable/26381197. "https://www.jstor.org/stable/26381197.")
 
 ###### Marcucci, Luisa. _Mostra di Strumenti musicali in disegni degli Uffizi_. Firenze: Olschki, 1952.
 
