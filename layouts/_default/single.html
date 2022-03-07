@@ -570,6 +570,8 @@
               /*check for italics*/
               if (fn_plainText.includes("&lt;i&gt;")){
 
+                console.log(fn_plainText);
+
                 var first = fn_plainText.split('&lt;i&gt;');
                 var fn_insideText_1 = document.createTextNode(first[0]);
                 fn_paragraph.setAttribute('class', 'imgcaptions');
