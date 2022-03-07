@@ -72,8 +72,8 @@ Unlike the instances in which the harp is described together with other instrume
 
 ###### Fabbri, Paolo and Angelo Pompilio, eds. _Il Corago, o vero alcune osservazioni per mettere bene in scena le composizioni drammatiche_. Firenze: Leo S. Olschki, 1983.
 
-###### Granata, Chiara. “'Un’arpa grande tutta intagliata e dorata'. New documents on the Barberini harp.” _Recercare_ XXVII (2015): 139-164.
+###### Granata, Chiara. “'Un’arpa grande tutta intagliata e dorata'. New documents on the Barberini harp.” _Recercare_ XXVII (2015): 139-164. [**https://www.jstor.org/stable/26381197.**](https://www.jstor.org/stable/26381197. "https://www.jstor.org/stable/26381197.")
 
-###### Pontiggia, Dario. “Barberini Harp. Datasheet.” _Recercare_ XXVII (2015): 165-184.
+###### Pontiggia, Dario. “Barberini Harp. Datasheet.” _Recercare_ XXVII (2015): 165-184. [https://www.jstor.org/stable/26381198](https://www.jstor.org/stable/26381198 "https://www.jstor.org/stable/26381198").
 
 ###### Galassi, Mara and Chiara Granata. “'Tanto che non si potrebbe sentire cosa più bella'. L’arpa come strumento di basso continuo a Roma negli anni di attività di Orazio Michi.” In _Basler Jahrbuch für Historische Musikpraxis_, vol. 39 (2015): 313-344.
