@@ -8,18 +8,18 @@
   font-family: Jungka;
   /*https://github.com/Harfenlabor/harfenlabor.com/blob/main/assets/css*/
   /*src: url('https://github.com/schlatterca/meghna-hugo/blob/master/assets/css/Jungka-Book.woff?raw=true');*/
-  src: url('Jungka-Book.woff2') format('woff2'),
-        url('Jungka-Book.woff') format('woff'),
-        url('Jungka-Book.otf') format('otf');
+  src: url(Jungka-Book.woff2) format('woff2'),
+        url(Jungka-Book.woff) format('woff'),
+        url(Jungka-Book.otf) format('otf');
   font-style: normal;
 }
 
 @font-face{
   font-family: Jungka;
   /*src: url('https://github.com/schlatterca/meghna-hugo/blob/master/assets/css/Jungka-BookItalic.woff?raw=true');*/
-  src: url('Jungka-BookItalic.woff2') format('woff2'),
-        url('Jungka-BookItalic.woff') format('woff'),
-        url('Jungka-BookItalic.otf') format('otf');
+  src: url(Jungka-BookItalic.woff2) format('woff2'),
+        url(Jungka-BookItalic.woff) format('woff'),
+        url(Jungka-BookItalic.otf) format('otf');
   font-style: italic;
 }
 
@@ -39,20 +39,20 @@ body {
 h1,
 h2 {
   font-weight: 400;
-  font-family: Jungka;
+  /*font-family: Jungka;*/
   font-size: 2.4rem; /*edited*/
   color: black;
 }
 
 h3 /*USED FOR DOI*/ {
-  font-family: Jungka;
+  /*font-family: Jungka;*/
   font-size: 1.5rem;
   line-height: 1.7rem;
   text-align: right;
 }
 
 h4 /*USED FOR TRANSLATION QUOTES*/ {
-  font-family: Jungka;
+  /*font-family: Jungka;*/
   font-size: 1.5rem;
   line-height: 1.7rem;
   border-top: 1px solid var(--purpleColor);
@@ -60,14 +60,14 @@ h4 /*USED FOR TRANSLATION QUOTES*/ {
 }
 
 h5 /*USED FOR INDENT PARAGRAPHS*/ {
-  font-family: Jungka;
+  /*font-family: Jungka;*/
   font-size: 1.5rem;
   line-height: 1.7rem;
   margin-left: 2em;
 }
 
 h6 /*USED FOR IMAGE CAPTIONS*/ {
-  font-family: Jungka;
+  /*font-family: Jungka;*/
   max-width: 70%;
   margin-left: auto;
   margin-right: auto;
@@ -76,7 +76,7 @@ h6 /*USED FOR IMAGE CAPTIONS*/ {
 }
 
 p {
-  font-family: Jungka;
+  /*font-family: Jungka;*/
   font-size: 1.5rem;
   line-height: 1.7rem;
 }
@@ -406,7 +406,7 @@ a:hover {
 .header-bradcrumb .active {
   color: #cfcfcf;
   font-weight: 200;
-  font-family: Jungka;
+  /*font-family: Jungka;*/
 }
 
 .header-bradcrumb a:hover {
