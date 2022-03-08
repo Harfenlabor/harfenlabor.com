@@ -2,24 +2,25 @@
 :root {
   --purpleColor: #B44BEB;
   --greyColor: #F1F2F2;
+  --cssFolder: 'https://github.com/Harfenlabor/harfenlabor.com/blob/main/assets/css/';
 }
 
 @font-face{
   font-family: Jungka;
   /*https://github.com/Harfenlabor/harfenlabor.com/blob/main/assets/css*/
   /*src: url('https://github.com/schlatterca/meghna-hugo/blob/master/assets/css/Jungka-Book.woff?raw=true');*/
-  src: url(Jungka-Book.woff2) format('woff2'),
-        url(Jungka-Book.woff) format('woff'),
-        url(Jungka-Book.otf) format('otf');
+  src: url(var(--cssFolder) + 'Jungka-Book.woff2?raw=true') format('woff2'),
+        url(var(--cssFolder) + 'Jungka-Book.woff?raw=true') format('woff'),
+        url(var(--cssFolder) + 'Jungka-Book.otf?raw=true') format('opentype');
   font-style: normal;
 }
 
 @font-face{
   font-family: Jungka;
   /*src: url('https://github.com/schlatterca/meghna-hugo/blob/master/assets/css/Jungka-BookItalic.woff?raw=true');*/
-  src: url(Jungka-BookItalic.woff2) format('woff2'),
-        url(Jungka-BookItalic.woff) format('woff'),
-        url(Jungka-BookItalic.otf) format('otf');
+  src: url(var(--cssFolder) + 'Jungka-BookItalic.woff2?raw=true') format('woff2'),
+        url(var(--cssFolder) + 'Jungka-BookItalic.woff?raw=true') format('woff'),
+        url(var(--cssFolder) + 'Jungka-BookItalic.otf?raw=true') format('opentype');
   font-style: italic;
 }
 
