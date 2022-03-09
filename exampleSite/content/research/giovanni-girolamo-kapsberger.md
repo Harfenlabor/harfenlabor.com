@@ -31,7 +31,7 @@ Harfenlabor presents an online lecture held on Zoom, on April 17, 2021, on <span
 
 This lecture on Giovanni Girolamo Kapsberger places a special focus on Kapsberger’s vision of a good continuo player accompanying the voice, as demonstrated in his published material for basso continuo. In historical performance practice, plucked instruments, as well as keyboard instruments, very often shared the repertoire—historical harpists therefore find great benefit in researching material written for theorbo or lute. Both Dragosits and Pasotti are also continuo players with valuable insights into Kapsberger realisations and treatises.
 
-Dragosits is also the author of the recently published biography, <span id="subjects_tag">_Giovanni Girolamo Kapsperger “Ein ziemlich extravaganter Mann”_</span> (Lucca: Lim, 2020).
+Dragosits is also the author of the recently published biography, [_Giovanni Girolamo Kapsperger “Ein ziemlich extravaganter Mann”_ (Lucca: Lim, 2020)](https://www.lim.it/it/saggi/5964-giovanni-girolamo-kapsperger-9788855430470.html#/2-tipo_prodotto-libro).
 
 © Harfenlabor 2021  
 Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/aboutpage/#ccbync)
