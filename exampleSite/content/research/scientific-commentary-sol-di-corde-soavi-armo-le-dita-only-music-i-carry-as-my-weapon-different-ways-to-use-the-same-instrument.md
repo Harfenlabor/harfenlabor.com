@@ -74,6 +74,8 @@ Unlike the instances in which the harp is described together with other instrume
 
 ###### Granata, Chiara. “'Un’arpa grande tutta intagliata e dorata'. New documents on the Barberini harp.” _Recercare_ XXVII (2015): 139-164. [https://www.jstor.org/stable/26381197.](https://www.jstor.org/stable/26381197. "https://www.jstor.org/stable/26381197.")
 
+###### Nobili, Collegio dei, and eredi Galeazzo Rosati. _La Reggia Delle Grazie, Aperta per Celebrare Le Gloriosissime Nozze, Seguite Tra Le Altezze Del Serenissimo Francesco Duca Di Parma ... e Della Serenissima Principessa Palatina Dorotea Sofia Farnese ... e Considerata per Oggetto Di Solenne Accademia, Mist_. per gli eredi di Galeazzo Rosati. Parma, 1696. [https://books.google.it/books?id=9PSFiZrdcYwC](https://books.google.it/books?id=9PSFiZrdcYwC "https://books.google.it/books?id=9PSFiZrdcYwC") .
+
 ###### Pontiggia, Dario. “Barberini Harp. Datasheet.” _Recercare_ XXVII (2015): 165-184. [https://www.jstor.org/stable/26381198](https://www.jstor.org/stable/26381198 "https://www.jstor.org/stable/26381198").
 
 ###### Galassi, Mara and Chiara Granata. “'Tanto che non si potrebbe sentire cosa più bella'. L’arpa come strumento di basso continuo a Roma negli anni di attività di Orazio Michi.” In _Basler Jahrbuch für Historische Musikpraxis_, vol. 39 (2015): 313-344.
