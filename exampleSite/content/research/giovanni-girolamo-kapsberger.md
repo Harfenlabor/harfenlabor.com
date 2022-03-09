@@ -33,7 +33,5 @@ This lecture on Giovanni Girolamo Kapsberger places a special focus on Kapsberge
 
 Dragosits is also the author of the recently published biography, <span id="subjects_tag">_Giovanni Girolamo Kapsperger “Ein ziemlich extravaganter Mann”_</span> (Lucca: Lim, 2020).
 
-Moderated by <span id="person_tag">Margret Köll</span>, historical harpist and artistic director of Harfenlabor.
-
 © Harfenlabor 2021  
 Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/aboutpage/#ccbync)
