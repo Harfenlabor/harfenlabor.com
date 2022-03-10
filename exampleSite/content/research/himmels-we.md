@@ -3,7 +3,6 @@ PublishDate = 2022-03-09T23:00:00Z
 author = "Christof Dienz"
 description = ""
 downloads = []
-draft = true
 externallinks = ""
 footnotes = ""
 image = ""
