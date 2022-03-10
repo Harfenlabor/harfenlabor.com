@@ -126,7 +126,7 @@ One could think of both <span id="person_tag">Bartolomeo de Rossi</span> and <sp
 
 ###### Giovanni Battista Soria, _Custodia della Cattedra Petri_ (<cap>Fig. 11</cap>).
 
-Similar motifs of volutes and racemes are present on the wooden case that Soria made in <span id="timeline_tag">1630</span> for the relic of the Chair of Saint Peter,<sup>16</sup> as well as on a piece of furniture still in the Palazzo Barberini that contains a fresco by <span id="person_tag">Guido Reni</span>, the <span id="subjects_tag">_Putto Dormiente_</span>.<sup>17</sup>
+Similar motifs of volutes and racemes are present on the wooden case that Soria made in <span id="timeline_tag">1630</span> for the relic of the Chair of Saint Peter,<sup>16</sup> as well as on a piece of furniture still in the Palazzo Barberini that contains a fresco by <span id="person_tag">Guido Reni</span>, the _Putto Dormiente_.<sup>17</sup>
 
 ***
 
