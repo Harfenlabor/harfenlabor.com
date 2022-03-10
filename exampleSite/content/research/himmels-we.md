@@ -25,3 +25,5 @@ type = "Research"
 Christof Dienz
 
 © IX/2021
+
+To find out more about Christof Dienz and his varied practice, go to [http://www.dienz.at](http://www.dienz.at "http://www.dienz.at")
