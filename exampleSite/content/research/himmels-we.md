@@ -21,7 +21,6 @@ title = "Himmels We"
 type = "Research"
 
 +++
-[https://www.dropbox.com/s/lpjreybixcxiupx/himmels%20w_part.pdf?dl=0](https://www.dropbox.com/s/lpjreybixcxiupx/himmels%20w_part.pdf?dl=0 "https://www.dropbox.com/s/lpjreybixcxiupx/himmels%20w_part.pdf?dl=0")
 
 Christof Dienz
 
