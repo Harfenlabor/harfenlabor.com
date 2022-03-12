@@ -51,8 +51,8 @@ ExpiresByType image/vnd.microsoft.icon "access plus 1 year"
 # ----------------------------------------------------------------------
 # Webfont access
 # ----------------------------------------------------------------------
-<IfModule mod_headers.c>
-  <FilesMatch "\.(ttf|ttc|otf|eot|woff?|woff|woff2|font.css|css)$">
-    Header set Access-Control-Allow-Origin "*"
-  </FilesMatch>
-</IfModule>
+<FilesMatch "\.(ttf|otf|eot|woff|woff2)$">
+  <IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin *
+  </IfModule>
+</FilesMatch>
