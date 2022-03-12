@@ -7,7 +7,7 @@
 	color: black;
 	background-color: var(--greyColor);
 	border: 8px solid var(--greyColor);
-	width: -webkit-fit-content;
+	width: fit-content;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
@@ -117,7 +117,6 @@
 	background: var(--greyColor);
 	padding: 0px;
 	position: fixed;
-	width: 2em;
 	bottom: 0;
 	right: 0;
 	transition: width 0.3s ease-out;
@@ -144,6 +143,7 @@
 
 .foot1 {
 	height: 28vh;
+	width: 2em;
 	margin-bottom: 72vh;
 }
 .footitle1 {
@@ -152,10 +152,15 @@
 
 .foot2 {
 	height: 24vh; /*was 21*/
+	width: 2em;
 	margin-bottom: 51vh;
 }
 .footitle2 {
 	width: 24vh; /*was 21*/
+}
+
+.foot1:hover, .foot2:hover {
+	width: 40vw;
 }
 
 .foot3 {
