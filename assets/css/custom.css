@@ -159,16 +159,18 @@
 	width: 24vh; /*was 21*/
 }
 
-.foot1:hover, .foot2:hover {
+.foot1:hover, .foot2:hover, .foot3:hover, .foot4:hover, .foot5:hover {
 	width: 40vw;
 }
 
 .foot3 {
 	height: 21vh; /*was 18*/
+	width: 2em;
 	margin-bottom: 33vh;
 }
 .foot4 {
 	height: 21vh; /*was 18*/
+	width: 2em;
 	margin-bottom: 15vh;
 }
 .footitle3, .footitle4 {
@@ -177,6 +179,7 @@
 
 .foot5 {
 	height: 18vh; /*was 15, add 3 to overlay over the top one*/
+	width: 2em;
 	border-radius: 1.5em 0 0 0!important;
 }
 .footitle5 {
