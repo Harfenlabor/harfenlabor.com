@@ -102,15 +102,10 @@ name = "search"
 url = "/search"
 weight = 7
 [[menu.main]]
-identifier = "mediathek"
-name = "mediathek"
-url = ""
-weight = 8
-[[menu.main]]
 identifier = "about"
 name = "about"
 url = "/aboutpage"
-weight = 9
+weight = 8
 [outputs]
 baseURL = "harfenlabor.netlify.app"
 disableLanguages = ["Fr"]
