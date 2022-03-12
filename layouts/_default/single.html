@@ -74,7 +74,7 @@
 
 {{ if eq .Type "Research" }}
 <footer id="footer_desktop">
-  <div id="footer" class="foot1" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
+  <div id="footer" class="foot1">
     <p class="footer_title footitle1">{{ .Params.project_category }}</p>
     <div class="footer_insidebox_1">
       {{ $this_proj_cat := .Params.project_category }}
@@ -85,7 +85,7 @@
       {{ end }}
     </div>
   </div>
-  <div id="footer" class="foot2" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)">
+  <div id="footer" class="foot2">
     <p class="footer_title footitle2">Related Research</p>
     <div class="footer_insidebox_2">
       <p class="footer_insidetext">
