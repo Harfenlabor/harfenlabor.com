@@ -23,12 +23,14 @@
 
 @font-face {
   font-family: Jungka;
+  src: local("https://github.com/Harfenlabor/harfenlabor.com/blob/main/assets/css/Jungka-Book.woff2?raw=true") format("woff2");
   src: url("https://github.com/Harfenlabor/harfenlabor.com/blob/main/assets/css/Jungka-Book.woff2?raw=true") format("woff2");
   font-style: normal;
 }
 
 @font-face {
   font-family: Jungka;
+  src: local("https://github.com/Harfenlabor/harfenlabor.com/blob/main/assets/css/Jungka-BookItalic.woff2?raw=true") format("woff2");
   src: url("https://github.com/Harfenlabor/harfenlabor.com/blob/main/assets/css/Jungka-BookItalic.woff2?raw=true") format("woff2");
   font-style: italic;
 }
