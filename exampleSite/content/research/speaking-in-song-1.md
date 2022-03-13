@@ -23,7 +23,7 @@ type = "Research"
 +++
 <iframe src="https://www.buzzsprout.com/1934249/10210259-speaking-in-song?client_source=small_player&iframe=true" loading="lazy" width="100%" height="200" frameborder="0" scrolling="no" title='Between the Strings , Speaking in Song '></iframe>
 
-_L´Orfeo_ by Monteverdi: a Big Bang in the history of opera!
+***
 
 Ottavio Dantone, conductor, outstanding cembalo and organ player, and a basso continuo autodidact, demonstrates the power of music and word through some of the key moments in Monteverdi´s masterpiece. Dantone shares his visionary views on the modernity of Monteverdi’s musical language in _L’Orfeo_, advocating for intuition in adapting performances to contemporary needs so as to continue to rouse through a synergy og music and words.
 
