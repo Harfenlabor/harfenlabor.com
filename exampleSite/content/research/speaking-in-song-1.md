@@ -15,7 +15,7 @@ show_in_news = true
 status = "draft"
 subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Musicology", "Sociology of Art"]
-summary_text = ""
+summary_text = "Ottavio Dantone, conductor, outstanding cembalo and organ player, and a basso continuo autodidact, demonstrates the power of music and word through some of the key moments in Monteverdi´s masterpiece. Dantone shares his visionary views on the modernity of Monteverdi’s musical language in <i>L’Orfeo</i>, advocating for intuition in adapting performances to contemporary needs so as to continue to rouse through a synergy of music and words."
 timeline_tag = []
 title = "Speaking in Song"
 type = "Research"
@@ -25,6 +25,6 @@ type = "Research"
 
 ***
 
-Ottavio Dantone, conductor, outstanding cembalo and organ player, and a basso continuo autodidact, demonstrates the power of music and word through some of the key moments in Monteverdi´s masterpiece. Dantone shares his visionary views on the modernity of Monteverdi’s musical language in _L’Orfeo_, advocating for intuition in adapting performances to contemporary needs so as to continue to rouse through a synergy og music and words.
+Ottavio Dantone, conductor, outstanding cembalo and organ player, and a basso continuo autodidact, demonstrates the power of music and word through some of the key moments in Monteverdi´s masterpiece. Dantone shares his visionary views on the modernity of Monteverdi’s musical language in _L’Orfeo_, advocating for intuition in adapting performances to contemporary needs so as to continue to rouse through a synergy of music and words.
 
 You can find out more about Ottavio Dantone and his ensemble Accademia Bizantina on [https://www.accademiabizantina.it](https://www.accademiabizantina.it "https://www.accademiabizantina.it").
