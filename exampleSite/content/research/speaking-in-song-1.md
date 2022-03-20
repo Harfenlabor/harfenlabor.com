@@ -31,8 +31,6 @@ type = "Research"
 
 ***
 
-***
-
 <iframe src="https://www.buzzsprout.com/1934249/10210259-speaking-in-song?client_source=small_player&iframe=true" loading="lazy" width="100%" height="200" frameborder="0" scrolling="no" title='Between the Strings , Speaking in Song '></iframe>
 
 ***
