@@ -86,12 +86,6 @@ Let us turn to the inventory one last time and note a detail that may escape us 
 
 In conclusion, Lanfranco's painting appears as a tribute to Marazzoli and his qualities as a musician through the representation of a very precious instrument, built specifically for him as one of the most distinguished harp virtuosos of his time. The painting obviously also pays homage to the Barberini as Marazzoli’s patrons, but also as patrons of important musical events in which, according to the words of Giovanni Battista Doni, the instruments were made to "appear to the people" and had to have a "beautiful and gracious presence," especially the harp that "has more greatness and nobility.”<sup>34</sup> The environment and furnishings in which the painting is exhibited in Marazzoli’s home are therefore also significant as they clearly signal his belonging to the court environment. In this room he presents himself and represents his microcosm: the music, of course, to which he owes his success, but, as we have seen, also painting, understood as the activity of a gentleman used to the court environment and the presence of princes and cardinals, in particular that of his patrons, the Barberini.
 
-***
-
-***
-
-***
-
 ###### Bibliography
 
 ###### Barb.lat. 4209. Archivio Barberini, Biblioteca Apostolica Vaticana. Città del Vaticano.
