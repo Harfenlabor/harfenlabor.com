@@ -37,27 +37,25 @@
       <div class="col-lg-8 offset-lg-2">
         <div class="post-single-content articleContent">
           {{ .Content }}
-
-          {{ if .Params.citationxxx }}
-          <div class="synopsis_box citationBoxAspect">
-            <p class="synopsis blackColor">Cite this article:<br>{{ .Params.citation }}</p>
-          </div>
-          {{ end }}
         </div>
       </div>
 
+      {{ if .Params.citationxxx }}
+      <div class="synopsis_box citationBoxAspect">
+        <p class="synopsis blackColor">Cite this article:<br>{{ .Params.citation }}</p>
+      </div>
+      {{ end }}
+
       {{ if .Params.imgcaptions }}
       <div class="imgcaptions_box">
-        <p class="imgcaptions">Images:</p>
-        <p class="imgcaptions">{{ .Params.imgcaptions }}</p>
+        <p class="imgcaptions">Images: {{ .Params.imgcaptions }}</p>
         <div class="open_imgcaptions_box">+</div>
       </div>
       {{ end }}
 
       {{ if .Params.footnotes }}
       <div class="footnotes_box">
-        <p class="footnotes">Footnotes:</p>
-        <p class="footnotes">{{ .Params.footnotes }}</p>
+        <p class="footnotes">Footnotes: {{ .Params.footnotes }}</p>
         <div class="open_footnotes_box">+</div>
       </div>
       {{ end }}
