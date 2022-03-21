@@ -249,10 +249,12 @@
   }
 
   //MOVE CITATION BOX BEFORE BIBLIOGRAPHY
+  var parentDiv = document.getElementsByClassName('articleContent')[0];
   var bibliography = document.getElementById('bibliography');
-  var citationbox = document.getElementsByClassName('citationBoxAspect');
+  var citationbox = document.getElementsByClassName('citationBoxAspect')[0];
   if (bibliography) {
     console.log(citationbox);
+    parentDiv.insertBefore(citationbox, bibliography);
   }
 
   //ARTICLE
