@@ -26,7 +26,3 @@ Christof Dienz
 © IX/2021
 
 To find out more about Christof Dienz and his varied practice, go to [http://www.dienz.at](http://www.dienz.at "http://www.dienz.at")
-
-<script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="m6llgw762iw6ivj"></script>
-
-<a href="https://www.dropbox.com/s/swixz55jvgalcur/Beitrag%20Barberiniharfe.mp3?dl=0" class="dropbox-embed"></a>
