@@ -297,10 +297,7 @@
 	background-color: var(--greyColor);
 	border: .15em solid var(--greyColor);
 	height: auto;
-}
-
-.blackColor {
-	color: black;
+	margin-bottom: 2em;
 }
 
 .width70 {
@@ -359,6 +356,15 @@
 	flex-direction: column;
 	margin-right: auto;
 	width: 90%;
+}
+
+.footnotes_imgcaptions_plain {
+	color: var(--purpleColor);
+	padding-left: 0em;
+	margin-bottom: .5em;
+	line-break: normal;
+	font-size: 1rem;
+	line-height: 1.2rem;
 }
 
 /*ARTICLES FOOTNOTES*/
