@@ -163,6 +163,17 @@ fields:
   label: Footnotes
   description: The article's footnotes. Please type &amp;&amp; to break lines. Use
     &lt;i&gt; and &lt;/i&gt; to make any text italic (i.e. this is &lt;i&gt;italic&lt;/i&gt;).
+- name: citation
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Citation Box
+  description: The article's citation box. Please type &amp;&amp; to break lines.
+    Use &lt;i&gt; and &lt;/i&gt; to make any text italic (i.e. this is &lt;i&gt;italic&lt;/i&gt;).
 - name: relatedresearch
   type: tag_list
   default: []
