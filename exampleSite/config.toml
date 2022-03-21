@@ -18,13 +18,13 @@ url = "/projects"
 weight = 2
 [[menu.main]]
 identifier = "Barberini harp project"
-name = "Barberini harp project"
+name = "Barberini Harp project"
 parent = "projects"
 url = "/projects/barberini"
 weight = "1"
 [[menu.main]]
 identifier = "Harfenlabor lectures"
-name = "Harfenlabor lectures"
+name = "Harfenlabor Lectures"
 parent = "projects"
 url = "/projects/lectures"
 weight = "2"
@@ -42,68 +42,68 @@ url = "/projects/podcast"
 weight = "4"
 [[menu.main]]
 identifier = "research"
-name = "research"
+name = "Research"
 url = "/research"
 weight = 3
 [[menu.main]]
 identifier = "organology"
-name = "organology"
+name = "Organology"
 parent = "research"
 url = "/research/organology"
 weight = "1"
 [[menu.main]]
 identifier = "performance practice"
-name = "performance practice"
+name = "Performance practice"
 parent = "research"
 url = "/research/performance"
 weight = "2"
 [[menu.main]]
 identifier = "musicology"
-name = "musicology"
+name = "Musicology"
 parent = "research"
 url = "/research/musicology"
 weight = "3"
 [[menu.main]]
 identifier = "HL editions"
-name = "HL editions"
+name = "HL Editions"
 parent = "research"
 url = "/research/HLeditions"
 weight = "4"
 [[menu.main]]
 identifier = "iconography"
-name = "iconography"
+name = "Iconography"
 parent = "research"
 url = "/research/iconography"
 weight = "5"
 [[menu.main]]
 identifier = "sociology of art"
-name = "sociology of art"
+name = "Sociology of Art"
 parent = "research"
 url = "/research/sociology"
 weight = "6"
 [[menu.main]]
 identifier = "timeline"
-name = "timeline"
+name = "Timeline"
 url = "/timeline"
 weight = 4
 [[menu.main]]
 identifier = "map"
-name = "map"
+name = "Map"
 url = "/map"
 weight = 5
 [[menu.main]]
 identifier = "index"
-name = "index"
+name = "Index"
 url = "/indextag"
 weight = 6
 [[menu.main]]
 identifier = "search"
-name = "search"
+name = "Search"
 url = "/search"
 weight = 7
 [[menu.main]]
 identifier = "about"
-name = "about"
+name = "About"
 url = "/aboutpage"
 weight = 8
 [outputs]
