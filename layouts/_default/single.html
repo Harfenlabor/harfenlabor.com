@@ -40,7 +40,7 @@
 
           {{ if .Params.citation }}
           <div class="synopsis_box citationBoxAspect">
-            <p class="synopsis blackColor width70">Cite this article:<br>{{ .Params.citation }}</p>
+            <p class="synopsis blackColor width70">Cite this article:&&{{ .Params.citation }}</p>
           </div>
           {{ end }}
         </div>
@@ -48,14 +48,14 @@
 
       {{ if .Params.imgcaptions }}
       <div class="imgcaptions_box">
-        <p class="imgcaptions">Images: {{ .Params.imgcaptions }}</p>
+        <p class="imgcaptions">Images:&&{{ .Params.imgcaptions }}</p>
         <div class="open_imgcaptions_box">+</div>
       </div>
       {{ end }}
 
       {{ if .Params.footnotes }}
       <div class="footnotes_box">
-        <p class="footnotes">Footnotes: {{ .Params.footnotes }}</p>
+        <p class="footnotes">Footnotes:&&{{ .Params.footnotes }}</p>
         <div class="open_footnotes_box">+</div>
       </div>
       {{ end }}
