@@ -34,17 +34,17 @@
         
       </div>
 
-      <div class="col-lg-8 offset-lg-2">
+      <div class="col-lg-8 offset-lg-2 marginBlockEnd">
         <div class="post-single-content articleContent">
           {{ .Content }}
+
+          {{ if .Params.citationxxx }}
+          <div class="synopsis_box citationBoxAspect">
+            <p class="synopsis blackColor width70">Cite this article:<br>{{ .Params.citation }}</p>
+          </div>
+          {{ end }}
         </div>
       </div>
-
-      {{ if .Params.citationxxx }}
-      <div class="synopsis_box citationBoxAspect">
-        <p class="synopsis blackColor">Cite this article:<br>{{ .Params.citation }}</p>
-      </div>
-      {{ end }}
 
       {{ if .Params.imgcaptions }}
       <div class="imgcaptions_box">
