@@ -38,13 +38,13 @@
         <div class="post-single-content articleContent">
           {{ .Content }}
         </div>
+        
+        {{ if .Params.citation }}
+        <div class="synopsis_box citationBoxAspect">
+          <p class="synopsis blackColor">Cite this article:<br>{{ .Params.citation }}</p>
+        </div>
+        {{ end }}
       </div>
-
-      {{ if .Params.citation }}
-      <div class="synopsis_box citationBoxAspect">
-        <p class="synopsis blackColor">Cite this article:<br>{{ .Params.citation }}</p>
-      </div>
-      {{ end }}
 
       {{ if .Params.imgcaptions }}
       <div class="imgcaptions_box">
