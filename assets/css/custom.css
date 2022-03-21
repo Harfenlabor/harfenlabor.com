@@ -303,6 +303,14 @@
 	color: black;
 }
 
+.width70 {
+	max-width: 70%;
+}
+
+.marginBlockEnd {
+	margin-block-end: 5.6em;
+}
+
 .isopen{
 	/*width: 40%;*/
 	height: auto;
@@ -812,6 +820,9 @@ p > img {
 	.isopen_imgcaptions,.isopen_footnotes{
 		width: 100%;
 		height: auto;
+	}
+	.marginBlockEnd {
+		margin-block-end: 0em;
 	}
 	#footer_desktop{
 		display: none;
