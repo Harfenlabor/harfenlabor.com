@@ -40,7 +40,7 @@
 
           {{ if .Params.citation }}
           <div class="synopsis_box citationBoxAspect">
-            <p class="synopsis blackColor width70">Cite this article:&&{{ .Params.citation }}</p>
+            <p class="synopsis width70">Cite this article:&&{{ .Params.citation }}</p>
           </div>
           {{ end }}
         </div>
@@ -246,6 +246,13 @@
       y[i].classList.remove("footer_button_active");
     }
     thisTab.classList.add("footer_button_active");
+  }
+
+  //MOVE CITATION BOX BEFORE BIBLIOGRAPHY
+  var bibliography = document.getElementById('bibliography');
+  var citationbox = document.getElementsByClassName('citationBoxAspect');
+  if (bibliography) {
+    console.log(citationbox);
   }
 
   //ARTICLE
