@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+{{"<!-- Start Blog Section -->" | safeHTML}}
+<section id="blog" class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        {{"<!-- section title -->" | safeHTML}}
+        <div class="title text-center wow fadeInDown">
+          <h1>{{ .Title }}</h1>
+
+          <!--p>This publication presents three stages of the Barberini Harp Project: <a href="..\bhp-convening">Convening</a> in Roma in 2016, <a href="..\bhp-interviews">Interviews</a> with Experts, and <a href="..\bhp-examinations">Examinations</a>.</p-->
+
+          <div class="border-meghna"></div>
+        </div>
+      </div>
+      {{"<!-- /section title -->" | safeHTML}}
+
+      {{ $research := .Site.GetPage "/research" }}
+      {{ range $research.Data.Pages }}
+        {{ if and (eq .Params.project_category "Barberini Harp Project") (eq .Params.bhp-category "Convening") }}
+        {{ .Render "article" }}
+        {{ end }}
+      {{ end }}
+      
+      <div class="col-12">
+      </div>
+    </div>
+  </div>
+</section>
+{{"<!-- /blog -->" | safeHTML}}
+
+{{ end }}
