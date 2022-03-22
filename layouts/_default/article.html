@@ -23,18 +23,17 @@
 <script>
 //BREAK LINES IN SYNOPSIS
 var summarytext = Array.from(document.querySelectorAll('.summarytext')).pop();
-if ( summarytext ) {
-  console.log("1, " + summarytext.innerHTML);
-    
+if ( summarytext ) {    
   if (summarytext.innerHTML.includes('&lt;i&gt;')){
-    console.log("2, " + summarytext.innerHTML);
+    var paragraph = document.createElement('p');
+    paragraph.setAttribute('class', 'summarytext');
 
-    /*var first = paragraphs[i].split('&lt;i&gt;');
+    var first = summarytext.innerHTML.split('&lt;i&gt;');
     var paragraphText_1 = document.createTextNode(first[0]);
     paragraph.appendChild(paragraphText_1);
 
-    for (let j = 1; j < first.length; j++) {
-      var second = first[j].split('&lt;/i&gt;');  
+    for (let i = 1; j < first.length; j++) {
+      var second = first[i].split('&lt;/i&gt;');  
 
       var paragraphText_2 = document.createTextNode(second[0]);
       var italicSpan = document.createElement('span');
@@ -45,17 +44,8 @@ if ( summarytext ) {
       var paragraphText_3 = document.createTextNode(second[1]);
       paragraph.appendChild(paragraphText_3);
     }
-    
-  }*/ /*else {
-      var paragraphText = document.createTextNode(paragraphs[i]);
-      paragraph.appendChild(paragraphText);
-    }
-    paragraphBox.appendChild(paragraph);
   }
-  this.innerHTML="";
-  $(this).parent().append(paragraphBox);*/
-  } else {
-    console.log("3, " + summarytext.innerHTML);
-  }
+  summarytext.innerHTML="";
+  summarytext.parent().append(paragraph);
 }
 </script>
