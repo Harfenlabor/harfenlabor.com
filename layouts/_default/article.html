@@ -47,9 +47,9 @@ if ( summarytext ) {
     summarytext.innerHTML="";
     console.log(summarytext);
     console.log(summarytext.innerHTML);
-    console.log(summarytext.parent());
+    console.log($('.summarytext').parent());
 
-    //summarytext.parent().append(paragraph);
+    $('.summarytext').parent().append(paragraph);
   }
 }
 </script>
