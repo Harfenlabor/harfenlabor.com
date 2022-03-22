@@ -51,6 +51,26 @@ fields:
       file: 
       path: 
   label: Project Category
+- name: bhp-category
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - convening
+    - interviews
+    - examinations
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: BHP Category
+  description: Article's category, if included in Barberini Harp Project.
+  hidden: false
+  showOnly:
+    field: project_category
+    value: Barberini Harp Project
 - name: title
   type: text
   config:
