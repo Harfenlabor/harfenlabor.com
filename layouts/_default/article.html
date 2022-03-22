@@ -22,19 +22,11 @@
 
 <script>
 //BREAK LINES IN SYNOPSIS
-var summarytext = document.getElementsByClassName('summarytext')[0];
+const summarytext = Array.from(document.querySelectorAll('.summarytext')).pop();
 if ( summarytext ) {
   console.log("1, " + summarytext.innerHTML);
-  /*var paragraphs = this.innerHTML.split('&amp;&amp;');
-  var paragraphBox = document.createElement('div');
-  paragraphBox.setAttribute('class', 'paragraph_box');
-
-  for (let i = 0; i < paragraphs.length; i++) {
-    var paragraph = document.createElement('p');
-    paragraph.setAttribute('class', 'synopsis');*/
     
   if (summarytext.innerHTML.includes('&lt;i&gt;')){
-
     console.log("2, " + summarytext.innerHTML);
 
     /*var first = paragraphs[i].split('&lt;i&gt;');
