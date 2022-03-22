@@ -252,7 +252,7 @@
   var parentDiv = document.getElementsByClassName('articleContent')[0];
   var bibliography = document.getElementById('bibliography');
   var citationbox = document.getElementsByClassName('citationBoxAspect')[0];
-  if (bibliography) {
+  if ((bibliography) && (citationbox)) {
     parentDiv.insertBefore(citationbox, bibliography);
   }
 
