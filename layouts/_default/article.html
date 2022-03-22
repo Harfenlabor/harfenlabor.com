@@ -25,6 +25,7 @@
 var summarytext = document.getElementsByClassName('summarytext')[0];
 if ( summarytext ) {
   $('.summarytext').each(function() {
+    console.log("1, " + this.innerHTML);
     /*var paragraphs = this.innerHTML.split('&amp;&amp;');
     var paragraphBox = document.createElement('div');
     paragraphBox.setAttribute('class', 'paragraph_box');
@@ -35,7 +36,7 @@ if ( summarytext ) {
       
     if (this.innerHTML.includes('&lt;i&gt;')){
 
-      console.log(this.innerHTML);
+      console.log("2, " + this.innerHTML);
 
       /*var first = paragraphs[i].split('&lt;i&gt;');
       var paragraphText_1 = document.createTextNode(first[0]);
@@ -62,6 +63,8 @@ if ( summarytext ) {
     }
     this.innerHTML="";
     $(this).parent().append(paragraphBox);*/
+    } else {
+      console.log("3, " + this.innerHTML);
     }
   });
 }
