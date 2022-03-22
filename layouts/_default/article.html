@@ -47,9 +47,13 @@ if ( summarytext ) {
     summarytext.innerHTML="";
     console.log(summarytext);
     console.log(summarytext.innerHTML);
-    console.log($('.summarytext').parent());
+    console.log(summarytext.parentElement);
+    console.log(summarytext.parentNode);
 
-    $('.summarytext').parent().append(paragraph);
+    summarytext.parentElement.append(paragraph);
+
+    /*console.log($('.summarytext').parent());
+    $('.summarytext').parent().append(paragraph);*/
   }
 }
 </script>
