@@ -27,6 +27,7 @@ if ( summarytext ) {
   if (summarytext.innerHTML.includes('&lt;i&gt;')){
     var paragraph = document.createElement('p');
     paragraph.setAttribute('class', 'summarytext');
+    paragraph.style.color = 'black';
 
     var first = summarytext.innerHTML.split('&lt;i&gt;');
     var paragraphText_1 = document.createTextNode(first[0]);
@@ -45,15 +46,8 @@ if ( summarytext ) {
       paragraph.appendChild(paragraphText_3);
     }
     summarytext.innerHTML="";
-    console.log(summarytext);
-    console.log(summarytext.innerHTML);
-    console.log(summarytext.parentElement);
-    console.log(summarytext.parentNode);
-
-    summarytext.parentElement.append(paragraph);
-
-    /*console.log($('.summarytext').parent());
-    $('.summarytext').parent().append(paragraph);*/
+    var thisParent = summarytext.parentElement;
+    thisParent.insertBefore(paragraph, thisParent.getElementsByClassName('btn')[0]);
   }
 }
 </script>
