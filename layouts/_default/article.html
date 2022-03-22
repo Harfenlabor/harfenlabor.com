@@ -44,8 +44,12 @@ if ( summarytext ) {
       var paragraphText_3 = document.createTextNode(second[1]);
       paragraph.appendChild(paragraphText_3);
     }
+    summarytext.innerHTML="";
+    console.log(summarytext);
+    console.log(summarytext.innerHTML);
+    console.log(summarytext.parent());
+
+    //summarytext.parent().append(paragraph);
   }
-  summarytext.innerHTML="";
-  summarytext.parent().append(paragraph);
 }
 </script>
