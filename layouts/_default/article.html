@@ -27,7 +27,6 @@ if ( summarytext ) {
   if (summarytext.innerHTML.includes('&lt;i&gt;')){
     var paragraph = document.createElement('p');
     paragraph.setAttribute('class', 'summarytext');
-    paragraph.style.color = 'black';
 
     var first = summarytext.innerHTML.split('&lt;i&gt;');
     var paragraphText_1 = document.createTextNode(first[0]);
@@ -39,6 +38,7 @@ if ( summarytext ) {
       var paragraphText_2 = document.createTextNode(second[0]);
       var italicSpan = document.createElement('span');
       italicSpan.setAttribute('class', 'italic');
+      italicSpan.style.color = 'black';
       italicSpan.appendChild(paragraphText_2);
       paragraph.appendChild(italicSpan);
 
@@ -47,7 +47,7 @@ if ( summarytext ) {
     }
     summarytext.innerHTML="";
     var thisParent = summarytext.parentElement;
-    thisParent.insertBefore(paragraph, thisParent.getElementsByClassName('btn')[0]);
+    thisParent.insertBefore(paragraph, thisParent.getElementsByTagName('h6')[0]);
   }
 }
 </script>
