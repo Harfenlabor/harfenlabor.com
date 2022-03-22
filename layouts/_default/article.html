@@ -6,7 +6,7 @@
 
     <div class="content">
       <h6 style="margin-bottom:0.5rem; max-width: 100%; text-align: center;">{{ replace .Params.author "-" " " }}</a></h6>
-      <p><a class="list_article_title" href="{{ .Permalink }}">{{ if in .Title "&&" }}
+      <p id='articleTitle'><a class="list_article_title" href="{{ .Permalink }}">{{ if in .Title "&&" }}
         {{ $titleLines := split .Title "&&" }}
         {{ range $titleLines }}
           {{ . }}
@@ -38,7 +38,7 @@ if ( summarytext ) {
       var paragraphText_2 = document.createTextNode(second[0]);
       var italicSpan = document.createElement('span');
       italicSpan.setAttribute('class', 'italic');
-      italicSpan.style.color = 'black';
+      italicSpan.style.color = 'black!important';
       italicSpan.appendChild(paragraphText_2);
       paragraph.appendChild(italicSpan);
 
@@ -47,7 +47,7 @@ if ( summarytext ) {
     }
     summarytext.innerHTML="";
     var thisParent = summarytext.parentElement;
-    thisParent.insertBefore(paragraph, thisParent.getElementsByTagName('h6')[0]);
+    thisParent.insertAfter(paragraph, thisParent.getElementById('articleTitle'));
   }
 }
 </script>
