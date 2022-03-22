@@ -51,7 +51,7 @@ fields:
       file: 
       path: 
   label: Project Category
-- name: bhp-category
+- name: bhp_category
   type: select
   default: ''
   config:
