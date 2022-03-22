@@ -1,6 +1,7 @@
 +++
 PublishDate = 2022-03-12T23:00:00Z
 author = "Margret Köll with Ottavio Dantone"
+citation = ""
 description = ""
 downloads = []
 externallinks = "Academia Bizantina - https://www.accademiabizantina.it/en/ && "
@@ -8,7 +9,7 @@ footnotes = ""
 image = "/images/dif_000878_190.jpeg"
 imgcaptions = ""
 map_tag = ["Ferrara", "Cremona", "Ravenna"]
-person_tag = ["Ottavio Dantone", "Margret Köll", "Margret Koell", "Claudio Monteverdi", "Pier-Luigi Pizzi", "Luciano Berio", "Francesco Rognoni ", "Emilia Fadini", "Giovanni Antonini", "Claudio Cavina", "John Eliot Gardiner", "Giovanni Gabrieli", "Girolamo Frescobaldi"]
+person_tag = ["Ottavio Dantone", "Margret Köll", "Margret Koell", "Claudio Monteverdi", "Pier-Luigi Pizzi", "Luciano Berio", "Emilia Fadini", "Giovanni Antonini", "Claudio Cavina", "John Eliot Gardiner", "Giovanni Gabrieli", "Girolamo Frescobaldi", "Francesco Rognoni"]
 project_category = "Podcast: Between the Strings"
 relatedresearch = ["Barberini Harp Project / Interviews&&Marzia Faetti: Two Souls of a Harp"]
 show_in_news = true
