@@ -47,7 +47,7 @@ if ( summarytext ) {
     }
     summarytext.innerHTML="";
     var thisParent = summarytext.parentElement;
-    thisParent.insertAfter(paragraph, thisParent.getElementsByClassName('articleTitle')[0]);
+    thisParent.insertBefore(paragraph, thisParent.getElementsByClassName('articleTitle')[0].nextSibling);
   }
 }
 </script>
