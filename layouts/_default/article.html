@@ -6,7 +6,7 @@
 
     <div class="content">
       <h6 style="margin-bottom:0.5rem; max-width: 100%; text-align: center;">{{ replace .Params.author "-" " " }}</a></h6>
-      <p id='articleTitle'><a class="list_article_title" href="{{ .Permalink }}">{{ if in .Title "&&" }}
+      <p class='articleTitle'><a class="list_article_title" href="{{ .Permalink }}">{{ if in .Title "&&" }}
         {{ $titleLines := split .Title "&&" }}
         {{ range $titleLines }}
           {{ . }}
@@ -47,7 +47,7 @@ if ( summarytext ) {
     }
     summarytext.innerHTML="";
     var thisParent = summarytext.parentElement;
-    thisParent.insertAfter(paragraph, thisParent.getElementById('articleTitle'));
+    thisParent.insertAfter(paragraph, thisParent.getElementsByClassName('articleTitle')[0]);
   }
 }
 </script>
