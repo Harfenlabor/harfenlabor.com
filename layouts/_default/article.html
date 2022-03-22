@@ -13,9 +13,56 @@
           <br>
         {{ end }}
       {{ else }}{{ .Title }}{{ end }}</a></p><!--was h3-->
-      <p>{{ if .Params.summary_text }}{{ .Params.summary_text }}{{ else }}{{ .Summary }}{{ end }}</p>
+      <p class="summarytext">{{ if .Params.summary_text }}{{ .Params.summary_text }}{{ else }}{{ .Summary }}{{ end }}</p>
       <h6 style="max-width: 100%;">{{ .PublishDate.Format "January 2, 2006" }}</a></h6>
       <a class="btn btn-transparent" href="{{ .Permalink }}">{{ i18n "readMore" }}</a>
     </div>
   </div>
 </article>
+
+<script>
+//BREAK LINES IN SYNOPSIS
+var summarytext = document.getElementsByClassName('summarytext')[0];
+if ( summarytext ) {
+  $('.summarytext').each(function() {
+    /*var paragraphs = this.innerHTML.split('&amp;&amp;');
+    var paragraphBox = document.createElement('div');
+    paragraphBox.setAttribute('class', 'paragraph_box');
+
+    for (let i = 0; i < paragraphs.length; i++) {
+      var paragraph = document.createElement('p');
+      paragraph.setAttribute('class', 'synopsis');*/
+      
+    if (this.innerHTML.includes('&lt;i&gt;')){
+
+      console.log(this.innerHTML);
+
+      /*var first = paragraphs[i].split('&lt;i&gt;');
+      var paragraphText_1 = document.createTextNode(first[0]);
+      paragraph.appendChild(paragraphText_1);
+
+      for (let j = 1; j < first.length; j++) {
+        var second = first[j].split('&lt;/i&gt;');  
+
+        var paragraphText_2 = document.createTextNode(second[0]);
+        var italicSpan = document.createElement('span');
+        italicSpan.setAttribute('class', 'italic');
+        italicSpan.appendChild(paragraphText_2);
+        paragraph.appendChild(italicSpan);
+
+        var paragraphText_3 = document.createTextNode(second[1]);
+        paragraph.appendChild(paragraphText_3);
+      }
+      
+    }*/ /*else {
+        var paragraphText = document.createTextNode(paragraphs[i]);
+        paragraph.appendChild(paragraphText);
+      }
+      paragraphBox.appendChild(paragraph);
+    }
+    this.innerHTML="";
+    $(this).parent().append(paragraphBox);*/
+    }
+  });
+}
+</script>
