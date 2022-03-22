@@ -73,7 +73,7 @@ Unlike the instances in which the harp is described together with other instrume
 
 ###### Fabbri, Paolo and Angelo Pompilio, eds. _Il Corago, o vero alcune osservazioni per mettere bene in scena le composizioni drammatiche_. Firenze: Leo S. Olschki, 1983.
 
-###### Granata, Chiara. “'Un’arpa grande tutta intagliata e dorata'. New documents on the Barberini harp.” _Recercare_ XXVII (2015): 139-164. [https://www.jstor.org/stable/26381197](https://www.jstor.org/stable/26381197. "https://www.jstor.org/stable/26381197.")
+###### Granata, Chiara. “'Un’arpa grande tutta intagliata e dorata'. New documents on the Barberini harp.” _Recercare_ XXVII (2015): 139-164. [https://www.jstor.org/stable/26381197](https://www.jstor.org/stable/26381197 "https://www.jstor.org/stable/26381197")
 
 ###### Nobili, Collegio dei, and eredi Galeazzo Rosati. _La Reggia Delle Grazie, Aperta per Celebrare Le Gloriosissime Nozze, Seguite Tra Le Altezze Del Serenissimo Francesco Duca Di Parma ... e Della Serenissima Principessa Palatina Dorotea Sofia Farnese ... e Considerata per Oggetto Di Solenne Accademia, Mist_. per gli eredi di Galeazzo Rosati. Parma, 1696. [https://books.google.it/books?id=9PSFiZrdcYwC](https://books.google.it/books?id=9PSFiZrdcYwC "https://books.google.it/books?id=9PSFiZrdcYwC") 
 
