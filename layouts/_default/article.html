@@ -24,48 +24,46 @@
 //BREAK LINES IN SYNOPSIS
 var summarytext = document.getElementsByClassName('summarytext')[0];
 if ( summarytext ) {
-  $('.summarytext').each(function() {
-    console.log("1, " + this.innerHTML);
-    /*var paragraphs = this.innerHTML.split('&amp;&amp;');
-    var paragraphBox = document.createElement('div');
-    paragraphBox.setAttribute('class', 'paragraph_box');
+  console.log("1, " + summarytext.innerHTML);
+  /*var paragraphs = this.innerHTML.split('&amp;&amp;');
+  var paragraphBox = document.createElement('div');
+  paragraphBox.setAttribute('class', 'paragraph_box');
 
-    for (let i = 0; i < paragraphs.length; i++) {
-      var paragraph = document.createElement('p');
-      paragraph.setAttribute('class', 'synopsis');*/
-      
-    if (this.innerHTML.includes('&lt;i&gt;')){
+  for (let i = 0; i < paragraphs.length; i++) {
+    var paragraph = document.createElement('p');
+    paragraph.setAttribute('class', 'synopsis');*/
+    
+  if (this.innerHTML.includes('&lt;i&gt;')){
 
-      console.log("2, " + this.innerHTML);
+    console.log("2, " + summarytext.innerHTML);
 
-      /*var first = paragraphs[i].split('&lt;i&gt;');
-      var paragraphText_1 = document.createTextNode(first[0]);
-      paragraph.appendChild(paragraphText_1);
+    /*var first = paragraphs[i].split('&lt;i&gt;');
+    var paragraphText_1 = document.createTextNode(first[0]);
+    paragraph.appendChild(paragraphText_1);
 
-      for (let j = 1; j < first.length; j++) {
-        var second = first[j].split('&lt;/i&gt;');  
+    for (let j = 1; j < first.length; j++) {
+      var second = first[j].split('&lt;/i&gt;');  
 
-        var paragraphText_2 = document.createTextNode(second[0]);
-        var italicSpan = document.createElement('span');
-        italicSpan.setAttribute('class', 'italic');
-        italicSpan.appendChild(paragraphText_2);
-        paragraph.appendChild(italicSpan);
+      var paragraphText_2 = document.createTextNode(second[0]);
+      var italicSpan = document.createElement('span');
+      italicSpan.setAttribute('class', 'italic');
+      italicSpan.appendChild(paragraphText_2);
+      paragraph.appendChild(italicSpan);
 
-        var paragraphText_3 = document.createTextNode(second[1]);
-        paragraph.appendChild(paragraphText_3);
-      }
-      
-    }*/ /*else {
-        var paragraphText = document.createTextNode(paragraphs[i]);
-        paragraph.appendChild(paragraphText);
-      }
-      paragraphBox.appendChild(paragraph);
+      var paragraphText_3 = document.createTextNode(second[1]);
+      paragraph.appendChild(paragraphText_3);
     }
-    this.innerHTML="";
-    $(this).parent().append(paragraphBox);*/
-    } else {
-      console.log("3, " + this.innerHTML);
+    
+  }*/ /*else {
+      var paragraphText = document.createTextNode(paragraphs[i]);
+      paragraph.appendChild(paragraphText);
     }
-  });
+    paragraphBox.appendChild(paragraph);
+  }
+  this.innerHTML="";
+  $(this).parent().append(paragraphBox);*/
+  } else {
+    console.log("3, " + summarytext.innerHTML);
+  }
 }
 </script>
