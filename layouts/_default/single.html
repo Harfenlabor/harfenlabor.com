@@ -521,7 +521,7 @@
 
               var fn_paragraph = document.createElement('p');
 
-              var fn_plainText = footnotes[this.textContent + 1].innerHTML;
+              var fn_plainText = footnotes[Number(this.textContent) + 1].innerHTML;
               if (fn_plainText.includes("Footnotes: ")){
                 fn_plainText =  fn_plainText.replace("Footnotes: ", "");
               }
@@ -571,7 +571,7 @@
               var x = e.pageX;
 
               var fn_paragraph = document.createElement('p');
-              var fn_plainText = imgcaptions[this.textContent.split('Fig. ').pop().split(/[), ]/)[0] + 1].innerHTML;
+              var fn_plainText = imgcaptions[Number(this.textContent.split('Fig. ').pop().split(/[), ]/)[0]) + 1].innerHTML;
               
               if (fn_plainText.includes("Images: ")){
                 fn_plainText =  fn_plainText.replace("Images: ", "");
