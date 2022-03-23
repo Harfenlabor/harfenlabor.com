@@ -1,6 +1,7 @@
 +++
 PublishDate = 2022-03-12T23:00:00Z
 author = "Margret Köll with Ottavio Dantone"
+bhp_category = ""
 citation = ""
 description = ""
 downloads = []
@@ -116,7 +117,7 @@ You can find out more about Ottavio Dantone and his ensemble Accademia Bizantina
 
 **Köll:** \[00:39:57\] At the end of our journey this morning, I’d like to ask you what recording you would recommend for someone who wants to fall in love with 17th-century Italian music.
 
-**Dantone:** \[00:40:10\] There is a record by Il Giardino Armonico, on which I was not the conductor, but in which I participated. We recorded music from the Italian Seicento and I remember it as a beautiful experience with my friend Giovanni Antonini. I don’t remember the title of the record \[_Il viaggio musicale_\], but it’s a record of 17th century music, made 15 years ago. It is a beautiful record because it has a variety, so many different forms; it makes you understand the richness and modernity of this music. We say modernity to mean that this record lets us see how close the music of that era is to us. You could listen to Monteverdi’s _L’Orfeo_ of which we have talked so much. There are so many interesting recordings, both Italian and foreign. I could recommend that of Claudio Cavina, who was a very good musician, and who unfortunately passed away recently, but also that of \[John Eliot\] Gardiner and other foreign performers. Listening to several recordings, you will always hear different things because we have to make choices. What is fascinating in the 17th century is that it speaks to us. The important thing about the Seicento music, is that it speaks to us perhaps more so than music of any other period because the fixed idea of those musicians was to speak, to get to the heart and to the emotion through music and word.
+**Dantone:** \[00:40:10\] There is a record by Il Giardino Armonico, on which I was not the conductor, but in which I participated. We recorded music from the Italian Seicento and I remember it as a beautiful experience with my friend Giovanni Antonini. I don’t remember the title of the record \[_Viaggio Musicale_\], but it’s a record of 17th century music, made 15 years ago. It is a beautiful record because it has a variety, so many different forms; it makes you understand the richness and modernity of this music. We say modernity to mean that this record lets us see how close the music of that era is to us. You could listen to Monteverdi’s _L’Orfeo_ of which we have talked so much. There are so many interesting recordings, both Italian and foreign. I could recommend that of Claudio Cavina, who was a very good musician, and who unfortunately passed away recently, but also that of \[John Eliot\] Gardiner and other foreign performers. Listening to several recordings, you will always hear different things because we have to make choices. What is fascinating in the 17th century is that it speaks to us. The important thing about the Seicento music, is that it speaks to us perhaps more so than music of any other period because the fixed idea of those musicians was to speak, to get to the heart and to the emotion through music and word.
 
 **Köll:** \[00:42:07\] A thousand thanks, between music and word, between the strings, this is beautiful. Thank you to those who were with me for this podcast.
 
