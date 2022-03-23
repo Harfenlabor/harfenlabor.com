@@ -19,7 +19,7 @@ subjects_tag = ["Gabinetto dei Disegni e delle Stampe", "Le Gallerie degli Uffiz
 subtype = ["Organology", "Iconography", "Sociology of Art"]
 summary_text = "This edition of the Barberini Harp Project Interviews brought Harfenlabor in 2019 to Marzia Faetti, the then director of the Gabinetto dei Disegni e delle Stampe at Le Gallerie degli Uffizi, Firenze. Faetti provides invaluable art historical context for music iconography within the graphic art of the 16th and 17th century preserved at the Uffizi; her analysis of a preparatory drawing, often attributed to Giovanni Batista Soria, for a richly decorated harp offers a fascinating insight into the aesthetic, musical, political, ceremonial and economic importance of such an instrument."
 timeline_tag = ["1670s", "1500s", "1600s", "1400s"]
-title = "Barberini Harp Project / Interviews&&Marzia Faetti: Two Souls of a Harp"
+title = "Marzia Faetti: Two Souls of a Harp"
 type = "Research"
 
 +++
