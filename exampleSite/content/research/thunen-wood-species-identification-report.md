@@ -1,6 +1,8 @@
 +++
 PublishDate = 2021-10-28T22:00:00Z
 author = "Volker Haag"
+bhp_category = "Examinations"
+citation = ""
 description = ""
 downloads = []
 externallinks = "Istituto Storico Austriaco - https://www.austriacult.roma.it/de/istituto-storico-austriaco && Museo Nazionale degli Strumenti Musicali - http://museostrumentimusicali.beniculturali.it/index.php?it/129/arpa-barberini &&  Eric Kleinmann - https://www.eric-harps.de && Granata, Chiara. “‘Un’arpa Grande Tutta Intagliata e Dorata’. New Documents on the Barberini Harp.” Recercare 27, no. 1/2 (2015): 139–64. - www.jstor.org/stable/26381197 && Factum Arte: Recording and Creating the Facsimile of the Barberini Harp - https://www.factum-arte.com/pag/800/recording-and-creating-the-facsimile-of-the-barberini-harp && Thünen-Institut, Institut für Holzforschung - https://www.thuenen.de/en/hf/ && Bruni, S., Gessi, A., Lazzaroni, F. et al., “Diagnostic investigations on the Barberini harp,” - https://doi.org/10.1007/s12210-020-00894-x && "
