@@ -18,7 +18,7 @@ url = "/projects"
 weight = 2
 [[menu.main]]
 identifier = "Barberini harp project"
-name = "Barberini Harp project"
+name = "Barberini Harp Project"
 parent = "projects"
 url = "/projects/barberini"
 weight = "1"
@@ -53,7 +53,7 @@ url = "/research/organology"
 weight = "1"
 [[menu.main]]
 identifier = "performance practice"
-name = "Performance practice"
+name = "Performance Practice"
 parent = "research"
 url = "/research/performance"
 weight = "2"
