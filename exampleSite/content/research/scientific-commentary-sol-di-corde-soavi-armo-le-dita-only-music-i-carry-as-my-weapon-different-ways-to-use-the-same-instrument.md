@@ -2,6 +2,7 @@
 PublishDate = 2021-10-31T23:00:00Z
 author = "Chiara Granata"
 barberiniharpproject = ""
+bhp_category = ""
 citation = ""
 description = "“Is it worthwhile to construct an ‘absolute copy’ of\" the Barberini Harp \"that runs the risk of not being completely playable?” Or taken from the position of the musician, would it not help to get “closer to a new vantage point, which offers the opportunity to listen to something quite different from what, for decades, we have called ‘early music.’” In this scientific commentary, the harpist and researcher Chiara Granata addresses such questions as faced by the harpist and researcher Mara Galassi and the master luthier Dario Pontiggia in an Interview with Harfenlabor. Granata presents arguments for keeping the \"tension\" between the \"opposite viewpoints” open. Archival research has uncovered that the Barberini Harp was the work of a group of artisans; its final efficiency directly honed by the musician. Though many 17th century harp performances were best suited to a small “sonorous” space, some treatises and musical scores from the period offer examples of harp’s highly rhythmical bass lines used in dance contexts, and of its “resonant” sound that might be suited to large outdoor spaces. Granata proposes that it is precisely the contradictions presented by such an instrument that will offer a closer understanding of the Barberini Harp."
 downloads = []
@@ -12,7 +13,7 @@ imgcaptions = "Fig. 1 François Collignon after Andrea Sacchi, <i>La nave di Bac
 map_tag = ["Roma", "Città del Vaticano"]
 person_tag = ["Chiara Granata", "Stefano Landi", "Marco Marazzoli", "François Collignon", "Andrea Sacchi", "Francesco Farnese", "Dorothea-Sophie"]
 project_category = "Barberini Harp Project"
-relatedresearch = ["Barberini Harp Project / Interviews&& Mara Galassi and Dario Pontiggia: About the Barberini Harp", "Barberini Harp Project / Interviews&&Marzia Faetti: Two Souls of a Harp", "Designs for Musical Instruments", "“Venere che sona d’arpa e due amori”: Marco Marazzoli at the Barberini Court", "Barberini Harp Project / Convening&&What We Know, and What We still Do Not Understand about the Barberini Harp"]
+relatedresearch = ["Mara Galassi and Dario Pontiggia: About the Barberini Harp", "What We Know, and What We still Do Not Understand about the Barberini Harp", "Designs for Musical Instruments", "Marzia Faetti: Two Souls of a Harp", "Venere che sona d’arpa e due amori”: Marco Marazzoli at the Barberini Court"]
 show_in_news = false
 status = "approved by author"
 subjects_tag = ["Giostra del Saracino", "Barberini Harp", "Estense Harp", "Il Corago", "luthier", "harpist", "absolute copy", "copy", "early music", "carver", "gilder", "soundbox", "neck", "column", "stringing", "strings", "harp", "construction", "organological", "listeners", "acoustics", "instrumentation", "sonic", "parade", "polyphony", "recercata", "counterpoint", "due cori", "lute", "theorbo", "violone", "organ", "concert", "harpsichord", "treatise", "performance", "dynamics", "modification"]
