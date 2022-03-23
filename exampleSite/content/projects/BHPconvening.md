@@ -1,5 +1,5 @@
 ---
-title: "Barberini Harp Project: Convening"
+title: "Barberini Harp Project / Convening"
 sitemap:
   priority : 0.1
 layout: "bhp_convening"
