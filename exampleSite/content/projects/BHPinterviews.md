@@ -1,5 +1,5 @@
 ---
-title: "Barberini Harp Project: Interviews"
+title: "Barberini Harp Project / Interviews"
 sitemap:
   priority : 0.1
 layout: "bhp_interviews"
