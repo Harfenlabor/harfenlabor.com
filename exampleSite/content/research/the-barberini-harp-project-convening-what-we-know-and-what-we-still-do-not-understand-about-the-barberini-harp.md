@@ -21,7 +21,7 @@ subjects_tag = ["Barberini Harp", "Convening around the Barberini Harp", "Museo 
 subtype = ["Organology", "Performance Practice", "Iconography", "Sociology of Art"]
 summary_text = "Harfenlabor invited harpist and researcher Chiara Granata and luthier Dario Pontiggia to present their findings and analysis related to new facts about the Barberini Harp. Archival documents reveal that the harp was commissioned by Antonio Barberini and built in Geronimo Acciari’s workshop in 1632. Granata and Pontiggia depart from the other analyses presented by Harfenlabor by doubting that Giovanni Lanfranco's painting <i>Venus Playing the Harp</i> depicts the Barberini Harp. By integrating technical and historical research Granata and Pontiggia offer facts as well as open questions about this sumptuous musical instrument as the only “window” we have onto a story “much broader than we can imagine.”"
 timeline_tag = ["2016", "2015", "1623", "1537", "1605", "1610", "1630", "1662", "1636", "1639", "1582-1647", "1600s", "1632-1633"]
-title = "Barberini Harp Project / Convening&&What We Know, and What We still Do Not Understand about the Barberini Harp"
+title = "What We Know, and What We still Do Not Understand about the Barberini Harp"
 type = "Research"
 
 +++
