@@ -46,12 +46,11 @@
 
         {{ else }}
           {{ .Params.author }}
-        {{ end }}
-
-
-
       </p>
       {{ end }}
+
+
+      
       <h1 class='articleTitle' style="text-align: center"><a class="list_article_title" href="{{ .Permalink }}">{{ if in .Title "&&" }}
           {{ $titleLines := split .Title "&&" }}
           {{ range $titleLines }}
