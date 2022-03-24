@@ -32,7 +32,7 @@
 
       {{/* $news := .Paginate .Data.Pages */}}
 
-      {{ range .Site }}
+      {{ range .Paginate (where .Pages "Type" "posts") }}
         <div>{{ . }}</div>
         {{ if .Params.show_in_news }}
         {{ .Render "article_onepage" }}
