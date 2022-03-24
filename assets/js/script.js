@@ -345,7 +345,7 @@ if ( authorsNameExists ) {
 
 		}
 		
-	} if (authors_without_by.includes(' with ')){
+	} else if (authors_without_by.includes(' with ')){
 
 		document.getElementById('this_article_author').innerHTML="";
 		document.getElementById('this_article_author').append('by ');
@@ -374,12 +374,12 @@ if ( authorsNameExists ) {
 			let nameText = document.createTextNode(single_authors[i].replaceAll("-", " "));
 			name.setAttribute('href', '..\/..\/indextag#'+author);
 			if (i>0) {
-				this_article_author.append(', ');
+				this_article_author.append(' with ');
 			}
 			name.appendChild(nameText);
 			document.getElementById('this_article_author').append(name);
 		}
-		
+
 	} else {
 
 		data = authors_without_by.split(' ');
