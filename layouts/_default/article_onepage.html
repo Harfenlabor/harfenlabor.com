@@ -82,7 +82,7 @@ if ( authorsNameExists ) {
   var authors_without_by = authors_initial.replace('by ', '');
   console.log(authors_without_by);
 
-  if (authors_without_by.includes(', ')){
+  /*if (authors_without_by.includes(', ')){
     console.log(", " + authors_without_by);
 
     authorsNameExists.innerHTML="";
@@ -118,7 +118,7 @@ if ( authorsNameExists ) {
       authorsNameExists.append(name);
     }
     
-  } if (authors_without_by.includes(' with ')){
+  }*/ if (authors_without_by.includes('with ')){
     console.log("with, " + authors_without_by);
 
     authorsNameExists.innerHTML="";
