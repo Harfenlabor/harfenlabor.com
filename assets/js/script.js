@@ -51,8 +51,8 @@ document.getElementById("navigation").addEventListener('mouseout', function(e) {
 
 function toggleSidebar() {
   if(window.innerWidth >= 768){
-    document.getElementById("menu_lid").style.marginLeft = "calc(50vw - 5px)";
-    document.getElementById("navigation").style.width = "50vw";
+    document.getElementById("menu_lid").style.marginLeft = "calc(30em - 5px)";
+    document.getElementById("navigation").style.width = "30em";
   }
 }
 function untoggleSidebar() {
