@@ -31,9 +31,9 @@
 
 
       {{/* $news := .Paginate .Data.Pages */}}
-      
-      {{ range .Paginator.Pages }}
-        <div>{{ .Title }}</div>
+
+      {{ range .Paginator }}
+        <div>{{ . }}</div>
         {{ if .Params.show_in_news }}
         {{ .Render "article_onepage" }}
         {{ end }}
