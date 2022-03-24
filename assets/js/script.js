@@ -308,14 +308,14 @@ var authorsNameExists = Array.from(document.querySelectorAll('#this_article_auth
 
 if ( authorsNameExists ) {
 	console.log( authorsNameExists );
-	var authors_initial = document.getElementById('this_article_author').innerHTML;
+	var authors_initial = authorsNameExists.innerHTML;
 	var authors_without_by = authors_initial.replace('by ', '');
 
 	if (authors_without_by.includes(', ')){
 		console.log("1: " + authors_without_by);
 
-		document.getElementById('this_article_author').innerHTML="";
-		document.getElementById('this_article_author').append('by ');
+		authorsNameExists.innerHTML="";
+		authorsNameExists.append('by ');
 
 		var single_authors = authors_without_by.split(', ');
 
@@ -341,10 +341,10 @@ if ( authorsNameExists ) {
 			let nameText = document.createTextNode(single_authors[i].replaceAll("-", " "));
 			name.setAttribute('href', '..\/..\/indextag#'+author);
 			if (i>0) {
-				document.getElementById('this_article_author').append(', ');
+				authorsNameExists.append(', ');
 			}
 			name.appendChild(nameText);
-			document.getElementById('this_article_author').append(name);
+			authorsNameExists.append(name);
 		}
 		
 	} else {
@@ -368,8 +368,8 @@ if ( authorsNameExists ) {
 		let nameText = document.createTextNode(authors_without_by.replaceAll("-", " "));
 		name.setAttribute('href', '..\/..\/indextag#'+author);
 		name.appendChild(nameText);
-		document.getElementById('this_article_author').innerHTML="";
-		document.getElementById('this_article_author').append("by ", name);
+		authorsNameExists.innerHTML="";
+		authorsNameExists.append("by ", name);
 	}
 }
 
