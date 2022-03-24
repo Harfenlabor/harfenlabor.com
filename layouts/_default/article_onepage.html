@@ -22,7 +22,8 @@
 
         {{ if in .Params.author ", " }}
           {{ range $index, $singleAuthor := split .Params.author ", " }}
-            <a href="..\/indextag#{{ $nameSurname := split . " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $nameSurname $i }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ . }}</a>{{ if (ne $index 0) }}, {{ end }} <!--ciao-->
+            {{ if (ne $index 0) }}, {{ end }}
+            <a href="..\/indextag#{{ $nameSurname := split . " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $nameSurname $i }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ . }}</a> <!--ciao-->
           {{ end }}
 
         {{ else if and (in .Params.author "-") (in .Params.author " ") }}
