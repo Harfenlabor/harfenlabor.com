@@ -304,7 +304,7 @@ if ( imgcaptions ) {
 
 //MAKE AUTHOR'S NAME A CLICKABLE LINK
 //var authorsNameExists = document.getElementById('this_article_author');
-/*var authorsNameExists = Array.from(document.querySelectorAll('#this_article_author')).pop();
+var authorsNameExists = Array.from(document.querySelectorAll('#this_article_author')).pop();
 
 if ( authorsNameExists ) {
 	console.log( authorsNameExists );
@@ -347,44 +347,6 @@ if ( authorsNameExists ) {
 			document.getElementById('this_article_author').append(name);
 		}
 		
-	} else if (authors_without_by.includes('With')){
-		console.log("2: " + authors_without_by);
-
-		document.getElementById('this_article_author').innerHTML="";
-		document.getElementById('this_article_author').append('by ');
-
-		var single_authors = authors_without_by.split('With');
-
-		console.log(single_authors);
-
-		for (let i = 0; i < single_authors.length; i++) { //for each result in "persontags"…
-
-	    data = single_authors[i].split(' ');
-
-	    for (var j = 0; j < data.length; j++) { //capitalize first letter
-	      data[j] = data[j].charAt(0).toUpperCase() + data[j].slice(1);
-	    }
-
-	    if (data.length == 4) { //rearrange
-	      var author = data[3] + ' ' + data[0] + ' ' + data[1] + ' ' + data[2];
-	    } if (data.length == 3) {
-	      var author = data[2] + ' ' + data[0] + ' ' + data[1];
-	    } if (data.length == 2) {
-	      var author = data[1] + ' ' + data[0];
-	    }
-
-	    author = author.replaceAll("-", " ");
-
-			let name = document.createElement('a');
-			let nameText = document.createTextNode(single_authors[i].replaceAll("-", " "));
-			name.setAttribute('href', '..\/..\/indextag#'+author);
-			if (i>0) {
-				document.getElementById('this_article_author').append(' with: ');
-			}
-			name.appendChild(nameText);
-			document.getElementById('this_article_author').append(name);
-		}
-
 	} else {
 		console.log("3: " + authors_without_by);
 
@@ -409,7 +371,7 @@ if ( authorsNameExists ) {
 		document.getElementById('this_article_author').innerHTML="";
 		document.getElementById('this_article_author').append("by ", name);
 	}
-}*/
+}
 
 //FOOTER
 var footer = true;
