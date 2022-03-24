@@ -303,7 +303,8 @@ if ( imgcaptions ) {
 }
 
 //MAKE AUTHOR'S NAME A CLICKABLE LINK
-var authorsNameExists = document.getElementById('this_article_author');
+//var authorsNameExists = document.getElementById('this_article_author');
+var authorsNameExists = Array.from(document.querySelectorAll('#this_article_author')).pop();
 
 if ( authorsNameExists ) {
 	console.log( authorsNameExists );
