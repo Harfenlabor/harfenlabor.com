@@ -22,8 +22,8 @@
 
         {{ if in .Params.author ", " }}
           {{ $singleAuthor := split .Params.author ", " }}
-          {{ range $singleAuthor }}
-            <a href="..\/..\/indextag#{{ $nameSurname := split . " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $nameSurname $i }}{{ end }}">{{ . }}</a> <!--ciao-->
+          {{ range $index, $singleAuthor }}
+            <a href="..\/indextag#{{ $nameSurname := split . " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $nameSurname $i }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ if (ne $index 0) }}, {{ end }}{{ . }}</a> <!--ciao-->
           {{ end }}
 
         {{ else if and (in .Params.author "-") (in .Params.author " ") }}
@@ -34,7 +34,7 @@
             {{ range (seq $len) }} <!-- see docs -->
               {{ $i := sub $len . }} <!-- $i at first iteration is (len - 1), then (len - 2)-->
               {{ index $noHyphen $i }} <!-- get list element at $i -->
-              <a href="..\/..\/indextag#{{ index $noHyphen $i }}">{{ index $noHyphen $i }}</a> <!--ciao-->
+              <a href="..\/indextag#{{ index $noHyphen $i }}">{{ index $noHyphen $i }}</a> <!--ciao-->
             {{ end }}
           {{ end }}
 
