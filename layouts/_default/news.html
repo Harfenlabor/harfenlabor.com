@@ -30,7 +30,8 @@
 
 
 
-      {{ $news := .Paginate .Data.Pages }}
+      {{/* $news := .Paginate .Data.Pages */}}
+      
       {{ range .Paginator.Pages }}
         <div>{{ .Title }}</div>
         {{ if .Params.show_in_news }}
@@ -40,13 +41,13 @@
 
 
 
-      {{ $research := .Site.GetPage "/research" }}
-      {{ range $research.Data.Pages }}
+      {{/* $research := .Site.GetPage "/research" */}}
+      {{/* range $research.Data.Pages */}}
 
-        {{ if .Params.show_in_news }}
-        {{ .Render "article_onepage" }}
-        {{ end }}
-      {{ end }}
+        {{/* if .Params.show_in_news */}}
+        {{/* .Render "article_onepage" */}}
+        {{/* end */}}
+      {{/* end */}}
 
 
 
