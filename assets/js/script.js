@@ -306,10 +306,12 @@ if ( imgcaptions ) {
 var authorsNameExists = document.getElementById('this_article_author');
 
 if ( authorsNameExists ) {
+	console.log( authorsNameExists );
 	var authors_initial = document.getElementById('this_article_author').innerHTML;
 	var authors_without_by = authors_initial.replace('by ', '');
 
 	if (authors_without_by.includes(', ')){
+		console.log("1: " + authors_without_by);
 
 		document.getElementById('this_article_author').innerHTML="";
 		document.getElementById('this_article_author').append('by ');
@@ -345,6 +347,7 @@ if ( authorsNameExists ) {
 		}
 		
 	} else if (authors_without_by.includes(' with ')){
+		console.log("2: " + authors_without_by);
 
 		document.getElementById('this_article_author').innerHTML="";
 		document.getElementById('this_article_author').append('by ');
@@ -380,6 +383,7 @@ if ( authorsNameExists ) {
 		}
 
 	} else {
+		console.log("3: " + authors_without_by);
 
 		data = authors_without_by.split(' ');
 		for (var j = 0; j < data.length; j++) { //capitalize first letter
