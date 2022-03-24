@@ -30,10 +30,9 @@
 
 
 
-      {{/* $news := .Paginate .Data.Pages */}}
+      {{ $news := .Paginate .Data.Pages }}
+      {{ range $news.Pages }}
 
-      {{ range .Site.GetPage "/research".Data.Pages }}
-        <div>{{ . }}</div>
         {{ if .Params.show_in_news }}
         {{ .Render "article_onepage" }}
         {{ end }}
@@ -41,13 +40,13 @@
 
 
 
-      {{/* $research := .Site.GetPage "/research" */}}
-      {{/* range $research.Data.Pages */}}
+      {{ $research := .Site.GetPage "/research" }}
+      {{ range $research.Data.Pages }}
 
-        {{/* if .Params.show_in_news */}}
-        {{/* .Render "article_onepage" */}}
-        {{/* end */}}
-      {{/* end */}}
+        {{ if .Params.show_in_news }}
+        {{ .Render "article_onepage" }}
+        {{ end }}
+      {{ end }}
 
 
 
