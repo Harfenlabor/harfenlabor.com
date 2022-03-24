@@ -83,7 +83,8 @@ fields:
   label: author
   description: Authors of the article. In case of double name or surname, use an hyphen
     (i.e. Name-Name Surname-Surname). Please remember to also <strong>paste the authors'
-    names in the "person tag" section</strong> below.
+    names in the "person tag" section</strong> below.<br>If more authors are to be
+    listed, <strong>use a comma</strong> (i.e. Name1, Name2, Name3).
 - name: summary_text
   type: textarea
   default: ''
