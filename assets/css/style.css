@@ -366,7 +366,7 @@ a:hover {
 }
 
 .title {
-  padding-bottom: 60px;
+  padding-bottom: 2em;
 }
 
 .title h2 {
@@ -1344,12 +1344,13 @@ a:hover {
 }
 
 .post-block {
-  background-color: ##eeeae8; /*was #292F36*/
-  margin-bottom: 10px;
+  /*background-color: #eeeae8;
+  margin-bottom: 10px;*/
 }
 
 .post-block .content {
-  padding: 20px;
+  padding: 0px;
+  padding-top: 2em;
 }
 
 .post-block .content h3 {
