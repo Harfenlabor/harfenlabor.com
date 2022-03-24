@@ -33,7 +33,7 @@
             {{ $len := len $noHyphen }} <!-- get length of list -->
             {{ range (seq $len) }} <!-- see docs -->
               {{ $i := sub $len . }} <!-- $i at first iteration will be (len - 1), then (len - 2) etc -->
-              {{ index $slice $i }} <!-- get list element at $i -->
+              {{ index $noHyphen $i }} <!-- get list element at $i -->
               <a href="..\/..\/indextag#{{ . }}">{{ . }}</a> <!--ciao-->
             {{ end }}
           {{ end }}
