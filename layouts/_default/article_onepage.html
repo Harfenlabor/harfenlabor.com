@@ -68,7 +68,9 @@ if ( summarytext ) {
     }
     summarytext.innerHTML="";
     var thisParent = summarytext.parentElement;
-    thisParent.insertBefore(paragraph, thisParent.getElementsByClassName('articleTitle')[0].nextSibling);
+    console.log(summarytext);
+    console.log(thisParent);
+    //thisParent.insertBefore(paragraph, thisParent.getElementsByClassName('articleTitle')[0].nextSibling);
   }
 }
 </script>
