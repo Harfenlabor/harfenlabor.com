@@ -28,11 +28,10 @@
           {{ end }}
         {{ else }}{{ .Title }}{{ end }}</a></h1>
 
-      {{ if eq .Params.project_category "Podcast: Between the Strings" }}
-        <p class="contenttext">{{/* .Content */}}{{ .Summary }}</p>
-      {{ else }}
-        <p class="summarytext">{{ if .Params.summary_text }}{{ .Params.summary_text }}{{ else }}{{ .Summary }}{{ end }}</p>
-      {{ end }}
+      <p class="summarytext">{{ if .Params.summary_text }}{{ .Params.summary_text }}{{ else }}{{ .Summary }}{{ end }}</p>
+      <!--p>{{*/ if eq .Params.project_category "Podcast: Between the Strings" */}}
+        <p class="contenttext">{{/* .Content */}}</p>
+      {{/* else */}}<p-->
 
       <div class="title text-center wow fadeInDown">
         <div class="border-meghna"></div>
