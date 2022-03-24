@@ -82,13 +82,14 @@ if ( authorsNameExists ) {
   var authors_without_by = authors_initial.replace('by ', '');
 
   if (authors_without_by.includes(', ')){
+    console.log(", " + authors_without_by);
 
     authorsNameExists.innerHTML="";
     authorsNameExists.append('by ');
 
     var single_authors = authors_without_by.split(', ');
 
-    for (let i = 0; i < single_authors.length; i++) { //for each result in "persontags"…
+    for (let i = 0; i < single_authors.length; i++) { //for each name…
 
       data = single_authors[i].split(' ');
 
@@ -117,6 +118,7 @@ if ( authorsNameExists ) {
     }
     
   } else if (authors_without_by.includes(' with ')){
+    console.log("with, " + authors_without_by);
 
     authorsNameExists.innerHTML="";
     authorsNameExists.append('by ');
