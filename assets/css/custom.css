@@ -315,7 +315,7 @@
 }
 
 .synopsis_in_news{
-	margin-top: -3em;
+	margin-top: 2em;
 }
 
 .footnotes_in_news{
@@ -532,6 +532,7 @@
 	height: 14em;
 	object-fit: cover;
 	border-radius: .8em;
+	max-height: 400px;
 }
 
 
@@ -735,7 +736,7 @@ p > img {
 }
 
 .embed-responsive {
-	margin-bottom: 1rem!important;
+	margin-bottom: 2rem!important;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
@@ -795,9 +796,6 @@ p > img {
 	.section{
 		padding: 0px;
 		margin-top: 80px;
-	}
-	.synopsis_in_news{
-		margin-top: 2em;
 	}
 	/*.synopsis_box {
 		position: relative;
