@@ -22,28 +22,26 @@
       {{/* range $paginator.Pages */}}
       {{/* .Render "article_onepage" */}}
       {{/* end */}}
+      {{/* .Title */}}
+      {{/* .Type */}}
+      {{/* .Params.show_in_news */}}
+      {{/* . */}}
 
 
 
 
       {{ $news := .Paginate .Data.Pages }}
       {{ range $news.Pages }}
-        {{/* .Title }}
-        {{ .Type }}
-        {{ .Params.show_in_news }}
-        {{ . */}}
-
+        <div>{{ .Title }}</div>
         {{ if .Params.show_in_news }}
         {{ .Render "article_onepage" }}
         {{ end }}
       {{ end }}
 
+
+
       {{ $research := .Site.GetPage "/research" }}
       {{ range $research.Data.Pages }}
-        {{/* .Title }}
-        {{ .Type }}
-        {{ .Params.show_in_news }}
-        {{ . */}}
 
         {{ if .Params.show_in_news }}
         {{ .Render "article_onepage" }}
