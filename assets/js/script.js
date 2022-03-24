@@ -310,6 +310,7 @@ if ( authorsNameExists ) {
 	var authors_without_by = authors_initial.replace('by ', '');
 
 	if (authors_without_by.includes(', ')){
+		console.log(authors_without_by);
 
 		document.getElementById('this_article_author').innerHTML="";
 		document.getElementById('this_article_author').append('by ');
@@ -339,13 +340,14 @@ if ( authorsNameExists ) {
 			name.setAttribute('href', '..\/..\/indextag#'+author);
 			if (i>0) {
 				this_article_author.append(', ');
+				console.log(this_article_author);
 			}
 			name.appendChild(nameText);
 			document.getElementById('this_article_author').append(name);
-
 		}
 		
 	} else if (authors_without_by.includes(' with ')){
+		console.log(authors_without_by);
 
 		document.getElementById('this_article_author').innerHTML="";
 		document.getElementById('this_article_author').append('by ');
@@ -374,6 +376,7 @@ if ( authorsNameExists ) {
 			let nameText = document.createTextNode(single_authors[i].replaceAll("-", " "));
 			name.setAttribute('href', '..\/..\/indextag#'+author);
 			if (i>0) {
+				console.log(this_article_author);
 				this_article_author.append(' with ');
 			}
 			name.appendChild(nameText);
