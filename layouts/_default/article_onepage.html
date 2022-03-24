@@ -23,7 +23,7 @@
         {{ if in .Params.author ", " }}
           {{ $singleAuthor := split .Params.author ", " }}
           {{ range $singleAuthor }}
-            <a href="..\/..\/indextag#{{ $nameSurname := split . " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $noHyphen $i }}">{{ . }}</a> <!--ciao-->
+            <a href="..\/..\/indextag#{{ $nameSurname := split . " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $nameSurname $i }}">{{ . }}</a> <!--ciao-->
           {{ end }}
 
         {{ else if and (in .Params.author "-") (in .Params.author " ") }}
