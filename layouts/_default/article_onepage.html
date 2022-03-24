@@ -23,7 +23,7 @@
         {{ if in .Params.author ", " }}
           {{ $singleAuthor := split .Params.author ", " }}
           {{ range $singleAuthor }}
-            <a href="..\/..\/indextag#{{ . }}">{{ . }}</a> <!--ciao-->
+            <a href="..\/..\/indextag#{{ $nameSurname := split . " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $noHyphen $i }}">{{ . }}</a> <!--ciao-->
           {{ end }}
 
         {{ else if and (in .Params.author "-") (in .Params.author " ") }}
@@ -32,9 +32,9 @@
             {{ $noHyphen := split . "-" }}
             {{ $len := len $noHyphen }} <!-- get length of list -->
             {{ range (seq $len) }} <!-- see docs -->
-              {{ $i := sub $len . }} <!-- $i at first iteration will be (len - 1), then (len - 2) etc -->
+              {{ $i := sub $len . }} <!-- $i at first iteration is (len - 1), then (len - 2)-->
               {{ index $noHyphen $i }} <!-- get list element at $i -->
-              <a href="..\/..\/indextag#{{ . }}">{{ . }}</a> <!--ciao-->
+              <a href="..\/..\/indextag#{{ index $noHyphen $i }}">{{ index $noHyphen $i }}</a> <!--ciao-->
             {{ end }}
           {{ end }}
 
