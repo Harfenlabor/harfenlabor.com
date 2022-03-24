@@ -20,7 +20,7 @@
       {{ if .Params.author }}
       <p id="this_article_author" style="text-align: center; margin-bottom: 0.5em;">{{ .Params.author }}</p>
       {{ end }}
-      <h1 style="text-align: center"><a class="list_article_title" href="{{ .Permalink }}">{{ if in .Title "&&" }}
+      <h1 class='articleTitle' style="text-align: center"><a class="list_article_title" href="{{ .Permalink }}">{{ if in .Title "&&" }}
           {{ $titleLines := split .Title "&&" }}
           {{ range $titleLines }}
             {{ . }}
