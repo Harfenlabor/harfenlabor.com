@@ -347,7 +347,7 @@ if ( authorsNameExists ) {
 			document.getElementById('this_article_author').append(name);
 		}
 		
-	} else if (authors_without_by.includes(' with ')){
+	} /*else if (authors_without_by.includes(' with ')){
 		console.log("2: " + authors_without_by);
 
 		document.getElementById('this_article_author').innerHTML="";
@@ -383,7 +383,7 @@ if ( authorsNameExists ) {
 			document.getElementById('this_article_author').append(name);
 		}
 
-	} else {
+	}*/ else {
 		console.log("3: " + authors_without_by);
 
 		data = authors_without_by.split(' ');
