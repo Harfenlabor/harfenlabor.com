@@ -18,7 +18,39 @@
     <div class="content">
 
       {{ if .Params.author }}
-      <p id="this_article_author" style="text-align: center; margin-bottom: 0.5em;">{{ .Params.author }}</p>
+      <p id="this_article_author" style="text-align: center; margin-bottom: 0.5em;">
+
+        {{ if in .Params.author ", " }}
+          {{ $singleAuthor := split .Params.author ", " }}
+          {{ range $singleAuthor }}
+            <a href="..\/..\/indextag#{{ . }}">{{ . }}</a> <!--ciao-->
+          {{ end }}
+
+        {{ else if and (in .Params.author "-") (in .Params.author " ") }}
+          {{ $nameSurname := split .Params.author " " }}
+          {{ range $nameSurname }}
+            {{ $noHyphen := split . "-" }}
+            {{ $len := len $noHyphen }} <!-- get length of list -->
+            {{ range (seq $len) }} <!-- see docs -->
+              {{ $i := sub $len . }} <!-- $i at first iteration will be (len - 1), then (len - 2) etc -->
+              {{ index $slice $i }} <!-- get list element at $i -->
+              <a href="..\/..\/indextag#{{ . }}">{{ . }}</a> <!--ciao-->
+            {{ end }}
+          {{ end }}
+
+
+        {{ else if in .Params.author "-" }}
+          {{ .Params.author }}
+        {{ end }}
+
+
+        {{ else }}
+          {{ .Params.author }}
+        {{ end }}
+
+
+
+      </p>
       {{ end }}
       <h1 class='articleTitle' style="text-align: center"><a class="list_article_title" href="{{ .Permalink }}">{{ if in .Title "&&" }}
           {{ $titleLines := split .Title "&&" }}
