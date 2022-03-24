@@ -355,6 +355,8 @@ if ( authorsNameExists ) {
 
 		var single_authors = authors_without_by.split('With');
 
+		console.log(single_authors);
+
 		for (let i = 0; i < single_authors.length; i++) { //for each result in "persontags"…
 
 	    data = single_authors[i].split(' ');
