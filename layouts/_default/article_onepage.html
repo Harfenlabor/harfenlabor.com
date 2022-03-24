@@ -28,7 +28,8 @@
           {{ end }}
         {{ else }}{{ .Title }}{{ end }}</a></h1>
 
-      <p>{{ .Content }}</p>
+      <!--p>{{/* .Content */}}</p-->
+      <p class="summarytext">{{ if .Params.summary_text }}{{ .Params.summary_text }}{{ else }}{{ .Summary }}{{ end }}</p>
 
       <!--from here-->
       {{ if .Params.footnotes }}
@@ -49,3 +50,35 @@
     </div>
   </div>
 </article>
+
+<script>
+//ITALIC IN SYNOPSIS
+var summarytext = Array.from(document.querySelectorAll('.summarytext')).pop();
+if ( summarytext ) {    
+  if (summarytext.innerHTML.includes('&lt;i&gt;')){
+    var paragraph = document.createElement('p');
+    paragraph.setAttribute('class', 'summarytext');
+
+    var first = summarytext.innerHTML.split('&lt;i&gt;');
+    var paragraphText_1 = document.createTextNode(first[0]);
+    paragraph.appendChild(paragraphText_1);
+
+    for (let i = 1; i < first.length; i++) {
+      var second = first[i].split('&lt;/i&gt;');  
+
+      var paragraphText_2 = document.createTextNode(second[0]);
+      var italicSpan = document.createElement('span');
+      italicSpan.setAttribute('class', 'italic');
+      italicSpan.style.color = 'black';
+      italicSpan.appendChild(paragraphText_2);
+      paragraph.appendChild(italicSpan);
+
+      var paragraphText_3 = document.createTextNode(second[1]);
+      paragraph.appendChild(paragraphText_3);
+    }
+    summarytext.innerHTML="";
+    var thisParent = summarytext.parentElement;
+    thisParent.insertBefore(paragraph, thisParent.getElementsByClassName('articleTitle')[0].nextSibling);
+  }
+}
+</script>
