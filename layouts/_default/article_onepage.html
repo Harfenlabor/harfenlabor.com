@@ -21,7 +21,7 @@
       <p id="this_article_author" style="text-align: center; margin-bottom: 0.5em;">
         {{ if in .Params.author ", " }}
           {{ range $index, $singleAuthor := split .Params.author ", " }}
-            {{ if (ne $index 0) }}, {{ end }}<a href="..\/indextag#{{ $nameSurname := split . " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $nameSurname $i }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ . }}</a><!--ciao-->
+            {{ if (ne $index 0) }}, {{ end }}<a href="..\/indextag#{{ $nameSurname := split . " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $nameSurname $i }}{{ if ne . "1"}}{{ end }}{{ end }}">{{ . }}</a><!--ciao-->
           {{ end }}
 
         {{ else if and (in .Params.author "-") (in .Params.author " ") }}
@@ -42,9 +42,7 @@
         {{ end }}
 
 
-        {{ else }}
-          {{ .Params.author }}
-      </p>
+        {{ else }}{{ .Params.author }}</p>
       {{ end }}
 
 
