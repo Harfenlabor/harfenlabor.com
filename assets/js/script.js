@@ -377,7 +377,7 @@ if ( authorsNameExists ) {
 			name.setAttribute('href', '..\/..\/indextag#'+author);
 			if (i>0) {
 				console.log(this_article_author);
-				this_article_author.append(' with ');
+				document.getElementById('this_article_author').append(' with ');
 			}
 			name.appendChild(nameText);
 			document.getElementById('this_article_author').append(name);
