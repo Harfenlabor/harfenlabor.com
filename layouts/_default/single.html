@@ -22,7 +22,7 @@
         {{ else }}{{ .Title }}{{ end }}</h1>
 
         {{ if and (eq .Type "Research") (.Params.author) }}
-        <p id="this_article_auth">by {{ .Params.author }}</p>
+        <p id="this_article_author">by {{ .Params.author }}</p>
         {{ end }}
 
         {{ if .Description }}
