@@ -304,7 +304,7 @@ if ( imgcaptions ) {
 
 //MAKE AUTHOR'S NAME A CLICKABLE LINK
 //var authorsNameExists = document.getElementById('this_article_author');
-var authorsNameExists = Array.from(document.querySelectorAll('#this_article_author')).pop();
+/*var authorsNameExists = Array.from(document.querySelectorAll('#this_article_author')).pop();
 
 if ( authorsNameExists ) {
 	console.log( authorsNameExists );
@@ -409,7 +409,7 @@ if ( authorsNameExists ) {
 		document.getElementById('this_article_author').innerHTML="";
 		document.getElementById('this_article_author').append("by ", name);
 	}
-}
+}*/
 
 //FOOTER
 var footer = true;
