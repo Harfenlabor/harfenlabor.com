@@ -302,8 +302,7 @@ if ( imgcaptions ) {
   });
 }
 
-/*MAKE AUTHOR'S NAME A CLICKABLE LINK ->
-//MOVED TO ARTICLE + ARTICLE_ONEPAGE
+//MAKE AUTHOR'S NAME A CLICKABLE LINK
 var authorsNameExists = document.getElementById('this_article_author');
 
 if ( authorsNameExists ) {
@@ -339,7 +338,7 @@ if ( authorsNameExists ) {
 			let nameText = document.createTextNode(single_authors[i].replaceAll("-", " "));
 			name.setAttribute('href', '..\/..\/indextag#'+author);
 			if (i>0) {
-				document.getElementById('this_article_author').append(', ');
+				this_article_author.append(', ');
 			}
 			name.appendChild(nameText);
 			document.getElementById('this_article_author').append(name);
@@ -403,7 +402,7 @@ if ( authorsNameExists ) {
 		document.getElementById('this_article_author').innerHTML="";
 		document.getElementById('this_article_author').append("by ", name);
 	}
-}*/
+}
 
 //FOOTER
 var footer = true;
