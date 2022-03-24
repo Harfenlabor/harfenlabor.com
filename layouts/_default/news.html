@@ -32,7 +32,7 @@
 
       {{/* $news := .Paginate .Data.Pages */}}
 
-      {{ range .Paginator.Pages }}
+      {{ range .Site }}
         <div>{{ . }}</div>
         {{ if .Params.show_in_news }}
         {{ .Render "article_onepage" }}
