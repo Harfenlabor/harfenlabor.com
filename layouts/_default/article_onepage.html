@@ -29,7 +29,7 @@
         {{ else }}{{ .Title }}{{ end }}</a></h1>
 
       {{ if eq .Params.project_category "Podcast: Between the Strings" }}
-        <p class="contenttext">{{ .Content }}</p>
+        <p class="contenttext">{{/* .Content */}}{{ .Summary }}</p>
       {{ else }}
         <p class="summarytext">{{ if .Params.summary_text }}{{ .Params.summary_text }}{{ else }}{{ .Summary }}{{ end }}</p>
       {{ end }}
