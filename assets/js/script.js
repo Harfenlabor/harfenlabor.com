@@ -304,18 +304,18 @@ if ( imgcaptions ) {
 
 //MAKE AUTHOR'S NAME A CLICKABLE LINK
 //var authorsNameExists = document.getElementById('this_article_author');
-var authorsNameExists = Array.from(document.querySelectorAll('#this_article_author')).pop();
+var authorsNameExists = document.querySelectorAll('#this_article_author');
 
-if ( authorsNameExists ) {
-	console.log( authorsNameExists );
-	var authors_initial = authorsNameExists.innerHTML;
+$( "#this_article_author" ).each(function() {
+  console.log( this );
+	var authors_initial = this.innerHTML;
 	var authors_without_by = authors_initial.replace('by ', '');
 
 	if (authors_without_by.includes(', ')){
 		console.log("1: " + authors_without_by);
 
-		authorsNameExists.innerHTML="";
-		authorsNameExists.append('by ');
+		this.innerHTML="";
+		this.append('by ');
 
 		var single_authors = authors_without_by.split(', ');
 
@@ -341,14 +341,14 @@ if ( authorsNameExists ) {
 			let nameText = document.createTextNode(single_authors[i].replaceAll("-", " "));
 			name.setAttribute('href', '..\/..\/indextag#'+author);
 			if (i>0) {
-				authorsNameExists.append(', ');
+				this.append(', ');
 			}
 			name.appendChild(nameText);
-			authorsNameExists.append(name);
+			this.append(name);
 		}
 		
 	} else {
-		console.log("3: " + authors_without_by);
+		console.log("2: " + authors_without_by);
 
 		data = authors_without_by.split(' ');
 		for (var j = 0; j < data.length; j++) { //capitalize first letter
@@ -368,10 +368,11 @@ if ( authorsNameExists ) {
 		let nameText = document.createTextNode(authors_without_by.replaceAll("-", " "));
 		name.setAttribute('href', '..\/..\/indextag#'+author);
 		name.appendChild(nameText);
-		authorsNameExists.innerHTML="";
-		authorsNameExists.append("by ", name);
+		this.innerHTML="";
+		this.append("by ", name);
 	}
-}
+});
+
 
 //FOOTER
 var footer = true;
