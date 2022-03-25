@@ -39,9 +39,10 @@
         {{ else }} <!-- single author, Name -->
           {{ if in .Params.author "-" }} <!-- Name-Name -->
             {{ .Params.author }}
-          {{ else}} <!-- Name -->
+          {{ else }} <!-- Name -->
             {{ .Params.author }}
-          {{ end }}</p>
+          {{ end }}
+      </p>
       {{ end }}
 
 
