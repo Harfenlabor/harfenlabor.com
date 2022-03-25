@@ -31,17 +31,7 @@
           {{ if in .Params.author "-" }} <!--Name-Name Surname-->
             <a href="..\indextag#{{ $nameSurname := split . " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $nameSurname $i }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ range $index, $noHyphen := split . "-" }}{{ $len := len $noHyphen }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $noHyphen $i }}{{ if (ne $index 0) }}_{{ end }}{{ . }}{{ end }}{{ end }}</a>
           
-          {{ else }} <!-- Name Surname -->
-            {{ .Params.author }}
-          {{ end }}
-
-
-        {{ else }} <!-- single author, Name -->
-          {{ if in .Params.author "-" }} <!-- Name-Name -->
-            {{ .Params.author }}
-          {{ else }} <!-- Name -->
-            {{ .Params.author }}
-          {{ end }}
+        {{ end }}
       </p>
       {{ end }}
 
