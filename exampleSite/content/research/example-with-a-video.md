@@ -1,6 +1,6 @@
 +++
 PublishDate = 2021-10-26T19:00:00Z
-author = ""
+author = "Eric Kleinmann"
 barberiniharpproject = "The Barberini Harp is the most important surviving Italian Baroque harp. This chromatic harp with three parallel rows of strings was constructed in 1632-33 for the harpist Marco Marazzoli by the instrument maker Girolamo Acciari and the woodcarver Giovanni Tubi under the patronage of Cardinal Antonio Barberini. \n\nAs we still lack crucial understanding of this famous harp, Harfenlabor’s Barberini Harp Project intends to share and initiate research on this harp in the fields of organology, musicology, and performance practice. \n\nThis publication presents three stages of the Barberini Harp Project: Convening in Roma in 2016, Interviews with Experts, and Examinations.\n"
 bhp_category = "Examinations"
 citation = ""
@@ -22,7 +22,7 @@ subtype = ["Organology", "Performance Practice"]
 summary_text = ""
 tags = ""
 timeline_tag = ["1570", "1605", "1632", "1633", "1644", "2016", "1570-", "1610", "1341–1644", "1632-1633"]
-title = "Eric Kleinmann:&&Practical Examination of the Barberini Harp"
+title = "Practical Examination of the Barberini Harp"
 titolo = ""
 titolo_blocchi = []
 type = "Research"
