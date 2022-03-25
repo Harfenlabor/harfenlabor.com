@@ -29,25 +29,25 @@
             {{ if not (in .Params.author "-") }} <!--Name Surname-->
               {{ range $index, $singleAuthor := split .Params.author ", " }}
                 {{ if (ne $index 0) }}, {{ end }}
-                <a href="..\indextag#{{ $nameSurname := split . " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $nameSurname $i }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ . }}</a>
+                <a href="..\/..\indextag#{{ $nameSurname := split . " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $nameSurname $i }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ . }}</a>
               {{ end }}
             {{ else }} <!--Name-Name Surname-->
               {{ range $index, $singleAuthor := split .Params.author ", " }}
                 {{ if (ne $index 0) }}, {{ end }}
-                <a href="..\indextag#{{ $nameSurname := split .Params.author " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ $nameWithHyphen := index $nameSurname $i }}{{ replace $nameWithHyphen "-" " " }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ replace .Params.author "-" " " }}</a>
+                <a href="..\/..\indextag#{{ $nameSurname := split .Params.author " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ $nameWithHyphen := index $nameSurname $i }}{{ replace $nameWithHyphen "-" " " }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ replace .Params.author "-" " " }}</a>
               {{ end }}
             {{ end }}
           {{ else if in .Params.author " " }} <!--single author-->
             {{ if not (in .Params.author "-") }} <!-- Name Surname -->
-              <a href="..\indextag#{{ $nameSurname := split .Params.author " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $nameSurname $i }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ .Params.author }}</a>
+              <a href="..\/..\indextag#{{ $nameSurname := split .Params.author " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $nameSurname $i }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ .Params.author }}</a>
             {{ else }} <!--Name-Name Surname-->
-              <a href="..\indextag#{{ $nameSurname := split .Params.author " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ $nameWithHyphen := index $nameSurname $i }}{{ replace $nameWithHyphen "-" " " }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ replace .Params.author "-" " " }}</a>
+              <a href="..\/..\indextag#{{ $nameSurname := split .Params.author " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ $nameWithHyphen := index $nameSurname $i }}{{ replace $nameWithHyphen "-" " " }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ replace .Params.author "-" " " }}</a>
             {{ end }}
           {{ else }} <!-- single author, Name -->
             {{ if in .Params.author "-" }} <!-- Name-Name -->
-              <a href="..\indextag#{{ $nameSurname := split .Params.author " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ $nameWithHyphen := index $nameSurname $i }}{{ replace $nameWithHyphen "-" " " }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ replace .Params.author "-" " " }}</a>
+              <a href="..\/..\indextag#{{ $nameSurname := split .Params.author " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ $nameWithHyphen := index $nameSurname $i }}{{ replace $nameWithHyphen "-" " " }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ replace .Params.author "-" " " }}</a>
             {{ else }} <!-- Name -->
-              <a href="..\indextag#{{ . }}">{{ .Params.author }}</a>
+              <a href="..\/..\indextag#{{ . }}">{{ .Params.author }}</a>
             {{ end }}
           {{ end }}
         </p>
