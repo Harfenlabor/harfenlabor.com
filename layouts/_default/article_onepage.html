@@ -29,7 +29,7 @@
 
         {{ else if in .Params.author " " }} <!--single author, Name Surname-->
           {{ if in .Params.author "-" }} <!--Name-Name Surname-->
-            {{ .Params.author }}
+            <a href="..\indextag#{{ $nameSurname := split . " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $nameSurname $i }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ . }}</a>
           
           {{ else }} <!-- Name Surname -->
             {{ .Params.author }}
