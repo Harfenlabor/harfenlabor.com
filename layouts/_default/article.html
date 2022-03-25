@@ -5,7 +5,37 @@
     </div>
 
     <div class="content">
-      <h6 style="margin-bottom:0.5rem; max-width: 100%; text-align: center;">{{ replace .Params.author "-" " " }}</a></h6>
+      <!--Name formats: Name, Name-Name, Name Surname, Name-Name Surname-->
+      {{ if .Params.author }}
+      <h6 style="margin-bottom:0.5rem; max-width: 100%; text-align: center;">by 
+        {{ if in .Params.author ", " }} <!--multiple authors-->
+          {{ if not (in .Params.author "-") }} <!--Name Surname-->
+            {{ range $index, $singleAuthor := split .Params.author ", " }}
+              {{ if (ne $index 0) }}, {{ end }}
+              <a href="..\indextag#{{ $nameSurname := split . " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $nameSurname $i }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ . }}</a>
+            {{ end }}
+          {{ else }} <!--Name-Name Surname-->
+            {{ range $index, $singleAuthor := split .Params.author ", " }}
+              {{ if (ne $index 0) }}, {{ end }}
+              <a href="..\indextag#{{ $nameSurname := split .Params.author " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ $nameWithHyphen := index $nameSurname $i }}{{ replace $nameWithHyphen "-" " " }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ replace .Params.author "-" " " }}</a>
+            {{ end }}
+          {{ end }}
+        {{ else if in .Params.author " " }} <!--single author-->
+          {{ if not (in .Params.author "-") }} <!-- Name Surname -->
+            <a href="..\indextag#{{ $nameSurname := split .Params.author " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $nameSurname $i }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ .Params.author }}</a>
+          {{ else }} <!--Name-Name Surname-->
+            <a href="..\indextag#{{ $nameSurname := split .Params.author " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ $nameWithHyphen := index $nameSurname $i }}{{ replace $nameWithHyphen "-" " " }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ replace .Params.author "-" " " }}</a>
+          {{ end }}
+        {{ else }} <!-- single author, Name -->
+          {{ if in .Params.author "-" }} <!-- Name-Name -->
+            <a href="..\indextag#{{ $nameSurname := split .Params.author " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ $nameWithHyphen := index $nameSurname $i }}{{ replace $nameWithHyphen "-" " " }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ replace .Params.author "-" " " }}</a>
+          {{ else }} <!-- Name -->
+            <a href="..\indextag#{{ . }}">{{ .Params.author }}</a>
+          {{ end }}
+        {{ end }}
+      </h6>
+      {{ end }}
+
       <p class='articleTitle'><a class="list_article_title" href="{{ .Permalink }}">{{ if in .Title "&&" }}
         {{ $titleLines := split .Title "&&" }}
         {{ range $titleLines }}
@@ -21,7 +51,7 @@
 </article>
 
 <script>
-//BREAK LINES IN SYNOPSIS
+//ITALIC IN SUMMARY TEXT
 var summarytext = Array.from(document.querySelectorAll('.summarytext')).pop();
 if ( summarytext ) {    
   if (summarytext.innerHTML.includes('&lt;i&gt;')){
@@ -38,7 +68,7 @@ if ( summarytext ) {
       var paragraphText_2 = document.createTextNode(second[0]);
       var italicSpan = document.createElement('span');
       italicSpan.setAttribute('class', 'italic');
-      italicSpan.style.color = 'black';
+      italicSpan.style.color = 'black!important';
       italicSpan.appendChild(paragraphText_2);
       paragraph.appendChild(italicSpan);
 
