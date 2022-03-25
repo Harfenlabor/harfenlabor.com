@@ -27,6 +27,21 @@
             {{ end }}
           {{ end }}
 
+        {{ else if in .Params.author " " }} <!--single author, Name Surname-->
+          {{ if in .Params.author "-" }} <!--Name-Name Surname-->
+            {{ .Params.author }}
+          
+          {{ else }} <!-- Name Surname -->
+            {{ .Params.author }}
+          {{ end }}
+
+
+        {{ else }} <!-- single author, Name -->
+          {{ if in .Params.author "-" }} <!-- Name-Name -->
+            {{ .Params.author }}
+          {{ else }} <!-- Name -->
+            {{ .Params.author }}
+          {{ end }}
         {{ end }}
       </p>
       {{ end }}
