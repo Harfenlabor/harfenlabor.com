@@ -17,29 +17,20 @@
 
     <div class="content">
 
+      <!--Name formats: Name, Name-Name, Name Surname, Name-Name Surname-->
       {{ if .Params.author }}
       <p id="this_article_author" style="text-align: center; margin-bottom: 0.5em;">by 
-        {{ if in .Params.author ", " }}
-          {{ range $index, $singleAuthor := split .Params.author ", " }}
-            {{ if (ne $index 0) }}, {{ end }}<a href="..\indextag#{{ $nameSurname := split . " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $nameSurname $i }}{{ if ne . "1"}}_{{ end }}{{ end }}">{{ . }}</a><!--ciao-->
-          {{ end }}
-
-        {{ else if and (in .Params.author "-") (in .Params.author " ") }}
-          {{ $nameSurname := split .Params.author " " }}
-          {{ range $nameSurname }}
-            {{ $noHyphen := split . "-" }}
-            {{ $len := len $noHyphen }} <!-- get length of list -->
-            {{ range (seq $len) }} <!-- see docs -->
-              {{ $i := sub $len . }} <!-- $i at first iteration is (len - 1), then (len - 2)-->
-              {{ index $noHyphen $i }} <!-- get list element at $i -->
-              <a href="..\indextag#{{ index $noHyphen $i }}">{{ index $noHyphen $i }}</a> <!--ciao-->
+        {{ if in .Params.author ", " }} <!--multiple authors-->
+          {{ if not (in .Params.author "-") }}<!--Name Surname-->
+            {{ range $index, $singleAuthor := split .Params.author ", " }}
+              {{ if (ne $index 0) }}, {{ end }}<a href="..\indextag#{{ $nameSurname := split . " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $nameSurname $i }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ . }}</a>
             {{ end }}
           {{ end }}
 
-
-        {{ else if in .Params.author "-" }}
-          {{ .Params.author }}
-        {{ end }}
+        {{ else }} <!--single author-->
+          {{ if and (in .Params.author "-") (in .Params.author " ") }}<!--Name-Name Surname-->
+            <a href="..\indextag#{{ $nameSurname := split . " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $nameSurname $i }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ range $index, $noHyphen := split . "-" }}{{ $len := len $noHyphen }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $noHyphen $i }}{{ if (ne $index 0) }}_{{ end }}{{ . }}{{ end }}{{ end }}</a>
+          {{ end }}
 
 
         {{ else }}{{ .Params.author }}</p>
