@@ -2,7 +2,7 @@
 PublishDate = 2021-10-27T19:00:00Z
 author = "Ursula-Verena Fischer-Pace"
 barberiniharpproject = "The one most important surviving Italian Baroque harp the Barberini Harp is a chromatic harp with three parallel rows of strings constructed (1632-33) for the harpist Marco Marazzoli by the instrument maker Girolamo Acciari and the wood-carver Giovanni Tubi under the patronage of Cardinal Antonio Barberini. As we lack crucial understanding of this famous harp Harfenlabor has initiated The Barberini Harp Project in order to conduct and share basic research on this harp in the fields of organology musicology and performance practice and within relevant historical and art-historical contexts. This publication presents three stages of The Barberini Harp Project: 1. Convening around the Barberini Harp Project 2. Interviews with Experts and 3. Examinations."
-bhp_category = ""
+bhp_category = "Convening"
 citation = ""
 description = "Who designed the Barberini Harp? The art historian Ursula Verena Fischer Pace offers answers to this question, based on available documentation, her ongoing research and iconographical analysis of the drawing titled <i>Progetto per un’arpa,</i> (Uffizi’s Gabinetto dei Disegni e delle Stampe). Fischer Pace argues that not only should this drawing be attributed to Giovanni Battista Soria, but that it is indeed a preparatory drawing for this famous Baroque harp. Art-historical and iconographical analysis of Soria’s other work and that for the Barberini court offer further arguments in support of this hypothesis; analysis of Soria's education and influences demonstrate his decorative \"toolset\" as clearly recognisable, and Soria could be seen as familiarised with making musical instruments. The article also supports the view that the harp depicted by Giovanni Lanfranco in <i>Venus Playing the Harp</i> is the Barberini Harp. By closely examining the figurative toolsets of the drawing, the painting, and as present in the carvings on the harp itself, and by considering the historical context, the article constructs a convincing account of some of the processes leading to the creation of the Barberini Harp."
 downloads = []
@@ -64,7 +64,7 @@ The drawing presents a project for a richly decorated harp, its column adorned w
 
 ![](/images/fig-3a-7915.jpg)
 
-###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 6</cap>)
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 5</cap>)
 
 ***
 
@@ -74,7 +74,7 @@ On the top frontside is the Barberini coat of arms: three bees surmounted by a c
 
 ![](/images/fig-3b-7916.jpg)
 
-###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 5</cap>).
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 6</cap>).
 
 ***
 
