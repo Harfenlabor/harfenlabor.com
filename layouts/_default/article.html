@@ -5,9 +5,10 @@
     </div>
 
     <div class="content">
+      <!--h6 style="margin-bottom:0.5rem; max-width: 100%; text-align: center;">.Params.author</h6-->
       <!--Name formats: Name, Name-Name, Name Surname, Name-Name Surname-->
       {{ if .Params.author }}
-      <h6 style="margin-bottom:0.5rem; max-width: 100%; text-align: center;">by 
+      <h6 style="margin-bottom:0.5rem; max-width: 100%; text-align: center;">
         {{ if in .Params.author ", " }} <!--multiple authors-->
           {{ if not (in .Params.author "-") }} <!--Name Surname-->
             {{ range $index, $singleAuthor := split .Params.author ", " }}
