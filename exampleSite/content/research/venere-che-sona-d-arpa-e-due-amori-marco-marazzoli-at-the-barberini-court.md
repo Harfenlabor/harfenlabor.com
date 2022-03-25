@@ -1,7 +1,7 @@
 +++
 PublishDate = 2021-11-02T23:00:00Z
 author = "Elisabetta Frullini"
-bhp_category = ""
+bhp_category = "Convening"
 citation = "Test for <i>citation</i>."
 description = "\nIs the harp depicted in Giovanni Lanfranco's painting <i>Venus Playing the Harp</i> the one we refer to as the Barberini Harp? Is it also the same instrument as that made for the famous 17th century harpist Marco Marazzoli, and commissioned by the Barberini family, as documents uncovered by Chiara Granata tell us? Elisabetta Frullini presents arguments supporting affirmative answers to both, through attentive examination of Marazzoli’s life, work and position within the Barberini court. Building on Franca Trinchieri Camiz’s and Granata’s research, Frullini’s own archival research constructs a view of Marazzoli’s life as a harpist and a court gentleman, an adept musician and music teacher who also painted and entertained. Frullini juxtaposes detailed analysis of the context in which Lanfranco’s painting was described as found on Marazzoli's death with art-historical and iconographical analysis of Lanfranco’s painting and with the known facts and hypotheses on the relationship between Lanfranco, Marazzoli and the Barberini. This vivid picture of Marazzoli at the Barberini court highlights the aesthetic and social importance of such a precious musical instrument and the representations of it; and invokes a notion of a closeness among the arts in the environment of the Barberini court."
 downloads = []
