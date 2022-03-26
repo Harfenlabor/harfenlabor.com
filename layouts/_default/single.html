@@ -25,15 +25,15 @@
         <!--Name formats: Name, Name-Name, Name Surname, Name-Name Surname-->
         {{ if .Params.author }}
         <p id="this_article_author">
-          {{ if in .Params.author ", " }} <!--multiple authors-->
+          {{ if in .Params.author "/ " }} <!--multiple authors-->
             {{ if not (in .Params.author "-") }} <!--Name Surname-->
-              {{ range $index, $singleAuthor := split .Params.author ", " }}
-                {{ if (ne $index 0) }}, {{ end }}
+              {{ range $index, $singleAuthor := split .Params.author "/ " }}
+                {{ if (ne $index 0) }}/ {{ end }}
                 <a href="https://www.harfenlabor.com/indextag#{{ $nameSurname := split . " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ index $nameSurname $i }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ . }}</a>
               {{ end }}
             {{ else }} <!--Name-Name Surname-->
-              {{ range $index, $singleAuthor := split .Params.author ", " }}
-                {{ if (ne $index 0) }}, {{ end }}
+              {{ range $index, $singleAuthor := split .Params.author "/ " }}
+                {{ if (ne $index 0) }}/ {{ end }}
                 <a href="https://www.harfenlabor.com/indextag#{{ $nameSurname := split .Params.author " " }}{{ $len := len $nameSurname }}{{ range (seq $len) }}{{ $i := sub $len . }}{{ $nameWithHyphen := index $nameSurname $i }}{{ replace $nameWithHyphen "-" " " }}{{ if ne . "1"}} {{ end }}{{ end }}">{{ replace .Params.author "-" " " }}</a>
               {{ end }}
             {{ end }}
