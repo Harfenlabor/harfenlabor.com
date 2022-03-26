@@ -1,6 +1,6 @@
 +++
 PublishDate = 2021-11-07T23:00:00Z
-author = ""
+author = "Mara Galassi and Dario Pontiggia"
 bhp_category = "Interviews"
 citation = ""
 description = "Pioneering harpist Mara Galassi and master historical harp builder Dario Pontiggia discuss various considerations affecting any attempt to produce a facsimile of a historical instrument, especially one as old and enigmatic as the Barberini Harp. Pontiggia points out technical issues arising out of insufficient understanding of the original Barberini Harp, such as changes to the neck, column and soundbox, as well as inconsistencies in the number of pinholes and problems with stringing. Should we build authentic copies of the Barberini Harp and other historical instruments? Galassi and Pontiggia offer views from their respective fields. As a luthier working today, Pontiggia believes that an authentic copy of the Barberini Harp would not strictly be fit for music performance. Galassi disagrees: in her view, making compromises to accommodate contemporary performance practice would present a great loss, not just in terms of historical performance practice and musicology, but for music itself. In Galassi’s view, being able to play an exact replica of the harp would offer invaluable insights into historical harp practice. Galassi also offers a hypothesis that the Barberini Harp’s perceived shortcomings may be due to the harp having been constructed from parts built separately and then put together. This conversation demonstrates the importance of cross- and inter-disciplinary methodologies in historical harp research."
@@ -19,7 +19,7 @@ subjects_tag = ["Barberini Harp", "wood", "soundboard", "neck", "column", "strin
 subtype = ["Organology", "Performance Practice"]
 summary_text = "Harpist and researcher Mara Galassi and master luthier Dario Pontiggia  discuss some of the finer points in making copies of historical harps. As one of the pioneers in the field of organological research into the historical harp, Galassi commissioned the luthier David Brown to make the first copy ever of the Barberini Harp. Galassi and Pontiggia grapple with the pros and cons of building authentic copies of the harp. As a luthier, Pontiggia believes he ought to \"correct the mistakes\" on the Barberini Harp. As a performer, Galassi believes an authentic copy would offer valuable insights into historical harp practice. "
 timeline_tag = ["1980-90", "2016", "1940s", "1632-1633"]
-title = "Mara Galassi and Dario Pontiggia: About the Barberini Harp"
+title = "About the Barberini Harp"
 type = "Research"
 
 +++
