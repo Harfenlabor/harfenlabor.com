@@ -1,6 +1,6 @@
 +++
 PublishDate = 2022-02-23T23:00:00Z
-author = "Margret Köll, Michele Pasotti"
+author = "Michele Pasotti"
 bhp_category = ""
 citation = ""
 description = ""
