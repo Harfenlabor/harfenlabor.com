@@ -1,6 +1,6 @@
 +++
 PublishDate = 2021-11-05T23:00:00Z
-author = "Anne Marie Dragosits and Michele Pasotti"
+author = "Anne Marie Dragosits / Michele Pasotti"
 bhp_category = ""
 citation = ""
 description = "Anne Marie Dragosits’ talk “New information on Giovanni Girolamo Kapsperger - with special focus on his material for the basso continuo” brings valuable new insights into Kapsberger’s life, education and practice, as a composer, singer, performer and music teacher. The author of the recently published biography, Giovanni Girolamo Kapsperger “Ein ziemlich extravaganter Mann” (Lucca: Lim, 2020), Dragosits demonstrates expert understanding of the importance of biographical information for historical performance practice research, in particular, in the field of basso continuo, and offers analysis of the early basso continuo notation by Kapsperger. The lutenist Michele Pasotti delves deeper into the analyses of Kapsperger’s and others’ realisations for basso continuo in his talk “Passaggi per suonare sopra la parte. Kapsperger and other 17th century Italian sources for basso continuo on the theorbo.” Pasotti addresses some possible misconceptions in previous analyses of this material, such as the role of fundamento and ornamento, and provides close analyses of various realisations, in particular of the New York and the Modena manuscripts and transcripts. "
