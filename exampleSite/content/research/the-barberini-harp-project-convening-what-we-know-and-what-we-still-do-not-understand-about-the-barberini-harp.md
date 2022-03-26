@@ -1,6 +1,6 @@
 +++
 PublishDate = 2021-10-31T23:00:00Z
-author = "Chiara Granata and Dario Pontiggia"
+author = "Chiara Granata / Dario Pontiggia"
 barberiniharpproject = ""
 bhp-category = "Convening"
 bhp_category = "Convening"
