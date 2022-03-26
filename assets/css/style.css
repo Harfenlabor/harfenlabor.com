@@ -198,7 +198,7 @@ iframe {
 
 .border-meghna:before {
   content: '';
-  height: 3.4px;
+  height: 3px; /*was 3.4*/
   left: 0;
   position: absolute;
   top: -4px;
