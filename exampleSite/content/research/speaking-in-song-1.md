@@ -1,6 +1,6 @@
 +++
 PublishDate = 2022-03-12T23:00:00Z
-author = "Margret Köll, Ottavio Dantone"
+author = "Ottavio Dantone"
 bhp_category = ""
 citation = ""
 description = ""
