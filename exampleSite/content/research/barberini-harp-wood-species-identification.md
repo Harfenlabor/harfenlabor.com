@@ -1,6 +1,6 @@
 +++
 PublishDate = 2021-10-28T07:00:00Z
-author = "Volker Haag and Valentina Zemke"
+author = "Volker Haag / Valentina Zemke"
 barberiniharpproject = "The most important surviving Italian Baroque harp, the Barberini Harp, is a chromatic harp with three parallel rows of strings constructed (1632-33) for the harpist Marco Marazzoli by the instrument maker Girolamo Acciari and the wood-carver Giovanni Tubi under the patronage of Cardinal Antonio Barberini. As we lack crucial understanding of this famous harp, Harfenlabor has initiated The Barberini Harp Project in order to conduct and share basic research on this harp in the fields of organology, musicology, and performance practice and within relevant historical and art-historical contexts. This publication presents three stages of The Barberini Harp Project: 1. Convening around the Barberini Harp Project 2. Interviews with Experts and 3. Examinations."
 bhp_category = "Examinations"
 citation = ""
@@ -18,7 +18,7 @@ show_in_news = false
 status = "to be approved by author"
 subjects_tag = ["Barberini Harp", "Thünen-Institut", "Institut für Holzforschung", "3D-RLM", "Museo Nazionale degli Strumenti Musicali", "non-destructive", "non-invasive", "investigation", "imaging", "examination", "wood species investigation", "harp", "tailpiece", "macroscopic", "wood", "soundboard", "neck", "column", "structure", "microscope", "database", "surface", "identification", "button", "3D microscopic image", "wood anatomy", "anatomical wood structure", "pore", "Xylothek", "scientific wood collection", "3D-reflected-light microscopy", "macroHOLZdata", "microHOLZdata", "Institute for Wood Research", "wood surface", "digital database", "ring-porous", "diffuse-porous", "sample"]
 subtype = ["Organology", "Iconography"]
-summary_text = ""
+summary_text = "In December 2018, Volker Haag and Valentina Zemle from the Thünen-Institut, Institut für Holzforschung transported comprehensive microscopy equipment, including a state-of-the-art 3D-RLM (3D-reflected-light microscopy) microscope from Hamburg to Roma for investigation of wood species on the Barberini Harp. This advanced technology enables completely non-destructive material analysis for scientific wood identification."
 tags = ""
 timeline_tag = ["1632", "1633", "2018", "2019", "1632-1633"]
 title = "The Barberini Harp Wood Species Identification"
