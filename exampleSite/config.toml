@@ -29,17 +29,11 @@ parent = "projects"
 url = "/projects/lectures"
 weight = "2"
 [[menu.main]]
-identifier = "HL Editions"
-name = "HL Editions"
-parent = "projects"
-url = "/projects/editions"
-weight = "3"
-[[menu.main]]
 identifier = "Podcast: Between the Strings"
 name = "Podcast: Between the Strings"
 parent = "projects"
 url = "/projects/podcast"
-weight = "4"
+weight = "3"
 [[menu.main]]
 identifier = "research"
 name = "Research"
