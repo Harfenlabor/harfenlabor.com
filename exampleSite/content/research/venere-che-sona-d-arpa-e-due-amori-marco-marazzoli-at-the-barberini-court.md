@@ -103,7 +103,7 @@ In conclusion, Lanfranco's painting appears as a tribute to Marazzoli and his qu
 
 ###### Databases. Getty Provenance Index. The Getty Research Institute. [https://www.getty.edu/research/tools/provenance/search.html](https://www.getty.edu/research/tools/provenance/search.html "https://www.getty.edu/research/tools/provenance/search.html").
 
-###### Granata, Chiara. “‘Un’arpa grande tutta intagliata e dorata’. New documents on the Barberini harp.” _Recercare_ 27, 1/2 (2015): 139–164. [https://www.jstor.org/stable/26381197](https://www.jstor.org/stable/26381197. "https://www.jstor.org/stable/26381197.").
+###### Granata, Chiara. “‘Un’arpa grande tutta intagliata e dorata’. New documents on the Barberini harp.” _Recercare_ 27, 1/2 (2015): 139–164. [https://www.jstor.org/stable/26381197](https://www.jstor.org/stable/26381197 "https://www.jstor.org/stable/26381197")
 
 ###### Haiduk, Marina. In _Wege des Barock. Die Nationalgalerien Barberini Corsini in Rom_, edited by Ortrud Westheider and Michael Philipp. München, London, New York: Prestel, 2019.
 
