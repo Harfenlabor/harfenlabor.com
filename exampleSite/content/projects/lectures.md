@@ -1,5 +1,5 @@
 ---
-title: "Harfenlabor lectures"
+title: "Harfenlabor Lectures"
 sitemap:
   priority : 0.1
 layout: "lectures"
