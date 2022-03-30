@@ -97,7 +97,7 @@ In conclusion, Lanfranco's painting appears as a tribute to Marazzoli and his qu
 
 ###### Castiglione, Sabba. _Ricordi, overo Ammaestramenti_. Venezia, 1575.
 
-###### Daolmi, Davide. "L’armi e gli amori". Un’opera di cappa e spada nella Roma di mezzo Seicento.” PhD diss., Università degli studi di Roma "La Sapienza", 2001. [http://www.examenapium.it/armi.](http://www.examenapium.it/armi. "http://www.examenapium.it/armi.")
+###### Daolmi, Davide. "L’armi e gli amori". Un’opera di cappa e spada nella Roma di mezzo Seicento.” PhD diss., Università degli studi di Roma "La Sapienza", 2001. [http://www.examenapium.it/armi/marazzoli.pdf](http://www.examenapium.it/armi/marazzoli.pdf "http://www.examenapium.it/armi/marazzoli.pdf").
 
 ###### Doni, Giovanni Battista. _Lyra Barberina amphicordos. De’ trattati di musica_, vol. 2. Firenze, 1763.
 
