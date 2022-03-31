@@ -20,10 +20,8 @@
   {{"<!-- /section title -->" | safeHTML}}
 
   {{ $timelinePagination := .Site.GetPage "/research" }}
-  {{ range $timelinePagination.Data.Pages }}
-    {{ if .Params.show_in_news }}
-      {{ .Render "article_onepage" }}
-    {{ end }}
+  {{ range .Paginator.Pages }}
+    <p>{{ . }}</p>
   {{ end }}
 
   <div class="col-12">
