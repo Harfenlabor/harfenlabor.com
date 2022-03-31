@@ -784,7 +784,7 @@ label {
   border: 3px solid var(--purpleColor);
   border-radius: 10px;
   background-color: var(--greyColor);
-  width:10em;
+  width: auto;
   text-align:center;
   padding-top: .2em;
   padding-bottom: 0em;
@@ -810,6 +810,11 @@ p.sort {
 
 .greyBackground {
 	background-color: var(--greyColor);
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-left: 0px;
+	margin-right: 0px;
+	height: 100vh;
 }
 
 
