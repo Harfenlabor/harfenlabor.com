@@ -20,7 +20,7 @@
   {{"<!-- /section title -->" | safeHTML}}
 
   {{ $paginator := .Paginate .Data.Pages }}
-  {{ template "_internal/pagination.html" . }}
+  {{/* template "_internal/pagination.html" . */}}
   {{ range $paginator.Pages }}
     <p>{{ . }}</p>
     {{/* .Render "article" */}}
