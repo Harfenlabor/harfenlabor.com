@@ -46,24 +46,9 @@
   {{"<!-- /section title -->" | safeHTML}}
 
   {{ $timelinePagination := .Site.GetPage "/research" }}
-  <p>{{ $timelinePagination }}</p>
+  {{ range $timelinePagination }}
   
 
-
-  <!--div class="col-lg-12">
-    <div class="post-single-content">
-      <p>ciao</p>
-    </div>
-  </div-->
-
-</section>
-
-<script>
-</script>
-
-{{ end }}
-    {{ template "_internal/pagination.html" . }}
-  </div>
 
   <!--div class="col-lg-12">
     <div class="post-single-content">
