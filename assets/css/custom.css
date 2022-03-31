@@ -808,6 +808,9 @@ p.sort {
 	background-color: white;
 }
 
+.fillGrey {
+	fill: var(--greyColor);
+}
 .greyBackground {
 	background-color: var(--greyColor);
 	padding-left: 50px;
