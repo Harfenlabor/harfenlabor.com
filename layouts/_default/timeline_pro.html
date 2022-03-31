@@ -4,6 +4,7 @@
 {{ define "main" }}
 {{ partial "navigation.html" . }}
 
+{{"<!-- Start Blog Section -->" | safeHTML}}
 <section class="section greyBackground">
   <div class="col-12">
     <div class="title text-center wow fadeInDown">
@@ -19,14 +20,11 @@
   {{"<!-- /section title -->" | safeHTML}}
 
   {{ $paginator := .Paginate .Data.Pages }}
-  {{ range $paginator }}
+  {{ template "_internal/pagination.html" . }}
+  {{ range $paginator.Pages }}
     <p>{{ . }}</p>
     {{/* .Render "article" */}}
   {{ end }}
-  
-  <div class="col-12">
-    {{ template "_internal/pagination.html" . }}
-  </div>
 
   <!--div class="col-lg-12">
     <div class="post-single-content">
@@ -35,6 +33,7 @@
   </div-->
 
 </section>
+{{"<!-- /blog -->" | safeHTML}}
 
 <script>
 </script>
