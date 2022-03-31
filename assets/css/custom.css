@@ -780,16 +780,37 @@ p > img {
 /*#############*/
 input[type='radio'][name='timeline_sortby'] { display:none; }
 label {
-  display:inline-block;
-  padding:3px;
-  border:1px solid var(--purpleColor);
-  border-radius:3px;
+  display: inline-block;
+  border: 3px solid var(--purpleColor);
+  border-radius: 10px;
   background-color: var(--greyColor);
   width:10em;
   text-align:center;
+  padding-top: .2em;
+  padding-bottom: 0em;
+	padding-left: .5em;
+	padding-right: .5em;
+	color: var(--purpleColor);
 }
 
-input[type='radio'][name='timeline_sortby']:checked + label { background-color:var(--purpleColor); }
+input[type='radio'][name='timeline_sortby']:checked + label {
+	background-color:var(--purpleColor);
+	color: var(--greyColor);
+}
+
+p.sort {
+	text-align: left;
+	margin-top: .2em;
+	color: black;
+}
+
+.whiteBackground {
+	background-color: white;
+}
+
+.greyBackground {
+	background-color: var(--greyColor);
+}
 
 
 
