@@ -1,9 +1,5 @@
-{{ define "footerfiles" }}
-{{ end }}
-
 {{ define "main" }}
 {{ partial "navigation.html" . }}
-
 {{"<!-- Start Blog Section -->" | safeHTML}}
 <section class="section greyBackground">
   <div class="col-12">
@@ -18,47 +14,15 @@
     </div>
   </div>
   {{"<!-- /section title -->" | safeHTML}}
-
   {{ $timelinePagination := .Site.GetPage "/research" }}
-  {{ range $timelinePagination }}
-    <p>{{ . }}</p>
-  {{ end }}
+   <p>{{ $timelinePagination }}</p>
 
-  <div class="col-12">{{ define "footerfiles" }}
-{{ end }}
-
-{{ define "main" }}
-{{ partial "navigation.html" . }}
-
-{{"<!-- Start Blog Section -->" | safeHTML}}
-<section class="section greyBackground">
-  <div class="col-12">
-    <div class="title text-center wow fadeInDown">
-      <h1>{{ .Title }}</h1>
-      <div class="border-meghna"></div>
-      <p class="sort">Sort by:
-        <input type="radio" name="timeline_sortby" value="one" id="one" checked><label for="one">All</label>
-        <input type="radio" name="timeline_sortby" value="two" id="two"><label for="two">Project</label>
-        <input type="radio" name="timeline_sortby" value="three" id="three"><label for="three">Research Field</label>
-      </p>
-    </div>
-  </div>
-  {{"<!-- /section title -->" | safeHTML}}
-
-  {{ $timelinePagination := .Site.GetPage "/research" }}
-  {{ range $timelinePagination }}
-  
-
-
-  <!--div class="col-lg-12">
-    <div class="post-single-content">
+   <!--div class="col-lg-12">
+     <div class="post-single-content">
       <p>ciao</p>
     </div>
   </div-->
-
 </section>
-
 <script>
 </script>
-
 {{ end }}
