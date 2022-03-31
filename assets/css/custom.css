@@ -775,6 +775,27 @@ p > img {
 	}
 }*/
 
+/*#############*/
+/*TIMELINE PRO */
+/*#############*/
+input[type='radio'][name='timeline_sortby'] { display:none; }
+label {
+  display:inline-block;
+  padding:3px;
+  border:1px solid var(--purpleColor);
+  border-radius:3px;
+  background-color: var(--purpleColor);
+  width:10em;
+  text-align:center;
+}
+
+input[type='radio'][name='timeline_sortby']:checked + label { background-color:var(--purpleColor); }
+
+
+
+/*#############*/
+/*MEDIA QUERIES*/
+/*#############*/
 @media only screen and (max-width: 768px) {
 	.TEMP_BANNER{
 		margin-top: 100px;
