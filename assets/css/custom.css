@@ -791,6 +791,7 @@ label {
 	padding-left: .5em;
 	padding-right: .5em;
 	color: var(--purpleColor);
+	cursor: pointer;
 }
 
 input[type='radio'][name='timeline_sortby']:checked + label {
@@ -816,7 +817,7 @@ p.sort {
 	padding-right: 50px;
 	margin-left: 0px;
 	margin-right: 0px;
-	height: 100vh;
+	height: 100%;
 }
 
 
@@ -845,7 +846,9 @@ p.sort {
 	}
 	.section{
 		padding: 0px;
-		margin-top: 80px;
+		/*margin-top: 80px;*/
+		margin-top: 0px;
+		padding-top: 80px;
 	}
 	/*.synopsis_box {
 		position: relative;
