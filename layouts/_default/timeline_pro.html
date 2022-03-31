@@ -15,7 +15,7 @@
   </div>
   {{"<!-- /section title -->" | safeHTML}}
   {{ $timelinePagination := .Site.GetPage "/research" }}
-  <p>{{ $timelinePagination.Data }}</p>
+  <p>{{ $timelinePagination.Data.Pages }}</p>
 
   {{/* range $timelinePagination.Data.Pages */}}
     {{/* .Render "article_onepage" */}}
