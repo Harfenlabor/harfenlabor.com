@@ -784,7 +784,7 @@ label {
   padding:3px;
   border:1px solid var(--purpleColor);
   border-radius:3px;
-  background-color: var(--purpleColor);
+  background-color: var(--greyColor);
   width:10em;
   text-align:center;
 }
