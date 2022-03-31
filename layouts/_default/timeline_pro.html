@@ -16,7 +16,17 @@
       </p>
     </div>
   </div>
+  {{"<!-- /section title -->" | safeHTML}}
+
+  {{ $paginator := .Paginate .Data.Pages }}
+  {{ range $paginator.Pages }}
+    <p>{{ . }}</p>
+    {{/* .Render "article" */}}
+  {{ end }}
   
+  <div class="col-12">
+    {{ template "_internal/pagination.html" . }}
+  </div>
 
   <!--div class="col-lg-12">
     <div class="post-single-content">
