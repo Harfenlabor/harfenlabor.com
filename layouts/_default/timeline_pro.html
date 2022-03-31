@@ -1,0 +1,32 @@
+{{ define "footerfiles" }}
+{{ end }}
+
+{{ define "main" }}
+{{ partial "navigation.html" . }}
+
+<section class="section">
+  <div class="col-12">
+    <div class="title text-center wow fadeInDown">
+      <h1>{{ .Title }}</h1>
+      <div class="border-meghna"></div>
+      <p class="sort">Sort by:
+        <input type="radio" name="timeline_sortby" value="one" id="one"><label for="one">All</label>
+        <input type="radio" name="timeline_sortby" value="two" id="two"><label for="two">Project</label>
+        <input type="radio" name="timeline_sortby" value="three" id="three"><label for="three">Research Field</label>
+      </p>
+    </div>
+  </div>
+  
+  <div class="col-lg-8 offset-lg-2">
+    <div class="post-single-content">
+      <p>ciao</p>
+    </div>
+  </div>
+
+</section>
+
+<script>
+
+</script>
+
+{{ end }}
