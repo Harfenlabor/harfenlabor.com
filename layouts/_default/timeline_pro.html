@@ -20,9 +20,8 @@
   {{"<!-- /section title -->" | safeHTML}}
 
   {{ $timelinePagination := .Site.GetPage "/research" }}
-  {{ range .Paginator.Pages }}
-    <p>{{ . }}</p>
-  {{ end }}
+  <p>{{ $timelinePagination }}</p>
+  
 
   <div class="col-12">
     {{ template "_internal/pagination.html" . }}
