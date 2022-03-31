@@ -6,7 +6,7 @@
 	<svg id="actual_lid" data-name="menu_lid" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 115.48 560.08"><defs><style>.cls-1{fill:var(--greyColor);fill-rule:evenodd;}</style></defs><path id="a" class="{{ if in .Title "Timeline" }}fillWhite{{ else }}cls-1{{ end }}" d="M115.34,403V0H-.14V560.08H6.11V512A54.59,54.59,0,0,1,60.7,457.36h0A54.63,54.63,0,0,0,115.34,403Z" transform="translate(0.14)"/></svg>
 </div>
 
-<section id="navigation" class="sticky-top" onmouseover="toggleSidebar()" onmouseout="toggleSidebar()">
+<section id="navigation" class="sticky-top {{ if in .Title "Timeline" }}fillWhite{{ end }}" onmouseover="toggleSidebar()" onmouseout="toggleSidebar()">
 	<!--menu_lid-->
 
 	<div class="container">
