@@ -46,9 +46,7 @@
   {{"<!-- /section title -->" | safeHTML}}
 
   {{ $timelinePagination := .Site.GetPage "/research" }}
-  {{ range $timelinePagination }}
-    <p>{{ . }}</p>
-  {{ end }}
+  <p>{{ $timelinePagination }}</p>
   
 
 
