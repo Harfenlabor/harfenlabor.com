@@ -805,9 +805,8 @@ p.sort {
 }
 
 .whiteBackground {
-	background-color: white;
+	background-color: white!important;
 }
-
 .fillWhite {
 	fill: white;
 }
