@@ -15,11 +15,13 @@
   </div>
   {{"<!-- /section title -->" | safeHTML}}
   {{ $timelinePagination := .Site.GetPage "/research" }}
-  <p>{{ range $timelinePagination.Data.Pages }}{{ . }}{{ end }}</p>
 
-  {{/* range $timelinePagination.Data.Pages */}}
-    {{/* .Render "article_onepage" */}}
-  {{/* end */}}
+  {{ range $timelinePagination.Data.Pages }}
+    {{ .Render "article_onepage" }}
+  {{ end }}
+
+
+  <!--p>{{/* range $timelinePagination.Data.Pages */}}{{/* . */}}{{/* end */}}</p-->
 
   <!--div class="col-lg-12">
     <div class="post-single-content">
