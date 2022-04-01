@@ -17,7 +17,7 @@
           {{ end }}
         {{ else }}{{ .Title }}{{ end }}</a>
 
-        <p class="tl_years">{{ if .Params.timeline_tag }}{{ range .Params.timeline_tag }}{{ . }}{{ end }}{{ end }}</p>
+        <p class="tl_years">{{ if .Params.timeline_tag }}{{ range .Params.timeline_tag }}{{ . }} {{ end }}{{ end }}</p>
       </h6>
       
     </div>
