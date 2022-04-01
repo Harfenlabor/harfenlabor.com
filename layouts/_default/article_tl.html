@@ -1,0 +1,28 @@
+<article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
+  <div class="post-block">
+    <div class="media-wrapper">
+      <img class="img-fluid" data-src="{{ .Params.Image_webp | absURL }}" src="{{ .Params.image | absURL }}">
+    </div>
+
+    <div class="content">
+      <!--h6 style="margin-bottom:0.5rem; max-width: 100%; text-align: center;">.Params.author</h6-->
+      <!--Name formats: Name, Name-Name, Name Surname, Name-Name Surname-->
+      
+      <h6 style="margin-bottom:0.5rem; max-width: 100%; text-align: center;">
+        <a class="tl_title" href="{{ .Permalink }}">
+        {{ if in .Title "&&" }}
+          {{ $titleLines := split .Title "&&" }}
+          {{ range $titleLines }}
+            {{ . }}<br>
+          {{ end }}
+        {{ else }}{{ .Title }}{{ end }}</a>
+
+        <p class="tl_years">{{ if .Params.timelinetags }}{{ range .Params.timelinetags }}{{ . }}{{ end }}{{ end }}</p>
+      </h6>
+      
+    </div>
+  </div>
+</article>
+
+<script>
+</script>
