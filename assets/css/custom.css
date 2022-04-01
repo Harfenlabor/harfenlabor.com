@@ -843,6 +843,9 @@ p.sort {
 	margin-top: .5em;
 	margin-bottom: .5em;
 }
+.tl_mediawrapper {
+	padding: .5em;
+}
 .tl_image {
 	width: 10em;
 	height: 4em;
@@ -861,14 +864,14 @@ p.sort {
 	overflow: hidden;
 	transform: scale(1.1);
 }
-.lt_article_title {
+.tl_article_title {
 	color: var(--purpleColor);
 	margin: 0.5em;
 	display: block;
 	line-height: 110%;
 	opacity: 0;
 }
-.lt_article_block:hover + .lt_article_title {
+.tl_article_block:hover + .tl_article_title {
   opacity: 1;
 }
 
