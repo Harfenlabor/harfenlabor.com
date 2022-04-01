@@ -18,15 +18,15 @@
       {{"<!-- /section title -->" | safeHTML}}
       {{ $timelinePagination := .Site.GetPage "/research" }}
 
-      {{ $sortedPosts := where $timelinePagination.Pages ".Params.timeline_tag" "!=" nil }}
+      {{ $data := newScratch }}
 
-      {{ $paginator := .Paginate $sortedPosts }}
       {{ range $paginator.Pages }}
-        {{ println .Title }}
         {{ range .Params.timeline_tag }}
-          {{ println . }}
+          {{ $data.Add . .Title }}
         {{ end }}
       {{ end }}
+
+      {{ println $data.Get "1926" }}
 
 
 
