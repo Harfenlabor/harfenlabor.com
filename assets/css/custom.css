@@ -867,14 +867,12 @@ p.sort {
 .tl_article_title {
 	color: var(--purpleColor);
 	margin: 0.5em;
-	display: block;
+	display: none;
 	line-height: 110%;
-	opacity: 0;
 }
 .tl_article_block:hover + .tl_article_title {
-  opacity: 1;
+  display: block;
 }
-
 
 /*#############*/
 /*MEDIA QUERIES*/
