@@ -12,7 +12,8 @@
           <img class="img-fluid tl_image" data-src="{{ $image_webp }}" src="{{ $image }}">
         </div>
 
-        <h6 style="margin-bottom:0.5rem; max-width: 100%; text-align: center;">
+        <!--h6 style="margin-bottom:0.5rem; max-width: 100%; text-align: center;">
+        {{/* comment */}}
           <a class="tl_title" href="{{ $permalink }}">
           {{ if in $title "&&" }}
             {{ $titleLines := split $title "&&" }}
@@ -22,7 +23,8 @@
           {{ else }}{{ $title }}{{ end }}</a>
 
           <p class="tl_years">{{ . }}</p>
-        </h6>
+        {{/* endcomment */}}
+        </h6-->
       {{ end }}
     {{ end }}
 
