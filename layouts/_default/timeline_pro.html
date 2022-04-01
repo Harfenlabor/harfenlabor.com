@@ -17,7 +17,7 @@
     {{"<!-- /section title -->" | safeHTML}}
     {{ $timelinePagination := .Site.GetPage "/research" }}
 
-    {{ range $timelinePagination.Data }}
+    {{ range $timelinePagination.Data.Pages }}
       {{ .Render "article_tl" }}
     {{ end }}
   </div>
