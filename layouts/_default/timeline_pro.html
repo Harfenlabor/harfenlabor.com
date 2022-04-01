@@ -14,38 +14,42 @@
     </div>
   </div>
   <div class="tl_frame">
-    {{"<!-- /section title -->" | safeHTML}}
-    {{ $timelinePagination := .Site.GetPage "/research" }}
+    <div style="width: 800px;">
+      {{"<!-- /section title -->" | safeHTML}}
+      {{ $timelinePagination := .Site.GetPage "/research" }}
 
+      {{ $sortedPosts := where $posts.Pages ".Params.timeline_tag" "!=" nil }}
 
-    {{ range $timelinePagination.Pages }}
-      {{ println .Title }}
-      {{ range .Params.timeline_tag }}
-        {{ println . }}
+      {{ $paginator := .Paginate $sortedPosts }}
+      {{ range $paginator.Pages }}
+        {{ println .Title }}
+        {{ range .Params.timeline_tag }}
+          {{ println . }}
+        {{ end }}
       {{ end }}
-    {{ end }}
 
 
 
-    {{/* range $timelinePagination.Pages.ByParam "timeline_tag" */}}
-      {{/* println .Title */}}
-      {{/* println .Params.timeline_tag */}}
-    {{/* end */}}
+      {{/* range $timelinePagination.Pages.ByParam "timeline_tag" */}}
+        {{/* println .Title */}}
+        {{/* println .Params.timeline_tag */}}
+      {{/* end */}}
 
-    {{/* range $timelinePagination.Pages */}}
-      {{/* println .Title */}}
-      {{/* range .Params.timeline_tag */}}
+      {{/* range $timelinePagination.Pages */}}
+        {{/* println .Title */}}
+        {{/* range .Params.timeline_tag */}}
+          {{/* println . */}}
+        {{/* end */}}
+      {{/* end */}}
+
+      {{/* range $timelinePagination.Data.Pages */}}
+        {{/* .Render "article_tl" */}}
+      {{/* end */}}
+
+      {{/* range $timelinePagination.Pages.ByParam "timeline_tag" */}}
         {{/* println . */}}
       {{/* end */}}
-    {{/* end */}}
-
-    {{/* range $timelinePagination.Data.Pages */}}
-      {{/* .Render "article_tl" */}}
-    {{/* end */}}
-
-    {{/* range $timelinePagination.Pages.ByParam "timeline_tag" */}}
-      {{/* println . */}}
-    {{/* end */}}
+    </div>
   </div>
 
 
