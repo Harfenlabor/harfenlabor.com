@@ -17,7 +17,7 @@
   {{ $timelinePagination := .Site.GetPage "/research" }}
 
   {{ range $timelinePagination.Data.Pages }}
-    {{ .Render "article_onepage" }}
+    {{ .Render "article_tl" }}
   {{ end }}
 
 
