@@ -834,6 +834,11 @@ p.sort {
 	overflow-x: auto;
 	overflow-y: hidden;
 }
+.tl_frame_inside {
+	width: 1200px;
+	display: flex;
+}
+
 .tl_image {
 	width: 10em;
 	height: 4em;
