@@ -846,10 +846,10 @@ p.sort {
 .tl_image {
 	width: 10em;
 	height: 4em;
-	margin-left: .5em;
-	margin-right: .5em;
 }
 .tl_article_block {
+	margin-left: .5em;
+	margin-right: .5em;
 	border-radius: .8em;
 	transition: .4s;
 	background-color: rgb(255,255,255,0);
@@ -862,7 +862,7 @@ p.sort {
 	color: var(--purpleColor);
 	opacity: 0;
 }
-.tl_article_block:hover + .lt_article_title {
+.lt_article_block:hover + .lt_article_title {
   opacity: 1;
 }
 
