@@ -17,11 +17,18 @@
     {{"<!-- /section title -->" | safeHTML}}
     {{ $timelinePagination := .Site.GetPage "/research" }}
 
-    {{/* range $timelinePagination.Data.Pages */}}
-    {{ range $timelinePagination.Pages.ByParam "timeline_tag" }}
+    {{ range $timelinePagination.Pages }}
       {{ println . }}
-      {{/* .Render "article_tl" */}}
+      {{ println .Params.timeline_tag }}
     {{ end }}
+
+    {{/* range $timelinePagination.Data.Pages */}}
+      {{/* .Render "article_tl" */}}
+    {{/* end */}}
+
+    {{/* range $timelinePagination.Pages.ByParam "timeline_tag" */}}
+      {{/* println . */}}
+    {{/* end */}}
   </div>
 
 
