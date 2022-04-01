@@ -853,13 +853,19 @@ p.sort {
 	border-radius: .8em;
 	transition: .4s;
 	background-color: rgb(255,255,255,0);
+	height: 5em;
 }
 .tl_article_block:hover {
 	background-color: rgb(255,255,255,1);
+	height: 8em;
+	overflow: hidden;
 	transform: scale(1.1);
 }
 .lt_article_title {
 	color: var(--purpleColor);
+	margin: 0.5em;
+	display: block;
+	line-height: 110%;
 	opacity: 0;
 }
 .lt_article_block:hover + .lt_article_title {
