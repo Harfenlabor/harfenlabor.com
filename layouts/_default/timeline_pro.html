@@ -23,23 +23,15 @@
       {{ range $timelinePagination.Pages }}
         {{ $title := .Title }}
         {{ range .Params.timeline_tag }}
-          {{ $data.Add . $title }}
+          {{ $data.Add . (slice $title) }}
         {{ end }}
       {{ end }}
-
-      <p>{{ range $timelinePagination.Pages }}
-        {{ range .Params.timeline_tag }}{{ . }}, {{ end }}
-      {{ end }}</p>
 
       {{ range $timelinePagination.Pages }}
         {{ range .Params.timeline_tag }}
           {{ $size := $data.Get . }}
           {{ if $size }}
-          <div class="">
-            <p>{{ $size }}</p>
-          </div>
-          {{ else }}
-          <p>too bad…</p>
+            <p>{{ . }}: {{ $size }}</p>
           {{ end }}
         {{ end }}
       {{ end }}
