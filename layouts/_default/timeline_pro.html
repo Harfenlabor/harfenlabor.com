@@ -18,7 +18,7 @@
       {{"<!-- /section title -->" | safeHTML}}
       {{ $timelinePagination := .Site.GetPage "/research" }}
 
-      {{ $sortedPosts := where $posts.Pages ".Params.timeline_tag" "!=" nil }}
+      {{ $sortedPosts := where $timelinePagination.Pages ".Params.timeline_tag" "!=" nil }}
 
       {{ $paginator := .Paginate $sortedPosts }}
       {{ range $paginator.Pages }}
