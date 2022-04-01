@@ -18,46 +18,40 @@
       {{"<!-- /section title -->" | safeHTML}}
       {{ $timelinePagination := .Site.GetPage "/research" }}
 
-      {{ $data := newScratch }}
-
-      {{ range $timelinePagination.Pages }}
-        {{ $title := .Title }}
-        {{ range .Params.timeline_tag }}
-          {{ $data.Add . (slice $title) }}
-        {{ end }}
+      {{ range $timelinePagination.Data.Pages }}
+        {{ .Render "article_tl" }}
       {{ end }}
 
-      {{ range $timelinePagination.Pages }}
-        {{ range .Params.timeline_tag }}
-          {{ $size := $data.Get . }}
-          {{ if $size }}
-            <p>{{ . }}: {{ $size }}</p>
-          {{ end }}
-        {{ end }}
-      {{ end }}
 
-      {{/* range $data.Get "1926" */}}
+      <!-- get titles for each year -->
+      {{/* $data := newScratch */}}
+      {{/* range $timelinePagination.Pages */}}
+        {{/* $title := .Title */}}
+        {{/* range .Params.timeline_tag */}}
+          {{/* $data.Add . (slice $title) */}}
+        {{/* end */}}
+      {{/* end */}}
+      {{/* range $timelinePagination.Pages */}}
+        {{/* range .Params.timeline_tag */}}
+          {{/* $size := $data.Get . */}}
+          {{/* if $size */}}
+            <!--p>{{/* . */}}: {{/* $size */}}</p-->
+          {{/* end */}}
+        {{/* end */}}
+      {{/* end */}}
 
-
-
+      <!--byParam-->
       {{/* range $timelinePagination.Pages.ByParam "timeline_tag" */}}
         {{/* println .Title */}}
         {{/* println .Params.timeline_tag */}}
       {{/* end */}}
 
+      <!--range-->
       {{/* range $timelinePagination.Pages */}}
         {{/* println .Title */}}
         {{/* range .Params.timeline_tag */}}
           {{/* println . */}}
         {{/* end */}}
-      {{/* end */}}
-
-      {{/* range $timelinePagination.Data.Pages */}}
-        {{/* .Render "article_tl" */}}
-      {{/* end */}}
-
-      {{/* range $timelinePagination.Pages.ByParam "timeline_tag" */}}
-        {{/* println . */}}
       {{/* end */}}
     </div>
   </div>
