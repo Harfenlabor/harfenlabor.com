@@ -3,7 +3,7 @@
 {{"<!-- Start Blog Section -->" | safeHTML}}
 <section class="section greyBackground">
   <div class="col-12">
-    <div class="title text-center wow fadeInDown">
+    <div class="text-center wow fadeInDown">
       <h1>{{ .Title }}</h1>
       <div class="border-meghna"></div>
       <p class="sort">Sort by:
@@ -13,12 +13,18 @@
       </p>
     </div>
   </div>
-  {{"<!-- /section title -->" | safeHTML}}
-  {{ $timelinePagination := .Site.GetPage "/research" }}
+  <div class="tl_frame">
+    {{"<!-- /section title -->" | safeHTML}}
+    {{ $timelinePagination := .Site.GetPage "/research" }}
 
-  {{ range $timelinePagination.Data.Pages }}
-    {{ .Render "article_tl" }}
-  {{ end }}
+    {{ range $timelinePagination.Data.Pages }}
+      {{ .Render "article_tl" }}
+    {{ end }}
+
+    <div class="col-12">
+      {{ template "_internal/pagination.html" . }}
+    </div>
+  </div>
 
 
   <!--p>{{/* range $timelinePagination.Data.Pages */}}{{/* . */}}{{/* end */}}</p-->
