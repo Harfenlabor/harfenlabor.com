@@ -23,8 +23,7 @@
       {{ range $timelinePagination.Pages }}
         {{ $title := .Title }}
         {{ range .Params.timeline_tag }}
-          {{ println . }}
-          {{ $data.Add "ciao" $title }}
+          {{ $data.Add . $title }}
         {{ end }}
       {{ end }}
 
@@ -32,13 +31,17 @@
         {{ range .Params.timeline_tag }}{{ . }}, {{ end }}
       {{ end }}</p>
 
-      {{ $size := $data.Get "ciao" }}
-      {{ if $size }}
-      <div class="">
-        <p>{{ $size }}</p>
-      </div>
-      {{ else }}
-      <p>too bad…</p>
+      {{ range $timelinePagination.Pages }}
+        {{ range .Params.timeline_tag }}
+          {{ $size := $data.Get . }}
+          {{ if $size }}
+          <div class="">
+            <p>{{ $size }}</p>
+          </div>
+          {{ else }}
+          <p>too bad…</p>
+          {{ end }}
+        {{ end }}
       {{ end }}
 
       {{/* range $data.Get "1926" */}}
