@@ -849,7 +849,22 @@ p.sort {
 	margin-left: .5em;
 	margin-right: .5em;
 }
-
+.tl_article_block {
+	border-radius: .8em;
+	transition: .4s;
+	background-color: rgb(255,255,255,0);
+}
+.tl_article_block:hover {
+	background-color: rgb(255,255,255,1);
+	transform: scale(1.1);
+}
+.lt_article_title {
+	color: var(--purpleColor);
+	opacity: 0;
+}
+.tl_article_block:hover + .lt_article_title {
+  opacity: 1;
+}
 
 
 /*#############*/
