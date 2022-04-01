@@ -830,22 +830,24 @@ p.sort {
 .tl_frame {
 	background-color: rgb(255,200,200,.5);
 	height: calc(100vh - 11.8em);
-	display: flex;
-	overflow-x: auto;
-	overflow-y: hidden;
+	overflow: auto;
 }
 .tl_frame_inside {
-	width: 1200px;
+	width: 2000px;
 	display: flex;
 	flex-direction: column;
 }
 .tl_row {
 	flex-direction: row;
 	display: flex;
+	margin-top: .5em;
+	margin-bottom: .5em;
 }
 .tl_image {
 	width: 10em;
 	height: 4em;
+	margin-left: .5em;
+	margin-right: .5em;
 }
 
 
