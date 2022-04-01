@@ -8,14 +8,14 @@
       {{ $title := .Title }}
       {{ range .Params.timeline_tag }}
 
-        <div class="tl_article_block">
+        <div class="tl_article_block" style="width: {{ countrunes . }}em">
         
           <div class="media-wrapper">
-            <img class="img-fluid tl_image" data-src="{{ $image_webp }}" src="{{ $image }}" style="width: {{mul 1.5 (countrunes .) }}em">
+            <img class="img-fluid tl_image" data-src="{{ $image_webp }}" src="{{ $image }}" style="width: {{ countrunes . }}em">
           </div>
 
-          <p>{{ $title }}</p>
-          <p>{{ . }}</p>
+          <span class="lt_article_title">{{ $title }}</span>
+          <span class="lt_article_title">{{ . }}</span>
 
         </div>
 
