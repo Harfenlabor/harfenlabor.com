@@ -18,7 +18,7 @@
     {{ $timelinePagination := .Site.GetPage "/research" }}
 
 
-    {{ range (.Paginate (.Site.GetPage "/research".Pages.ByParam "timeline_tag")).Pages }}
+    {{ range (.Paginate (.Site.GetPage "/research" Pages.ByParam "timeline_tag")).Pages }}
       {{ println . }}
     {{ end }}
 
