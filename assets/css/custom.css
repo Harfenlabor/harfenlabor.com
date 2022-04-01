@@ -868,7 +868,6 @@ p.sort {
 	color: var(--purpleColor);
 	margin: 0.5em;
 	font-size: 1rem;
-	display: none;
 	line-height: 110%;
 	transition: .4s;
 	opacity: 0;
