@@ -8,10 +8,10 @@
         {{ $image := .Params.image | absURL }}
         {{ $permalink := .Permalink }}
         {{ $title := .Title }}
-        {{ range .Params.timeline_tag }}
+        {{ range .Pages.Params.timeline_tag }}
           
           <div class="media-wrapper">
-            <img class="img-fluid" style="width: 10em; height: 4em;" data-src="{{ $image_webp }}" src="{{ $image }}">
+            <img class="img-fluid tl_image" data-src="{{ $image_webp }}" src="{{ $image }}">
           </div>
 
           <h6 style="margin-bottom:0.5rem; max-width: 100%; text-align: center;">
