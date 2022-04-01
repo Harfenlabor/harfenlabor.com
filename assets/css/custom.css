@@ -873,7 +873,7 @@ p.sort {
 	transition: .4s;
 	opacity: 0;
 }
-.tl_article_block:hover > .tl_article_title {
+.tl_article_block:hover .tl_article_title {
   opacity: 1;
 }
 
