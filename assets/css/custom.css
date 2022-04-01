@@ -837,8 +837,12 @@ p.sort {
 .tl_frame_inside {
 	width: 1200px;
 	display: flex;
+	flex-direction: column;
 }
-
+.tl_row {
+	flex-direction: row;
+	display: flex;
+}
 .tl_image {
 	width: 10em;
 	height: 4em;
