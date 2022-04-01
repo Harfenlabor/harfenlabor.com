@@ -17,10 +17,17 @@
     {{"<!-- /section title -->" | safeHTML}}
     {{ $timelinePagination := .Site.GetPage "/research" }}
 
-    {{ range $timelinePagination.Pages.ByParam "timeline_tag" }}
-      {{ println .Title }}
-      {{ println .Params.timeline_tag }}
+
+    {{ range (.Paginate (.Site.GetPage "/research".Pages.ByParam "timeline_tag")).Pages }}
+      {{ println . }}
     {{ end }}
+
+
+
+    {{/* range $timelinePagination.Pages.ByParam "timeline_tag" */}}
+      {{/* println .Title */}}
+      {{/* println .Params.timeline_tag */}}
+    {{/* end */}}
 
     {{/* range $timelinePagination.Pages */}}
       {{/* println .Title */}}
