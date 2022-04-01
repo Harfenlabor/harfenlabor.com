@@ -18,8 +18,8 @@
     {{ $timelinePagination := .Site.GetPage "/research" }}
 
     {{ range $timelinePagination.Pages }}
-      {{ range .Params.timeline_tag }}
-        {{ println . }}
+      {{ range sort .Params.timeline_tag }}
+        {{ println .Title }}
       {{ end }}
     {{ end }}
 
