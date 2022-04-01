@@ -17,11 +17,8 @@
     {{"<!-- /section title -->" | safeHTML}}
     {{ $timelinePagination := .Site.GetPage "/research" }}
 
-    {{ range $timelinePagination.Pages }}
-      {{ $title := .Title }}
-      {{ range sort .Params.timeline_tag }}
-        {{ println . }}
-      {{ end }}
+    {{ range $timelinePagination.Pages.GroupByParam "timeline_tag" }}
+      {{ println . }}
     {{ end }}
 
     {{/* range $timelinePagination.Data.Pages */}}
