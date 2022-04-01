@@ -22,7 +22,7 @@
 
       {{ range $timelinePagination.Pages }}
         {{ range .Params.timeline_tag }}
-          {{ $data.Add . .Title }}
+          {{ $data.Add . "ciao" }}
         {{ end }}
       {{ end }}
 
