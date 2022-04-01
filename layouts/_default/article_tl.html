@@ -1,36 +1,30 @@
 <article>
-  <div class="post-block">
-
-    <div class="content">
+  <div>
       
-      {{ if and .Params.timeline_tag (ne (lower .Title) "iconography") (ne (lower .Title) "musicology") (ne (lower .Title) "organology") (ne (lower .Title) "performance practice") (ne (lower .Title) "sociology of art") }}
-        {{ $image_webp := .Params.Image_webp | absURL }}
-        {{ $image := .Params.image | absURL }}
-        {{ $permalink := .Permalink }}
-        {{ $title := .Title }}
-        {{ range .Params.timeline_tag }}
-          
-          <div class="media-wrapper">
-            <img class="img-fluid tl_image" data-src="{{ $image_webp }}" src="{{ $image }}">
-          </div>
+    {{ if and .Params.timeline_tag (ne (lower .Title) "iconography") (ne (lower .Title) "musicology") (ne (lower .Title) "organology") (ne (lower .Title) "performance practice") (ne (lower .Title) "sociology of art") }}
+      {{ $image_webp := .Params.Image_webp | absURL }}
+      {{ $image := .Params.image | absURL }}
+      {{ $permalink := .Permalink }}
+      {{ $title := .Title }}
+      {{ range .Params.timeline_tag }}
+        
+        <div class="media-wrapper">
+          <img class="img-fluid tl_image" data-src="{{ $image_webp }}" src="{{ $image }}">
+        </div>
 
-          <h6 style="margin-bottom:0.5rem; max-width: 100%; text-align: center;">
-            <a class="tl_title" href="{{ $permalink }}">
-            {{ if in $title "&&" }}
-              {{ $titleLines := split $title "&&" }}
-              {{ range $titleLines }}
-                {{ . }}<br>
-              {{ end }}
-            {{ else }}{{ $title }}{{ end }}</a>
+        <h6 style="margin-bottom:0.5rem; max-width: 100%; text-align: center;">
+          <a class="tl_title" href="{{ $permalink }}">
+          {{ if in $title "&&" }}
+            {{ $titleLines := split $title "&&" }}
+            {{ range $titleLines }}
+              {{ . }}<br>
+            {{ end }}
+          {{ else }}{{ $title }}{{ end }}</a>
 
-            <p class="tl_years">{{ . }}</p>
-          </h6>
-        {{ end }}
+          <p class="tl_years">{{ . }}</p>
+        </h6>
       {{ end }}
-      
-    </div>
+    {{ end }}
+
   </div>
 </article>
-
-<script>
-</script>
