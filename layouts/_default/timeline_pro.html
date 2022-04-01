@@ -19,7 +19,7 @@
 
     {{ range $timelinePagination.Pages }}
       {{ println .Title }}
-      {{ range .Params.timeline_tag }}
+      {{ range sort "Params.timeline_tag" }}
         {{ println . }}
       {{ end }}
     {{ end }}
