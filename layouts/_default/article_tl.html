@@ -7,9 +7,16 @@
       {{ $permalink := .Permalink }}
       {{ $title := .Title }}
       {{ range .Params.timeline_tag }}
+
+        <div class="tl_article_block">
         
-        <div class="media-wrapper">
-          <img class="img-fluid tl_image" data-src="{{ $image_webp }}" src="{{ $image }}">
+          <div class="media-wrapper">
+            <img class="img-fluid tl_image" data-src="{{ $image_webp }}" src="{{ $image }}" style="width: {{mul 1.5 (countrunes .) }}em">
+          </div>
+
+          <p>{{ $title }}</p>
+          <p>{{ . }}</p>
+
         </div>
 
         <!--h6 style="margin-bottom:0.5rem; max-width: 100%; text-align: center;">
