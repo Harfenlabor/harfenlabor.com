@@ -830,6 +830,13 @@ p.sort {
 .tl_frame {
 	background-color: rgb(255,200,200,.5);
 	height: calc(100vh - 11.8em);
+	display: flex;
+	overflow-x: auto;
+	overflow-y: hidden;
+}
+.tl_image {
+	width: 10em;
+	height: 4em;
 }
 
 
