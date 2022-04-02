@@ -25,7 +25,7 @@
           {{ $marginLeft = div (sub (int (strings.TrimRight "s" .)) 1300) 25.0 }}
         {{ end }}
       {{ else if (in . "s")}} <!--1900s-->
-        {{ $marginLeft = int (strings.TrimRight "s" .) }}
+        {{ $marginLeft = sub (int (strings.TrimRight "s" .)) 1300 }}
       {{ else }}
         {{ $marginLeft = 0 }}
       {{ end }}
