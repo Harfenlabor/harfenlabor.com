@@ -839,7 +839,7 @@ p.sort {
 	height: 4em;
 }
 .tl_frame {
-	background-color: rgb(255,200,200,.5); /*var(--greyColor);*/
+	background-color: var(--greyColor); /*rgb(255,200,200,.5);*/
 	height: calc(100vh - 11.8em);
 	overflow: auto;
 	margin-right: -50px;
@@ -940,7 +940,10 @@ p.sort {
 	transform: translate(-50%, -50%);
 	opacity: 0;
 }
-.tl_article_block:hover .tl_article_title, .tl_article_block:hover .tl_article_year {
+.tl_blockToScale_line {
+	opacity: 0;
+}
+.tl_article_block:hover .tl_article_title, .tl_article_block:hover .tl_article_year, .tl_article_block:hover .tl_blockToScale_line {
   opacity: 1;
 }
 .tl_article_block:hover .tl_image {
@@ -955,7 +958,7 @@ p.sort {
 	position: sticky;
 	background-color: var(--greyColor);
 
-	background-image: 
+	/*background-image: 
     linear-gradient(90deg, 
       rgba(73, 73, 73, 0.5) 0, 
       rgba(73, 73, 73, 0.5) 2%, 
@@ -975,8 +978,8 @@ p.sort {
       var(--greyColor) 70%, 
       transparent 70%
     );
-  background-size: 4.7rem 1rem; /*was 50px 20px
   background-repeat: repeat-x;
+  background-size: 4.7rem 1rem;*/ /*was 50px 20px*/
   /*min-height: 20px;*/
   
   /* only needed for labels */
