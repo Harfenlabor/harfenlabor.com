@@ -12,10 +12,9 @@
       {{ $startMargin := 2.6 }}
       {{ $marginLeft := 0 }}
 
-      {{ if lt . 1300 }}
-        {{ $startMargin := 0 }}
-        {{ $marginLeft := 0 }}
-      {{ else if eq (countrunes .) 4}}
+      {{/* if lt . 1300 */}}{{/* $marginLeft := 0 */}}
+
+      {{ if eq (countrunes .) 4}}
         {{ if not (in . "s") }} <!--1900-->
           {{ $marginLeft = div (sub (int .) 1300) 25.0 }}
         {{ else }} <!--900s-->
