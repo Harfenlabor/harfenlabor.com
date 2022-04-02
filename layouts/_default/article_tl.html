@@ -8,7 +8,26 @@
     {{ $title := .Title }}
     {{ range .Params.timeline_tag }}
 
-      <div class="tl_article_block" style="width: {{ countrunes . }}em; margin-left: calc(2.6rem + calc(4.7rem * {{if eq (countrunes .) 4}}{{ if not (in . "s") }}{{ div (sub (int .) 1300) 25.0 }}{{ end }}{{ else }}0{{ end }}));">
+      <!--decide position based on year tag-->
+      {{if eq (countrunes .) 4}}
+        {{ if not (in . "s") }} <!--1900-->
+          {{ $marginLeft := div (sub (int .) 1300) 25.0 }}
+        {{ else }} <!--900s-->
+          {{ $marginLeft := div (sub (int {{ replace . "s" "" }}) 1300) 25.0 }}
+        {{ end }}
+      {{ else if (in . "century")}} <!--19th century-->
+        {{ $marginLeft := div (sub (int (printf {{ substr . 0 2 }} "00")) 1400) 25.0 }}
+      {{ else if or (in . "-") (in . "–") (in . "—")}}
+        {{ if not (in . "s") }} <!--1925–1960-->
+          {{ $marginLeft := div (sub (int {{ substr . 0 4 }}) 1300) 25.0 }}
+        {{ else }} <!--1800s–1900s-->
+          {{ $marginLeft := div (sub (int {{ strings.TrimRight "s" . }}) 1300) 25.0 }}
+        {{ end }}
+      {{ else }}
+        {{ $marginLeft := 0 }}
+      {{ end }}
+
+      <div class="tl_article_block" style="width: {{ countrunes . }}em; margin-left: calc(2.6rem + calc(4.7rem * $marginLeft));">
       
         <div class="media-wrapper tl_mediawrapper">
           <img class="img-fluid tl_image" data-src="{{ $image_webp }}" src="{{ $image }}" style="width: {{ countrunes . }}em">
@@ -20,7 +39,11 @@
           {{ range $titleLines }}
             {{ . }}<br>
           {{ end }}
-        {{ else }}{{ $title }}{{ end }}</a></p>
+        {{ else }}{{ $title | safeHTML | truncate 20 }} }}{{ end }}</a></p>
+
+        <svg class="tl_blockToScale_line" height="120%" width="{{ countrunes . }}em">
+          <line x1="50%" y1="0" x2="50%" y2="100%" style="stroke: var(--purpleColor);stroke-width: 3px;"></line>
+        </svg>
 
       </div>
 
