@@ -8,7 +8,7 @@
     {{ $title := .Title }}
     {{ range .Params.timeline_tag }}
 
-      <div class="tl_article_block" style="width: {{ countrunes . }}em; margin-left: calc(2.2rem + calc(4.7rem * {{if and (eq (countrunes .) 4)(not (in . "s"))}}{{ div (sub (int .) 1300) 25 }}{{ else }}0{{ end }}));">
+      <div class="tl_article_block" style="width: {{ countrunes . }}em; margin-left: calc(2.2rem + calc(4.7rem * {{if eq (countrunes .) 4}}{{ if not (in . "s") }}{{ div (sub (int .) 1300) 25 }}{{ end }}{{ else }}0{{ end }}));">
       
         <div class="media-wrapper tl_mediawrapper">
           <img class="img-fluid tl_image" data-src="{{ $image_webp }}" src="{{ $image }}" style="width: {{ countrunes . }}em">
