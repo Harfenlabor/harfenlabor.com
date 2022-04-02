@@ -24,6 +24,8 @@
         {{ else }} <!--1800s–1900s-->
           {{ $marginLeft = div (sub (int (strings.TrimRight "s" .)) 1300) 25.0 }}
         {{ end }}
+      {{ else if (in . "s")}} <!--1900s-->
+        {{ $marginLeft = 1 }}
       {{ else }}
         {{ $marginLeft = 0 }}
       {{ end }}
@@ -36,11 +38,7 @@
         </div>
 
         <p class="tl_article_title"><a href="{{ $permalink }}">{{ if in $title "&&" }}
-          {{ $titleLines := split $title "&&" }}
-          {{ range $titleLines }}
-            {{ . }}<br>
-          {{ end }}
-        {{ else }}{{ $title | safeHTML | truncate 20 }} }}{{ end }}</a></p>
+          {{ replace $title "&&" " " | safeHTML | truncate (add 20 (mul (sub {{ countrunes . }} 4) 20) ) }}{{ else }}{{ $title | safeHTML | truncate (add 20 (mul (sub {{ countrunes . }} 4) 20) }}{{ end }}</a></p>
 
         <svg class="tl_blockToScale_line" height="120%" width="{{ countrunes . }}em">
           <line x1="50%" y1="0" x2="50%" y2="100%" style="stroke: var(--purpleColor);stroke-width: 3px;"></line>
