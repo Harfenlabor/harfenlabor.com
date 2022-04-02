@@ -830,12 +830,12 @@ p.sort {
 .tl_upperpart:after {
 	content: "";
 	position: absolute;
-	z-index: 1;
+	z-index: 2;
 	top: 6.9em;
 	left: 0;
 	pointer-events: none;
 	background-image: linear-gradient(to top,rgba(241,242,242,0),rgba(241,242,242,1) 90%);
-	width: 100%;
+	width: 100vw;
 	height: 4em;
 }
 .tl_frame {
@@ -859,7 +859,7 @@ p.sort {
 .tl_frame:before {
 	content: "";
 	position: absolute;
-	z-index: 1;
+	z-index: 2;
 	top: 0;
 	left: 0;
 	pointer-events: none;
@@ -870,7 +870,7 @@ p.sort {
 .tl_frame:after {
 	content: "";
 	position: absolute;
-	z-index: 1;
+	z-index: 2;
 	top: 0;
 	right: 0;
 	pointer-events: none;
@@ -882,12 +882,15 @@ p.sort {
 	width: 2000px;
 	display: flex;
 	flex-direction: column;
+	padding-right: 50px;
 }
 .tl_row {
 	flex-direction: row;
 	display: flex;
 	margin-top: .5em;
 	margin-bottom: .5em;
+	position: relative;
+	height: 4em;
 }
 .tl_mediawrapper {
 	padding: .5em;
@@ -907,12 +910,15 @@ p.sort {
 	transition: .4s;
 	background-color: rgb(255,255,255,0);
 	height: 5em;
+	cursor: default;
+	position: absolute;
 }
 .tl_article_block:hover {
 	background-color: rgb(255,255,255,1);
 	height: 8em;
 	overflow: hidden;
 	transform: scale(1.1);
+	z-index: 1;
 }
 .tl_article_title {
 	color: var(--purpleColor);
@@ -938,13 +944,52 @@ p.sort {
   opacity: .2;
 }
 .tl_scale {
-	z-index: 2;
+	z-index: 3;
 	color: black;
 	border-top: 3px solid var(--purpleColor);
 	width: auto;
 	bottom: 0;
 	position: sticky;
 	background-color: var(--greyColor);
+
+	background-image: 
+    linear-gradient(90deg, 
+      rgba(73, 73, 73, 0.5) 0, 
+      rgba(73, 73, 73, 0.5) 2%, 
+      transparent 2%
+    ), 
+    linear-gradient(180deg, 
+      #ffffff 50%, 
+      transparent 50%
+    ), 
+    linear-gradient(90deg, 
+      transparent 50%, 
+      rgba(73, 73, 73, 0.5) 50%, 
+      rgba(73, 73, 73, 0.5) 52%, 
+      transparent 52%
+    ), 
+    linear-gradient(180deg, 
+      #ffffff 70%, 
+      transparent 70%
+    );
+  background-size: 50px 20px;
+  background-repeat: repeat-x;
+  min-height: 20px;
+  
+  /* only needed for labels */
+  white-space:nowrap;
+  font-size:0;
+  margin:0;
+  padding:0;
+}
+
+label.tl_label {
+  font-size: 1em;
+  padding-top: 20px;
+  display: inline-block;
+  width: 100px;
+  text-indent: 0px;
+  transform: translate(-20%,0);
 }
 
 
