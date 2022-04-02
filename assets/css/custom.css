@@ -892,6 +892,9 @@ p.sort {
 	position: relative;
 	height: 4em;
 }
+.tl_frame_inside > article:last-of-type > .tl_row {
+	margin-bottom: 6em;
+}
 .tl_mediawrapper {
 	padding: .5em;
 	position: relative;
@@ -944,7 +947,7 @@ p.sort {
   opacity: .2;
 }
 .tl_scale {
-	z-index: 3;
+	z-index: 2;
 	color: black;
 	border-top: 3px solid var(--purpleColor);
 	width: auto;
@@ -959,7 +962,7 @@ p.sort {
       transparent 2%
     ), 
     linear-gradient(180deg, 
-      #ffffff 50%, 
+      var(--greyColor) 50%, 
       transparent 50%
     ), 
     linear-gradient(90deg, 
@@ -969,12 +972,12 @@ p.sort {
       transparent 52%
     ), 
     linear-gradient(180deg, 
-      #ffffff 70%, 
+      var(--greyColor) 70%, 
       transparent 70%
     );
   background-size: 50px 20px;
   background-repeat: repeat-x;
-  min-height: 20px;
+  /*min-height: 20px;*/
   
   /* only needed for labels */
   white-space:nowrap;
@@ -984,12 +987,15 @@ p.sort {
 }
 
 label.tl_label {
-  font-size: 1em;
-  padding-top: 20px;
+  font-size: 1.4rem;
+  /*padding-top: 20px;
+  text-indent: 0px;
+  transform: translate(-20%,0);*/
   display: inline-block;
   width: 100px;
-  text-indent: 0px;
-  transform: translate(-20%,0);
+  border: 0;
+	border-radius: 0;
+	background-color: transparent;
 }
 
 
