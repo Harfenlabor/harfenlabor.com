@@ -1,12 +1,11 @@
-<article>
-  <div class="tl_row">
-      
-    {{ if and .Params.timeline_tag (ne (lower .Title) "iconography") (ne (lower .Title) "musicology") (ne (lower .Title) "organology") (ne (lower .Title) "performance practice") (ne (lower .Title) "sociology of art") }}
-      {{ $image_webp := .Params.Image_webp | absURL }}
-      {{ $image := .Params.image | absURL }}
-      {{ $permalink := .Permalink }}
-      {{ $title := .Title }}
-      {{ range .Params.timeline_tag }}
+{{ if and .Params.timeline_tag (ne (lower .Title) "iconography") (ne (lower .Title) "musicology") (ne (lower .Title) "organology") (ne (lower .Title) "performance practice") (ne (lower .Title) "sociology of art") }}
+  {{ $image_webp := .Params.Image_webp | absURL }}
+  {{ $image := .Params.image | absURL }}
+  {{ $permalink := .Permalink }}
+  {{ $title := .Title }}
+  {{ range .Params.timeline_tag }}
+    <article>
+      <div class="tl_row">
 
         <div class="tl_article_block" style="width: {{ countrunes . }}em">
         
@@ -24,8 +23,7 @@
 
         </div>
 
-      {{ end }}
-    {{ end }}
-
-  </div>
-</article>
+      </div>
+    </article>
+  {{ end }}
+{{ end }}
