@@ -38,7 +38,7 @@
         </div>
 
         <p class="tl_article_title"><a href="{{ $permalink }}">{{ if in $title "&&" }}
-          {{ replace $title "&&" " " | safeHTML | truncate (add 20 (mul (sub {{ countrunes . }} 4) 20) ) }}{{ else }}{{ $title | safeHTML | truncate (add 20 (mul (sub {{ countrunes . }} 4) 20) }}{{ end }}</a></p>
+          {{ replace $title "&&" " " | safeHTML | truncate (add 20 (mul (sub (countrunes .) 4) 10)) }}{{ else }}{{ $title | safeHTML | truncate (add 20 (mul (sub (countrunes .) 4) 10)) }}{{ end }}</a></p>
 
         <svg class="tl_blockToScale_line" height="120%" width="{{ countrunes . }}em">
           <line x1="50%" y1="0" x2="50%" y2="100%" style="stroke: var(--purpleColor);stroke-width: 3px;"></line>
