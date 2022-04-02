@@ -845,10 +845,14 @@ p.sort {
 }
 .tl_mediawrapper {
 	padding: .5em;
+	position: relative;
+  text-align: center;
 }
 .tl_image {
 	width: 10em;
 	height: 4em;
+	opacity: 1;
+	transition: opacity .4s;
 }
 .tl_article_block {
 	margin-left: .5em;
@@ -867,13 +871,25 @@ p.sort {
 .tl_article_title {
 	color: var(--purpleColor);
 	margin: 0.5em;
+	margin-top: 0;
 	font-size: 1rem;
-	line-height: 110%;
-	transition: .4s;
+	line-height: 100%;
 	opacity: 0;
 }
-.tl_article_block:hover .tl_article_title {
+.tl_article_year {
+	color: var(--purpleColor);
+	position: absolute;
+	font-size: 1.4em;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	opacity: 0;
+}
+.tl_article_block:hover .tl_article_title, .tl_article_block:hover .tl_article_year {
   opacity: 1;
+}
+.tl_article_block:hover .tl_image {
+  opacity: .2;
 }
 
 /*#############*/
