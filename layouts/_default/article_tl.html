@@ -9,8 +9,13 @@
     {{ range .Params.timeline_tag }}
 
       <!--decide position based on year tag-->
+      {{ $startMargin := 2.6 }}
       {{ $marginLeft := 0 }}
-      {{if eq (countrunes .) 4}}
+
+      {{ if lt . 1300 }}
+        {{ $startMargin := 0 }}
+        {{ $marginLeft := 0 }}
+      {{ else if eq (countrunes .) 4}}
         {{ if not (in . "s") }} <!--1900-->
           {{ $marginLeft = div (sub (int .) 1300) 25.0 }}
         {{ else }} <!--900s-->
@@ -25,12 +30,12 @@
           {{ $marginLeft = div (sub (int (strings.TrimRight "s" .)) 1300) 25.0 }}
         {{ end }}
       {{ else if (in . "s")}} <!--1900s-->
-        {{ $marginLeft = sub (int (strings.TrimRight "s" .)) 1300 }}
+        {{ $marginLeft = div (sub (int (strings.TrimRight "s" .)) 1300) 25.0 }}
       {{ else }}
         {{ $marginLeft = 0 }}
       {{ end }}
 
-      <div class="tl_article_block" style="width: {{ countrunes . }}em; margin-left: calc(2.6rem + calc(4.7rem * {{ $marginLeft }}));">
+      <div class="tl_article_block" style="width: {{ countrunes . }}em; margin-left: calc({{ $startMargin }}rem + calc(4.7rem * {{ $marginLeft }}));">
       
         <div class="media-wrapper tl_mediawrapper">
           <img class="img-fluid tl_image" data-src="{{ $image_webp }}" src="{{ $image }}" style="width: {{ countrunes . }}em">
