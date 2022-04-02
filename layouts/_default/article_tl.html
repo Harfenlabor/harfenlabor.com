@@ -12,26 +12,18 @@
         
           <div class="media-wrapper tl_mediawrapper">
             <img class="img-fluid tl_image" data-src="{{ $image_webp }}" src="{{ $image }}" style="width: {{ countrunes . }}em">
-            <p class="tl_article_year">{{ . }}</p>
+            <p class="tl_article_year" style="width: {{ countrunes . }}em">{{ . }}</p>
           </div>
 
-          <p class="tl_article_title">{{ $title }}</p>
-
-        </div>
-
-        <!--h6 style="margin-bottom:0.5rem; max-width: 100%; text-align: center;">
-        {{/* comment */}}
-          <a class="tl_title" href="{{ $permalink }}">
-          {{ if in $title "&&" }}
+          <p class="tl_article_title"><a href="{{ $permalink }}">{{ if in $title "&&" }}
             {{ $titleLines := split $title "&&" }}
             {{ range $titleLines }}
               {{ . }}<br>
             {{ end }}
-          {{ else }}{{ $title }}{{ end }}</a>
+          {{ else }}{{ $title }}{{ end }}</a></p>
 
-          <p class="tl_years">{{ . }}</p>
-        {{/* endcomment */}}
-        </h6-->
+        </div>
+
       {{ end }}
     {{ end }}
 
