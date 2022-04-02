@@ -16,7 +16,7 @@
           {{ $marginLeft := div (sub (int (replace . "s" "")) 1300) 25.0 }}
         {{ end }}
       {{ else if (in . "century")}} <!--19th century-->
-        {{ $marginLeft := div (sub (int (mul (substr . 0 2) 100)) 1400) 25.0 }}
+        {{ $marginLeft := div (sub (mul (int (substr . 0 2)) 100) 1400) 25.0 }}
       {{ else if or (in . "-") (in . "–") (in . "—")}}
         {{ if not (in . "s") }} <!--1925–1960-->
           {{ $marginLeft := div (sub (int (substr . 0 4)) 1300) 25.0 }}
