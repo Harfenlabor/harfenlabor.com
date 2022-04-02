@@ -879,7 +879,7 @@ p.sort {
 	height: 100%;
 }
 .tl_frame_inside {
-	width: 2000px;
+	width: 150rem;
 	display: flex;
 	flex-direction: column;
 	padding-right: 50px;
