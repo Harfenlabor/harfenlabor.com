@@ -887,10 +887,11 @@ p.sort {
 .tl_row {
 	flex-direction: row;
 	display: flex;
-	margin-top: .5em;
-	margin-bottom: .5em;
+	/*margin-top: .5em;
+	margin-bottom: .5em;*/
 	position: relative;
-	height: 4em;
+	height: 5em; /*was 4*/
+	border-bottom: 2px dotted var(--purpleColor);
 }
 .tl_frame_inside > article:last-of-type > .tl_row {
 	margin-bottom: 6em;
@@ -912,7 +913,7 @@ p.sort {
 	border-radius: .8em;
 	transition: .4s;
 	background-color: rgb(255,255,255,0);
-	height: 5em;
+	height: 4em; /*was 5*/
 	cursor: default;
 	position: absolute;
 }
