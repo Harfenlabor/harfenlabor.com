@@ -3,27 +3,27 @@
   {{ $image := .Params.image | absURL }}
   {{ $permalink := .Permalink }}
   {{ $title := .Title }}
-  {{ range .Params.timeline_tag }}
-    <article>
-      <div class="tl_row">
+  <article>
+    {{ range .Params.timeline_tag }}
+    <div class="tl_row">
 
-        <div class="tl_article_block" style="width: {{ countrunes . }}em">
-        
-          <div class="media-wrapper tl_mediawrapper">
-            <img class="img-fluid tl_image" data-src="{{ $image_webp }}" src="{{ $image }}" style="width: {{ countrunes . }}em">
-            <p class="tl_article_year" style="width: {{ countrunes . }}em">{{ . }}</p>
-          </div>
-
-          <p class="tl_article_title"><a href="{{ $permalink }}">{{ if in $title "&&" }}
-            {{ $titleLines := split $title "&&" }}
-            {{ range $titleLines }}
-              {{ . }}<br>
-            {{ end }}
-          {{ else }}{{ $title }}{{ end }}</a></p>
-
+      <div class="tl_article_block" style="width: {{ countrunes . }}em">
+      
+        <div class="media-wrapper tl_mediawrapper">
+          <img class="img-fluid tl_image" data-src="{{ $image_webp }}" src="{{ $image }}" style="width: {{ countrunes . }}em">
+          <p class="tl_article_year" style="width: {{ countrunes . }}em">{{ . }}</p>
         </div>
 
+        <p class="tl_article_title"><a href="{{ $permalink }}">{{ if in $title "&&" }}
+          {{ $titleLines := split $title "&&" }}
+          {{ range $titleLines }}
+            {{ . }}<br>
+          {{ end }}
+        {{ else }}{{ $title }}{{ end }}</a></p>
+
       </div>
-    </article>
-  {{ end }}
+
+    </div>
+    {{ end }}
+  </article>
 {{ end }}
