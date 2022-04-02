@@ -1,29 +1,31 @@
-{{ if and .Params.timeline_tag (ne (lower .Title) "iconography") (ne (lower .Title) "musicology") (ne (lower .Title) "organology") (ne (lower .Title) "performance practice") (ne (lower .Title) "sociology of art") }}
-  {{ $image_webp := .Params.Image_webp | absURL }}
-  {{ $image := .Params.image | absURL }}
-  {{ $permalink := .Permalink }}
-  {{ $title := .Title }}
-  <article>
-    {{ range .Params.timeline_tag }}
-    <div class="tl_row">
-
-      <div class="tl_article_block" style="width: {{ countrunes . }}em">
+<article>
+  <div class="tl_row">
       
-        <div class="media-wrapper tl_mediawrapper">
-          <img class="img-fluid tl_image" data-src="{{ $image_webp }}" src="{{ $image }}" style="width: {{ countrunes . }}em">
-          <p class="tl_article_year" style="width: {{ countrunes . }}em">{{ . }}</p>
+    {{ if and .Params.timeline_tag (ne (lower .Title) "iconography") (ne (lower .Title) "musicology") (ne (lower .Title) "organology") (ne (lower .Title) "performance practice") (ne (lower .Title) "sociology of art") }}
+      {{ $image_webp := .Params.Image_webp | absURL }}
+      {{ $image := .Params.image | absURL }}
+      {{ $permalink := .Permalink }}
+      {{ $title := .Title }}
+      {{ range .Params.timeline_tag }}
+
+        <div class="tl_article_block" style="width: {{ countrunes . }}em">
+        
+          <div class="media-wrapper tl_mediawrapper">
+            <img class="img-fluid tl_image" data-src="{{ $image_webp }}" src="{{ $image }}" style="width: {{ countrunes . }}em">
+            <p class="tl_article_year" style="width: {{ countrunes . }}em">{{ . }}</p>
+          </div>
+
+          <p class="tl_article_title"><a href="{{ $permalink }}">{{ if in $title "&&" }}
+            {{ $titleLines := split $title "&&" }}
+            {{ range $titleLines }}
+              {{ . }}<br>
+            {{ end }}
+          {{ else }}{{ $title }}{{ end }}</a></p>
+
         </div>
 
-        <p class="tl_article_title"><a href="{{ $permalink }}">{{ if in $title "&&" }}
-          {{ $titleLines := split $title "&&" }}
-          {{ range $titleLines }}
-            {{ . }}<br>
-          {{ end }}
-        {{ else }}{{ $title }}{{ end }}</a></p>
-
-      </div>
-
-    </div>
+      {{ end }}
     {{ end }}
-  </article>
-{{ end }}
+
+  </div>
+</article>
