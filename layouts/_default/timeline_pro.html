@@ -90,13 +90,12 @@
 </section>
 <script>
   var line = document.getElementById('blockToScaleLine');
+  var tlframe = document.getElementsByClassName('tl_frame')[0];
+  var blockWidth = x.getBoundingClientRect().width;
+  var blockHeight = (tlframe.getBoundingClientRect().height - x.getBoundingClientRect().top);
+  var blockMarginLeft = (x.getBoundingClientRect().left - 50);
 
   function lineAppear(x) {
-    var tlframe = document.getElementsByClassName('tl_frame')[0];
-    var blockWidth = x.getBoundingClientRect().width;
-    var blockHeight = (tlframe.getBoundingClientRect().height - x.getBoundingClientRect().top);
-    var blockMarginLeft = (x.getBoundingClientRect().left - 50);
-
     line.classList.remove('notvisible');
     line.classList.add('visible');
     line.style.width = blockWidth;
@@ -110,10 +109,10 @@
   }
 
   $(window).scroll(function() {
-    if (line.classList.contains('visible')) {
-      line.classList.remove('visible');
-      line.classList.add('notvisible');
-    }
+    console.log("ok");
+    line.style.width = blockWidth;
+    line.style.height = blockHeight;
+    line.style.marginLeft = blockMarginLeft;
   });
 </script>
 {{ end }}
