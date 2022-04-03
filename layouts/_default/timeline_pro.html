@@ -145,9 +145,9 @@
     });
 
     $(document).on('click', 'input[name="tl_zoom"]', function() {
-      if ($(this).val() == '1'){
+      if ($(this).val() == 'zoom1'){
         document.documentElement.style.setProperty('--tlWidth', '75rem');
-      } else if ($(this).val() == '2') {
+      } else if ($(this).val() == 'zoom2') {
         document.documentElement.style.setProperty('--tlWidth', '150rem');
       } else {
         document.documentElement.style.setProperty('--tlWidth', '250rem');
