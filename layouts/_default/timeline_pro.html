@@ -100,9 +100,9 @@
   var blockMarginLeft = 0;
 
   function lineAppear(x) {
-    var blockWidth = x.getBoundingClientRect().width;
-    var blockHeight = (tlframe.getBoundingClientRect().height - x.getBoundingClientRect().top);
-    var blockMarginLeft = (x.getBoundingClientRect().left - 50);
+    blockWidth = x.getBoundingClientRect().width;
+    blockHeight = (tlframe.getBoundingClientRect().height - x.getBoundingClientRect().top);
+    blockMarginLeft = (x.getBoundingClientRect().left - 50);
 
     line.classList.remove('notvisible');
     line.classList.add('visible');
