@@ -6,7 +6,7 @@
     <div class="text-center wow fadeInDown">
       <h1>{{ .Title }}</h1>
       <div class="border-meghna"></div>
-      <p class="sort">Sort by:
+      <p class="sort">Filter:
         <input type="radio" name="timeline_sortby" value="one" id="one" checked><label for="one">All</label>
         <input type="radio" name="timeline_sortby" value="two" id="two"><label for="two">Project</label>
         <input type="radio" name="timeline_sortby" value="three" id="three"><label for="three">Research Field</label>
@@ -84,5 +84,12 @@
   </div-->
 </section>
 <script>
+  function lineAppear(x) {
+    console.log("appear", x);
+  }
+
+  function lineDisappear(x) {
+    console.log("disappear", x.style);
+  }
 </script>
 {{ end }}
