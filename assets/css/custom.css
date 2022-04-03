@@ -989,7 +989,7 @@ p.sort {
 .tl_blockToScale_line {
 	position: absolute;
 	bottom: 0;
-	margin-bottom: 6em;
+	margin-bottom: calc(6em - 3px);
 	margin-left: 0em;
 }
 
