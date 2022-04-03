@@ -85,11 +85,11 @@
 </section>
 <script>
   function lineAppear(x) {
-    console.log("appear", x);
+    console.log("appear", x.getBoundingClientRect());
   }
 
   function lineDisappear(x) {
-    console.log("disappear", x.style);
+    console.log("disappear", x.style.marginLeft, x.style.width);
   }
 </script>
 {{ end }}
