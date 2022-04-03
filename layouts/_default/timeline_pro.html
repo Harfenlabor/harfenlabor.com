@@ -94,6 +94,7 @@
 <script>
   var line = document.getElementById('blockToScaleLine');
   var tlframe = document.getElementsByClassName('tl_frame')[0];
+  var articles = document.getElementsByTagName('article');
 
   function lineAppear(x) {
     var blockWidth = x.getBoundingClientRect().width;
@@ -120,9 +121,15 @@
 
     $(document).on('click', 'input[name="timeline_sortby"]', function() {
       if ($(this).val() == 'barb'){
-        alert('ciao');
+        for (let i = 0; i < articles.length; i++) {
+          if (!articles[i].classList.contains('tl_barb_article')) {
+            articles[i].style.display = 'none';
+          }
+        }
       } else {
-        alert('nope');
+        for (let i = 0; i < articles.length; i++) {
+          articles[i].style.display = 'display';
+        }
       }
     });
   });
