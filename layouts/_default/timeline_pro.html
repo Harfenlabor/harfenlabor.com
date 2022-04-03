@@ -89,28 +89,31 @@
   </div-->
 </section>
 <script>
+  var line = document.getElementById('blockToScaleLine');
+
   function lineAppear(x) {
     var tlframe = document.getElementsByClassName('tl_frame')[0];
     var blockWidth = x.getBoundingClientRect().width;
     var blockHeight = (tlframe.getBoundingClientRect().height - x.getBoundingClientRect().top);
     var blockMarginLeft = (x.getBoundingClientRect().left - 50);
 
-    console.log(tlframe.getBoundingClientRect());
-    console.log(x.getBoundingClientRect().height);
-    console.log(tlframe.style.height - x.getBoundingClientRect().height);
-    console.log(tlframe.style.height - x.getBoundingClientRect().y);
-    console.log(tlframe.style.height - x.getBoundingClientRect().bottom);
-
-    document.getElementById('blockToScaleLine').classList.remove('notvisible');
-    document.getElementById('blockToScaleLine').classList.add('visible');
-    document.getElementById('blockToScaleLine').style.width = blockWidth;
-    document.getElementById('blockToScaleLine').style.height = blockHeight;
-    document.getElementById('blockToScaleLine').style.marginLeft = blockMarginLeft;
+    line.classList.remove('notvisible');
+    line.classList.add('visible');
+    line.style.width = blockWidth;
+    line.style.height = blockHeight;
+    line.style.marginLeft = blockMarginLeft;
   }
 
   function lineDisappear(x) {
-    document.getElementById('blockToScaleLine').classList.remove('visible');
-    document.getElementById('blockToScaleLine').classList.add('notvisible');
+    line.classList.remove('visible');
+    line.classList.add('notvisible');
+  }
+
+  $(window).scroll(function() {
+    if (line.classList.contains('visible')) {
+      line.classList.remove('visible');
+      line.classList.add('notvisible');
+    }
   }
 </script>
 {{ end }}
