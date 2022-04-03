@@ -778,6 +778,9 @@ p > img {
 /*#############*/
 /*TIMELINE PRO */
 /*#############*/
+:root {
+  --tlWidth: 150rem;
+}
 input[type='radio'][name='timeline_sortby'] { display:none; }
 label {
   display: inline-block;
@@ -879,7 +882,7 @@ p.sort {
 	height: 100%;
 }
 .tl_frame_inside {
-	width: 150rem;
+	width: var(--tlWidth);
 	display: flex;
 	flex-direction: column;
 	padding-right: 50px;
@@ -951,7 +954,7 @@ p.sort {
 	z-index: 2;
 	color: black;
 	border-top: 3px solid var(--purpleColor);
-	width: 150rem; /*was 2000px*/
+	width: var(--tlWidth); /*was 2000px*/
 	bottom: 0;
 	position: sticky;
 	background-color: var(--greyColor);
@@ -977,7 +980,7 @@ p.sort {
       transparent 70%
     );
   background-repeat: repeat-x;
-  background-size: 4.7rem 1rem;*/ /*was 50px 20px*/
+  background-size: 4.7rem 1rem for 150rem;*/ /*was 50px 20px*/
   /*min-height: 20px;*/
   
   /* only needed for labels */
@@ -1000,7 +1003,7 @@ label.tl_label {
   text-indent: 0px;
   transform: translate(-20%,0);*/
   display: inline-block;
-  width: 9.4rem; /*was 100px*/
+  width: calc(var(--tlWidth) / 20); /*was 100px*/
   border: 0;
 	border-radius: 0;
 	background-color: transparent;
