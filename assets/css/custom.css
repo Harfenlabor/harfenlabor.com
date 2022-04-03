@@ -991,6 +991,7 @@ p.sort {
 	bottom: 0;
 	margin-bottom: calc(6em - 3px);
 	margin-left: 0em;
+	pointer-events: none;
 }
 
 label.tl_label {
