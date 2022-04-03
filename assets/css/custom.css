@@ -913,7 +913,7 @@ p.sort {
 	border-radius: .8em;
 	transition: .4s;
 	background-color: rgb(255,255,255,0);
-	height: 4em; /*was 5*/
+	height: 5em;
 	cursor: default;
 	position: absolute;
 }
@@ -941,10 +941,7 @@ p.sort {
 	transform: translate(-50%, -50%);
 	opacity: 0;
 }
-.tl_blockToScale_line {
-	opacity: 0;
-}
-.tl_article_block:hover .tl_article_title, .tl_article_block:hover .tl_article_year, .tl_article_block:hover .tl_blockToScale_line {
+.tl_article_block:hover .tl_article_title, .tl_article_block:hover .tl_article_year {
   opacity: 1;
 }
 .tl_article_block:hover .tl_image {
@@ -988,6 +985,8 @@ p.sort {
   font-size:0;
   margin:0;
   padding:0;
+}
+.tl_blockToScale_line {
 }
 
 label.tl_label {
