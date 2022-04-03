@@ -9,7 +9,6 @@
     {{ range .Params.timeline_tag }}
 
       <!--decide position based on year tag-->
-      {{ $startMargin := var(--startMargin) }}
       {{ $marginLeft := 0 }}
 
       {{/* if lt . 1100 */}}{{/* $marginLeft := 0 */}}
@@ -34,7 +33,7 @@
         {{ $marginLeft = 0 }}
       {{ end }}
 
-      <div class="tl_article_block" onmouseenter="lineAppear(this)" onmouseleave="lineDisappear(this)" style="width: {{ countrunes . }}em; margin-left: calc({{ $startMargin }}rem + calc(calc(var(--tlWidth) / 40) * {{ $marginLeft }}));">
+      <div class="tl_article_block" onmouseenter="lineAppear(this)" onmouseleave="lineDisappear(this)" style="width: {{ countrunes . }}em; margin-left: calc(var(--startMargin) + calc(calc(var(--tlWidth) / 40) * {{ $marginLeft }}));">
       
         <div class="media-wrapper tl_mediawrapper">
           <img class="img-fluid tl_image" data-src="{{ $image_webp }}" src="{{ $image }}" style="width: {{ countrunes . }}em">
