@@ -106,15 +106,6 @@
     line.style.width = blockWidth;
     line.style.height = blockHeight;
     line.style.marginLeft = blockMarginLeft;
-
-    $(document).ready(function(){
-      $('.tl_frame').scroll(function() {
-        console.log("ok");
-        line.style.width = blockWidth;
-        line.style.height = blockHeight;
-        line.style.marginLeft = blockMarginLeft;
-      });
-    });
   }
 
   function lineDisappear(x) {
@@ -122,7 +113,11 @@
     line.classList.add('notvisible');
   }
 
-  
-    
+  $(document).ready(function(){
+    $('.tl_frame').scroll(function() {
+      line.classList.remove('visible');
+      line.classList.add('notvisible');
+    });
+  });
 </script>
 {{ end }}
