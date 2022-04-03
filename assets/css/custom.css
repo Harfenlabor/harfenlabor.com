@@ -781,7 +781,14 @@ p > img {
 :root {
   --tlWidth: 150rem;
 }
-input[type='radio'][name='timeline_sortby'] { display:none; }
+.radio_options {
+	display: flex;
+	justify-content: space-between;
+}
+
+input[type='radio'][name='timeline_sortby'], input[type='radio'][name='tl_zoom']{
+	display:none;
+}
 label {
   display: inline-block;
   border: 3px solid var(--purpleColor);
@@ -795,9 +802,17 @@ label {
 	padding-right: .5em;
 	color: var(--purpleColor);
 	cursor: pointer;
+
+	/*unselectable*/
+	user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -o-user-select: none;
 }
 
-input[type='radio'][name='timeline_sortby']:checked + label {
+input[type='radio'][name='timeline_sortby']:checked + label,
+input[type='radio'][name='tl_zoom']:checked + label {
 	background-color:var(--purpleColor);
 	color: var(--greyColor);
 }
@@ -807,6 +822,14 @@ p.sort {
 	margin-top: .2em;
 	margin-bottom: 0;
 	color: black;
+	left: 0;
+}
+p.zoom {
+	text-align: right;
+	margin-top: .2em;
+	margin-bottom: 0;
+	color: black;
+	right: 0;
 }
 
 .whiteBackground {
