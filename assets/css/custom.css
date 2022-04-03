@@ -780,6 +780,7 @@ p > img {
 /*#############*/
 :root {
   --tlWidth: 150rem;
+  --startMargin: 1.4rem;
 }
 .radio_options {
 	display: flex;
