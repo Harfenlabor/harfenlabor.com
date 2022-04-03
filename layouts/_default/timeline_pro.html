@@ -92,7 +92,7 @@
   function lineAppear(x) {
     var tlframe = document.getElementsByClassName('tl_frame')[0];
     var blockWidth = x.getBoundingClientRect().width;
-    var blockHeight = (tlframe.getBoundingClientRect().height - x.getBoundingClientRect().height);
+    var blockHeight = (tlframe.getBoundingClientRect().height - x.getBoundingClientRect().top);
     var blockMarginLeft = (x.getBoundingClientRect().left - 50);
 
     console.log(tlframe.getBoundingClientRect());
