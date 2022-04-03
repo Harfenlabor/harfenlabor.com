@@ -95,20 +95,24 @@
 <script>
   var line = document.getElementById('blockToScaleLine');
   var tlframe = document.getElementsByClassName('tl_frame')[0];
-  var blockWidth = 0;
-  var blockHeight = 0;
-  var blockMarginLeft = 0;
 
   function lineAppear(x) {
-    blockWidth = x.getBoundingClientRect().width;
-    blockHeight = (tlframe.getBoundingClientRect().height - x.getBoundingClientRect().top);
-    blockMarginLeft = (x.getBoundingClientRect().left - 50);
+    var blockWidth = x.getBoundingClientRect().width;
+    var blockHeight = (tlframe.getBoundingClientRect().height - x.getBoundingClientRect().top);
+    var blockMarginLeft = (x.getBoundingClientRect().left - 50);
 
     line.classList.remove('notvisible');
     line.classList.add('visible');
     line.style.width = blockWidth;
     line.style.height = blockHeight;
     line.style.marginLeft = blockMarginLeft;
+
+    $('.tl_frame').scroll(function() {
+      console.log("ok");
+      line.style.width = blockWidth;
+      line.style.height = blockHeight;
+      line.style.marginLeft = blockMarginLeft;
+    });
   }
 
   function lineDisappear(x) {
@@ -116,13 +120,5 @@
     line.classList.add('notvisible');
   }
 
-  $(document).ready(function(){
-    $('.tl_frame').scroll(function() {
-      console.log("ok");
-      line.style.width = blockWidth;
-      line.style.height = blockHeight;
-      line.style.marginLeft = blockMarginLeft;
-    });
-  });
 </script>
 {{ end }}
