@@ -12,24 +12,24 @@
       {{ $startMargin := 2.6 }}
       {{ $marginLeft := 0 }}
 
-      {{/* if lt . 1300 */}}{{/* $marginLeft := 0 */}}
+      {{/* if lt . 1100 */}}{{/* $marginLeft := 0 */}}
 
       {{ if eq (countrunes .) 4}}
         {{ if not (in . "s") }} <!--1900-->
-          {{ $marginLeft = div (sub (int .) 1300) 25.0 }}
+          {{ $marginLeft = div (sub (int .) 1100) 25.0 }}
         {{ else }} <!--900s-->
-          {{ $marginLeft = div (sub (int (replace . "s" "")) 1300) 25.0 }}
+          {{ $marginLeft = div (sub (int (replace . "s" "")) 1100) 25.0 }}
         {{ end }}
       {{ else if (in . "century")}} <!--19th century-->
-        {{ $marginLeft = div (sub (mul (int (substr . 0 2)) 100) 1400) 25.0 }}
+        {{ $marginLeft = div (sub (mul (int (substr . 0 2)) 100) 1200) 25.0 }}
       {{ else if or (in . "-") (in . "–") (in . "—")}}
         {{ if not (in . "s") }} <!--1925–1960-->
-          {{ $marginLeft = div (sub (int (substr . 0 4)) 1300) 25.0 }}
+          {{ $marginLeft = div (sub (int (substr . 0 4)) 1100) 25.0 }}
         {{ else }} <!--1800s–1900s-->
-          {{ $marginLeft = div (sub (int (strings.TrimRight "s" .)) 1300) 25.0 }}
+          {{ $marginLeft = div (sub (int (strings.TrimRight "s" .)) 1100) 25.0 }}
         {{ end }}
       {{ else if (in . "s")}} <!--1900s-->
-        {{ $marginLeft = div (sub (int (strings.TrimRight "s" .)) 1300) 25.0 }}
+        {{ $marginLeft = div (sub (int (strings.TrimRight "s" .)) 1100) 25.0 }}
       {{ else }}
         {{ $marginLeft = 0 }}
       {{ end }}
