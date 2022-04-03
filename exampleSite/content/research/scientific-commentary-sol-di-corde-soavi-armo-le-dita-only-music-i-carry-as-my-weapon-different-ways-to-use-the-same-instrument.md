@@ -24,7 +24,7 @@ title = "Sol di corde soavi armo le dita? Only music I carry as my weapon? Diffe
 type = "Research"
 
 +++
-A scientific commentary on [About the Barberini Harp](https://harfenlabor.netlify.app/research/barberini-harp-project-interviews-mara-galassi-and-dario-pontiggia-about-the-barberini-harp/)
+A Scientific Commentary on [About the Barberini Harp](https://harfenlabor.netlify.app/research/barberini-harp-project-interviews-mara-galassi-and-dario-pontiggia-about-the-barberini-harp/)
 
 ***
 
