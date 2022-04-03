@@ -95,6 +95,12 @@
     var blockHeight = (tlframe.style.height - x.getBoundingClientRect().height);
     var blockMarginLeft = (x.getBoundingClientRect().left - 50);
 
+    console.log(tlframe.style.height);
+    console.log(x.getBoundingClientRect().height);
+    console.log(tlframe.style.height - x.getBoundingClientRect().height);
+    console.log(tlframe.style.height - x.getBoundingClientRect().y);
+    console.log(tlframe.style.height - x.getBoundingClientRect().bottom);
+
     document.getElementById('blockToScaleLine').classList.remove('notvisible');
     document.getElementById('blockToScaleLine').classList.add('visible');
     document.getElementById('blockToScaleLine').style.width = blockWidth;
