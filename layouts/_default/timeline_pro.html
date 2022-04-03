@@ -107,11 +107,13 @@
     line.style.height = blockHeight;
     line.style.marginLeft = blockMarginLeft;
 
-    $('.tl_frame').scroll(function() {
-      console.log("ok");
-      line.style.width = blockWidth;
-      line.style.height = blockHeight;
-      line.style.marginLeft = blockMarginLeft;
+    $(document).ready(function(){
+      $('.tl_frame').scroll(function() {
+        console.log("ok");
+        line.style.width = blockWidth;
+        line.style.height = blockHeight;
+        line.style.marginLeft = blockMarginLeft;
+      });
     });
   }
 
@@ -120,5 +122,7 @@
     line.classList.add('notvisible');
   }
 
+  
+    
 </script>
 {{ end }}
