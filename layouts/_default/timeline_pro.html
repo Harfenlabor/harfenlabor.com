@@ -121,14 +121,14 @@
 
     $(document).on('click', 'input[name="timeline_sortby"]', function() {
       if ($(this).val() == 'barb'){
-        for (let i = 0; i < articles.length; i++) {
-          if (!articles[i].classList.contains('tl_barb_article')) {
-            articles[i].style.display = 'none';
+        $('article').each(function() {
+          if (!$(this).classList.contains('tl_barb_article')) {
+            $(this).style.display = 'none';
           }
         }
       } else {
-        for (let i = 0; i < articles.length; i++) {
-          articles[i].style.display = 'display';
+        $('article').each(function() {
+          $(this).style.display = 'block';
         }
       }
     });
