@@ -91,11 +91,15 @@
 <script>
   var line = document.getElementById('blockToScaleLine');
   var tlframe = document.getElementsByClassName('tl_frame')[0];
-  var blockWidth = x.getBoundingClientRect().width;
-  var blockHeight = (tlframe.getBoundingClientRect().height - x.getBoundingClientRect().top);
-  var blockMarginLeft = (x.getBoundingClientRect().left - 50);
+  var blockWidth = 0;
+  var blockHeight = 0;
+  var blockMarginLeft = 0;
 
   function lineAppear(x) {
+    var blockWidth = x.getBoundingClientRect().width;
+    var blockHeight = (tlframe.getBoundingClientRect().height - x.getBoundingClientRect().top);
+    var blockMarginLeft = (x.getBoundingClientRect().left - 50);
+
     line.classList.remove('notvisible');
     line.classList.add('visible');
     line.style.width = blockWidth;
