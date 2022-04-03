@@ -34,7 +34,7 @@
         {{ $marginLeft = 0 }}
       {{ end }}
 
-      <div class="tl_article_block" onmouseover="lineAppear(this)" onmouseout="lineDisappear(this)" style="width: {{ countrunes . }}em; margin-left: calc({{ $startMargin }}rem + calc(4.7rem * {{ $marginLeft }}));">
+      <div class="tl_article_block" onmouseenter="lineAppear(this)" onmouseleave="lineDisappear(this)" style="width: {{ countrunes . }}em; margin-left: calc({{ $startMargin }}rem + calc(4.7rem * {{ $marginLeft }}));">
       
         <div class="media-wrapper tl_mediawrapper">
           <img class="img-fluid tl_image" data-src="{{ $image_webp }}" src="{{ $image }}" style="width: {{ countrunes . }}em">
