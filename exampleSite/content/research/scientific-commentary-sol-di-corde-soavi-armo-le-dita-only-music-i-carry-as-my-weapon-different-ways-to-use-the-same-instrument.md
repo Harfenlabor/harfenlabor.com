@@ -26,7 +26,7 @@ type = "Research"
 +++
 ***
 
-##### A Scientific Commentary on [About the Barberini Harp](https://harfenlabor.netlify.app/research/barberini-harp-project-interviews-mara-galassi-and-dario-pontiggia-about-the-barberini-harp/)
+### A Scientific Commentary on [About the Barberini Harp](https://harfenlabor.netlify.app/research/barberini-harp-project-interviews-mara-galassi-and-dario-pontiggia-about-the-barberini-harp/)
 
 ***
 
