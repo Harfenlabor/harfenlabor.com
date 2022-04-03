@@ -42,7 +42,7 @@
       </div>
 
 
-      <svg id="blockToScaleLine" class="tl_blockToScale_line visible" height="100px" width="3px">
+      <svg id="blockToScaleLine" class="tl_blockToScale_line notvisible" height="100px" width="3px">
         <line x1="50%" y1="0" x2="50%" y2="100%" style="stroke: var(--purpleColor);stroke-width: 3px;"></line>
       </svg>
 
@@ -90,20 +90,21 @@
 </section>
 <script>
   function lineAppear(x) {
+    var tlframe = document.getElementsByClassName('tl_frame')[0];
     var blockWidth = x.getBoundingClientRect().width;
-    var blockHeight = (x.getBoundingClientRect().bottom - x.getBoundingClientRect().height);
+    var blockHeight = (tlframe.style.height - x.getBoundingClientRect().height);
     var blockMarginLeft = (x.getBoundingClientRect().left - 50);
 
-    //console.log("appear", x.getBoundingClientRect());
-    //console.log("a", document.getElementById('blockToScaleLine').style);
+    document.getElementById('blockToScaleLine').classList.remove('notvisible');
+    document.getElementById('blockToScaleLine').classList.add('visible');
     document.getElementById('blockToScaleLine').style.width = blockWidth;
     document.getElementById('blockToScaleLine').style.height = blockHeight;
     document.getElementById('blockToScaleLine').style.marginLeft = blockMarginLeft;
-    /*notvisible*/
   }
 
   function lineDisappear(x) {
-    console.log("disappear", x.getBoundingClientRect());
+    document.getElementById('blockToScaleLine').classList.remove('visible');
+    document.getElementById('blockToScaleLine').classList.add('notvisible');
   }
 </script>
 {{ end }}
