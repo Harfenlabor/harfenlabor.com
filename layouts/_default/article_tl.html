@@ -34,7 +34,7 @@
         {{ $marginLeft = 0 }}
       {{ end }}
 
-      <div class="tl_article_block" style="width: {{ countrunes . }}em; margin-left: calc({{ $startMargin }}rem + calc(4.7rem * {{ $marginLeft }}));">
+      <div class="tl_article_block" onmouseover="lineAppear(this)" onmouseout="lineDisappear(this)" style="width: {{ countrunes . }}em; margin-left: calc({{ $startMargin }}rem + calc(4.7rem * {{ $marginLeft }}));">
       
         <div class="media-wrapper tl_mediawrapper">
           <img class="img-fluid tl_image" data-src="{{ $image_webp }}" src="{{ $image }}" style="width: {{ countrunes . }}em">
@@ -44,9 +44,12 @@
         <p class="tl_article_title"><a href="{{ $permalink }}">{{ if in $title "&&" }}
           {{ replace $title "&&" " " | safeHTML | truncate (add 20 (mul (sub (countrunes .) 4) 20)) }}{{ else }}{{ $title | safeHTML | truncate (add 20 (mul (sub (countrunes .) 4) 20)) }}{{ end }}</a></p>
 
-        <svg class="tl_blockToScale_line" height="120%" width="{{ countrunes . }}em">
+        <!--svg class="tl_blockToScale_line" height="120%" width="{{ countrunes . }}em">
           <line x1="50%" y1="0" x2="50%" y2="100%" style="stroke: var(--purpleColor);stroke-width: 3px;"></line>
-        </svg>
+        </svg--> <!--porta questo in timeline_pro, ne basta uno solo, poi con uno script
+          lo sposti dove vuoi. Ogni article ha un "mouseover" function che in base
+          alle coordinate di quello, sposta la linea e la allunga/accorcia. Inizia da un print
+          delle coordinate. Assegna la funzione qui e poi scrivila in timeline_pro-->
 
       </div>
 
