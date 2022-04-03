@@ -15,9 +15,10 @@
           <input type="radio" name="timeline_sortby" value="all" id="all" checked=""><label for="all">All</label>
           <input type="radio" name="timeline_sortby" value="barb" id="barb"><label for="barb">Barberini Harp Project</label>
         </p>
-        <p class="zoom" style="right: 0;">Zoom:&nbsp;
-          <input type="radio" name="tl_zoom" value="unzoom" id="unzoom"><label for="unzoom">-</label>
-          <input type="radio" name="tl_zoom" value="zoom" id="zoom"><label for="zoom">+</label>
+        <p class="zoom" style="right: 0;">Zoom:&nbsp;          
+          <input type="radio" name="tl_zoom" value="zoom1" id="zoom1"><label for="zoom1">Ⅰ</label>
+          <input type="radio" name="tl_zoom" value="zoom2" id="zoom2" checked=""><label for="zoom2">Ⅱ</label>
+          <input type="radio" name="tl_zoom" value="zoom3" id="zoom3"><label for="zoom3">Ⅲ</label>
         </p>
       </div>
     </div>
@@ -140,6 +141,16 @@
         for (let i = 0; i < articles.length; i++) {
           articles[i].style.display = 'block';
         }
+      }
+    });
+
+    $(document).on('click', 'input[name="tl_zoom"]', function() {
+      if ($(this).val() == '1'){
+        document.documentElement.style.setProperty('--tlWidth', '75rem');
+      } else if ($(this).val() == '2') {
+        document.documentElement.style.setProperty('--tlWidth', '150rem');
+      } else {
+        document.documentElement.style.setProperty('--tlWidth', '250rem');
       }
     });
   });
