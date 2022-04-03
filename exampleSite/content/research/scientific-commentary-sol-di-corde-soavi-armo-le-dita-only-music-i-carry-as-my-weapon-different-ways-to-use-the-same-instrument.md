@@ -24,6 +24,8 @@ title = "Sol di corde soavi armo le dita? Only music I carry as my weapon? Diffe
 type = "Research"
 
 +++
+Scientific Commentary on [About the Barberini Harp](https://harfenlabor.netlify.app/research/barberini-harp-project-interviews-mara-galassi-and-dario-pontiggia-about-the-barberini-harp/)
+
 ***
 
 One of the typical forms of ancient knowledge, still very much in use in the early 1600s in oral or written form, is that of the debate. Rather than advancing a thesis, it presents a dialogue between opposing views. With this in mind, I find it very interesting that the luthier Dario Pontiggia and the harpist and researcher Mara Galassi express two opposite viewpoints regarding the Barberini Harp. On the one hand, someone who reconstructs copies of musical instruments and is accustomed to comparison among multiple similar cases finds himself coming to terms with a single instrument, which is thus less understandable and more contradictory. Is it worthwhile to construct an “absolute copy” of an instrument that runs the risk of not being completely playable? On the other, there is the position of the player, who cultivates the utopia of the “absolute copy” in the hope of getting closer to a new vantage point, which offers the opportunity to listen to something quite different from what, for decades, we have called “early music.” I believe we can keep the tension between these two viewpoints open, rather than trying to find a compromise.
@@ -76,7 +78,7 @@ Unlike the instances in which the harp is described together with other instrume
 
 ###### Granata, Chiara. “'Un’arpa grande tutta intagliata e dorata'. New documents on the Barberini harp.” _Recercare_ XXVII (2015): 139-164. [https://www.jstor.org/stable/26381197](https://www.jstor.org/stable/26381197 "https://www.jstor.org/stable/26381197")
 
-###### Nobili, Collegio dei, and eredi Galeazzo Rosati. _La Reggia Delle Grazie, Aperta per Celebrare Le Gloriosissime Nozze, Seguite Tra Le Altezze Del Serenissimo Francesco Duca Di Parma ... e Della Serenissima Principessa Palatina Dorotea Sofia Farnese ... e Considerata per Oggetto Di Solenne Accademia, Mist_. per gli eredi di Galeazzo Rosati. Parma, 1696. [https://books.google.it/books?id=9PSFiZrdcYwC](https://books.google.it/books?id=9PSFiZrdcYwC "https://books.google.it/books?id=9PSFiZrdcYwC") 
+###### Nobili, Collegio dei, and eredi Galeazzo Rosati. _La Reggia Delle Grazie, Aperta per Celebrare Le Gloriosissime Nozze, Seguite Tra Le Altezze Del Serenissimo Francesco Duca Di Parma ... e Della Serenissima Principessa Palatina Dorotea Sofia Farnese ... e Considerata per Oggetto Di Solenne Accademia, Mist_. per gli eredi di Galeazzo Rosati. Parma, 1696. [https://books.google.it/books?id=9PSFiZrdcYwC](https://books.google.it/books?id=9PSFiZrdcYwC "https://books.google.it/books?id=9PSFiZrdcYwC")
 
 ###### Pontiggia, Dario. “Barberini Harp. Datasheet.” _Recercare_ XXVII (2015): 165-184. [https://www.jstor.org/stable/26381198](https://www.jstor.org/stable/26381198 "https://www.jstor.org/stable/26381198")
 
