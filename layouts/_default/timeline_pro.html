@@ -7,9 +7,8 @@
       <h1>{{ .Title }}</h1>
       <div class="border-meghna"></div>
       <p class="sort">Filter:
-        <input type="radio" name="timeline_sortby" value="one" id="one" checked><label for="one">All</label>
-        <input type="radio" name="timeline_sortby" value="two" id="two"><label for="two">Project</label>
-        <input type="radio" name="timeline_sortby" value="three" id="three"><label for="three">Research Field</label>
+        <input type="radio" name="timeline_sortby" value="all" id="all" checked><label for="all">All</label>
+        <input type="radio" name="timeline_sortby" value="barb" id="barb"><label for="barb">Barberini Harp Project</label>
       </p>
     </div>
   </div>
@@ -118,6 +117,15 @@
       line.classList.remove('visible');
       line.classList.add('notvisible');
     });
+
+    $(document).on('click', 'input[name="timeline_sortby"]', function() {
+      if ($(this).val() == 'barb'){
+        alert('ciao');
+      } else {
+        alert('nope');
+      }
+    });
   });
+
 </script>
 {{ end }}
