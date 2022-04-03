@@ -2,6 +2,15 @@
 {{ partial "navigation.html" . }}
 {{"<!-- Start Blog Section -->" | safeHTML}}
 <section class="section greyBackground tl_mainbody">
+  <footer id="footer_desktop" style="">
+    <div id="footer" class="foot5" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)" style="width: 2em; height: 16vh;">
+      <p class="footer_title footitle5" style="width: 12vh;">About</p>
+      <div class="footer_insidebox_5">
+        <p class="footer_insidetext">Questa è una descrizione della timeline.</p>
+      </div>
+    </div>
+  </footer>
+
   <div class="col-12 tl_upperpart">
     <div class="text-center wow fadeInDown">
       <h1>{{ .Title }}</h1>
