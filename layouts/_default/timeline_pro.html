@@ -3,7 +3,7 @@
 {{"<!-- Start Blog Section -->" | safeHTML}}
 <section class="section greyBackground tl_mainbody">
   <footer id="footer_desktop" style="">
-    <div id="footer" class="foot5" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)" style="width: 2em; height: 16vh;">
+    <div id="footer" class="foot5" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)" style="width: 2em; height: 16vh; z-index: 3;background: white; border: 2px solid var(--greyColor);">
       <p class="footer_title footitle5" style="width: 12vh;">About</p>
       <div class="footer_insidebox_5">
         <p class="footer_insidetext">Questa è una descrizione della timeline.</p>
@@ -156,10 +156,13 @@
     $(document).on('click', 'input[name="tl_zoom"]', function() {
       if ($(this).val() == 'zoom1'){
         document.documentElement.style.setProperty('--tlWidth', '75rem');
+        document.documentElement.style.setProperty('--startMargin', '0rem');
       } else if ($(this).val() == 'zoom2') {
         document.documentElement.style.setProperty('--tlWidth', '150rem');
+        document.documentElement.style.setProperty('--startMargin', '1.4rem');
       } else {
         document.documentElement.style.setProperty('--tlWidth', '250rem');
+        document.documentElement.style.setProperty('--startMargin', '4rem');
       }
     });
   });
