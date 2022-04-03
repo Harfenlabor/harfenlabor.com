@@ -148,7 +148,7 @@ The proposal to attribute the conception and design of the Barberini Harp to Sor
 
 ***
 
-#### Translated by <span id="person_tag">Annamaria Celeste</span>, with the generous support of the Istituto Storico Austriaco, Roma.
+#### Translated by <span id="person_tag">Annamaria Celeste</span>, with the generous support of the Istituto Storico Austriaco a Roma.
 
 ***
 
