@@ -23,6 +23,10 @@
       {{ end }}
 
       <div class="tl_scale">
+        <label class="tl_label">1100</label>
+        <label class="tl_label">1150</label>
+        <label class="tl_label">1200</label>
+        <label class="tl_label">1250</label>
         <label class="tl_label">1300</label>
         <label class="tl_label">1350</label>
         <label class="tl_label">1400</label>
@@ -112,11 +116,13 @@
     line.classList.add('notvisible');
   }
 
-  $(window).scroll(function() {
-    console.log("ok");
-    line.style.width = blockWidth;
-    line.style.height = blockHeight;
-    line.style.marginLeft = blockMarginLeft;
+  $(document).ready(function(){
+    $(window).scroll(function() {
+      console.log("ok");
+      line.style.width = blockWidth;
+      line.style.height = blockHeight;
+      line.style.marginLeft = blockMarginLeft;
+    });
   });
 </script>
 {{ end }}
