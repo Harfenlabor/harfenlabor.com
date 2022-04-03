@@ -90,13 +90,18 @@
 </section>
 <script>
   function lineAppear(x) {
-    console.log("appear", x.getBoundingClientRect());
-    console.log("a", document.getElementById('blockToScaleLine').style);
+    var blockHeight = x.getBoundingClientRect().height;
+    var blockMarginLeft = x.getBoundingClientRect().left;
+
+    //console.log("appear", x.getBoundingClientRect());
+    //console.log("a", document.getElementById('blockToScaleLine').style);
+    document.getElementById('blockToScaleLine').style.height = blockHeight;
+    document.getElementById('blockToScaleLine').style.marginLeft = blockMarginLeft;
     /*notvisible*/
   }
 
   function lineDisappear(x) {
-    console.log("disappear", x.style.marginLeft, x.style.width);
+    console.log("disappear", x.getBoundingClientRect());
   }
 </script>
 {{ end }}
