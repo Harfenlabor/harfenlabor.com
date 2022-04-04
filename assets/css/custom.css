@@ -914,11 +914,12 @@ p.zoom {
 .tl_row {
 	flex-direction: row;
 	display: flex;
+	opacity: 1;
 	/*margin-top: .5em;
 	margin-bottom: .5em;*/
 	position: relative;
 	height: 5em; /*was 4*/
-	transition: height .4s;
+	transition: height .4s, opacity .4s;
 }
 article:not(:last-of-type) > .tl_row {
 	border-bottom: 2px dotted var(--purpleColor);
