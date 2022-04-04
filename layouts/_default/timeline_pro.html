@@ -114,7 +114,6 @@
 <script>
   var line = document.getElementById('blockToScaleLine');
   var tlframe = document.getElementsByClassName('tl_frame')[0];
-  var articles = document.getElementsByTagName('article');
   var delay = 500; /*half a second*/
 
   function lineAppear(x) {
@@ -144,6 +143,8 @@
       if ($(this).val() == 'barb'){
 
         $('article').each(function(){
+          var $article = $(this);
+
           if (!$(this).hasClass('tl_barb_article')){
             $(this).children('.tl_row').each(function(){
               this.style.height = '3em';
@@ -153,15 +154,15 @@
               this.style.opacity = 0;
             });
             setTimeout(function() {
-              console.log(this);
-              console.log(this.style);
-              //this.style.display = 'none';
+              $article.style.display = 'none';
             }, delay);
           }
         });
 
       } else {
         $('article').each(function(){
+          var $article = $(this);
+
           if (!$(this).hasClass('tl_barb_article')){
             $(this).children('.tl_row').each(function(){
               this.style.height = '5em';
@@ -171,7 +172,7 @@
               this.style.opacity = 1;
             });
             setTimeout(function() {
-              this.style.display = 'block';
+              $article.style.display = 'block';
             }, delay);
           }
         });
