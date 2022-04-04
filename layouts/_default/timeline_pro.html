@@ -147,22 +147,21 @@
 
           if (!$(this).hasClass('tl_barb_article')){
             $(this).children('.tl_row').each(function(){
-              this.style.height = '3em';
+              this.style.height = '0em';
             });
             $(this).children('.tl_image').each(function(){
-              this.style.height = '2em';
+              this.style.height = '0em';
               this.style.opacity = 0;
             });
             setTimeout(function() {
               $article.style.display = 'none';
-              console.log($article);
             }, delay);
           }
         });
 
       } else {
         $('article').each(function(){
-          var $article = $(this);
+          var $article = this;
 
           if (!$(this).hasClass('tl_barb_article')){
             $(this).children('.tl_row').each(function(){
