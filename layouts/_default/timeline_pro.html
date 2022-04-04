@@ -115,6 +115,7 @@
   var line = document.getElementById('blockToScaleLine');
   var tlframe = document.getElementsByClassName('tl_frame')[0];
   var articles = document.getElementsByTagName('article');
+  var delay = 500; /*half a second*/
 
   function lineAppear(x) {
     var blockWidth = x.getBoundingClientRect().width;
@@ -143,11 +144,22 @@
       if ($(this).val() == 'barb'){
         for (let i = 0; i < articles.length; i++) {
           if (!articles[i].classList.contains('tl_barb_article')) {
+            setTimeout(function() {
+              articles[i].getElementsByClassName('tl_row').style.height = '3em';
+              articles[i].getElementsByClassName('tl_image').style.height = '2em';
+              articles[i].getElementsByClassName('tl_image').style.opacity = 0;
+            }, delay);
             articles[i].style.display = 'none';
           }
         }
       } else {
         for (let i = 0; i < articles.length; i++) {
+          setTimeout(function() {
+            articles[i].getElementsByClassName('tl_row').style.height = '5em';
+            articles[i].getElementsByClassName('tl_image').style.height = '4em';
+            articles[i].getElementsByClassName('tl_image').style.opacity = 1;
+          }, delay);
+          articles[i].style.display = 'none';
           articles[i].style.display = 'block';
         }
       }
