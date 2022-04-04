@@ -145,10 +145,10 @@
 
         $('article').each(function(){
           if (!$(this).hasClass('tl_barb_article')){
-            $(this '.tl_row').each(function(){
+            $(this > '.tl_row').each(function(){
               $(this).style.height = '3em';
             });
-            $(this '.tl_image').each(function(){
+            $(this > '.tl_image').each(function(){
               $(this).style.height = '2em';
               $(this).style.opacity = 0;
             });
