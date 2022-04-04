@@ -143,7 +143,7 @@
       if ($(this).val() == 'barb'){
 
         $('article').each(function(){
-          var $article = $(this);
+          var $article = this;
 
           if (!$(this).hasClass('tl_barb_article')){
             $(this).children('.tl_row').each(function(){
@@ -154,7 +154,7 @@
               this.style.opacity = 0;
             });
             setTimeout(function() {
-              //$article.style.display = 'none';
+              $article.style.display = 'none';
               console.log($article);
             }, delay);
           }
