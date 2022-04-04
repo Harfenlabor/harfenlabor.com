@@ -934,7 +934,7 @@ article:not(:last-of-type) > .tl_row {
 	width: 10em;
 	height: 4em;
 	opacity: 1;
-	transition: opacity .4s;
+	transition: opacity .4s, height .4s;
 }
 .tl_article_block {
 	margin-left: .5em;
