@@ -146,15 +146,16 @@
         $('article').each(function(){
           if (!$(this).hasClass('tl_barb_article')){
             $(this).children('.tl_row').each(function(){
-              $(this).style.height = '3em';
+              console.log($(this));
+              //$(this).style.height = '3em';
             });
-            $(this).children('.tl_image').each(function(){
+            /*$(this).children('.tl_image').each(function(){
               $(this).style.height = '2em';
               $(this).style.opacity = 0;
             });
             setTimeout(function() {
               $(this).style.display = 'none';
-            }, delay);
+            }, delay);*/
           }
         });
 
