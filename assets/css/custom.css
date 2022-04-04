@@ -918,6 +918,7 @@ p.zoom {
 	margin-bottom: .5em;*/
 	position: relative;
 	height: 5em; /*was 4*/
+	transition: height .4s;
 }
 article:not(:last-of-type) > .tl_row {
 	border-bottom: 2px dotted var(--purpleColor);
