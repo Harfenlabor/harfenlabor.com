@@ -147,29 +147,33 @@
           if (!$(this).hasClass('tl_barb_article')){
             $(this).children('.tl_row').each(function(){
               this.style.height = '3em';
-              //$(this).style.height = '3em';
             });
-            /*$(this).children('.tl_image').each(function(){
-              $(this).style.height = '2em';
-              $(this).style.opacity = 0;
+            $(this).children('.tl_image').each(function(){
+              this.style.height = '2em';
+              this.style.opacity = 0;
             });
             setTimeout(function() {
-              $(this).style.display = 'none';
-            }, delay);*/
+              this.style.display = 'none';
+            }, delay);
           }
         });
 
-
-
       } else {
-        for (let i = 0; i < articles.length; i++) {
-          articles[i].getElementsByClassName('tl_row').style.height = '5em';
-          articles[i].getElementsByClassName('tl_image').style.height = '4em';
-          articles[i].getElementsByClassName('tl_image').style.opacity = 1;
-          setTimeout(function() {
-            articles[i].style.display = 'block';
-          }, delay);
-        }
+        $('article').each(function(){
+          if (!$(this).hasClass('tl_barb_article')){
+            $(this).children('.tl_row').each(function(){
+              this.style.height = '5em';
+            });
+            $(this).children('.tl_image').each(function(){
+              this.style.height = '4em';
+              this.style.opacity = 1;
+            });
+            setTimeout(function() {
+              this.style.display = 'block';
+            }, delay);
+          }
+        });
+
       }
     });
 
