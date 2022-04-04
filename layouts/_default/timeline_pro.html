@@ -142,16 +142,24 @@
 
     $(document).on('click', 'input[name="timeline_sortby"]', function() {
       if ($(this).val() == 'barb'){
-        for (let i = 0; i < articles.length; i++) {
-          if (!articles[i].classList.contains('tl_barb_article')) {
-            articles[i].getElementsByClassName('tl_row').style.height = '3em';
-            articles[i].getElementsByClassName('tl_image').style.height = '2em';
-            articles[i].getElementsByClassName('tl_image').style.opacity = 0;
+
+        $('article').each(function(){
+          if (!$(this).hasClass('tl_barb_article')){
+            $(this '.tl_row').each(function(){
+              $(this).style.height = '3em';
+            });
+            $(this '.tl_image').each(function(){
+              $(this).style.height = '2em';
+              $(this).style.opacity = 0;
+            });
             setTimeout(function() {
-              articles[i].style.display = 'none';
+              $(this).style.display = 'none';
             }, delay);
           }
-        }
+        });
+
+
+
       } else {
         for (let i = 0; i < articles.length; i++) {
           articles[i].getElementsByClassName('tl_row').style.height = '5em';
