@@ -28,7 +28,7 @@
       {{/* . */}}
 
 
-      <p>{{ $section := where $.Site.RegularPages "Section" "content"}}
+      <p>{{ $section := where $.Site.RegularPages "Section" "!=" "foo"}}
         {{ range $section }}
           {{ . }}
         {{ end }}</p>
