@@ -28,9 +28,10 @@
       {{/* . */}}
 
 
-      <p>{{ $news := .Paginate .Data }}
-      {{ range $news }}
-        {{ . }}
+      <p>{{ range (where .Site.Pages "Section" "News") }}
+        {{ range .Pages }}
+          {{ . }}
+        {{ end }}
       {{ end }}</p>
 
       {{/* $news := .Paginate .Data.Pages }}
