@@ -28,15 +28,18 @@
       {{/* . */}}
 
 
+      <p>{{ $news := .Paginate .Data.Pages }}
+      {{ range $news.Pages }}
+        {{ . }}
+      {{ end }}</p>
 
-
-      {{ $news := .Paginate .Data.Pages }}
+      {{/* $news := .Paginate .Data.Pages }}
       {{ range $news.Pages }}
 
         {{ if .Params.show_in_news }}
         {{ .Render "article_onepage" }}
         {{ end }}
-      {{ end }}
+      {{ end */}}
 
 
 
