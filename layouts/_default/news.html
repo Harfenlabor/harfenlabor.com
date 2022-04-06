@@ -28,7 +28,7 @@
       {{/* . */}}
 
 
-      <p>{{ $news := .Paginate .Data.Pages }}
+      <p>{{ $news := .Paginate .Data }}
       {{ range $news }}
         {{ . }}
       {{ end }}</p>
