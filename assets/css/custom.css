@@ -911,6 +911,7 @@ p.zoom {
 	margin-left: -50px;
 	padding: 50px;
 	padding-bottom: 0;
+	height: auto;
 }
 /*hide scrollbar*/
 .tl_frame::-webkit-scrollbar {
