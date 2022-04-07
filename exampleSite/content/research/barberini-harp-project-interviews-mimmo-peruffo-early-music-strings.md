@@ -1,5 +1,5 @@
 +++
-PublishDate = 2021-11-07T23:00:00Z
+PublishDate = 2022-04-02T22:00:00Z
 author = "Mimmo Peruffo"
 bhp_category = "Interviews"
 citation = "Mimmo Peruffo, <i>Early Music Strings</i>, Barberini Harp Project / Interviews, by Studio Armin Linke / Harfenlabor, September 29, 2016, Harfenlabor, MP4, 05:16, https://www.harfenlabor.com/research/barberini-harp-project-interviews-mimmo-peruffo-early-music-strings/."
@@ -13,7 +13,7 @@ map_tag = ["Abruzzo", "Vicenza", "Roma", "Napoli", "Salerno"]
 person_tag = ["Mimmo Peruffo", "Patrizio Barbieri"]
 project_category = "Barberini Harp Project"
 relatedresearch = ["What We Know, and What We still Do Not Understand about the Barberini Harp", "About the Barberini Harp", "Practical Examination of the Barberini Harp"]
-show_in_news = false
+show_in_news = true
 status = "approved by author"
 subjects_tag = ["musical strings", "strings", "string maker", "pope", "animal guts", "guild", "oral transmission", "Aquilla Corde Armoniche", "string maker", "luthier", "gut", "ancient technique", "wood", "split reed", "master", "economy", "consortium", "King of France", "King of Spain", "monopoly", "historical system", "aged oak timber", "membrane", "art", "artisanal craft", "stripping", "gesture", "ancient sources", "decoding", "ancient string making"]
 subtype = ["Organology", "Sociology of Art"]
