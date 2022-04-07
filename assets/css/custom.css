@@ -818,6 +818,40 @@ input[type='radio'][name='tl_zoom']:checked + label {
 	color: var(--greyColor);
 }
 
+.selectWrapper {
+	display: inline-block;
+  background-color: var(--greyColor);
+  width: auto;
+  text-align: center;
+  color: var(--purpleColor);
+  cursor: pointer;
+  user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -o-user-select: none;
+}
+.selectBox {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	background: transparent;
+	background-image: url("data:image/svg+xml;utf8,<svg fill='rgb(255,111,97)' height='24' viewBox='0 0 24 24' width='34' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+	background-repeat: no-repeat;
+	background-position-x: 100%;
+	background-position-y: .4rem;
+	margin-right: 1rem;
+	padding: 0.5rem;
+	padding-bottom: 0.2rem;
+	padding-right: 2rem;
+	border: 3px solid var(--purpleColor);
+	border-radius: 10px;
+	outline: none;
+	color: var(--purpleColor);
+	width: fit-content;
+	background-color: var(--greyColor);
+	-webkit-appearance: none;
+}
+
 p.sort {
 	text-align: left;
 	margin-top: .2em;
