@@ -1,18 +1,25 @@
 +++
+PublishDate = 2022-04-01T22:00:00Z
 author = ""
 barberiniharpproject = ""
+bhp_category = ""
+citation = ""
 description = ""
-downloads = ""
+downloads = []
 externallinks = ""
 footnotes = ""
 image = "/images/hay-flyer-digital-1.jpg"
+imgcaptions = ""
 map_tag = []
 news = true
 person_tag = []
+project_category = "Haydn’s Folk Harp"
+relatedresearch = []
 show_in_news = true
 status = "draft"
 subjects_tag = []
 subtype = []
+summary_text = ""
 timeline_tag = []
 title = "Between the Strings, Festival of Historical Harp — First edition: Haydn’s Folk Harp"
 type = "News"
