@@ -157,7 +157,7 @@
 
     if ($selectValue != 'All') {
 
-      $('article').each(function(){
+      $('article').each(function(index){
         var $article = this;
 
         if (!$(this).hasClass($selectValue)){
@@ -179,10 +179,19 @@
           console.log('3', $selectValue);
           $article.style.display = 'block';
 
-          $(this).children('.tl_row').each(function(){
-            this.style.height = '5em';
-            this.style.opacity = 1;
-          });
+          if (index === (length - 1)) {
+            $(this).children('.tl_row').each(function(){
+              this.style.height = '5em';
+              this.style.opacity = 1;
+              this.style.borderBottom = '0px';
+            });
+          } else {
+            $(this).children('.tl_row').each(function(){
+              this.style.height = '5em';
+              this.style.opacity = 1;
+              this.style.borderBottom = '2px dotted var(--purpleColor)';
+            });
+          }
           $(this).children('.tl_row').children('.tl_article_block').children('.tl_mediawrapper').children('.tl_image').each(function(){
             this.style.height = '4em';
           });
