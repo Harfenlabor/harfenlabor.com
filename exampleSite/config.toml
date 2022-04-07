@@ -111,7 +111,7 @@ google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
 [[params.Projects.projects]]
-description = "A podcast series on early harp in music, from Medieval to contemporary. Hosted by Margret Köll, Between the Strings brings dialogue and music related to early harp. Varied people on the music scene bring rare insights into their working processes, ways of thinking, influences and experiences. "
+description = "A podcast series on early harp in music, from Medieval to contemporary. Hosted by Margret Köll, Between the Strings brings dialogue and music related to Early Music and the harp. Varied people on the music scene bring rare insights into their working processes, ways of thinking, influences and experiences. "
 title = "Podcast: Between the Strings"
 [[params.Projects.projects]]
 description = "By commissioning new works for Historical Harp through HL Editions, Harfenlabor aims to contribute to articulating a contemporary language of performance practice for the instrument. In collaboration with contemporary composers and performers, Harfenlabor intends to develop a new performative and interpretive plane for the instrument and keep its repertoire alive. "
