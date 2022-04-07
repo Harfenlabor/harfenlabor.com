@@ -1,5 +1,5 @@
 +++
-PublishDate = 2021-10-28T07:00:00Z
+PublishDate = 2022-04-05T07:00:00Z
 author = "Volker Haag / Valentina Zemke"
 barberiniharpproject = "The most important surviving Italian Baroque harp, the Barberini Harp, is a chromatic harp with three parallel rows of strings constructed (1632-33) for the harpist Marco Marazzoli by the instrument maker Girolamo Acciari and the wood-carver Giovanni Tubi under the patronage of Cardinal Antonio Barberini. As we lack crucial understanding of this famous harp, Harfenlabor has initiated The Barberini Harp Project in order to conduct and share basic research on this harp in the fields of organology, musicology, and performance practice and within relevant historical and art-historical contexts. This publication presents three stages of The Barberini Harp Project: 1. Convening around the Barberini Harp Project 2. Interviews with Experts and 3. Examinations."
 bhp_category = "Examinations"
@@ -14,7 +14,7 @@ map_tag = ["Roma", "Hamburg"]
 person_tag = ["Volker Haag", "Valentina Zemke"]
 project_category = "Barberini Harp Project"
 relatedresearch = ["Eric Kleinmann:&&Practical Examination of the Barberini Harp", "Barberini Harp Project / Convening&&What We Know, and What We still Do Not Understand about the Barberini Harp", "Thünen-Institut Wood Species Identification Report"]
-show_in_news = false
+show_in_news = true
 status = "to be approved by author"
 subjects_tag = ["Barberini Harp", "Thünen-Institut", "Institut für Holzforschung", "3D-RLM", "Museo Nazionale degli Strumenti Musicali", "non-destructive", "non-invasive", "investigation", "imaging", "examination", "wood species investigation", "harp", "tailpiece", "macroscopic", "wood", "soundboard", "neck", "column", "structure", "microscope", "database", "surface", "identification", "button", "3D microscopic image", "wood anatomy", "anatomical wood structure", "pore", "Xylothek", "scientific wood collection", "3D-reflected-light microscopy", "macroHOLZdata", "microHOLZdata", "Institute for Wood Research", "wood surface", "digital database", "ring-porous", "diffuse-porous", "sample"]
 subtype = ["Organology", "Iconography"]
