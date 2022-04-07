@@ -15,7 +15,7 @@ news = false
 person_tag = ["Ursula-Verena Fischer-Pace", "Domenichino", "Giovanni Lanfranco", "Marco Marazzoli", "Antonio Barberini", "Maffeo Barberini", "Geronimo Acciari", "Giovanni Tubi", "Guido Reni", "Cristiano Marchegiani", "Antonio Pomarancio", "Pietro da-Cortona", "Pier-Francesco Mola", "Bartolomeo de-Rossi", "Giovanni-Battista Soria", "Gian-Lorenzo Bernini", "Alvar Gonzáles-Palacios", "Giovanni-Battista Montano", "Antonio-Barberini-il-Giovane", "Antonio-Barberini-the-Younger", "Annamaria Celeste", "Cardinal Scipione-Borghese", "Giovanni-Battista Montano", "Scipione Borghese"]
 project_category = "Barberini Harp Project"
 relatedresearch = ["Two Souls of a Harp", "“Venere che sona d’arpa e due amori”:&&Marco Marazzoli at the Barberini Court", "What We Know, and What We still Do Not Understand about the Barberini Harp"]
-show_in_news = true
+show_in_news = false
 status = "draft"
 subjects_tag = ["King David Playing the Harp", "King David", "Uffizi", "Barberini Harp", "Museo Nazionale degli Strumenti Musicali", "Venus Playing the Harp", "Golden Fleece", "Palazzo Barberini", "S. Maria sopra Minerva", "Sleeping Putto", "Dizionario Biografico degli Italiani", "St. Peter's", "Apparizione dell’angelo a re David che suona l’arpa", "Venere che suona l’arpa", "Putto Dormiente", "Il re Davide che suona l'arpa", "painting", "harp", "preparatory", "concert", "patron", "carver", "soundbox builder", "soundbox", "preparatory drawing", "richly decorated", "column", "carving", "putti", "pedestal", "architectural motif", "coat of arms", "bees", "cardinal's hat", "satyr", "volute", "Progetto per un'arpa", "drawing", "collection", "la musica", "commission", "singer", "instrumentalist", "composer", "figurative motif", "motif", "iconographic", "decoration", "lion's head", "Vatican archives", "Barberini papers", "graphic", "Cortonesque", "engraving", "organ façade", "gilded", "organ", "library", "architect", "cabinemaker", "designer", "fresco", "vocabulary"]
 subtype = ["Organology", "Iconography", "Sociology of Art"]
@@ -68,7 +68,7 @@ The drawing presents a project for a richly decorated harp, its column adorned w
 
 ***
 
-On the top frontside is the Barberini coat of arms: three bees surmounted by a cardinal's hat, which is in turn supported by a winged putto. Bees are also depicted on the pedestals. There is a satyr seated at the base of the support. The upper crossbeam uniting the soundbox and the support ends in a volute formed by a sphinx.
+On the top frontside is the Barberini coat of arms: three bees surmounted by a cardinal's hat, which is in turn supported by a winged putto. Bees are also depicted on the pedestals. There is a satyr seated at the base of the column. The end of the harmonic  uniting the soundbox and the support ends in a volute formed by a sphinx.
 
 ***
 
