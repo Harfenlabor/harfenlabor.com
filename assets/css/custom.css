@@ -830,6 +830,7 @@ input[type='radio'][name='tl_zoom']:checked + label {
   -khtml-user-select: none;
   -webkit-user-select: none;
   -o-user-select: none;
+  margin-top: .1em;
 }
 .selectBox {
 	-webkit-appearance: none;
@@ -850,11 +851,14 @@ input[type='radio'][name='tl_zoom']:checked + label {
 	width: fit-content;
 	background-color: var(--greyColor);
 	-webkit-appearance: none;
+	font-size: 1.5rem;
+	line-height: 1.7rem;
 }
 
 p.sort {
 	text-align: left;
-	margin-top: .2em;
+	margin-top: .5em;
+	margin-right: .6em;
 	margin-bottom: 0;
 	color: black;
 	left: 0;
