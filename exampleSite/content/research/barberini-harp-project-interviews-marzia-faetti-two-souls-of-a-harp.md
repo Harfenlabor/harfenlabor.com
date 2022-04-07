@@ -1,5 +1,5 @@
 +++
-PublishDate = 2021-11-07T23:00:00Z
+PublishDate = 2022-04-06T22:00:00Z
 author = "Marzia Faetti"
 bhp_category = "Interviews"
 citation = "Marzia Faetti, <i>Two Souls of a Harp</i>, Barberini Harp Project / Interviews, by Studio Armin Linke / Harfenlabor, November 10, 2019, Harfenlabor, MP4, 18:26, https://harfenlabor.netlify.app/research/barberini-harp-project-interviews-marzia-faetti-two-souls-of-a-harp/."
@@ -13,7 +13,7 @@ map_tag = ["Firenze", "Roma", "Ferrara", "Bologna"]
 person_tag = ["Marzia Faetti", "Filippo Baldinucci", "Cossa", "Pietro Candido", "Marcantonio Raimondi", "Raphael", "Parmigianino", "Ursula-Verena Fischer-Pace", "Cardinal-Leopoldo-dei-Medici", "Lorenzo-il-Magnifico", "Giovanni-Secondo-Bentivoglio", "Ercole de-Roberti", "Giovanni-Battista Soria"]
 project_category = "Barberini Harp Project"
 relatedresearch = ["Designs for Musical Instruments", "“Venere che sona d’arpa e due amori”: Marco Marazzoli at the Barberini Court", "Speaking in Song", "What We Know, and What We still Do Not Understand about the Barberini Harp", "About the Barberini Harp", "Sol di corde soavi armo le dita? Only music I carry as my weapon? Different ways to use the same instrument"]
-show_in_news = false
+show_in_news = true
 status = "approved by author"
 subjects_tag = ["Gabinetto dei Disegni e delle Stampe", "Le Gallerie degli Uffizi", "Uffizi", "richly decorated", "Barberini Harp", "harp", "drawing", "preparatory drawing", "Kunsthistorisches Institut in Florenz – Max-Planck-Institut", "Museo Nazionale dei Strumenti Musicali", "graphic art", "Cabinet of Drawings and Prints", "Uffizi Gallery", "collection", "Tuscan artists", "Florentine artists", "Orpheus", "Orfeo", "Bentivolesco", "Ferrara school", "Bolognese artists", "Ferraran artists", "cultural crossroads", "David", "Davide", "immersion in music", "engraver", "Post-Raphaelite", "Durerian landscape", "Roman period", "Bolognese period", "bulino engraving", "Eurydice", "underworld", "Apollo", "angelic choir", "lute", "memory drawing", "strings", "perimeter element", "primacy of the arts", "architectural", "scupltural", "pictorial", "construction", "iconographic", "column", "pictorial frieze", "decoration", "ornament", "decorative richness", "commission"]
 subtype = ["Organology", "Iconography", "Sociology of Art"]
