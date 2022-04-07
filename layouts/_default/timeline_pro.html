@@ -150,35 +150,19 @@
   }
 
   function updateSelectVal() {
-    var $selectValue = document.getElementById('selectBox').val().replace(" ", "_");
-    console.log($selectValue);
+    /*var select = document.getElementById('selectBox');
+    var option = select.options[select.selectedIndex];
 
-    $('article').each(function(){
-      var $article = this;
+    document.getElementById('value').value = option.value;
+    document.getElementById('text').value = option.text;*/
+    var select = document.getElementById('selectBox');
+    var option = select.options[select.selectedIndex];
 
-      if (!$(this).hasClass('$selectValue')){
-        $(this).children('.tl_row').each(function(){
-          this.style.height = '0em';
-          this.style.opacity = 0;
-        });
-        $(this).children('.tl_row').children('.tl_article_block').children('.tl_mediawrapper').children('.tl_image').each(function(){
-          this.style.height = '0em';
-        });
-        setTimeout(function() {
-          $article.style.display = 'none';
-        }, delay);
-      } else {
-        $article.style.display = 'block';
+    console.log(option.value);
+    console.log(option.text);
 
-        $(this).children('.tl_row').each(function(){
-          this.style.height = '5em';
-          this.style.opacity = 1;
-        });
-        $(this).children('.tl_row').children('.tl_article_block').children('.tl_mediawrapper').children('.tl_image').each(function(){
-          this.style.height = '4em';
-        });
-      }
-    });
+    /*var $selectValue = $('#language').val().replace(" ", "_");
+    console.log($selectValue);*/
   }
 
   updateSelectVal();
@@ -192,7 +176,7 @@
 
 
 
-    /*$(document).on('click', 'select[name="selectBox"]', function() {
+    $(document).on('click', 'select[name="selectBox"]', function() {
       var $selectValue = $(this).val().replace(" ", "_");
       console.log($selectValue);
 
@@ -223,7 +207,7 @@
         }
       });
 
-    });*/
+    });
 
     /*$(document).on('click', 'input[name="timeline_sortby"]', function() {
       if ($(this).val() == 'barb'){
