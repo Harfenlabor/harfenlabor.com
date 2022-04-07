@@ -2,14 +2,14 @@
 {{ partial "navigation.html" . }}
 {{"<!-- Start Blog Section -->" | safeHTML}}
 <section class="section greyBackground tl_mainbody">
-  <footer id="footer_desktop" style="">
+  <!--footer id="footer_desktop" style="">
     <div id="footer" class="foot5" onmouseover="toggleFooter(this)" onmouseout="toggleFooter(this)" style="width: 2em; height: 14em; z-index: 3;background: white; border: 2px solid var(--greyColor);">
       <p class="footer_title footitle5" style="width: 12em;">About this timeline</p>
       <div class="footer_insidebox_5">
         <p class="footer_insidetext">Questa è una descrizione della timeline.</p>
       </div>
     </div>
-  </footer>
+  </footer-->
 
   <div class="col-12 tl_upperpart">
     <div class="text-center wow fadeInDown">
@@ -154,15 +154,11 @@
     var option = select.options[select.selectedIndex];
 
     var $selectValue = option.text.replaceAll(" ", "_");
-    console.log($selectValue);
 
     if ($selectValue != 'All') {
 
       $('article').each(function(){
         var $article = this;
-
-        console.log('1', this);
-        console.log('1', $selectValue);
 
         if (!$(this).hasClass($selectValue)){
           console.log('2', this);
@@ -219,80 +215,6 @@
       line.classList.add('notvisible');
     });
 
-
-
-    /*$(document).on('click', 'select[name="selectBox"]', function() {
-      var $selectValue = $(this).val().replace(" ", "_");
-      console.log($selectValue);
-
-      $('article').each(function(){
-        var $article = this;
-
-        if (!$(this).hasClass('$selectValue')){
-          $(this).children('.tl_row').each(function(){
-            this.style.height = '0em';
-            this.style.opacity = 0;
-          });
-          $(this).children('.tl_row').children('.tl_article_block').children('.tl_mediawrapper').children('.tl_image').each(function(){
-            this.style.height = '0em';
-          });
-          setTimeout(function() {
-            $article.style.display = 'none';
-          }, delay);
-        } else {
-          $article.style.display = 'block';
-
-          $(this).children('.tl_row').each(function(){
-            this.style.height = '5em';
-            this.style.opacity = 1;
-          });
-          $(this).children('.tl_row').children('.tl_article_block').children('.tl_mediawrapper').children('.tl_image').each(function(){
-            this.style.height = '4em';
-          });
-        }
-      });
-
-    });*/
-
-    /*$(document).on('click', 'input[name="timeline_sortby"]', function() {
-      if ($(this).val() == 'barb'){
-
-        $('article').each(function(){
-          var $article = this;
-
-          if (!$(this).hasClass('tl_barb_article')){
-            $(this).children('.tl_row').each(function(){
-              this.style.height = '0em';
-              this.style.opacity = 0;
-            });
-            $(this).children('.tl_row').children('.tl_article_block').children('.tl_mediawrapper').children('.tl_image').each(function(){
-              this.style.height = '0em';
-            });
-            setTimeout(function() {
-              $article.style.display = 'none';
-            }, delay);
-          }
-        });
-
-      } else {
-        $('article').each(function(){
-          var $article = this;
-
-          if (!$(this).hasClass('tl_barb_article')){
-            $article.style.display = 'block';
-
-            $(this).children('.tl_row').each(function(){
-              this.style.height = '5em';
-              this.style.opacity = 1;
-            });
-            $(this).children('.tl_row').children('.tl_article_block').children('.tl_mediawrapper').children('.tl_image').each(function(){
-              this.style.height = '4em';
-            });
-          }
-        });
-
-      }
-    });*/
 
     $(document).on('click', 'input[name="tl_zoom"]', function() {
       if ($(this).val() == 'zoom1'){
