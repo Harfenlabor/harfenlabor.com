@@ -20,7 +20,7 @@ subjects_tag = ["Giostra del Saracino", "Barberini Harp", "Estense Harp", "Il Co
 subtype = ["Organology", "Performance Practice", "Musicology", "Sociology of Art"]
 summary_text = "Chiara Granata argues for keeping open the tension between the opposite viewpoints expressed by Dario Pontiggia and Mara Galassi in About the Barberini Harp on the need for a true copy of the Barberini Harp. Granata presents a variety of performance situations and argues that the harp had a varied use: the contradictions preserved in an absolute copy would allow for diverse solutions."
 timeline_tag = ["1633", "1634", "1600s"]
-title = "Sol di corde soavi armo le dita? I arm my fingers only with sweet strings? Different ways to use the same instrument"
+title = "\"My Hands are Armed with Nought but Sweet-toned Strings?\" Different Ways to Use the Same Instrument"
 type = "Research"
 
 +++
