@@ -150,7 +150,7 @@
   }
 
   function updateSelectVal() {
-    var $selectValue = $('#language').val().replace(" ", "_");
+    var $selectValue = document.getElementById('selectBox').val().replace(" ", "_");
     console.log($selectValue);
 
     $('article').each(function(){
