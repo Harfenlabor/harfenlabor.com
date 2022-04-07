@@ -153,10 +153,7 @@
     var select = document.getElementById('selectBox');
     var option = select.options[select.selectedIndex];
 
-    console.log(option.value);
-    console.log(option.text);
-
-    var $selectValue = option.text.replace(" ", "_");
+    var $selectValue = option.text.replaceAll(" ", "_");
     console.log($selectValue);
 
     if ($selectValue != 'All') {
@@ -164,7 +161,12 @@
       $('article').each(function(){
         var $article = this;
 
+        console.log('1', this);
+        console.log('1', $selectValue);
+
         if (!$(this).hasClass('$selectValue')){
+          console.log('2', this);
+          console.log('2', $selectValue);
           $(this).children('.tl_row').each(function(){
             this.style.height = '0em';
             this.style.opacity = 0;
@@ -177,6 +179,8 @@
           }, delay);
 
         } else {
+          console.log('3', this);
+          console.log('3', $selectValue);
           $article.style.display = 'block';
 
           $(this).children('.tl_row').each(function(){
