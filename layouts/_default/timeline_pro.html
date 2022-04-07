@@ -20,11 +20,12 @@
         <input type="radio" name="timeline_sortby" value="barb" id="barb"><label for="barb">Barberini Harp Project</label>
       </p-->
       <div class="radio_options" style="display: flex; justify-content: space-between;">
-        <p class="sort">Filter:
+        <div class="sortWrapper">
+          <p class="sort">Filter:</p>
           <!--input type="radio" name="timeline_sortby" value="all" id="all" checked=""><label for="all">All</label>
           <input type="radio" name="timeline_sortby" value="barb" id="barb"><label for="barb">Barberini Harp Project</label-->
           <div class="selectWrapper">
-            <select class="selectBox">
+            <select class="selectBox" name="selectBox">
               <option value="all" selected>All</option>
               <option disabled=""></option>
               <option value="proj_bhp">Barberini Harp Project</option>
@@ -38,7 +39,7 @@
               <option value="res_soc">Sociology of Art</option>    
             </select>
           </div>
-        </p>
+        </div>
         <p class="zoom" style="right: 0;">Zoom:&nbsp;          
           <input type="radio" name="tl_zoom" value="zoom1" id="zoom1"><label for="zoom1">Ⅰ</label>
           <input type="radio" name="tl_zoom" value="zoom2" id="zoom2" checked=""><label for="zoom2">Ⅱ</label>
@@ -157,7 +158,7 @@
 
 
 
-    $(document).on('click', 'select[class="selectBox"]', function() {
+    $(document).on('click', 'select[name="selectBox"]', function() {
       var $selectValue = $(this).val().replace(" ", "_");
       console.log($selectValue);
 
