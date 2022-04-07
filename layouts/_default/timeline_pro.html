@@ -25,7 +25,7 @@
           <!--input type="radio" name="timeline_sortby" value="all" id="all" checked=""><label for="all">All</label>
           <input type="radio" name="timeline_sortby" value="barb" id="barb"><label for="barb">Barberini Harp Project</label-->
           <div class="selectWrapper">
-            <select class="selectBox" id="selectBox">
+            <select class="selectBox" id="selectBox" onChange="updateSelectVal()">
               <option value="all" selected>All</option>
               <option disabled=""></option>
               <option value="proj_bhp">Barberini Harp Project</option>
@@ -150,19 +150,60 @@
   }
 
   function updateSelectVal() {
-    /*var select = document.getElementById('selectBox');
-    var option = select.options[select.selectedIndex];
-
-    document.getElementById('value').value = option.value;
-    document.getElementById('text').value = option.text;*/
     var select = document.getElementById('selectBox');
     var option = select.options[select.selectedIndex];
 
     console.log(option.value);
     console.log(option.text);
 
-    /*var $selectValue = $('#language').val().replace(" ", "_");
-    console.log($selectValue);*/
+    var $selectValue = option.text.replace(" ", "_");
+    console.log($selectValue);
+
+    if ($selectValue != 'All') {
+
+      $('article').each(function(){
+        var $article = this;
+
+        if (!$(this).hasClass('$selectValue')){
+          $(this).children('.tl_row').each(function(){
+            this.style.height = '0em';
+            this.style.opacity = 0;
+          });
+          $(this).children('.tl_row').children('.tl_article_block').children('.tl_mediawrapper').children('.tl_image').each(function(){
+            this.style.height = '0em';
+          });
+          setTimeout(function() {
+            $article.style.display = 'none';
+          }, delay);
+
+        } else {
+          $article.style.display = 'block';
+
+          $(this).children('.tl_row').each(function(){
+            this.style.height = '5em';
+            this.style.opacity = 1;
+          });
+          $(this).children('.tl_row').children('.tl_article_block').children('.tl_mediawrapper').children('.tl_image').each(function(){
+            this.style.height = '4em';
+          });
+        }
+      });
+
+    } else {
+      $('article').each(function(){
+        var $article = this;
+
+        $article.style.display = 'block';
+
+        $(this).children('.tl_row').each(function(){
+          this.style.height = '5em';
+          this.style.opacity = 1;
+        });
+        $(this).children('.tl_row').children('.tl_article_block').children('.tl_mediawrapper').children('.tl_image').each(function(){
+          this.style.height = '4em';
+        });
+      });
+    }
   }
 
   updateSelectVal();
@@ -176,7 +217,7 @@
 
 
 
-    $(document).on('click', 'select[name="selectBox"]', function() {
+    /*$(document).on('click', 'select[name="selectBox"]', function() {
       var $selectValue = $(this).val().replace(" ", "_");
       console.log($selectValue);
 
@@ -207,7 +248,7 @@
         }
       });
 
-    });
+    });*/
 
     /*$(document).on('click', 'input[name="timeline_sortby"]', function() {
       if ($(this).val() == 'barb'){
