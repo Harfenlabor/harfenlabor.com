@@ -21,8 +21,23 @@
       </p-->
       <div class="radio_options" style="display: flex; justify-content: space-between;">
         <p class="sort">Filter:
-          <input type="radio" name="timeline_sortby" value="all" id="all" checked=""><label for="all">All</label>
-          <input type="radio" name="timeline_sortby" value="barb" id="barb"><label for="barb">Barberini Harp Project</label>
+          <!--input type="radio" name="timeline_sortby" value="all" id="all" checked=""><label for="all">All</label>
+          <input type="radio" name="timeline_sortby" value="barb" id="barb"><label for="barb">Barberini Harp Project</label-->
+          <div class="selectWrapper">
+            <select class="selectBox">
+              <option value="all" selected>All</option>
+              <option disabled=""></option>
+              <option value="proj_bhp">Barberini Harp Project</option>
+              <option value="proj_hl">Harfenlabor Lectures</option>
+              <option value="proj_bts">Podcast: Between the Strings</option>
+              <option disabled=""></option>
+              <option value="res_org">Organology</option>
+              <option value="res_per">Performance Practice</option>
+              <option value="res_mus">Musicology</option>
+              <option value="res_ico">Iconography</option>
+              <option value="res_soc">Sociology of Art</option>    
+            </select>
+          </div>
         </p>
         <p class="zoom" style="right: 0;">Zoom:&nbsp;          
           <input type="radio" name="tl_zoom" value="zoom1" id="zoom1"><label for="zoom1">Ⅰ</label>
@@ -134,12 +149,48 @@
   }
 
   $(document).ready(function(){
+    /*remove line when scrolling*/
     $('.tl_frame').scroll(function() {
       line.classList.remove('visible');
       line.classList.add('notvisible');
     });
 
-    $(document).on('click', 'input[name="timeline_sortby"]', function() {
+
+
+    $(document).on('click', 'select[class="selectBox"]', function() {
+      var $selectValue = $(this).val().replace(" ", "_");
+      console.log($selectValue);
+
+      $('article').each(function(){
+        var $article = this;
+
+        if (!$(this).hasClass('$selectValue')){
+          $(this).children('.tl_row').each(function(){
+            this.style.height = '0em';
+            this.style.opacity = 0;
+          });
+          $(this).children('.tl_row').children('.tl_article_block').children('.tl_mediawrapper').children('.tl_image').each(function(){
+            this.style.height = '0em';
+          });
+          setTimeout(function() {
+            $article.style.display = 'none';
+          }, delay);
+        } else {
+          $article.style.display = 'block';
+
+          $(this).children('.tl_row').each(function(){
+            this.style.height = '5em';
+            this.style.opacity = 1;
+          });
+          $(this).children('.tl_row').children('.tl_article_block').children('.tl_mediawrapper').children('.tl_image').each(function(){
+            this.style.height = '4em';
+          });
+        }
+      });
+
+    });
+
+    /*$(document).on('click', 'input[name="timeline_sortby"]', function() {
       if ($(this).val() == 'barb'){
 
         $('article').each(function(){
@@ -152,7 +203,6 @@
             });
             $(this).children('.tl_row').children('.tl_article_block').children('.tl_mediawrapper').children('.tl_image').each(function(){
               this.style.height = '0em';
-              this.style.opacity = 0;
             });
             setTimeout(function() {
               $article.style.display = 'none';
@@ -173,13 +223,12 @@
             });
             $(this).children('.tl_row').children('.tl_article_block').children('.tl_mediawrapper').children('.tl_image').each(function(){
               this.style.height = '4em';
-              this.style.opacity = 1;
             });
           }
         });
 
       }
-    });
+    });*/
 
     $(document).on('click', 'input[name="tl_zoom"]', function() {
       if ($(this).val() == 'zoom1'){
