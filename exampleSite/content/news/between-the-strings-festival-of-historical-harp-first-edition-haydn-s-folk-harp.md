@@ -21,7 +21,7 @@ subjects_tag = []
 subtype = []
 summary_text = ""
 timeline_tag = []
-title = "Between the Strings&&Festival of Historical Harp — First edition: Haydn’s Folk Harp"
+title = "Between the Strings&&Festival of Historical Harp&&First edition: Haydn’s Folk Harp"
 type = "News"
 
 +++
