@@ -1,5 +1,5 @@
 +++
-PublishDate = 2021-10-31T23:00:00Z
+PublishDate = 2022-04-05T22:00:00Z
 author = "Chiara Granata"
 barberiniharpproject = ""
 bhp_category = ""
@@ -14,7 +14,7 @@ map_tag = ["Roma", "Città del Vaticano"]
 person_tag = ["Chiara Granata", "Stefano Landi", "Marco Marazzoli", "François Collignon", "Andrea Sacchi", "Francesco Farnese", "Dorothea-Sophie"]
 project_category = "Barberini Harp Project"
 relatedresearch = ["About the Barberini Harp", "What We Know, and What We still Do Not Understand about the Barberini Harp", "Designs for Musical Instruments", "Two Souls of a Harp", "Venere che sona d’arpa e due amori”:&&Marco Marazzoli at the Barberini Court"]
-show_in_news = false
+show_in_news = true
 status = "approved by author"
 subjects_tag = ["Giostra del Saracino", "Barberini Harp", "Estense Harp", "Il Corago", "luthier", "harpist", "absolute copy", "copy", "early music", "carver", "gilder", "soundbox", "neck", "column", "stringing", "strings", "harp", "construction", "organological", "listeners", "acoustics", "instrumentation", "sonic", "parade", "polyphony", "recercata", "counterpoint", "due cori", "lute", "theorbo", "violone", "organ", "concert", "harpsichord", "treatise", "performance", "dynamics", "modification"]
 subtype = ["Organology", "Performance Practice", "Musicology", "Sociology of Art"]
