@@ -146,7 +146,15 @@
 	height: 28vh;
 	width: 2em;
 	margin-bottom: 72vh;
+	-webkit-animation: bounce 4s ease-in-out;
 }
+@-webkit-keyframes bounce {
+  0%       { width: 2em; }
+  25%, 75% { width: 8em; }
+  50%      { width: 2em; }
+  100%     { width: 2em; }
+}
+
 .footitle1 {
 	width: 28vh;
 }
@@ -336,6 +344,13 @@
 	font-style: italic;
 	color: var(--purpleColor)!important;
 	cursor: text!important;
+}
+
+.italic_synopsis {
+	font-style: italic;
+	color: var(--purpleColor)!important;
+	cursor: text!important;
+	line-height: 1.3rem;
 }
 
 .open_synopsis_box {
