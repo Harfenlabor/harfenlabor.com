@@ -44,7 +44,7 @@ E naturalmente rappresentazioni del <span id="subjects_tag">re Davide</span> son
 
 ***
 
-Meno diffusi invece sono disegni preparatori per strumenti musicali, per gli intagliatori, costruttori delle casse degli strumenti. È il caso di un disegno degli <span id="subjects_tag">Uffizi</span>, conosciuto e pubblicato da molto tempo.<sup>4</sup> Già nel catalogo del Museo degli Strumenti Musicali di Roma è stato paragonato con l’arpa Barberini, ma non identificato come disegno preparatorio.[\[5\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn5)
+Meno diffusi invece sono disegni preparatori per strumenti musicali, per gli intagliatori, costruttori delle casse degli strumenti. È il caso di un disegno degli <span id="subjects_tag">Uffizi</span>, conosciuto e pubblicato da molto tempo.<sup>4</sup> Già nel catalogo del Museo degli Strumenti Musicali di Roma è stato paragonato con l’arpa Barberini, ma non identificato come disegno preparatorio.<sup>5</sup>
 
 ***
 
@@ -76,7 +76,7 @@ Api sono disegnate pure sui piedistalli. Alla base del sostegno siede un satiro.
 
 ***
 
-In basso a destra sotto la cassa si trova un leggero schizzo a matita nera di carattere architettonico a forma di tabernacolo o coronamento di un ciborio (fig. 4). Lo stretto rapporto del disegno con la cosiddetta arpa Barberini conservata nel Museo degli Strumenti Musicali a Roma è ovvio, e di conseguenza anche con il dipinto di Giovanni Lanfranco _Venere che suona l’arpa o la Musica_ (Galleria Nazionale d’Arte Antica, Roma) (fig. 5) proveniente dalla collezione del cardinale Antonio Barberini il Giovane.[\[6\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn6) 
+Lo stretto rapporto del disegno con la cosiddetta arpa Barberini conservata nel Museo degli Strumenti Musicali a Roma è ovvio, e di conseguenza anche con il dipinto di <span id="person_tag">Giovanni Lanfranco</span> _Venere che suona l’arpa o la Musica_ (Galleria Nazionale d’Arte Antica, Roma) proveniente dalla collezione del cardinale <span id="person_tag">Antonio Barberini il Giovane</span>.<sup>6</sup> 
 
 ***
 
@@ -151,6 +151,8 @@ Qui il vocabolario decorativo assomiglia talmente sia a quello del disegno per l
 ***
 
 L’apprendistato presso Giovanni Battista Montano e da Antonio Pomarancio era garanzia per la sua solida professionalità artistica riconoscibile indubbiamente anche in questo progetto di raffinato corredo decorativo. Tra l’altro spetta al Soria l’edizione dei disegni architettonici del suo maestro Giovanni Battista Montano, il cui insegnamento fu altrettanto importante per il Cortona, artista barberiniano per eccellenza, oltretutto molto amico del Soria.
+
+In basso a destra sotto la cassa si trova un leggero schizzo a matita nera di carattere architettonico a forma di tabernacolo o coronamento di un ciborio (fig. 4).
 
 La proposta attributiva al Soria dell’ideazione e del progetto per l’arpa Barberini trova infine una sua ulteriore giustificazione nello stretto rapporto dell’artista con le committenze barberiniane per i lavori a S. Pietro e a palazzo Barberini.
 
