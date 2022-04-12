@@ -100,7 +100,7 @@ I motivi plastici e l’aspetto stilistico sono piuttosto di derivazione cortone
 
 ![](/images/fig-6.jpg)
 
-###### Pietro da Cortona, _Mazza da ceremonia_, drawing (<cap>Fig. 8</cap>).
+###### Pietro da Cortona, _Mazza da ceremonia_, disegno (<cap>Fig. 8</cap>).
 
 ***
 
