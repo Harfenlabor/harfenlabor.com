@@ -29,7 +29,7 @@ type = "Research"
 +++
 ***
 
-Link to the original version, in Italian:  [Disegni per strumenti musicali](https://harfenlabor.netlify.app/research/disegni-per-strumenti-musicali-1/)
+Link to the original version of this article in Italian:  [Disegni per strumenti musicali](https://harfenlabor.netlify.app/research/disegni-per-strumenti-musicali-1/).
 
 ***
 
