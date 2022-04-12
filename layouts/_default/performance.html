@@ -17,7 +17,7 @@
 
       {{ $research := .Site.GetPage "/research" }}
       {{ range $research.Data.Pages }}
-        {{ if in .Params.subtype "Performance Practice" }}
+        {{ if and (not .Params.hide_from_research) (in .Params.subtype "Performance Practice") }}
         {{ .Render "article" }}
         {{ end }}
       {{ end }}
