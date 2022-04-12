@@ -35,7 +35,7 @@ type = "Research"
 
 ***
 
-Il presente articolo s’incentra su un quadro di <span id="subjects_tag">Giovanni Lanfranco</span> oggi alla Galleria Nazionale d’Arte Antica di Palazzo Barberini<sup>1</sup>, in cui è rappresentata un’arpa molto simile a quella tradizionalmente denominata Barberini<sup>2</sup>, oggi a Roma al Museo Nazionale degli Strumenti Musicali (fig. 2). 
+Il presente articolo s’incentra su un quadro di <span id="subjects_tag">Giovanni Lanfranco</span> oggi alla Galleria Nazionale d’Arte Antica di Palazzo Barberini<sup>1</sup>, in cui è rappresentata un’arpa molto simile a quella tradizionalmente denominata Barberini<sup>2</sup>, oggi a Roma al Museo Nazionale degli Strumenti Musicali. 
 
 ***
 
