@@ -140,7 +140,17 @@ Simili motivi di volute e racemi sono presenti nella custodia lignea che il Sori
 
 ***
 
-Qui il vocabolario decorativo assomiglia talmente sia a quello del disegno per l’arpa che a un altro degli Uffizi per una base di un mobile,[\[18\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn18), da potersi attribuire allo stesso ideatore. Questo tipo di decorazione naturalistica e scultorea non è ancora di stampo berniniano, sebbene per la sua ideazione, di “uno dei più begli strumenti musicali conosciuti” sia stato avanzato il nome del Bernini.[\[19\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn19) Ma come Alvar Gonzáles Palacios osserva, “è cosa più antica”, impregnata dalla cultura barberiniana di uno stile più grave.[\[20\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn20) La presenza sul foglio di uno schizzo architettonico potrebbe essere un altro indizio per la sua attività di architetto, pur considerando che essa fu meno importante di quanto a lungo creduto, come giustamente osservato di recente da Cristiano Marchegiani, che ha ridimensionato il suo profilo da architetto nella voce del Dizionario Biografico degli Italiani.[\[21\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn21) L’apprendistato presso Giovanni Battista Montano e da Antonio Pomarancio era garanzia per la sua solida professionalità artistica riconoscibile indubbiamente anche in questo progetto di raffinato corredo decorativo. Tra l’altro spetta al Soria l’edizione dei disegni architettonici del suo maestro Giovanni Battista Montano, il cui insegnamento fu altrettanto importante per il Cortona, artista barberiniano per eccellenza, oltretutto molto amico del Soria.
+Qui il vocabolario decorativo assomiglia talmente sia a quello del disegno per l’arpa che a un altro degli Uffizi per una base di un mobile,[\[18\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn18), da potersi attribuire allo stesso ideatore. Questo tipo di decorazione naturalistica e scultorea non è ancora di stampo berniniano, sebbene per la sua ideazione, di “uno dei più begli strumenti musicali conosciuti” sia stato avanzato il nome del Bernini.[\[19\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn19) Ma come Alvar Gonzáles Palacios osserva, “è cosa più antica”, impregnata dalla cultura barberiniana di uno stile più grave.[\[20\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn20) La presenza sul foglio di uno schizzo architettonico potrebbe essere un altro indizio per la sua attività di architetto, pur considerando che essa fu meno importante di quanto a lungo creduto, come giustamente osservato di recente da Cristiano Marchegiani, che ha ridimensionato il suo profilo da architetto nella voce del Dizionario Biografico degli Italiani.[\[21\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn21) 
+
+***
+
+![](/images/fig-4.jpg)
+
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 13</cap>).
+
+***
+
+L’apprendistato presso Giovanni Battista Montano e da Antonio Pomarancio era garanzia per la sua solida professionalità artistica riconoscibile indubbiamente anche in questo progetto di raffinato corredo decorativo. Tra l’altro spetta al Soria l’edizione dei disegni architettonici del suo maestro Giovanni Battista Montano, il cui insegnamento fu altrettanto importante per il Cortona, artista barberiniano per eccellenza, oltretutto molto amico del Soria.
 
 La proposta attributiva al Soria dell’ideazione e del progetto per l’arpa Barberini trova infine una sua ulteriore giustificazione nello stretto rapporto dell’artista con le committenze barberiniane per i lavori a S. Pietro e a palazzo Barberini.
 
