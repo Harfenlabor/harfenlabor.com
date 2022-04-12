@@ -34,7 +34,7 @@ Quadri con rappresentazioni di concerti, musicisti, strumenti musicali abbondano
 
 ***
 
-E naturalmente rappresentazioni del re Davide sono occasioni di dipingere un’arpa. Un bel esempio ce lo mostra un foglio di Pier Francesco Mola con _L’apparizione dell’angelo a re Davide che suona l’arpa_ con un’arpa riccamente decorata, senz’altro preparatorio per un dipinto finora sconosciuto (fig. 2).[\[3\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn3)
+E naturalmente rappresentazioni del <span id="subjects_tag">re Davide</span> sono occasioni di dipingere un’arpa. Un bel esempio ce lo mostra un foglio di <span id="person_tag">Pier Francesco Mola</span> con _L’apparizione dell’angelo a re Davide che suona l’arpa_ con un’arpa riccamente decorata, senz’altro preparatorio per un dipinto finora sconosciuto.<sup>3</sup>
 
 ***
 
@@ -44,7 +44,7 @@ E naturalmente rappresentazioni del re Davide sono occasioni di dipingere un’a
 
 ***
 
-Meno diffusi invece sono disegni preparatori per strumenti musicali, per gli intagliatori, costruttori delle casse degli strumenti. È il caso di un disegno degli Uffizi, conosciuto e pubblicato da molto tempo (fig. 3, 3a, 3b, 3c).[\[4\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn4) Già nel catalogo del Museo degli Strumenti Musicali di Roma è stato paragonato con l’arpa Barberini, ma non identificato come disegno preparatorio.[\[5\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn5)
+Meno diffusi invece sono disegni preparatori per strumenti musicali, per gli intagliatori, costruttori delle casse degli strumenti. È il caso di un disegno degli <span id="subjects_tag">Uffizi</span>, conosciuto e pubblicato da molto tempo.<sup>4</sup> Già nel catalogo del Museo degli Strumenti Musicali di Roma è stato paragonato con l’arpa Barberini, ma non identificato come disegno preparatorio.[\[5\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn5)
 
 ***
 
