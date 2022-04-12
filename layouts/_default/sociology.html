@@ -17,7 +17,7 @@
 
       {{ $research := .Site.GetPage "/research" }}
       {{ range $research.Data.Pages }}
-        {{ if in .Params.subtype "Sociology of Art" }}
+        {{ if and (not .Params.hide_from_research) (in .Params.subtype "Sociology of Art") }}
         {{ .Render "article" }}
         {{ end }}
       {{ end }}
