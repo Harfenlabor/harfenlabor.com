@@ -25,7 +25,7 @@
 
       {{ $research := .Site.GetPage "/research" }}
       {{ range $research.Data.Pages }}
-        {{ if eq .Params.project_category "Podcast: Between the Strings" }}
+        {{ if and (not .Params.hide_from_research) (eq .Params.project_category "Podcast: Between the Strings") }}
         {{ .Render "article" }}
         {{ end }}
       {{ end }}
