@@ -146,12 +146,18 @@
 	height: 28vh;
 	width: 2em;
 	margin-bottom: 72vh;
-	-webkit-animation: bounce 1.4s ease-in-out;
+	-webkit-animation: bounce 3s ease-in-out;
 }
-@-webkit-keyframes bounce {
+/*@-webkit-keyframes bounce {
   0%       { width: 2em; }
   25%, 75% { width: 4em; }
   50%      { width: 2em; }
+  100%     { width: 2em; }
+}*/
+@-webkit-keyframes bounce {
+  0%       { width: 2em; }
+  20%, 40%, 60%, 80% { width: 4em; }
+  30%, 50%, 70% { width: 2em; }
   100%     { width: 2em; }
 }
 
