@@ -20,7 +20,7 @@
 
       {{ $research := .Site.GetPage "/research" }}
       {{ range $research.Data.Pages }}
-        {{ if eq .Params.project_category "Barberini Harp Project" }}
+        {{ if and (not .Params.hide_from_research) (eq .Params.project_category "Barberini Harp Project") }}
         {{ .Render "article" }}
         {{ end }}
       {{ end }}
