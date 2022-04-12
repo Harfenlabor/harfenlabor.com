@@ -146,7 +146,7 @@ Qui il vocabolario decorativo assomiglia talmente sia a quello del disegno per l
 
 ![](/images/fig-4.jpg)
 
-###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 13</cap>).
+###### Attributo a Giovanni Battista Soria, _Progetto per un’arpa,_ dettaglio (<cap>Fig. 13</cap>).
 
 ***
 
