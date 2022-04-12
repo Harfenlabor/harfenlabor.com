@@ -5,7 +5,6 @@ bhp_category = "Convening"
 citation = ""
 description = ""
 downloads = []
-draft = true
 externallinks = ""
 footnotes = "1. Dipingere la musica. Musik in der Malerei des 16. und 17. Jahrhunderts, a cura di Sylvia Ferino-Pagden e Wilfried Seipel, Vienna 2001.&&\n2. Richard E. Spear, Domenichino, Yale University Press, New Haven and London 1982, vol. I Text, p. 218, n. 64; vol. II, Pl. 230. Arianna De Simone, “Domenichino e la musica”, in: Studi di Storia dell’Arte 27/2016, pp. 175–192.&&\n"
 hide_from_research = false
