@@ -71,6 +71,8 @@ Unlike the instances in which the harp is described together with other instrume
 
 ***
 
+#### Translated by <span id="person_tag">Stephen Piccolo</span>.
+
 ***
 
 ###### Bibliography
