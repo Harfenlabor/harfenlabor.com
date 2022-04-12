@@ -29,7 +29,7 @@ type = "Research"
 +++
 ***
 
-Link to the original version, in Italian:  [Sol di corde soavi armo le dita? Differenti modi di usare uno stesso strumento](https://harfenlabor.netlify.app/research/sol-di-corde-soavi-armo-le-dita-differenti-modi-di-usare-uno-stesso-strumento/)
+Link to the original version, in Italian:  [Disegni per strumenti musicali](https://harfenlabor.netlify.app/research/disegni-per-strumenti-musicali-1/)
 
 ***
 
