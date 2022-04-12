@@ -6,7 +6,7 @@ citation = ""
 description = ""
 downloads = []
 externallinks = ""
-footnotes = ""
+footnotes = "1. Questo documento che ho potuto ritrovare alla Biblioteca Vaticana nel fondo Barberini, ha permesso di identificare il liutaio Geronimo Acciari, l’intagliatore Giovanni Tubi, il committente Antonio Barberini, ed il destinatario Marco Marazzoli. Cfr. Chiara Granata, “Un’arpa grande tutta intagliata e dorata. New documents on the Barberini harp”, <i>Recercare</i>, XXVII (2015): 139-164 e Dario Pontiggia “Barberini Harp. Datasheet”, <i>Recercare</i>, XXVII (2015): 165-184.&&"
 hide_from_research = true
 image = ""
 imgcaptions = ""
@@ -48,19 +48,11 @@ L'esecuzione descritta predilige la polifonia (recercata), ed un contrappunto a 
 
 Al contrario nelle occasioni in cui l’arpa è descritta insieme ad altri strumenti, sembra risaltare la sua componente sonora e ritmica. L’autore de _Il Corago_, testo anonimo di inizio Seicento, descrive l’arpa come uno degli strumenti più adatti alla musica da danza, perché capace di un impulso chiaro e sonoro.
 
-“Essendo la musica rappresentata in scena più vivace et attuosa assai di quella cantata in chiesa o in altra occasione, molto più viva \[= vivo\] e quasi arieggiante \[?\] è l’istromento di corde che stacca per aria la botta che non è il continuo suono dell’organo, per questo nei balli l’arpa è stimata la migliore”.[\[5\]](applewebdata://F1EC85F2-58E1-494D-B4C3-D92C165F6CFA#_ftn5) E Stefano Landi nel Sant’Alessio abbina l’arpa a liuti, tiorbe e violoni, assegnandole una linea di basso più ritmica rispetto a quella dei clavicembali. Non tutte le scelte acustiche o di strumentazione sono per noi comprensibili. Ad esempio è difficile immaginare il concerto per le nozze di Francesco Duca di Parma con Dorotea Sofia Farnese, in cui si ascolta un’arpa, accompagnata da ben tre clavicembali[\[6\]](applewebdata://F1EC85F2-58E1-494D-B4C3-D92C165F6CFA#_ftn6) Eppure questa varietà di situazioni ci serve ad avvicinarci ad uno strumento che sembra aver avuto un uso molto vario e diversificato. La costruzione di una “copia assoluta” potrebbe rendere evidenti i vari usi di questo strumento. Rimarrebbero probabilmente intatte le sue contraddizioni che ciascun costruttore e ciascun musicista potrebbe poi risolvere in maniera diversa. Oggi come allora.
+“Essendo la musica rappresentata in scena più vivace et attuosa assai di quella cantata in chiesa o in altra occasione, molto più viva \[= vivo\] e quasi arieggiante \[?\] è l’istromento di corde che stacca per aria la botta che non è il continuo suono dell’organo, per questo nei balli l’arpa è stimata la migliore”.<sup>5</sup> E Stefano Landi nel Sant’Alessio abbina l’arpa a liuti, tiorbe e violoni, assegnandole una linea di basso più ritmica rispetto a quella dei clavicembali. Non tutte le scelte acustiche o di strumentazione sono per noi comprensibili. Ad esempio è difficile immaginare il concerto per le nozze di Francesco Duca di Parma con Dorotea Sofia Farnese, in cui si ascolta un’arpa, accompagnata da ben tre clavicembali[\[6\]](applewebdata://F1EC85F2-58E1-494D-B4C3-D92C165F6CFA#_ftn6) Eppure questa varietà di situazioni ci serve ad avvicinarci ad uno strumento che sembra aver avuto un uso molto vario e diversificato. La costruzione di una “copia assoluta” potrebbe rendere evidenti i vari usi di questo strumento. Rimarrebbero probabilmente intatte le sue contraddizioni che ciascun costruttore e ciascun musicista potrebbe poi risolvere in maniera diversa. Oggi come allora.
 
 ***
 
-[\[1\]](applewebdata://F1EC85F2-58E1-494D-B4C3-D92C165F6CFA#_ftnref1) Questo documento che ho potuto ritrovare alla Biblioteca Vaticana nel fondo Barberini, ha permesso di
-
-identificare il liutaio Geronimo Acciari, l’intagliatore Giovanni Tubi, il committente Antonio Barberini, ed il
-
-destinatario Marco Marazzoli. Cfr. Chiara Granata, “Un’arpa grande tutta intagliata e dorata. New documents on
-
-the Barberini harp”, _Recercare_, XXVII, (2015): 139-164 e Dario Pontiggia “Barberini Harp. Datasheet”, _Recercare_
-
-XXVII, (2015): 165-184.
+[\[1\]](applewebdata://F1EC85F2-58E1-494D-B4C3-D92C165F6CFA#_ftnref1) Questo documento che ho potuto ritrovare alla Biblioteca Vaticana nel fondo Barberini, ha permesso di identificare il liutaio Geronimo Acciari, l’intagliatore Giovanni Tubi, il committente Antonio Barberini, ed il destinatario Marco Marazzoli. Cfr. Chiara Granata, “Un’arpa grande tutta intagliata e dorata. New documents on the Barberini harp”, _Recercare_, XXVII, (2015): 139-164 e Dario Pontiggia “Barberini Harp. Datasheet”, _Recercare_ XXVII, (2015): 165-184.
 
 [\[2\]](applewebdata://F1EC85F2-58E1-494D-B4C3-D92C165F6CFA#_ftnref2) _Arch.Barb._, Giustificazioni I, vol. 236, c. 162v. (Roma: Biblioteca Apostolica Vaticana). Vorrei osservare che la cifra di 25 scudi è molto ingente: potrebbe essere il cambio completo dell’incordatura.
 
