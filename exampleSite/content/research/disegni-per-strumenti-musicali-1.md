@@ -110,13 +110,13 @@ I motivi architettonici, figurativi ed animaleschi si assomigliano, lo stesso va
 
 ![](/images/fig-7.jpg)
 
-###### Anonymous (G. B. Soria?), _Progetto per una cornice_ (<cap>Fig. 9</cap>).
+###### Anonimo (G. B. Soria?), _Progetto per una cornice_ (<cap>Fig. 9</cap>).
 
 ***
 
 ![](/images/fig-8.jpg)
 
-###### Anonymous (G.B. Soria?), _Progetto per un mobile_ (<cap>Fig. 10</cap>).
+###### Anonimo (G.B. Soria?), _Progetto per un mobile_ (<cap>Fig. 10</cap>).
 
 ***
 
