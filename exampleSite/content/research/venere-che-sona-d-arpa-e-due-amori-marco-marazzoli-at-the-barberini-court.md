@@ -91,8 +91,6 @@ In conclusion, Lanfranco's painting appears as a tribute to Marazzoli and his qu
 
 ###### Barb.lat. 4209. Archivio Barberini, Biblioteca Apostolica Vaticana. Città del Vaticano. 
 
-###### Bellori, Gian Pietro. _Le vite de' pittori, scultori et architetti moderni._ Roma: Mascardi, 1672, 1728.
-
 ###### Bruno, Silvia. “Musici e pittori tra Firenze e Roma nel secondo quarto del Seicento.“ _Studi Secenteschi_ 49 (2008): 204.
 
 ###### Calenne, Luca and Maria Cristina Paciello. "Pittor de’ gli orecchi è Rodomonte. Ricerche su Domenico Palombi, Musico e Pittore del ‘600.“ _Annali della Pontificia Insigne Accademia di Belle Arti e Lettere dei Virtuosi al Pantheon_ 12 (2012): 241–264, 449–463.
