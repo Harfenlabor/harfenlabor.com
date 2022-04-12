@@ -6,6 +6,11 @@ fields:
   type: boolean
   label: Show in News
   description: Toggle active to publish this article in the News section.
+- name: hide_from_research
+  type: boolean
+  label: Hide from Research
+  description: Toggle active to hide this article from the Research section and each
+    category page.
 - name: type
   type: select
   default: Research
