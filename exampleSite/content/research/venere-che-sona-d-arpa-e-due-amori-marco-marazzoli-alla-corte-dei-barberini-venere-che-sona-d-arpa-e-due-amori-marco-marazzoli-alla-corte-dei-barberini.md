@@ -55,8 +55,6 @@ Il quadro era noto, prima che <span id="person_tag">Franca Trinchieri Camiz</spa
 
 ***
 
-###### 
-
 ###### Tiziano, _Venere e il suonatore di liuto_ (<cap>Fig. 3</cap>).
 
 Tra l’altro è il caso di notare che la _Venere_ del Marazzoli perde la sua connotazione nel momento in cui entra nelle collezioni Barberini, dove è inventariata a partire dal 1671 come una “donna grande al naturale che suona l’Arpa mezza nuda mano del Cav. Lanfranco”[\[9\]](applewebdata://0B344797-B49B-4CE3-B45D-A356950AF782#_ftn9). Il quadro si può mettere in relazione con le rappresentazioni di donne veneziane (il più delle volte cortigiane), particolarmente in voga nel ‘500, rappresentate mentre suonano uno strumento, solitamente un liuto. Spesso assumevano la connotazione di Venere, dea dell’amore, in virtù del carattere erotico dell’immagine. Come nel caso dei dipinti veneziani la donna appare molto ‘reale’; ha una capigliatura alla moda che ritroviamo in altre opere dei primi anni ’30 del Seicento (fig. 4). Gli zoccoli, spesso indossati da cortigiane, e gli orecchini sono elementi che contribuiscono al carattere sensuale della figura. Lo stesso vale per l’attività musicale, essendo la musica fin dall’antichità considerata capace di suscitare forti emozioni, soprattutto se l’interprete è una donna.[\[10\]](applewebdata://0B344797-B49B-4CE3-B45D-A356950AF782#_ftn10)
