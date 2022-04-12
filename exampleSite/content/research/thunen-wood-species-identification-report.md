@@ -7,6 +7,7 @@ description = ""
 downloads = []
 externallinks = "Istituto Storico Austriaco - https://www.austriacult.roma.it/de/istituto-storico-austriaco && Museo Nazionale degli Strumenti Musicali - http://museostrumentimusicali.beniculturali.it/index.php?it/129/arpa-barberini &&  Eric Kleinmann - https://www.eric-harps.de && Granata, Chiara. “‘Un’arpa Grande Tutta Intagliata e Dorata’. New Documents on the Barberini Harp.” Recercare 27, no. 1/2 (2015): 139–64. - www.jstor.org/stable/26381197 && Factum Arte: Recording and Creating the Facsimile of the Barberini Harp - https://www.factum-arte.com/pag/800/recording-and-creating-the-facsimile-of-the-barberini-harp && Thünen-Institut, Institut für Holzforschung - https://www.thuenen.de/en/hf/ && Bruni, S., Gessi, A., Lazzaroni, F. et al., “Diagnostic investigations on the Barberini harp,” - https://doi.org/10.1007/s12210-020-00894-x && "
 footnotes = ""
+hide_from_research = false
 image = "/images/thunen-report-landing-image.png"
 imgcaptions = "Fig. 1 Examined components of the harp, the column (marked with 1) and the neck (marked with 2). Photo: Thünen-Institut, 2018.&&\nFig. 2 Examined component of the harp, the soundboard (marked with 3). Photo: Thünen-Institut, 2018.&&\nFig. 3 Examined component of the harp, the body (left, marked with 5) and unexamined interior of the body (right, marked with 5). Photo: Thünen-Institut, 2018.&&\nFig. 4 Examined component of the harp, the tailpieces (marked 6). Photo: Thünen-Institut, 2018.&&"
 map_tag = ["Roma", "Hamburg", "Bologna"]
