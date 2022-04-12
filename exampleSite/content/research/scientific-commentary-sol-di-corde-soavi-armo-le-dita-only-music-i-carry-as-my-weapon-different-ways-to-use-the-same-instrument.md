@@ -31,7 +31,7 @@ type = "Research"
 
 ***
 
-Sol di corde soavi armo le dita? Differenti modi di usare uno stesso strumento
+[Sol di corde soavi armo le dita? Differenti modi di usare uno stesso strumento](https://harfenlabor.netlify.app/research/sol-di-corde-soavi-armo-le-dita-differenti-modi-di-usare-uno-stesso-strumento/)
 
 ***
 
