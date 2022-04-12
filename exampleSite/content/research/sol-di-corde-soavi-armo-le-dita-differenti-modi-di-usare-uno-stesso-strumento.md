@@ -28,6 +28,10 @@ type = "Research"
 
 ***
 
+### A Scientific Commentary on [About the Barberini Harp](https://harfenlabor.netlify.app/research/barberini-harp-project-interviews-mara-galassi-and-dario-pontiggia-about-the-barberini-harp/)
+
+***
+
 Sommario:
 
 Una delle forme tipiche del sapere antico, ancora molto in uso nel primo Seicento in forma orale o scritta, è quello della disputa. Non si propone una tesi ma un confronto fra opposte opinioni.
