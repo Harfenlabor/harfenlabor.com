@@ -25,7 +25,7 @@
 
       {{ $research := .Site.GetPage "/research" }}
       {{ range $research.Data.Pages }}
-        {{ if eq .Params.project_category "Haydn’s Folk Harp" }}
+        {{ if and (not .Params.hide_from_research) (eq .Params.project_category "Haydn’s Folk Harp") }}
         {{ .Render "article" }}
         {{ end }}
       {{ end }}
