@@ -130,7 +130,7 @@ Si potrebbe pensare sia a <span id="person_tag">Bartolomeo de Rossi</span> che a
 
 ***
 
-Simili motivi di volute e racemi sono presenti nella custodia lignea che il Soria fece nel <span id="timeline_tag">1630</span> per la reliquia della cattedra Petri,<sup>16</sup> come pure in un mobile tuttora a Palazzo Barberini che custodisce un affresco di Guido Reni di un _Putto dormiente_ (fig. 10).[\[17\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn17) 
+Simili motivi di volute e racemi sono presenti nella custodia lignea che il Soria fece nel <span id="timeline_tag">1630</span> per la reliquia della cattedra Petri,<sup>16</sup> come pure in un mobile tuttora a <span id="subjects_tag">Palazzo Barberini</span> che custodisce un affresco di Guido Reni di un _Putto dormiente_.<sup>17</sup> 
 
 ***
 
