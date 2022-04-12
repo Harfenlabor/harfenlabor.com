@@ -86,7 +86,7 @@ Lo stretto rapporto del disegno con la cosiddetta arpa Barberini conservata nel 
 
 ***
 
-Era stato proprio lui il committente dello strumento, che lo diede in uso al musicista Marco Marazzoli (1619–1663), detto appunto “dell’arpa”, attivo al servizio dei Barberini come cantore, strumentista e compositore. Dopo la sua morte lo strumento ritornò in possesso al cardinale Antonio cui pervenne anche il dipinto di Lanfranco che era stato invece commissionato dal musicista all’amico pittore.
+Era stato proprio lui il committente dello strumento, che lo diede in uso al musicista <span id="person_tag">Marco Marazzoli</span> (<span id="timeline_tag">1619-1663</span>), detto appunto “dell’arpa”, attivo al servizio dei Barberini come cantore, strumentista e compositore. Dopo la sua morte lo strumento ritornò in possesso al cardinale Antonio cui pervenne anche il dipinto di Lanfranco che era stato invece commissionato dal musicista all’amico pittore.
 
 A mio avviso il disegno è proprio preparatorio per l’arpa Barberini conservata nel Museo degli Strumenti Musicali a Roma e raffigurata nel dipinto del Lanfranco.[\[7\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn7) La corrispondenza dello strumento realizzato per Antonio Barberini e l’arpa raffigurata nel dipinto risulta ovvia dai motivi figurativi perfettamente corrispondenti. Tranne la mancanza dello stemma, tutti i dettagli decorativi sono uguali e trovano riscontro nella descrizione dell’intagliatore, e perciò dubbi sull’identità dell’arpa dipinta con la cosiddetta arpa Barberini non sono giustificati dal punto di vista iconografico e visivo.
 
