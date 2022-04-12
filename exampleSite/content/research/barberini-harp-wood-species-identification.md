@@ -8,6 +8,7 @@ description = "In 2018, Harfenlabor asked Institut für Holzforschung at the Th�
 downloads = ["https://literatur.thuenen.de/digbib_extern/dn059840.pdf /images/thunen-stradivari.png", "https://www.researchgate.net/publication/331968382_3D-Reflected-Light_Microscopy_as_a_Tool_for_Wood_Identification_in_Historical_Instruments /images/3d-reflected-light-microscopy-as-a-tool.png", "https://www.openagrar.de/receive/openagrar_mods_00044559 /images/non-destructive-investigation-of-historical-instruments.png "]
 externallinks = "\n\nGranata, Chiara. “‘Un’arpa Grande Tutta Intagliata e Dorata’. New Documents on the Barberini Harp.” Recercare 27, no. 1/2 (2015): 139–64. - www.jstor.org/stable/26381197 && Museo Nazionale degli Strumenti Musicali - http://museostrumentimusicali.beniculturali.it/index.php?it/129/arpa-barberini && Thünen-Institut, Institut für Holzforschung - https://www.thuenen.de/en/hf/ && Bruni, S., Gessi, A., Lazzaroni, F. et al., “Diagnostic investigations on the Barberini harp,” - https://doi.org/10.1007/s12210-020-00894-x \n\n"
 footnotes = ""
+hide_from_research = false
 image = "/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-11_43_01_24-still079.jpg"
 imgcaptions = ""
 map_tag = ["Roma", "Hamburg"]
