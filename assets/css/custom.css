@@ -146,7 +146,7 @@
 	height: 28vh;
 	width: 2em;
 	margin-bottom: 72vh;
-	-webkit-animation: bounce 2.8s ease-in-out;
+	-webkit-animation: bounce 2.5s ease-in-out;
 }
 /*@-webkit-keyframes bounce {
   0%       { width: 2em; }
