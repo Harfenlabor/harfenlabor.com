@@ -9,6 +9,7 @@ description = "Historical harpist and researcher Chiara Granata and renowned lut
 downloads = []
 externallinks = "Granata, Chiara. “‘Un’arpa Grande Tutta Intagliata e Dorata’. New Documents on the Barberini Harp.” Recercare 27, no. 1/2 (2015): 139–64. - www.jstor.org/stable/26381197 && Pontiggia, Dario. “Barberini Harp. Data Sheets.” Recercare 27, no. 1/2 (2015): 165–84. - http://www.jstor.org/stable/26381198 && \nMuseo Nazionale degli Strumenti Musicali - http://museostrumentimusicali.beniculturali.it/index.php?it/129/arpa-barberini && Istituto Storico Austriaco - http://www.oehirom.it/it/ && Hammond, Frederick. “Some Notes on Giovanni Battista Boni Da Cortona, Girolamo Zenti, and Others.” - https://doi.org/10.2307/841168 && Bruni, S., Gessi, A., Lazzaroni, F. et al., “Diagnostic investigations on the Barberini harp,” - https://doi.org/10.1007/s12210-020-00894-x && "
 footnotes = ""
+hide_from_research = false
 image = "/images/chiara-dario-video-hold.png"
 imgcaptions = ""
 map_tag = ["Roma"]
