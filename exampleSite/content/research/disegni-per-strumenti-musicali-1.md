@@ -73,7 +73,7 @@ La proposta attributiva al Soria dell’ideazione e del progetto per l’arpa Ba
 
 [\[14\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_ednref14) DBI (_Dizionario Biografico degli Italiani_) vol. 75, Roma 2011, pp. 866–870, ad vocem Laura Marcucci.
 
-[\[15\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_ednref15) Brigitta Ringbeck, _Giovanni Battista Soria Architekt Scipione Borhgeses_, Münster 1989.
+[\[15\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_ednref15) Birgitta Ringbeck, _Giovanni Battista Soria Architekt Scipione Borhgeses_, Münster 1989.
 
 [\[16\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_ednref16) Per la custodia della cattedra del Soria, vedi Hannes Roser, “_Sankt Peter in den_ _Sacri trofei romani_ _des Francesco Maria Torrigio_”_,_ in: _Sankt Peter in Rom 1506–2006_. _Beiträge der internationalen Tagung vom 22.–25. Februar 2006 in Bonn_, ed. Georg Satzinger e Sebastian Schütze, Monaco di Baviera 2008, pp. 257–273, fig. 10 (p. 271).
 
