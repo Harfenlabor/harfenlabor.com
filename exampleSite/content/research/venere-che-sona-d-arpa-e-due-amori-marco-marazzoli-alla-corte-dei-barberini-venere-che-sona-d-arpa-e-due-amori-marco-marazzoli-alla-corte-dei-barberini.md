@@ -35,9 +35,17 @@ type = "Research"
 
 ***
 
-Il presente articolo s’incentra su un quadro di Giovanni Lanfranco oggi alla Galleria Nazionale d’Arte Antica di Palazzo Barberini
+Il presente articolo s’incentra su un quadro di <span id="subjects_tag">Giovanni Lanfranco</span> oggi alla Galleria Nazionale d’Arte Antica di Palazzo Barberini<sup>1</sup>, in cui è rappresentata un’arpa molto simile a quella tradizionalmente denominata Barberini<sup>2</sup>, oggi a Roma al Museo Nazionale degli Strumenti Musicali (fig. 2). 
 
-[\[1\]](applewebdata://0B344797-B49B-4CE3-B45D-A356950AF782#_ftn1), in cui è rappresentata un’arpa molto simile a quella tradizionalmente denominata Barberini[\[2\]](applewebdata://0B344797-B49B-4CE3-B45D-A356950AF782#_ftn2), oggi a Roma al Museo Nazionale degli Strumenti Musicali (fig. 2). Questo dipinto si era pensato a lungo essere una committenza dei Barberini al pittore Giovanni Lanfranco, finché non si scoprì che era stato lasciato in eredità ad Antonio Barberini dal celebre arpista, compositore e cantore Marco Marazzoli.[\[3\]](applewebdata://0B344797-B49B-4CE3-B45D-A356950AF782#_ftn3) L’intento è innanzitutto quello di fornire degli approfondimenti sul quadro con particolare riguardo alla rappresentazione dell’arpa e offrendo una datazione più precisa per la realizzazione del quadro. In seguito intendiamo analizzare l’opera all’interno dell’abitazione del Marazzoli, mettendola in relazione con altri dipinti ivi esposti.
+***
+
+![](/images/dif_000185_602_c.jpg)
+
+###### The Barberini Harp at the Museo Nazionale degli Strumenti Musicali (<cap>Fig. 2</cap>).
+
+***
+
+Questo dipinto si era pensato a lungo essere una committenza dei Barberini al pittore Giovanni Lanfranco, finché non si scoprì che era stato lasciato in eredità ad Antonio Barberini dal celebre arpista, compositore e cantore Marco Marazzoli.[\[3\]](applewebdata://0B344797-B49B-4CE3-B45D-A356950AF782#_ftn3) L’intento è innanzitutto quello di fornire degli approfondimenti sul quadro con particolare riguardo alla rappresentazione dell’arpa e offrendo una datazione più precisa per la realizzazione del quadro. In seguito intendiamo analizzare l’opera all’interno dell’abitazione del Marazzoli, mettendola in relazione con altri dipinti ivi esposti.
 
 **1) Il dipinto e Marco Marazzoli**
 
