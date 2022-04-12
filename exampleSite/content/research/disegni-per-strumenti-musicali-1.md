@@ -104,7 +104,7 @@ I motivi plastici e l’aspetto stilistico sono piuttosto di derivazione cortone
 
 ***
 
-I motivi architettonici, figurativi ed animaleschi si assomigliano, lo stesso vale per la tecnica mista, penna ed acquerello. Ma il disegnatore non è nemmeno Pietro da Cortona, pur se di un disegnatore a lui vicino. L’autore potrebbe naturalmente essere anche Giovanni Tubi, l’intagliatore dello strumento, tuttavia non sappiamo niente sulla sua formazione artistica nel campo del disegno. Tre progetti decorativi nella stessa collezione degli Uffizi (Inv. 1591 E; Inv. 1592 E (fig. 7); Inv. 1593 (fig. 8)) sembrano spettare allo stesso disegnatore.[\[12\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn12) 
+I motivi architettonici, figurativi ed animaleschi si assomigliano, lo stesso vale per la tecnica mista, penna ed acquerello. Ma il disegnatore non è nemmeno Pietro da Cortona, pur se di un disegnatore a lui vicino. L’autore potrebbe naturalmente essere anche Giovanni Tubi, l’intagliatore dello strumento, tuttavia non sappiamo niente sulla sua formazione artistica nel campo del disegno. Tre progetti decorativi nella stessa collezione degli Uffizi (Inv. 1591 E; Inv. 1592 E (fig. 7); Inv. 1593 (fig. 8)) sembrano spettare allo stesso disegnatore.<sup>12</sup> 
 
 ***
 
