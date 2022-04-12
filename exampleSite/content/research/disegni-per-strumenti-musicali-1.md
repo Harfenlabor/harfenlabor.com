@@ -24,11 +24,59 @@ title = "Disegni per strumenti musicali"
 type = "Research"
 
 +++
-Quadri con rappresentazioni di concerti, musicisti, strumenti musicali abbondano sia nella pittura italiana del Seicento che in quella fiamminga.[\[1\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn1) Gli strumenti musicali dipinti nei quadri spesso corrispondono a precisi esemplari di proprietà dei committenti dei quadri. E alcuni pittori si dilettavano in musica e fabbricavano strumenti musicali. Sappiamo p.e. che il Domenichino è stato costruttore e ideatore di sofisticati strumenti musicali. La sua intima conoscenza si evince dalle rappresentazioni di strumenti musicali nei suoi dipinti, p.e. l’arpa minuziosamente raffigurata nel quadro con _Il re Davide che suona l’arpa_ (fig.1).[\[2\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn2) E naturalmente rappresentazioni del re Davide sono occasioni di dipingere un’arpa. Un bel esempio ce lo mostra un foglio di Pier Francesco Mola con _L’apparizione dell’angelo a re Davide che suona l’arpa_ con un’arpa riccamente decorata, senz’altro preparatorio per un dipinto finora sconosciuto (fig. 2).[\[3\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn3)
+Quadri con rappresentazioni di concerti, musicisti, strumenti musicali abbondano sia nella pittura italiana del Seicento che in quella fiamminga.[\[1\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn1) Gli strumenti musicali dipinti nei quadri spesso corrispondono a precisi esemplari di proprietà dei committenti dei quadri. E alcuni pittori si dilettavano in musica e fabbricavano strumenti musicali. Sappiamo p.e. che il Domenichino è stato costruttore e ideatore di sofisticati strumenti musicali. La sua intima conoscenza si evince dalle rappresentazioni di strumenti musicali nei suoi dipinti, p.e. l’arpa minuziosamente raffigurata nel quadro con _Il re Davide che suona l’arpa_ (fig.1).[\[2\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn2) 
+
+***
+
+![](/images/fig-1.jpg)
+
+###### Domenichino, _Il re Davide che suona l’arpa_ (<cap>Fig. 1</cap>).
+
+***
+
+E naturalmente rappresentazioni del re Davide sono occasioni di dipingere un’arpa. Un bel esempio ce lo mostra un foglio di Pier Francesco Mola con _L’apparizione dell’angelo a re Davide che suona l’arpa_ con un’arpa riccamente decorata, senz’altro preparatorio per un dipinto finora sconosciuto (fig. 2).[\[3\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn3)
+
+***
+
+![](/images/fig-2.jpg)
+
+###### Pier Francesco Mola, _Apparizione dell’angelo a re David che suona l’arpa_ (<cap>Fig. 2</cap>).
+
+***
 
 Meno diffusi invece sono disegni preparatori per strumenti musicali, per gli intagliatori, costruttori delle casse degli strumenti. È il caso di un disegno degli Uffizi, conosciuto e pubblicato da molto tempo (fig. 3, 3a, 3b, 3c).[\[4\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn4) Già nel catalogo del Museo degli Strumenti Musicali di Roma è stato paragonato con l’arpa Barberini, ma non identificato come disegno preparatorio.[\[5\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn5)
 
-Si tratta di un progetto per un’arpa riccamente ornata ad intaglio sulla colonna di sostegno con motivi architettonici di volute e capitelli, alternati con putti, atlanti su piedistalli come divisione in tre registri, e sfingi in basso, con in alto, sulla fronte, uno stemma Barberini con le api sormontato da un cappello cardinalizio, sostenuto da un putto alato. Api sono disegnate pure sui piedistalli. Alla base del sostegno siede un satiro. La traversa superiore, di unione fra la cassa armonica ed il sostegno, finisce in una voluta formata da una sfinge. In basso a destra sotto la cassa si trova un leggero schizzo a matita nera di carattere architettonico a forma di tabernacolo o coronamento di un ciborio (fig. 4). Lo stretto rapporto del disegno con la cosiddetta arpa Barberini conservata nel Museo degli Strumenti Musicali a Roma è ovvio, e di conseguenza anche con il dipinto di Giovanni Lanfranco _Venere che suona l’arpa o la Musica_ (Galleria Nazionale d’Arte Antica, Roma) (fig. 5) proveniente dalla collezione del cardinale Antonio Barberini il Giovane.[\[6\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn6) Era stato proprio lui il committente dello strumento, che lo diede in uso al musicista Marco Marazzoli (1619–1663), detto appunto “dell’arpa”, attivo al servizio dei Barberini come cantore, strumentista e compositore. Dopo la sua morte lo strumento ritornò in possesso al cardinale Antonio cui pervenne anche il dipinto di Lanfranco che era stato invece commissionato dal musicista all’amico pittore.
+***
+
+![](/images/fig-3.jpg)
+
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa_ (<cap>Fig. 3</cap>).
+
+***
+
+Si tratta di un progetto per un’arpa riccamente ornata ad intaglio sulla colonna di sostegno con motivi architettonici di volute e capitelli, alternati con putti, atlanti su piedistalli come divisione in tre registri, e sfingi in basso, con in alto, sulla fronte, uno stemma Barberini con le api sormontato da un cappello cardinalizio, sostenuto da un putto alato. ![](/images/fig-3c-_7918.jpg)
+
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 4</cap>).
+
+***
+
+![](/images/fig-3a-7915.jpg)
+
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 5</cap>)
+
+***
+
+Api sono disegnate pure sui piedistalli. Alla base del sostegno siede un satiro. La traversa superiore, di unione fra la cassa armonica ed il sostegno, finisce in una voluta formata da una sfinge.
+
+***
+
+ ![](/images/fig-3b-7916.jpg)
+
+###### Attributed to Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 6</cap>).
+
+***
+
+In basso a destra sotto la cassa si trova un leggero schizzo a matita nera di carattere architettonico a forma di tabernacolo o coronamento di un ciborio (fig. 4). Lo stretto rapporto del disegno con la cosiddetta arpa Barberini conservata nel Museo degli Strumenti Musicali a Roma è ovvio, e di conseguenza anche con il dipinto di Giovanni Lanfranco _Venere che suona l’arpa o la Musica_ (Galleria Nazionale d’Arte Antica, Roma) (fig. 5) proveniente dalla collezione del cardinale Antonio Barberini il Giovane.[\[6\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn6) Era stato proprio lui il committente dello strumento, che lo diede in uso al musicista Marco Marazzoli (1619–1663), detto appunto “dell’arpa”, attivo al servizio dei Barberini come cantore, strumentista e compositore. Dopo la sua morte lo strumento ritornò in possesso al cardinale Antonio cui pervenne anche il dipinto di Lanfranco che era stato invece commissionato dal musicista all’amico pittore.
 
 A mio avviso il disegno è proprio preparatorio per l’arpa Barberini conservata nel Museo degli Strumenti Musicali a Roma e raffigurata nel dipinto del Lanfranco.[\[7\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_edn7) La corrispondenza dello strumento realizzato per Antonio Barberini e l’arpa raffigurata nel dipinto risulta ovvia dai motivi figurativi perfettamente corrispondenti. Tranne la mancanza dello stemma, tutti i dettagli decorativi sono uguali e trovano riscontro nella descrizione dell’intagliatore, e perciò dubbi sull’identità dell’arpa dipinta con la cosiddetta arpa Barberini non sono giustificati dal punto di vista iconografico e visivo.
 
@@ -44,9 +92,9 @@ La proposta attributiva al Soria dell’ideazione e del progetto per l’arpa Ba
 
 ***
 
-[\[1\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_ednref1) 
+[\[1\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_ednref1)
 
-[\[2\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_ednref2) 
+[\[2\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_ednref2)
 
 [\[3\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_ednref3) _Disegni del Seicento Romano_, (Gabinetto Disegni e Stampe degli Uffizi LXXX) a cura di Ursula Verena Fischer Pace, Firenze 1997, p. 133, n. 84, fig. 92, inv. 2064 F, penna e acquerello bruno, tracce di matita nera, carta grezza, 270 x 205, controfondato Pier Francesco Mola.
 
