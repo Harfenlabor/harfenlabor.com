@@ -27,6 +27,12 @@ title = "Designs for Musical Instruments"
 type = "Research"
 
 +++
+***
+
+Link to the original version, in Italian:  [Sol di corde soavi armo le dita? Differenti modi di usare uno stesso strumento](https://harfenlabor.netlify.app/research/sol-di-corde-soavi-armo-le-dita-differenti-modi-di-usare-uno-stesso-strumento/)
+
+***
+
 There is an abundance of paintings with representations of concerts, musicians, and musical instruments in the 17th century Italian and Flemish painting. Musical instruments depicted in these paintings often correspond precisely to instruments owned by the paintings’ patrons.<sup>1</sup> Some painters also enjoyed playing music and even built musical instruments themselves. <span id="person_tag">Domenichino</span>, for example, was also a builder and designer of sophisticated musical instruments. His deep knowledge in this area is reflected in the representations of musical instruments in his paintings, such as the meticulously depicted harp in the painting _Il re Davide che suona l’arpa_.<sup>2</sup>
 
 ***
