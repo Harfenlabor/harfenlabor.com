@@ -7,7 +7,7 @@ description = ""
 downloads = []
 draft = true
 externallinks = ""
-footnotes = ""
+footnotes = "1. Dipingere la musica. Musik in der Malerei des 16. und 17. Jahrhunderts, a cura di Sylvia Ferino-Pagden e Wilfried Seipel, Vienna 2001.&&\n2. Richard E. Spear, Domenichino, Yale University Press, New Haven and London 1982, vol. I Text, p. 218, n. 64; vol. II, Pl. 230. Arianna De Simone, “Domenichino e la musica”, in: Studi di Storia dell’Arte 27/2016, pp. 175–192.&&\n"
 hide_from_research = false
 image = ""
 imgcaptions = ""
@@ -45,9 +45,9 @@ La proposta attributiva al Soria dell’ideazione e del progetto per l’arpa Ba
 
 ***
 
-[\[1\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_ednref1) _Dipingere la musica. Musik in der Malerei des 16. und 17. Jahrhunderts_, a cura di Sylvia Ferino-Pagden e Wilfried Seipel, Vienna 2001.
+[\[1\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_ednref1) 
 
-[\[2\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_ednref2) Richard E. Spear, _Domenichino_, Yale University Press, New Haven and London 1982, vol. I Text, p. 218, n. 64; vol. II, Pl. 230. Arianna De Simone, “Domenichino e la musica”_,_ in: _Studi di Storia dell’Arte_ 27/2016, pp. 175–192.
+[\[2\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_ednref2) 
 
 [\[3\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_ednref3) _Disegni del Seicento Romano_, (Gabinetto Disegni e Stampe degli Uffizi LXXX) a cura di Ursula Verena Fischer Pace, Firenze 1997, p. 133, n. 84, fig. 92, inv. 2064 F, penna e acquerello bruno, tracce di matita nera, carta grezza, 270 x 205, controfondato Pier Francesco Mola.
 
@@ -67,7 +67,7 @@ La proposta attributiva al Soria dell’ideazione e del progetto per l’arpa Ba
 
 [\[11\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_ednref11) Fischer Pace, Firenze 1997, p. 41, n. 19. Una variante per la stessa mazza si trova al Victoria & Albert Museum di Londra. Peter Ward-Jackson, _Italian Drawings,_ Vol. 2: _17th–18th Century_, London 1980, p. 43, n. 681, penna, acquerello marrone, tracce di matita nera, 412 x 183 mm (Pen and ink and wash over black chalk).
 
-[\[12\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_ednref12) _Inventario 2, Disegni Esposti _**(**Gabinetto Disegni e Stampe degli Uffizi**)** a cura di Anna Maria Petrioli Tofani, Firenze 1987, pp. 660–661.
+[\[12\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_ednref12) _Inventario 2, Disegni Esposti _**(Gabinetto Disegni e Stampe degli Uffizi**) a cura di Anna Maria Petrioli Tofani, Firenze 1987, pp. 660–661.
 
 [\[13\]](applewebdata://2E47C6DC-DB73-4552-8D43-2372A8E57AD3#_ednref13) DBI (_Dizionario Biografico degli Italiani_), vol. 93, Roma 2018, pp. 373–377, ad vocem Cristiano Marchegiani.
 
