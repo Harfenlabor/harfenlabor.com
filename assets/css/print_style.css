@@ -16,7 +16,7 @@
   body{
     max-width: 100%;
   }
-  #menu_lid, #navigation, #navigation *, .TEMP_BANNER {
+  #menu_lid, #navigation, #navigation *, #navigation_mobile, #navigation_mobile *, .TEMP_BANNER {
     display: none!important;
   }
   #logo_for_print {
@@ -29,21 +29,14 @@
   }
   a {
     color: var(--purpleColor)!important;
-    text-decoration: none;
+    text-decoration: none!important;
   }
   a:focus,
   a:hover,
   a:active,
   a:visited {
     color: var(--purpleColor)!important;
-    text-decoration: underline;
-  }
-  
-  h4 {
-    border-top: 1px solid var(--purpleColor);
-  }
-  hr {
-    border-top: 1px solid transparent;
+    text-decoration: none!important;
   }
 
   .col-lg-8 {
@@ -80,12 +73,19 @@
     max-width: 80%;
     margin-left: auto;
     margin-right: auto;
-    margin-top: -0.5rem;
-    margin-bottom: 1.5rem;
+    margin-top: 1rem;
+    margin-bottom: .5rem;
+  }
+  h4 {
+    border-top: 1px solid var(--purpleColor);
+    padding-top: 1em;
+  }
+  hr {
+    border-top: 1px solid transparent;
   }
   .synopsis, .imgcaptions, .footnotes {
-    color: var(--purpleColor);
-    max-width: 90%;
+    color: black; /*var(--purpleColor)*/
+    max-width: 100%;
     padding-left: 0px;
     padding-right: 0px;
     margin-left: auto;
@@ -95,6 +95,7 @@
     line-break: normal;
     font-size: 1rem;
     line-height: 1.2rem;
+    margin-top: 1em;
   }
   .synopsis_box, .imgcaptions_box, .footnotes_box{
     position: relative;
