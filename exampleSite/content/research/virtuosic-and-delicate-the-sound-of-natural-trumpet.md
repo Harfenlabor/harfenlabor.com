@@ -38,7 +38,11 @@ To find out more about the Alpine Brass Band Academy visit [https://brassbandaca
 
 ***
 
-**Translated transcript of the podcast:**  
+**Translated transcript of the podcast:**
+
+***
+
+  
 **Margret Köll**: \[00:00:30\] Welcome Andreas!
 
 **Andreas Lackner**: \[00:00:34\] Welcome!
