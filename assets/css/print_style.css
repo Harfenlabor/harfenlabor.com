@@ -46,7 +46,7 @@
   }
 
   .offset-lg-2 {
-    margin-left: 5%!important;
+    margin-left: 0px!important;
   }
 
 
@@ -85,7 +85,7 @@
   }
   .synopsis, .imgcaptions, .footnotes {
     color: black; /*var(--purpleColor)*/
-    max-width: 90%;
+    max-width: 100%;
     padding-left: 0px;
     padding-right: 0px;
     margin-left: auto;
@@ -99,7 +99,9 @@
   }
   .synopsis_box, .imgcaptions_box, .footnotes_box{
     position: relative;
-    width: 100%;
+    -ms-flex: 0 0 90%;
+    flex: 0 0 90%;
+    max-width: 90%;
     padding-right: 0px;
     padding-left: 0px;
     margin-left: auto;
