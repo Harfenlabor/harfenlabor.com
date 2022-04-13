@@ -105,7 +105,7 @@
 {{ if eq .Type "Research" }}
 <footer id="footer_desktop">
   <div id="footer" class="foot1">
-    <p class="footer_title footitle1">{{ truncate .Params.project_category 21}}</p>
+    <p class="footer_title footitle1">{{ .Params.project_category | safeHTML | truncate 21 }}</p>
     <div class="footer_insidebox_1">
       {{ $this_proj_cat := .Params.project_category }}
       {{ range $.Param "Projects.projects" }}
