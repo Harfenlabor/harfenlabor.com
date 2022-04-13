@@ -2,7 +2,7 @@
 PublishDate = 2022-04-05T22:00:00Z
 author = "Elisabetta Frullini"
 bhp_category = "Convening"
-citation = "Elisabetta Frullini, \"'Venere che sona d’arpa e due amori': Marco Marazzoli at the Barberini Court,\" Harfenlabor, April TEST 2022, https://harfenlabor.netlify.app/research/venere-che-sona-d-arpa-e-due-amori-marco-marazzoli-at-the-barberini-court/."
+citation = "Elisabetta Frullini, \"'Venere che sona d’arpa e due amori': Marco Marazzoli alla corte dei Barberini\", Harfenlabor, April TEST 2022, https://harfenlabor.netlify.app/research/venere-che-sona-d-arpa-e-due-amori-marco-marazzoli-at-the-barberini-court/."
 description = ""
 downloads = []
 draft = true
@@ -21,7 +21,7 @@ subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Iconography", "Sociology of Art"]
 summary_text = ""
 timeline_tag = ["1575", "1671", "1500s", "1633", "1634", "1626", "1629", "1637", "1639", "1640", "1630s", "1644", "1653", "1662", "1619-1663", "1632-1633", "1636-1644"]
-title = "“Venere che sona d’arpa e due amori”: Marco Marazzoli alla corte dei Barberini“Venere che sona d’arpa e due amori”: Marco Marazzoli alla corte dei Barberini"
+title = "“Venere che sona d’arpa e due amori”: Marco Marazzoli alla corte dei Barberini"
 type = "Research"
 
 +++
