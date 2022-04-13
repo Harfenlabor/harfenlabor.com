@@ -85,7 +85,9 @@
   }
   .synopsis, .imgcaptions, .footnotes {
     color: black; /*var(--purpleColor)*/
-    max-width: 100%;
+    -ms-flex: 0 0 90%;
+    flex: 0 0 90%;
+    max-width: 90%;
     padding-left: 0px;
     padding-right: 0px;
     margin-left: auto;
@@ -107,7 +109,6 @@
     margin-left: auto;
     margin-right: auto;
     display: block;
-    background-color: grey;
   }
   .open_synopsis_box {
     display: none;
