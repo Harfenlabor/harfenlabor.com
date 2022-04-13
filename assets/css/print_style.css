@@ -1,6 +1,6 @@
 /*=== MEDIA QUERY ===*/
 :root {
-  --purpleColor: #B44BEB;
+  --purpleColor: #FF6F61;
   --greyColor: #F1F2F2;
 }
 
@@ -16,15 +16,15 @@
   body{
     max-width: 100%;
   }
-  #navigation{
-    display: none;
+  #menu_lid, #navigation, #navigation *, .TEMP_BANNER {
+    display: none!important;
   }
-  #logo_for_print{
+  #logo_for_print {
     display: block;
     width: 140px;
     position: absolute;
   }
-  #footer {
+  footer {
     display: none!important;
   }
   a {
@@ -37,6 +37,13 @@
   a:visited {
     color: var(--purpleColor)!important;
     text-decoration: underline;
+  }
+  
+  h4 {
+    border-top: 1px solid var(--purpleColor);
+  }
+  hr {
+    border-top: 1px solid transparent;
   }
 
   .col-lg-8 {
@@ -76,7 +83,7 @@
     margin-top: -0.5rem;
     margin-bottom: 1.5rem;
   }
-  .synopsis, .footnotes {
+  .synopsis, .imgcaptions, .footnotes {
     color: var(--purpleColor);
     max-width: 90%;
     padding-left: 0px;
@@ -89,7 +96,7 @@
     font-size: 1rem;
     line-height: 1.2rem;
   }
-  .synopsis_box, .footnotes_box{
+  .synopsis_box, .imgcaptions_box, .footnotes_box{
     position: relative;
     width: 100%;
     padding-right: 15px;
@@ -102,6 +109,9 @@
     display: none;
   }
   .open_footnotes_box {
+    display: none;
+  }
+  .open_imgcaptions_box {
     display: none;
   }
 }
