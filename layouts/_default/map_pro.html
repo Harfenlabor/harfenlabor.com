@@ -13,7 +13,7 @@
     </div>
   </div>
   <div class="tl_frame">
-    <div id="map" style="height:100vh"></div>
+    <div id="map" style="height:100vh; z-index: 1h"></div>
 
     {{"<!-- /section title -->" | safeHTML}}
     {{ $timelinePagination := .Site.GetPage "/research" }}
@@ -51,8 +51,8 @@
   //var marker = L.marker([51.5, -0.09]).addTo(map);
 
   var circle = L.circle([41.8933203, 12.4829321], {
-    color: var(--purpleColor),
-    fillColor: var(--purpleColor),
+    color: 'var(--purpleColor)',
+    fillColor: 'var(--purpleColor)',
     fillOpacity: 0.2,
     radius: 500,
     alt: 'Roma'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Roma</a> è un link.");
