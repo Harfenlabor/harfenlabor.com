@@ -800,7 +800,7 @@ p > img {
 /*TIMELINE PRO */
 /*#############*/
 :root {
-  --tlWidth: 150rem;
+  --tlWidth: 75rem;
   --startMargin: 1.4rem;
 }
 .radio_options {
