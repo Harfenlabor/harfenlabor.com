@@ -8,12 +8,12 @@
       <h1>{{ .Title }}</h1>
       <div class="border-meghna"></div>
       
-      <p>ciao</p>
+      <!--p>ciao</p-->
 
     </div>
   </div>
   <div class="tl_frame">
-    <div id="map" style="height:100vh; z-index: 1h"></div>
+    <div id="map" style="height:100vh; z-index: 3"></div>
 
     {{"<!-- /section title -->" | safeHTML}}
     {{ $timelinePagination := .Site.GetPage "/research" }}
@@ -40,8 +40,8 @@
 
   // Creating map options
   var mapOptions = {
-    center: [41.8933203, 12.4829321],
-    zoom: 10
+    center: [50, 12],
+    zoom: 4
   }
   var map = new L.map('map', mapOptions);
    
@@ -54,7 +54,7 @@
     color: 'var(--purpleColor)',
     fillColor: 'var(--purpleColor)',
     fillOpacity: 0.2,
-    radius: 500,
+    radius: 5000,
     alt: 'Roma'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Roma</a> è un link.");
 
 
