@@ -20,7 +20,7 @@ subjects_tag = []
 subtype = ["Organology", "Performance Practice"]
 summary_text = ""
 timeline_tag = []
-title = "Virtuosic and Delicate--the Sound of Natural Trumpet"
+title = "Virtuosic and Delicate—the Sound of Natural Trumpet"
 type = "Research"
 
 +++
