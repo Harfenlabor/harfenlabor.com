@@ -12,7 +12,7 @@ hide_from_research = false
 image = "/images/5-francois-colignon-after-andrea-sacchi-ship-of-bacchus-on-the-piazza-navona-bei-the-jousting-tournament-la-giostra-del-sarracino-1634.jpg"
 imgcaptions = "Fig. 1 François Collignon after Andrea Sacchi, <i>La nave di Bacco</i> [Ship of Bacchus]. 1634, Etching, 41 x 44 cm, in Guido Bentivoglio, <i>Festa fatta in Roma alli 25 di febraio MDCXXXIV</i> (Roma: Vitale Mascardi, 1635).&&"
 map_tag = ["Roma", "Città del Vaticano"]
-person_tag = ["Chiara Granata", "Stefano Landi", "Marco Marazzoli", "François Collignon", "Andrea Sacchi", "Francesco Farnese", "Dorothea-Sophie"]
+person_tag = ["Chiara Granata", "Stefano Landi", "Marco Marazzoli", "François Collignon", "Andrea Sacchi", "Francesco Farnese", "Dorothea-Sophie", "Mara Galassi", "Dario Pontiggia"]
 project_category = "Barberini Harp Project"
 relatedresearch = ["About the Barberini Harp", "What We Know, and What We still Do Not Understand about the Barberini Harp", "Designs for Musical Instruments", "Two Souls of a Harp", "Venere che sona d’arpa e due amori”:&&Marco Marazzoli at the Barberini Court"]
 show_in_news = true
@@ -25,7 +25,7 @@ title = "\"My Hands are Armed with Nought but Sweet-toned Strings?\" Different W
 type = "Research"
 
 +++
-### A Scientific Commentary on [About the Barberini Harp](https://harfenlabor.netlify.app/research/barberini-harp-project-interviews-mara-galassi-and-dario-pontiggia-about-the-barberini-harp/)
+### Scientific commentary on [About the Barberini Harp](https://harfenlabor.netlify.app/research/barberini-harp-project-interviews-mara-galassi-and-dario-pontiggia-about-the-barberini-harp/)
 
 ***
 
