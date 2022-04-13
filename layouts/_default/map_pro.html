@@ -40,17 +40,25 @@
 
   // Creating map options
   var mapOptions = {
-    center: [17.385044, 78.486671],
+    center: [50.4501, 30.5234],
     zoom: 10
   }
    
   // Creating a map object
   var map = new L.map('map', mapOptions);
    
-  // Creating a Layer object
   var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
-   
-  // Adding layer to the map
   map.addLayer(layer);
+
+  //var marker = L.marker([51.5, -0.09]).addTo(map);
+
+  var marker = L.marker([50.4501, 30.5234], {alt: 'Roma'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Roma</a> è un link.");
+
+
+  var address = 'Roma';
+  $.get(location.protocol + '//nominatim.openstreetmap.org/search?format=json&q='+address, function(data){
+       console.log(data);
+    });
+
 </script>
 {{ end }}
