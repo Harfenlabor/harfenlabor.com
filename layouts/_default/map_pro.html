@@ -40,8 +40,8 @@
 
   // Creating map options
   var mapOptions = {
-    center: [50, 12],
-    zoom: 4
+    center: [46, 12],
+    zoom: 5
   }
   var map = new L.map('map', mapOptions);
    
@@ -54,7 +54,7 @@
     color: 'var(--purpleColor)',
     fillColor: 'var(--purpleColor)',
     fillOpacity: 0.2,
-    radius: 5000,
+    radius: 6000, /*rendi relativa a quanti articoli ne parlano!*/
     alt: 'Roma'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Roma</a> è un link.");
 
 
