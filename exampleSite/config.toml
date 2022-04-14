@@ -111,6 +111,22 @@ google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
 [[params.Coordinates.coordinates]]
+latitude = "42.227681"
+longitude = "13.854983"
+place = "Abruzzo"
+[[params.Coordinates.coordinates]]
+latitude = "48.3668041"
+longitude = "10.8986971"
+place = "Augsburg"
+[[params.Coordinates.coordinates]]
+latitude = "43.9492493"
+longitude = "4.8059012"
+place = "Avignon"
+[[params.Coordinates.coordinates]]
+latitude = "39.2908816"
+longitude = "-76.610759"
+place = "Baltimore"
+[[params.Coordinates.coordinates]]
 latitude = "52.5170365"
 longitude = "13.3888599"
 place = "Berlin"
@@ -118,6 +134,10 @@ place = "Berlin"
 latitude = "44.494190"
 longitude = "11.346520"
 place = "Bologna"
+[[params.Coordinates.coordinates]]
+latitude = "50.8465573"
+longitude = "4.351697"
+place = "Bruxelles"
 [[params.Coordinates.coordinates]]
 latitude = "50.938361"
 longitude = "6.959974"
