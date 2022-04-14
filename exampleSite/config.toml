@@ -122,6 +122,14 @@ title = "Barberini Harp Project"
 [[params.Projects.projects]]
 description = "Historical harp practice demands an ongoing engagement between scientific knowledge and artistic creation. Harfenlabor Lectures series offers a space for sharing multi-disciplinary knowledge on Historical Harp, whilst encouraging and supporting discussion and debate among diverse musicians, scientists, artists and instrument makers."
 title = "Harfenlabor Lectures"
+[[params.Coordinates.coordinates]]
+place = "Roma"
+latitude = "41.890560"
+longitude = "12.494270"
+[[params.Coordinates.coordinates]]
+place = "Bologna"
+latitude = "44.494190"
+longitude = "11.346520"
 [params.cookies]
 enable = false
 expire_days = 2
