@@ -90,7 +90,7 @@
     var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
     map.addLayer(layer);
 
-    var radiusSize = 10000;
+    var radiusSize = 4000;
     var coordinates = Object.values({{ site.Params.Coordinates }})[0];
     /*console.log(coordinates);
     console.log(coordinates[0]);
@@ -101,16 +101,20 @@
         if ((coordinates[i].place).includes(sortedNames[j].name)){
           //console.log(coordinates[i].place, sortedNames[j].name);
           //console.log(coordinates[i].latitude, coordinates[i].longitude);
-          console.log("? ", sortedNames[j]);
+          //console.log("? ", sortedNames[j]);
+
+          let linkList = "";
+          for (var x = 0; x < sortedNames[j].link.length; x++) {
+            text += "<a href='"+sortedNames[j].link[x]+"'>"+sortedNames[j].title[x]+"</a>";
+            text += "<br>";
+          }
 
           var circle = L.circle([coordinates[i].latitude, coordinates[i].longitude], {
           color: 'var(--purpleColor)',
           fillColor: 'var(--purpleColor)',
           fillOpacity: 0.2,
-          radius: (radiusSize+(radiusSize*(0.2*sortedNames[j].link.length))),
-          alt: coordinates[i].place}).addTo(map).bindPopup(
-          "<span>"+coordinates[i].place+"</span><br>"
-          );  
+          radius: (radiusSize+(radiusSize*(0.4*sortedNames[j].link.length))),
+          alt: coordinates[i].place}).addTo(map).bindPopup("<span>"+coordinates[i].place+"</span><br>"+linkList);  
         }
       }
     }
