@@ -69,10 +69,10 @@
       }
     }
     
-    /*const sortedNames = allNames_map.map((key, ind) => ({ 'name': key, 'link': [allLinks_map[ind]], 'title': [allTitles_map[ind]]}));
+    const sortedNames = allNames_map.map((key, ind) => ({ 'name': key, 'link': [allLinks_map[ind]], 'title': [allTitles_map[ind]]}));
     sortedNames.sort((a, b) => (a.name > b.name) ? 1 : -1);
     //adjust, remove duplicates
-    for (var i = 0; i < sortedNames.length; i++) {
+    /*for (var i = 0; i < sortedNames.length; i++) {
       if ((i != 0)&&(sortedNames[i].name == sortedNames[i-1].name)){
         sortedNames[i-1].link.push(sortedNames[i].link[0]);
         sortedNames[i-1].title.push(sortedNames[i].title[0]);
