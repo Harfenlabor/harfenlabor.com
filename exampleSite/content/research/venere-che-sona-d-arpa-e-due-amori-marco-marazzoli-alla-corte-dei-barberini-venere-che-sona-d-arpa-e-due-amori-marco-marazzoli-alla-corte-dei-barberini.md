@@ -35,7 +35,7 @@ type = "Research"
 
 ***
 
-Il presente articolo s’incentra su un quadro di <span id="subjects_tag">Giovanni Lanfranco</span> oggi alla Galleria Nazionale d’Arte Antica di Palazzo Barberini<sup>1</sup>, in cui è rappresentata un’arpa molto simile a quella tradizionalmente denominata Barberini<sup>2</sup>, oggi a <span id="map_tag">Roma</span> al Museo Nazionale degli Strumenti Musicali. 
+Il presente articolo s’incentra su un quadro di <span id="subjects_tag">Giovanni Lanfranco</span> oggi alla Galleria Nazionale d’Arte Antica di Palazzo Barberini<sup>1</sup>, in cui è rappresentata un’arpa molto simile a quella tradizionalmente denominata Barberini<sup>2</sup>, oggi a <span id="map_tag">Roma</span> al Museo Nazionale degli Strumenti Musicali.
 
 ***
 
@@ -51,7 +51,7 @@ Questo dipinto si era pensato a lungo essere una committenza dei Barberini al pi
 
 L’umanista <span id="person_tag">Sabba Castiglione</span> nei suoi _Ricordi_ pubblicati nel 1575 scrive a proposito degli strumenti che adornano le dimore di molte persone: “quali ornamenti io certo commendo assai perché questi tali istrumenti dilettano molto all’orecchio, e ricreano molto gli animi, i quali come diceva Platone, si ricordano dell’armonia la qual nasce da i moti delli circoli celesti: ancora piacciono assai a l’occhio, quando sono diligentemente e per mano d’eccellenti maestri lavorati”<sup>4</sup>. L’importanza dello strumento come oggetto non solo da suonare ma anche da guardare si rafforza nel secolo successivo tanto che il celebre teorico <span id="person_tag">Giovanni Battista Doni</span> scrive nel suo _Trattato della musica scenica_: “Facendosi dunque apparire gli strumenti alla vista del popolo è convenevole aver riguardo che abbiano bella e graziosa apparenza \[…\] perché un’arpa indorata fa bellissima vista e il suo suono si sente e meglio si unisce alla voce umana; e insomma ha più del grande e del nobile che gli strumenti da tasti \[…\].”<sup>5</sup> Ed è forse proprio il fatto che gli strumenti vengano rappresentati in dipinti (e che dipinti se si guarda quello appartenuto al Marazzoli!) che rende ancora più chiara l’importanza estetica di questi oggetti. Il quadro di Giovanni Lanfranco rappresenta una donna vestita di un drappo blu, molto ampio e voluminoso, che la cinge fino alla vita. Sta suonando un’arpa doppia, dalla colonna tutta intagliata e dorata, il viso rivolto verso lo spettatore nell’atto di cantare. Sulla destra in secondo piano due amorini alati si uniscono a lei nel canto leggendo un foglio di musica, mentre un grande drappo di broccato rosso sulla sinistra fa da sfondo alla scena. Già il soggetto di per sé è interessante. Di cosa si tratta?
 
-Il quadro era noto, prima che <span id="person_tag">Franca Trinchieri Camiz</span> lo riconoscesse menzionato nel testamento di Marco Marazzoli<sup>6</sup>, come un’allegoria della musica o, semplicemente, “la musica” <sup>7</sup>. Il Marazzoli invece, che fu il primo proprietario del dipinto, lo descrive come: una <span id="subjects_tag">“Venere che sona d’arpa e due Amori</span>”<sup>8</sup>. Che si tratta di Venere lo dimostrano solo i due amorini in secondo piano, poiché la donna non ha attributi che la caratterizzino come tale. Certo l’iconografia di Venere musicista è insolita. Se è vero che viene accostata alla musica per esempio nel celebre dipinto di <span id="person_tag">Tiziano</span> con la _Venere e il suonatore di liuto_, è raro che sia ella stessa rappresentata nell’atto di suonare. 
+Il quadro era noto, prima che <span id="person_tag">Franca Trinchieri Camiz</span> lo riconoscesse menzionato nel testamento di Marco Marazzoli<sup>6</sup>, come un’allegoria della musica o, semplicemente, “la musica” <sup>7</sup>. Il Marazzoli invece, che fu il primo proprietario del dipinto, lo descrive come: una <span id="subjects_tag">“Venere che sona d’arpa e due Amori</span>”<sup>8</sup>. Che si tratta di Venere lo dimostrano solo i due amorini in secondo piano, poiché la donna non ha attributi che la caratterizzino come tale. Certo l’iconografia di Venere musicista è insolita. Se è vero che viene accostata alla musica per esempio nel celebre dipinto di <span id="person_tag">Tiziano</span> con la _Venere e il suonatore di liuto_, è raro che sia ella stessa rappresentata nell’atto di suonare.
 
 ***
 
@@ -61,7 +61,7 @@ Il quadro era noto, prima che <span id="person_tag">Franca Trinchieri Camiz</spa
 
 ***
 
-Tra l’altro è il caso di notare che la _Venere_ del Marazzoli perde la sua connotazione nel momento in cui entra nelle collezioni Barberini, dove è inventariata a partire dal <span id="timeline_tag">1671</span> come una “donna grande al naturale che suona l’Arpa mezza nuda mano del Cav. Lanfranco”<sup>9</sup>. Il quadro si può mettere in relazione con le rappresentazioni di donne veneziane (il più delle volte cortigiane), particolarmente in voga nel ‘500, rappresentate mentre suonano uno strumento, solitamente un liuto. Spesso assumevano la connotazione di Venere, dea dell’amore, in virtù del carattere erotico dell’immagine. Come nel caso dei dipinti veneziani la donna appare molto ‘reale’; ha una capigliatura alla moda che ritroviamo in altre opere dei primi anni ’30 del Seicento. 
+Tra l’altro è il caso di notare che la _Venere_ del Marazzoli perde la sua connotazione nel momento in cui entra nelle collezioni Barberini, dove è inventariata a partire dal <span id="timeline_tag">1671</span> come una “donna grande al naturale che suona l’Arpa mezza nuda mano del Cav. Lanfranco”<sup>9</sup>. Il quadro si può mettere in relazione con le rappresentazioni di donne veneziane (il più delle volte cortigiane), particolarmente in voga nel ‘500, rappresentate mentre suonano uno strumento, solitamente un liuto. Spesso assumevano la connotazione di Venere, dea dell’amore, in virtù del carattere erotico dell’immagine. Come nel caso dei dipinti veneziani la donna appare molto ‘reale’; ha una capigliatura alla moda che ritroviamo in altre opere dei primi anni ’30 del Seicento.
 
 ***
 
@@ -102,3 +102,49 @@ Concludendo, il quadro di Lanfranco appare come un omaggio a Marazzoli ed alle s
 ***
 
 ***
+
+###### Bibliografia
+
+###### Barb.lat. 4209. Archivio Barberini, Biblioteca Apostolica Vaticana. Città del Vaticano.
+
+###### Bruno, Silvia. “Musici e pittori tra Firenze e Roma nel secondo quarto del Seicento.“ _Studi Secenteschi_ 49 (2008): 204.
+
+###### Calenne, Luca e Maria Cristina Paciello. "Pittor de’ gli orecchi è Rodomonte. Ricerche su Domenico Palombi, Musico e Pittore del ‘600.“ _Annali della Pontificia Insigne Accademia di Belle Arti e Lettere dei Virtuosi al Pantheon_ 12 (2012): 241–264, 449–463.
+
+###### Castiglione, Sabba. _Ricordi, overo Ammaestramenti_. Venezia, 1575.
+
+###### Daolmi, Davide. "L’armi e gli amori". Un’opera di cappa e spada nella Roma di mezzo Seicento.” PhD diss., Università degli studi di Roma "La Sapienza", 2001. [http://www.examenapium.it/armi/marazzoli.pdf](http://www.examenapium.it/armi/marazzoli.pdf "http://www.examenapium.it/armi/marazzoli.pdf").
+
+###### Doni, Giovanni Battista. _Lyra Barberina amphicordos. De’ trattati di musica_, vol. 2. Firenze, 1763.
+
+###### Databases. Getty Provenance Index. The Getty Research Institute. [https://www.getty.edu/research/tools/provenance/search.html](https://www.getty.edu/research/tools/provenance/search.html "https://www.getty.edu/research/tools/provenance/search.html").
+
+###### Granata, Chiara. “‘Un’arpa grande tutta intagliata e dorata’. New documents on the Barberini harp.” _Recercare_ 27, 1/2 (2015): 139–164. [https://www.jstor.org/stable/26381197](https://www.jstor.org/stable/26381197 "https://www.jstor.org/stable/26381197").
+
+###### Haiduk, Marina. Nel _Wege des Barock. Die Nationalgalerien Barberini Corsini in Rom_, edited by Ortrud Westheider and Michael Philipp. München, London, New York: Prestel, 2019.
+
+###### Hess, Jakob ed. _Die Künstlerbiographien des Giovanni Battista Passeri. Nach den Handschriften des Autors_. Leipzig: Keller, 1934.
+
+###### Lionnet, Jean. “Andrè Maugars: risposta data a un curioso sul sentimento della musica in Italia.” _Nuova rivista musicale italiana_ 19, 4 (1985): 691, note 12.
+
+###### Marazzoli, Marco. _Oratorio di Santa Caterina_. Nel _Reliquie di Roma II: Caro sposo_. Atalante (ensemble), Erin Headley (director). Destino Classics/Nimbus Alliance NI 6185, 2012. CD.
+
+###### Mochi Onori, Lorenza e Rossella Vodret Adamo. _Galleria Nazionale d’Arte Antica – Palazzo Barberini – I dipinti. Catalogo sistematico_. Roma: L’Erma di Bretschneider, 2008.
+
+###### Mochi Onori, Lorenza e Rossela Vodret Adamo. _La Galleria Nazionale d’Arte Antica, Regesto delle didascalie_. Roma: Palombi, 1989.
+
+###### Morelli, Arnaldo. “Carlo Rainaldi musicista gentiluomo. Una riconsiderazione e qualche novità.” Nel _La festa delle arti. Scritti in onore di Marcello Fagiolo per cinquant’anni di studi_, edito da Vincenzo Cazzato, Sebastiano Roberto, Mario Bevilacqua, 432–435. Roma: Gangemi, 2001.
+
+###### Morelli, Arnaldo. “Marco Marazzoli.” Nel _Dizionario Biografico degli Italiani_, edito da Alberto M. Ghisalberti, vol. 69, 466–471. Roma: Istituto della Enciclopedia Italiana, 2007.
+
+###### Notai segretari e cancellieri della Reverenda Camera Apostolica, vol. 2082. Archivio di Stato di Roma.
+
+###### Simi Bonini, Eleonora. “Uno strumento e la sua storia: l’arpa Barberini,” _Nuova rivista musicale italiana_ XLVI (2012): 205–226.
+
+###### Speck, Christian. _Das italienische Oratorium, 1625–1665: Musik und Dichtung_. Turnhout: Brepols, 2003.
+
+###### Tezi, Girolamo. _Aedes Barberinae ad Quirinalem descriptae_, edito da Lucia Faedo. Pisa: Ed. della Normale, 2005.
+
+###### Trinchieri Camiz, Franca. “Una Venere, un’Erminia, una Cleopatra di Giovanni Lanfranco in un documento inedito.” _Bollettino d’arte_ 67 (1991): 165–168.
+
+###### Ziane, Alexandra. “Santa o cortigiana? La figura della donna musicista dopo i suonatori di liuto di Caravaggio.” Nel _La musica al tempo di Caravaggio_, edito da Stefania Macioce and Enrico de Pascale, 149–164. Roma: Gangemi, 2012.
