@@ -86,8 +86,10 @@
         i = i-1;
       }
     }
+
+    console.log({{ site.Params.Coordinates }});
     
-    console.log(sortedNames.length);
+    //console.log(sortedNames.length);
     /*for (var i = 0; i < sortedNames.length; i++) {
       var address = sortedNames[i].name;
       console.log(address);
@@ -105,26 +107,26 @@
     //return false;
   }
 
-var circle = L.circle([48, 14], {
-color: 'var(--purpleColor)',
-fillColor: 'var(--purpleColor)',
-fillOpacity: 0.2,
-radius: 10000, //rendi relativa a quanti articoli ne parlano!
-alt: 'posto'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Questo</a> è un link.");
+  var circle = L.circle([48, 14], {
+  color: 'var(--purpleColor)',
+  fillColor: 'var(--purpleColor)',
+  fillOpacity: 0.2,
+  radius: 10000, //rendi relativa a quanti articoli ne parlano!
+  alt: 'posto'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Questo</a> è un link.");
 
-var circle = L.circle([46, 16], {
-color: 'var(--purpleColor)',
-fillColor: 'var(--purpleColor)',
-fillOpacity: 0.2,
-radius: 10000, //rendi relativa a quanti articoli ne parlano!
-alt: 'posto'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Questo</a> è un link.");
+  var circle = L.circle([46, 16], {
+  color: 'var(--purpleColor)',
+  fillColor: 'var(--purpleColor)',
+  fillOpacity: 0.2,
+  radius: 10000, //rendi relativa a quanti articoli ne parlano!
+  alt: 'posto'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Questo</a> è un link.");
 
-var circle = L.circle([44, 20], {
-color: 'var(--purpleColor)',
-fillColor: 'var(--purpleColor)',
-fillOpacity: 0.2,
-radius: 10000, //rendi relativa a quanti articoli ne parlano!
-alt: 'posto'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Questo</a> è un link.");
+  var circle = L.circle([44, 20], {
+  color: 'var(--purpleColor)',
+  fillColor: 'var(--purpleColor)',
+  fillOpacity: 0.2,
+  radius: 10000, //rendi relativa a quanti articoli ne parlano!
+  alt: 'posto'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Questo</a> è un link.");
 
 </script>
 {{ end }}
