@@ -182,7 +182,7 @@ La proposta attributiva al Soria dell’ideazione e del progetto per l’arpa Ba
 
 ###### De Simone, Arianna. "Domenichino e la musica." _Studi di Storia dell’Arte_ 27 (2016): 175-192.
 
-###### _Dizionario Biografico degli Italiani_. Volume 75, 2011; Volume 93, 2018.
+###### _Dizionario Biografico degli Italiani_. Vol. 75, 2011; Vol. 93, 2018.
 
 ###### Faletti, Franca and Renato Meucci, Gabriele Rossi-Rognoni, eds. _Meraviglie sonore. Strumenti Musicali Del Barocco Italiano._ Firenze: Giunti, 2007.
 
