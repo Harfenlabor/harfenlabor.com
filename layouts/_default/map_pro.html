@@ -92,9 +92,11 @@
     var coordinates = {{ site.Params.Coordinates }};
     for (var i = 0; i < coordinates.length; i++){
       for (var j = 0; j < sortedNames.length; j++) {
-        if (coordinates[i].includes(sortedNames[j].name)){
+        if ((coordinates[i].place).includes(sortedNames[j].name)){
           console.log(sortedNames[j].name);
           console.log(coordinates[i].latitude, coordinates[i].longitude);
+        } else {
+          console.log(coordinates[i].place, sortedNames[j].name);
         }
         /*var address = sortedNames[j].name;
         $.get('https://nominatim.openstreetmap.org/search?format=json&q=Firenze', function(data){
