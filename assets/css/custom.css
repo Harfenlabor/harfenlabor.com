@@ -1098,6 +1098,24 @@ label.tl_label {
 }
 
 
+/*#############*/
+/*###  MAP  ###*/
+/*#############*/
+#map {
+	z-index: 3;
+	position: relative;
+	background-color: var(--greyColor);
+	height: calc(100vh - 15.8em);
+	overflow: auto;
+	margin-right: 0px;
+	margin-left: 0px;
+	outline: none;
+}
+
+.leaflet-tile-pane {
+	filter: grayscale();
+}
+
 
 /*#############*/
 /*MEDIA QUERIES*/
