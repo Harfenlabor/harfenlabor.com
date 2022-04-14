@@ -165,7 +165,7 @@ The proposal to attribute the conception and design of the Barberini Harp to Sor
 
 ###### Cervelli, Luisa, ed. _La Galleria Armonica, Catalogo del Museo degli Strumenti Musicali di Roma_. Roma: IPZS, 1994.
 
-###### De Simone, Arianna. "Domenichino and Music." _Studies in Art History_ 27 (2016): 175-192.
+###### De Simone, Arianna. "Domenichino e la musica." _Studi di Storia dell’Arte_ (2016): 175-192.
 
 ###### _Dizionario Biografico degli Italiani_. Volume 75, 2011; Volume 93, 2018.
 

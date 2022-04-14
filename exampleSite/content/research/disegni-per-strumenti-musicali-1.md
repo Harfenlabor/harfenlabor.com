@@ -155,3 +155,41 @@ L’apprendistato presso Giovanni Battista Montano e da Antonio Pomarancio era g
 La proposta attributiva al Soria dell’ideazione e del progetto per l’arpa Barberini trova infine una sua ulteriore giustificazione nello stretto rapporto dell’artista con le committenze barberiniane per i lavori a S. Pietro e a palazzo Barberini.
 
 ***
+
+###### Bibliografia
+
+###### Cervelli, Luisa, ed. _La Galleria Armonica, Catalogo del Museo degli Strumenti Musicali di Roma_. Roma: IPZS, 1994.
+
+###### De Simone, Arianna. "Domenichino e la musica." _Studi di Storia dell’Arte_ 27 (2016): 175-192.
+
+###### _Dizionario Biografico degli Italiani_. Volume 75, 2011; Volume 93, 2018.
+
+###### Faletti, Franca and Renato Meucci, Gabriele Rossi-Rognoni, eds. _Meraviglie sonore. Strumenti Musicali Del Barocco Italiano._ Firenze: Giunti, 2007.
+
+###### Ferino-Pagden, Sylvia and Wilfried Seipel, eds. _Dipingere la musica. Musik in der Malerei des 16. und 17. Jahrhunderts_. Wien: Kunsthistorischen Museum Wien, 2001.
+
+###### Fischer Pace, Ursula Verena. _Disegni del Seicento Romano_. Firenze: Olschki, 1997.
+
+###### Gonzáles Palacios, Alvar. “Avvio allo studio della mobilia romana.” Introduction to _Il Mobile Romano_, by Goffredo Lizzani. Milano: Görlich, 1970.
+
+###### Granata, Chiara. “'Un arpa grande tutta intagliata e dorata'. New documents on the Barberini harp.” _Recercare_ XXVII (2015): 139 – 164. [https://www.jstor.org/stable/26381197.](https://www.jstor.org/stable/26381197. "https://www.jstor.org/stable/26381197.")
+
+###### Marcucci, Luisa. _Mostra di Strumenti musicali in disegni degli Uffizi_. Firenze: Olschki, 1952.
+
+###### Onori, Lorenza Mochi and Rosella Vodret Adamo. _Galleria Nazionale d’Arte Antica. I Dipinti. Catalogo sistematico_. Roma: L'Erma di Bretschneider, 2008.
+
+###### Ringbeck, Birgitta. _Giovanni Battista Soria Architekt Scipione Borgheses_. Münster: Lit, 1989.
+
+###### Roser, Hannes. "_Sankt Peter in den Sacri trofei romani des Francesco Maria Torrigio._" In _Sankt Peter in Rom 1506 – 2006. Beiträge der internationalen Tagung vom 22. – 25. Februar 2006 in Bonn_, edited by Georg Satzinger and Sebastian Schütze,  257-273, 271, fig. 10. München: Hirmer, 2008.
+
+###### Schleier, Erich, ed. _Disegni di Giovanni Lanfranco (1582 – 1647)_. Firenze: Olschki, 1983.
+
+###### Schleier, Erich, ed. _Giovanni Lanfranco. Un pittore barocco tra Parma, Roma e Napoli_. Milano: Electa, 2001.
+
+###### Spear, Richard E. _Domenichino_. New Haven and London: Yale University Press, 1982.
+
+###### Tofani Petrioli, Annamaria, ed. _Inventario 2, Disegni Esposti_. Firenze: Olschki, 1987.
+
+###### Ward–Jackson, Peter. _Italian Drawings, Vol. Two: 17th – 18th Century_. London: HMSO, 1980.
+
+###### Wolfe, Karin. "Ten days in the life of a Cardinal Nephew at the Court of Pope Urban VIII: Antonio Barberini’s Diary of December 1630," in _I Barberini e la Cultura Europea Del Seicento: Atti del convegno internazionale Palazzo Barberini alle Quattro Fontane, 7–11 dicembre 2004_, edited by Lorenza Mochi Onori, Sebastian Schütze, Francesco Solinas, 253–261. Roma: De Luca Editori D'Arte, 2007.
