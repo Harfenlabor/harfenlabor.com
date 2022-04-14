@@ -98,20 +98,17 @@
     for (var i = 0; i < coordinates.length; i++){
       for (var j = 0; j < sortedNames.length; j++) {
         if ((coordinates[i].place).includes(sortedNames[j].name)){
-          console.log(coordinates[i].place, sortedNames[j].name);
-          console.log(coordinates[i].latitude, coordinates[i].longitude);
+          //console.log(coordinates[i].place, sortedNames[j].name);
+          //console.log(coordinates[i].latitude, coordinates[i].longitude);
+          console.log(sortedNames[j]);
 
           var circle = L.circle([coordinates[i].latitude, coordinates[i].longitude], {
           color: 'var(--purpleColor)',
           fillColor: 'var(--purpleColor)',
           fillOpacity: 0.2,
-          radius: 10000, //rendi relativa a quanti articoli ne parlano!
+          radius: 20000, //rendi relativa a quanti articoli ne parlano!
           alt: coordinates[i].place}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>"+coordinates[i].place+"</a> è un link.");
-
-          console.log("ok");
           
-        } else {
-          console.log("nope");
         }
       }
     }
