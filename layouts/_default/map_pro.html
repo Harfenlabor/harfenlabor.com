@@ -87,10 +87,8 @@
       }
     }
 
-    //console.log({{ site.Params.Coordinates }});
-    //console.log(sortedNames.length);
-    var coordinates = Object.values({{ site.Params.Coordinates }})[0];
 
+    var coordinates = Object.values({{ site.Params.Coordinates }})[0];
     /*console.log(coordinates);
     console.log(coordinates[0]);
     console.log(coordinates[1]);*/
@@ -107,12 +105,12 @@
           console.log(lat);
           console.log(lon);
 
-          /*var circle = L.circle([52.5170365, 13.3888599], {
+          var circle = L.circle([52.5170365, 13.3888599], {
           color: 'var(--purpleColor)',
           fillColor: 'var(--purpleColor)',
           fillOpacity: 0.2,
           radius: 10000, //rendi relativa a quanti articoli ne parlano!
-          alt: 'Berlin'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Berlin</a> è un link.");*/
+          alt: 'Berlin'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Berlin</a> è un link.");
 
           console.log("ok");
           
@@ -121,7 +119,7 @@
         }
       }
     }
-    //return false;
+    return false;
   }
 
   var circle = L.circle([48, 14], {
