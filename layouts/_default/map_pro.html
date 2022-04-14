@@ -91,6 +91,9 @@
     //console.log(sortedNames.length);
     var coordinates = {{ site.Params.Coordinates }};
     console.log("1 ", coordinates);
+    console.log("b ", coordinates.length);
+    console.log("c ", coordinates[0]);
+    console.log("d ", coordinates[1]);
     for (var i = 0; i < coordinates.length; i++){
       for (var j = 0; j < sortedNames.length; j++) {
         if ((coordinates[i].place).includes(sortedNames[j].name)){
