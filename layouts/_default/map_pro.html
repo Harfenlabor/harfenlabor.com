@@ -105,15 +105,15 @@
 
           let linkList = "";
           for (var x = 0; x < sortedNames[j].link.length; x++) {
-            linkList += "<a href='"+sortedNames[j].link[x]+"'>"+sortedNames[j].title[x]+"</a>";
+            linkList += "<a href='"+sortedNames[j].link[x]+"'>"+sortedNames[j].title[x].replaceAll('&&',' ')+"</a>";
             linkList += "<br>";
+            console.log(sortedNames[j].title[x]);
           }
 
           var circle = L.circle([coordinates[i].latitude, coordinates[i].longitude], {
           color: 'var(--purpleColor)',
           fillColor: 'var(--purpleColor)',
           fillOpacity: 0.2,
-          zIndex: (50-(sortedNames[j].link.length)),
           radius: (radiusSize+(radiusSize*(0.4*sortedNames[j].link.length))),
           alt: coordinates[i].place}).addTo(map).bindPopup("<span>"+coordinates[i].place+"</span><br>"+linkList);  
         }
