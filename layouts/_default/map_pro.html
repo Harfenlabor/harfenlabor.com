@@ -91,34 +91,29 @@
     //console.log(sortedNames.length);
     var coordinates = Object.values({{ site.Params.Coordinates }})[0];
 
-    console.log(coordinates);
+    /*console.log(coordinates);
     console.log(coordinates[0]);
-    console.log(coordinates[1]);
-    
+    console.log(coordinates[1]);*/
 
     for (var i = 0; i < coordinates.length; i++){
       for (var j = 0; j < sortedNames.length; j++) {
         if ((coordinates[i].place).includes(sortedNames[j].name)){
-          console.log(sortedNames[j].name);
+          console.log(coordinates[i].place, sortedNames[j].name);
           console.log(coordinates[i].latitude, coordinates[i].longitude);
           console.log("2 ", coordinates);
-        } else {
-          console.log(coordinates[i].place, sortedNames[j].name);
-          console.log("3 ", coordinates);
-        }
-        /*var address = sortedNames[j].name;
-        $.get('https://nominatim.openstreetmap.org/search?format=json&q=Firenze', function(data){
-          console.log(data[0].lat, data[0].lon);
-          var circle = L.circle([data[0].lat, data[0].lon], {
+          
+          
+          var circle = L.circle([coordinates[i].latitude, coordinates[i].longitude], {
           color: 'var(--purpleColor)',
           fillColor: 'var(--purpleColor)',
           fillOpacity: 0.2,
           radius: 10000, //rendi relativa a quanti articoli ne parlano!
-          alt: address}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>"+address+"</a> è un link.");
-        });*/
-        console.log("4 ", coordinates, sortedNames[j]);
+          alt: coordinates[i].place}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>"+coordinates[i].place+"</a> è un link.");
+          
+        } else {
+          console.log("nope");
+        }
       }
-      console.log("5 ", coordinates, coordinates[i]);
     }
     //return false;
   }
