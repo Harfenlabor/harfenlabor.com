@@ -10,7 +10,7 @@
       <!--p>ciao</p-->
     </div>
   </div>
-  <div id="map"></div>
+  <div id="map_hl"></div>
 
   {{"<!-- /section title -->" | safeHTML}}
   {{ $timelinePagination := .Site.GetPage "/research" }}
@@ -85,7 +85,7 @@
       }
     }
 
-    console.log(sortedNames);
+    //console.log(sortedNames);
     return false;
   }
 
@@ -107,25 +107,27 @@
     center: [46, 12],
     zoom: 5
   }
-  var map = new L.map('map', mapOptions);
+  var map = new L.map('map_hl', mapOptions);
    
   var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
   map.addLayer(layer);
 
-  //var marker = L.marker([51.5, -0.09]).addTo(map);
-
-  var circle = L.circle([41.8933203, 12.4829321], {
-    color: 'var(--purpleColor)',
-    fillColor: 'var(--purpleColor)',
-    fillOpacity: 0.2,
-    radius: 10000, /*rendi relativa a quanti articoli ne parlano!*/
-    alt: 'Roma'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Roma</a> è un link.");
 
 
-  var address = 'Roma';
-  $.get(location.protocol + '//nominatim.openstreetmap.org/search?format=json&q='+address, function(data){
-       console.log(data[0].lat, data[0].lon);
+  for (var i = 0; i < sortedNames.length; i++) {
+    var address = sortedNames[i].name;
+    $.get(location.protocol + '//nominatim.openstreetmap.org/search?format=json&q='+address, function(data){
+      //console.log(data[0].lat, data[0].lon);
+      var circle = L.circle([data[0].lat, data[0].lon], {
+      color: 'var(--purpleColor)',
+      fillColor: 'var(--purpleColor)',
+      fillOpacity: 0.2,
+      radius: 10000, /*rendi relativa a quanti articoli ne parlano!*/
+      alt: address}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>"+address+"</a> è un link.");
     });
+  }
+
+
 
 </script>
 {{ end }}
