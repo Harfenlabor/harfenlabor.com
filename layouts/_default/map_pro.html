@@ -7,24 +7,20 @@
     <div class="text-center wow fadeInDown">
       <h1>{{ .Title }}</h1>
       <div class="border-meghna"></div>
-      
       <!--p>ciao</p-->
-
     </div>
   </div>
-  <div class="tl_frame">
-    <div id="map" style="height:100vh; z-index: 3"></div>
+  <div id="map"></div>
 
-    {{"<!-- /section title -->" | safeHTML}}
-    {{ $timelinePagination := .Site.GetPage "/research" }}
+  {{"<!-- /section title -->" | safeHTML}}
+  {{ $timelinePagination := .Site.GetPage "/research" }}
 
-    {{ range $timelinePagination.Data.Pages }}
-      {{ if not .Params.hide_from_research }}
-        {{/* .Render "article_tl" */}}
-      {{ end }}
+  {{ range $timelinePagination.Data.Pages }}
+    {{ if not .Params.hide_from_research }}
+      {{/* .Render "article_tl" */}}
     {{ end }}
+  {{ end }}
 
-    </div>
   </div>
 </section>
 <script>
@@ -40,7 +36,7 @@
 
   // Creating map options
   var mapOptions = {
-    center: [46, 12],
+    center: [44, 12],
     zoom: 5
   }
   var map = new L.map('map', mapOptions);
@@ -54,7 +50,7 @@
     color: 'var(--purpleColor)',
     fillColor: 'var(--purpleColor)',
     fillOpacity: 0.2,
-    radius: 6000, /*rendi relativa a quanti articoli ne parlano!*/
+    radius: 10000, /*rendi relativa a quanti articoli ne parlano!*/
     alt: 'Roma'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Roma</a> è un link.");
 
 
