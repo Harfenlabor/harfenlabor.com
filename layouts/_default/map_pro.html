@@ -102,13 +102,18 @@
           console.log(coordinates[i].latitude, coordinates[i].longitude);
           console.log("2 ", coordinates);
           
-          
-          var circle = L.circle([coordinates[i].latitude, coordinates[i].longitude], {
+          var lat = coordinates[i].latitude;
+          var lon = coordinates[i].longitude;
+          console.log(lat, lon);
+
+          var circle = L.circle([lat, lon], {
           color: 'var(--purpleColor)',
           fillColor: 'var(--purpleColor)',
           fillOpacity: 0.2,
           radius: 10000, //rendi relativa a quanti articoli ne parlano!
           alt: coordinates[i].place}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>"+coordinates[i].place+"</a> è un link.");
+
+          console.log("ok");
           
         } else {
           console.log("nope");
@@ -125,7 +130,7 @@
   radius: 10000, //rendi relativa a quanti articoli ne parlano!
   alt: 'posto'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Questo</a> è un link.");
 
-  var circle = L.circle([46, 16], {
+  /*var circle = L.circle([46, 16], {
   color: 'var(--purpleColor)',
   fillColor: 'var(--purpleColor)',
   fillOpacity: 0.2,
@@ -137,7 +142,7 @@
   fillColor: 'var(--purpleColor)',
   fillOpacity: 0.2,
   radius: 10000, //rendi relativa a quanti articoli ne parlano!
-  alt: 'posto'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Questo</a> è un link.");
+  alt: 'posto'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Questo</a> è un link.");*/
 
 </script>
 {{ end }}
