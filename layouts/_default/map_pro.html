@@ -105,14 +105,15 @@
 
           let linkList = "";
           for (var x = 0; x < sortedNames[j].link.length; x++) {
-            text += "<a href='"+sortedNames[j].link[x]+"'>"+sortedNames[j].title[x]+"</a>";
-            text += "<br>";
+            linkList += "<a href='"+sortedNames[j].link[x]+"'>"+sortedNames[j].title[x]+"</a>";
+            linkList += "<br>";
           }
 
           var circle = L.circle([coordinates[i].latitude, coordinates[i].longitude], {
           color: 'var(--purpleColor)',
           fillColor: 'var(--purpleColor)',
           fillOpacity: 0.2,
+          zIndex: (50-(sortedNames[j].link.length)),
           radius: (radiusSize+(radiusSize*(0.4*sortedNames[j].link.length))),
           alt: coordinates[i].place}).addTo(map).bindPopup("<span>"+coordinates[i].place+"</span><br>"+linkList);  
         }
@@ -120,29 +121,6 @@
     }
     return false;
   }
-
-  /*console.log("map 6 ", map);
-
-  var circle = L.circle([48, 14], {
-  color: 'var(--purpleColor)',
-  fillColor: 'var(--purpleColor)',
-  fillOpacity: 0.2,
-  radius: 10000, //rendi relativa a quanti articoli ne parlano!
-  alt: 'posto'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Questo</a> è un link.");*/
-
-  /*var circle = L.circle([46, 16], {
-  color: 'var(--purpleColor)',
-  fillColor: 'var(--purpleColor)',
-  fillOpacity: 0.2,
-  radius: 10000, //rendi relativa a quanti articoli ne parlano!
-  alt: 'posto'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Questo</a> è un link.");
-
-  var circle = L.circle([44, 20], {
-  color: 'var(--purpleColor)',
-  fillColor: 'var(--purpleColor)',
-  fillOpacity: 0.2,
-  radius: 10000, //rendi relativa a quanti articoli ne parlano!
-  alt: 'posto'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Questo</a> è un link.");*/
 
 </script>
 {{ end }}
