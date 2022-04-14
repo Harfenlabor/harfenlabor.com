@@ -24,9 +24,17 @@
   </div>
 </section>
 <script>
+  // Creating map options
+  var mapOptions = {
+    center: [46, 12],
+    zoom: 5
+  }
+  var map = new L.map('map_hl', mapOptions);
+  var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+  map.addLayer(layer);
+
   //get Map tags
   getJsonArray_map();
-
   function getJsonArray_map(){
     $.ajax({
         url: '/index.json',
@@ -34,7 +42,6 @@
         success: maptags
     })
   }
-
   function clean_map(array) {
     for (var key in array) {
       if (array[key] === null || array[key] === undefined) {
@@ -43,12 +50,10 @@
     }
     return array
   }
-
   var allNames_map = [];
   var allLinks_map = [];
   var allTitles_map = [];
   var arrayForMap = [];
-
 
   function maptags(data){
     json = data; //fetch my json
@@ -58,14 +63,11 @@
         var result = clean_map(dirtyArray); //and clean it.
         if (result.hasOwnProperty("maptags")) { //and if the key "maptags" exists…
           for (let i = 0; i < result.maptags.length; i++) { //for each result in "maptags"…
-
             var singleMapTag = result.maptags[i];
-            
             //exceptions in the name (unusable characters)
             /*if (singleMapTag.includes('ç')){
               singleMapTag = singleMapTag.replaceAll('ç', 'c');
             }*/
-
             allNames_map.push(singleMapTag);
             allLinks_map.push(result.permalink);
             allTitles_map.push(result.title);
@@ -73,10 +75,8 @@
         }
       }
     }
-
     const sortedNames = allNames_map.map((key, ind) => ({ 'name': key, 'link': [allLinks_map[ind]], 'title': [allTitles_map[ind]]}));
     sortedNames.sort((a, b) => (a.name > b.name) ? 1 : -1);
-
     //adjust, remove duplicates
     for (var i = 0; i < sortedNames.length; i++) {
       if ((i != 0)&&(sortedNames[i].name == sortedNames[i-1].name)){
@@ -86,52 +86,23 @@
         i = i-1;
       }
     }
-
-    arrayForMap = sortedNames;
-    console.log(arrayForMap);
+    
+    console.log(sortedNames.length);
+    for (var i = 0; i < sortedNames.length; i++) {
+      var address = sortedNames[i].name;
+      console.log(address);
+      $.get(location.protocol + '//nominatim.openstreetmap.org/search?format=json&q='+address, function(data){
+        console.log(data[0].lat, data[0].lon);
+        var circle = L.circle([data[0].lat, data[0].lon], {
+        color: 'var(--purpleColor)',
+        fillColor: 'var(--purpleColor)',
+        fillOpacity: 0.2,
+        radius: 10000, /*rendi relativa a quanti articoli ne parlano!*/
+        alt: address}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>"+address+"</a> è un link.");
+      });
+    }
     //return false;
   }
-
-
-
-
-  //var map = L.map('map').setView([51.505, -0.09], 13);
-  /*L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
-    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-    maxZoom: 18,
-    id: 'mapbox/streets-v11',
-    tileSize: 512,
-    zoomOffset: -1,
-    accessToken: 'your.mapbox.access.token'
-  }).addTo(map);*/
-
-  // Creating map options
-  var mapOptions = {
-    center: [46, 12],
-    zoom: 5
-  }
-  var map = new L.map('map_hl', mapOptions);
-   
-  var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
-  map.addLayer(layer);
-
-
-  console.log(arrayForMap.length);
-  for (var i = 0; i < arrayForMap.length; i++) {
-    var address = arrayForMap[i].name;
-    console.log(address);
-    $.get(location.protocol + '//nominatim.openstreetmap.org/search?format=json&q='+address, function(data){
-      console.log(data[0].lat, data[0].lon);
-      var circle = L.circle([data[0].lat, data[0].lon], {
-      color: 'var(--purpleColor)',
-      fillColor: 'var(--purpleColor)',
-      fillOpacity: 0.2,
-      radius: 10000, /*rendi relativa a quanti articoli ne parlano!*/
-      alt: address}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>"+address+"</a> è un link.");
-    });
-  }
-
-
 
 </script>
 {{ end }}
