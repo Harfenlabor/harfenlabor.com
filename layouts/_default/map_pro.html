@@ -90,6 +90,16 @@
     //console.log({{ site.Params.Coordinates }});
     //console.log(sortedNames.length);
     var coordinates = {{ site.Params.Coordinates }};
+
+    console.log(Object.keys(coordinates));
+    console.log(Object.keys(coordinates).length);
+    console.log(Object.values(coordinates));
+    console.log(Object.values(coordinates).length);
+    console.log(Object.keys(coordinates)[0]);
+    console.log(Object.values(coordinates)[0]);
+    console.log(Object.keys(coordinates)[1]);
+    console.log(Object.values(coordinates)[1]);
+
     console.log("1 ", coordinates);
     console.log("b ", coordinates.length);
     console.log("c ", coordinates[0]);
