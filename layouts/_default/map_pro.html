@@ -78,8 +78,6 @@
         sortedNames[i-1].title.push(sortedNames[i].title[0]);
         sortedNames.splice(i, 1);
         i = i-1;
-      } else {
-        console.log(sortedNames[i]);
       }
     }
 
@@ -92,7 +90,7 @@
     var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
     map.addLayer(layer);
 
-    var radiusSize = 12000;
+    var radiusSize = 10000;
     var coordinates = Object.values({{ site.Params.Coordinates }})[0];
     /*console.log(coordinates);
     console.log(coordinates[0]);
@@ -109,9 +107,10 @@
           color: 'var(--purpleColor)',
           fillColor: 'var(--purpleColor)',
           fillOpacity: 0.2,
-          radius: (radiusSize*(sortedNames[j].link.length)),
-          alt: coordinates[i].place}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>"+coordinates[i].place+"</a> è un link.");
-          
+          radius: (radiusSize+(radiusSize*(0.2*sortedNames[j].link.length))),
+          alt: coordinates[i].place}).addTo(map).bindPopup(
+          "<span>"+coordinates[i].place+"</span><br>"}
+          );  
         }
       }
     }
