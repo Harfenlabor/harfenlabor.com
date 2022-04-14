@@ -110,6 +110,22 @@ description = "Harfenlabor is a platform for critical and open discourse on topi
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
+[[params.Coordinates.coordinates]]
+latitude = "45.463619"
+longitude = "9.188120"
+place = "Milano"
+[[params.Coordinates.coordinates]]
+latitude = "40.839981"
+longitude = "14.252540"
+place = "Napoli"
+[[params.Coordinates.coordinates]]
+latitude = "41.890560"
+longitude = "12.494270"
+place = "Roma"
+[[params.Coordinates.coordinates]]
+latitude = "44.494190"
+longitude = "11.346520"
+place = "Bologna"
 [[params.Projects.projects]]
 description = "A podcast series on early harp in music, from Medieval to contemporary. Hosted by Margret Köll, Between the Strings brings dialogue and music related to Early Music and the harp. Varied people on the music scene bring rare insights into their working processes, ways of thinking, influences and experiences. "
 title = "Podcast: Between the Strings"
@@ -122,14 +138,6 @@ title = "Barberini Harp Project"
 [[params.Projects.projects]]
 description = "Historical harp practice demands an ongoing engagement between scientific knowledge and artistic creation. Harfenlabor Lectures series offers a space for sharing multi-disciplinary knowledge on Historical Harp, whilst encouraging and supporting discussion and debate among diverse musicians, scientists, artists and instrument makers."
 title = "Harfenlabor Lectures"
-[[params.Coordinates.coordinates]]
-place = "Roma"
-latitude = "41.890560"
-longitude = "12.494270"
-[[params.Coordinates.coordinates]]
-place = "Bologna"
-latitude = "44.494190"
-longitude = "11.346520"
 [params.cookies]
 enable = false
 expire_days = 2
