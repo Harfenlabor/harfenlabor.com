@@ -56,13 +56,13 @@ Meno diffusi invece sono disegni preparatori per strumenti musicali, per gli int
 
 Si tratta di un progetto per un’arpa riccamente ornata ad intaglio sulla colonna di sostegno con motivi architettonici di volute e capitelli, alternati con putti, atlanti su piedistalli come divisione in tre registri, e sfingi in basso, con in alto, sulla fronte, uno stemma Barberini con le api sormontato da un cappello cardinalizio, sostenuto da un putto alato. ![](/images/fig-3c-_7918.jpg)
 
-###### Attributo a Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 4</cap>).
+###### Attributo a Giovanni Battista Soria, _Progetto per un’arpa,_ dettaglio (<cap>Fig. 4</cap>).
 
 ***
 
 ![](/images/fig-3a-7915.jpg)
 
-###### Attributo a Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 5</cap>)
+###### Attributo a Giovanni Battista Soria, _Progetto per un’arpa,_ dettaglio (<cap>Fig. 5</cap>)
 
 ***
 
@@ -72,7 +72,7 @@ Api sono disegnate pure sui piedistalli. Alla base del sostegno siede un satiro.
 
 ![](/images/fig-3b-7916.jpg)
 
-###### Attributo a Giovanni Battista Soria, _Progetto per un’arpa,_ detail (<cap>Fig. 6</cap>).
+###### Attributo a Giovanni Battista Soria, _Progetto per un’arpa,_ dettaglio (<cap>Fig. 6</cap>).
 
 ***
 
