@@ -90,13 +90,16 @@
     //console.log({{ site.Params.Coordinates }});
     //console.log(sortedNames.length);
     var coordinates = {{ site.Params.Coordinates }};
+    console.log("1 ", coordinates);
     for (var i = 0; i < coordinates.length; i++){
       for (var j = 0; j < sortedNames.length; j++) {
         if ((coordinates[i].place).includes(sortedNames[j].name)){
           console.log(sortedNames[j].name);
           console.log(coordinates[i].latitude, coordinates[i].longitude);
+          console.log("2 ", coordinates);
         } else {
           console.log(coordinates[i].place, sortedNames[j].name);
+          console.log("3 ", coordinates);
         }
         /*var address = sortedNames[j].name;
         $.get('https://nominatim.openstreetmap.org/search?format=json&q=Firenze', function(data){
@@ -108,7 +111,9 @@
           radius: 10000, //rendi relativa a quanti articoli ne parlano!
           alt: address}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>"+address+"</a> è un link.");
         });*/
+        console.log("4 ", coordinates, sortedNames[j]);
       }
+      console.log("5 ", coordinates, coordinates[i]);
     }
     //return false;
   }
