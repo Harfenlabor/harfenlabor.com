@@ -33,7 +33,7 @@
   var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
   map.addLayer(layer);
 
-  console.log("map ", map);
+  console.log("map 1 ", map);
 
   //get Map tags
   getJsonArray_map();
@@ -44,6 +44,9 @@
         success: maptags
     })
   }
+
+  console.log("map 2 ", map);
+
   function clean_map(array) {
     for (var key in array) {
       if (array[key] === null || array[key] === undefined) {
@@ -52,10 +55,15 @@
     }
     return array
   }
+
+  console.log("map 3 ", map);
+
   var allNames_map = [];
   var allLinks_map = [];
   var allTitles_map = [];
   var arrayForMap = [];
+
+  console.log("map 4 ", map);
 
   function maptags(data){
     json = data; //fetch my json
@@ -77,6 +85,7 @@
         }
       }
     }
+    console.log("map 5 ", map);
     const sortedNames = allNames_map.map((key, ind) => ({ 'name': key, 'link': [allLinks_map[ind]], 'title': [allTitles_map[ind]]}));
     sortedNames.sort((a, b) => (a.name > b.name) ? 1 : -1);
     //adjust, remove duplicates
@@ -114,8 +123,8 @@
           radius: 10000, //rendi relativa a quanti articoli ne parlano!
           alt: 'Berlin'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Berlin</a> è un link.");*/
 
-          var circle = L.circle([50, 12]).addTo(map);
-          var marker = L.marker([lat, lon]).addTo(map);
+          /*var circle = L.circle([50, 12]).addTo(map);
+          var marker = L.marker([lat, lon]).addTo(map);*/
 
           console.log("ok");
           
@@ -126,6 +135,8 @@
     }
     return false;
   }
+
+  console.log("map 6 ", map);
 
   var circle = L.circle([48, 14], {
   color: 'var(--purpleColor)',
