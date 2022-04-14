@@ -104,9 +104,10 @@
           
           var lat = coordinates[i].latitude;
           var lon = coordinates[i].longitude;
-          console.log(lat, lon);
+          console.log(lat);
+          console.log(lon);
 
-          var circle = L.circle([lat, lon], {
+          var circle = L.circle([52.5170365, 13.3888599], {
           color: 'var(--purpleColor)',
           fillColor: 'var(--purpleColor)',
           fillOpacity: 0.2,
