@@ -1117,7 +1117,7 @@ label.tl_label {
 }
 
 .leaflet-container a {
-	color: var(--purpleColor);
+	color: var(--purpleColor)!important;
 }
 
 .leaflet-popup {
