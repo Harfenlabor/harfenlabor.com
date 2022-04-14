@@ -87,12 +87,13 @@
       }
     }
     arrayForMap = sortedNames;
-    return false;
+    //return false;
   }
 
 
   var coordinates = Object.values({{ site.Params.Coordinates }})[0];
   //console.log(coordinates[0]);
+  console.log(arrayForMap);
 
   for (var i = 0; i < coordinates.length; i++){
     for (var j = 0; j < arrayForMap.length; j++) {
@@ -106,11 +107,11 @@
         console.log(lat);
         console.log(lon);
 
-        var circle = L.circle([52.5170365, 13.3888599], {
+        var circle = L.circle([52, 16], {
         color: 'var(--purpleColor)',
         fillColor: 'var(--purpleColor)',
         fillOpacity: 0.2,
-        radius: 10000, //rendi relativa a quanti articoli ne parlano!
+        radius: 60000,
         alt: 'Berlin'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Berlin</a> è un link.");
 
         console.log("ok");
