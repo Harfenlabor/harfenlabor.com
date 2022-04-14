@@ -78,6 +78,8 @@
         sortedNames[i-1].title.push(sortedNames[i].title[0]);
         sortedNames.splice(i, 1);
         i = i-1;
+      } else {
+        return false;
       }
     }
 
