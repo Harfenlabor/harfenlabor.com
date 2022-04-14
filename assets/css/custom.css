@@ -346,17 +346,11 @@
 	line-height: 1.2rem;
 }
 
-.italic {
+.italic, .italic_synopsis {
 	font-style: italic;
 	color: var(--purpleColor)!important;
 	cursor: text!important;
-}
-
-.italic_synopsis {
-	font-style: italic;
-	color: var(--purpleColor)!important;
-	cursor: text!important;
-	line-height: 1.3rem;
+	line-height: 0;
 }
 
 .open_synopsis_box {
@@ -423,6 +417,7 @@
 .isopen_footnotes{
 	width: 50%;
 	height: 23em;
+	z-index: 3;
 }
 
 .footnotes {
@@ -481,6 +476,7 @@
 .isopen_imgcaptions{
 	width: 50%;
 	height: 23em;
+	z-index: 2;
 }
 
 .imgcaptions {
