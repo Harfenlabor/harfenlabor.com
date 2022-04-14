@@ -170,7 +170,7 @@ La proposta attributiva al Soria dell’ideazione e del progetto per l’arpa Ba
 
 ###### Fischer Pace, Ursula Verena. _Disegni del Seicento Romano_. Firenze: Olschki, 1997.
 
-###### Gonzáles Palacios, Alvar. “Avvio allo studio della mobilia romana.” Introduction to _Il Mobile Romano_, by Goffredo Lizzani. Milano: Görlich, 1970.
+###### Gonzáles Palacios, Alvar. “Avvio allo studio della mobilia romana.” introduzione di _Il Mobile Romano_, da Goffredo Lizzani. Milano: Görlich, 1970.
 
 ###### Granata, Chiara. “'Un arpa grande tutta intagliata e dorata'. New documents on the Barberini harp.” _Recercare_ XXVII (2015): 139 – 164. [https://www.jstor.org/stable/26381197.](https://www.jstor.org/stable/26381197. "https://www.jstor.org/stable/26381197.")
 
@@ -180,7 +180,7 @@ La proposta attributiva al Soria dell’ideazione e del progetto per l’arpa Ba
 
 ###### Ringbeck, Birgitta. _Giovanni Battista Soria Architekt Scipione Borgheses_. Münster: Lit, 1989.
 
-###### Roser, Hannes. "_Sankt Peter in den Sacri trofei romani des Francesco Maria Torrigio._" In _Sankt Peter in Rom 1506 – 2006. Beiträge der internationalen Tagung vom 22. – 25. Februar 2006 in Bonn_, edited by Georg Satzinger and Sebastian Schütze,  257-273, 271, fig. 10. München: Hirmer, 2008.
+###### Roser, Hannes. "_Sankt Peter in den Sacri trofei romani des Francesco Maria Torrigio._" In _Sankt Peter in Rom 1506 – 2006. Beiträge der internationalen Tagung vom 22. – 25. Februar 2006 in Bonn_, edito da Georg Satzinger e Sebastian Schütze,  257-273, 271, fig. 10. München: Hirmer, 2008.
 
 ###### Schleier, Erich, ed. _Disegni di Giovanni Lanfranco (1582 – 1647)_. Firenze: Olschki, 1983.
 
@@ -192,4 +192,4 @@ La proposta attributiva al Soria dell’ideazione e del progetto per l’arpa Ba
 
 ###### Ward–Jackson, Peter. _Italian Drawings, Vol. Two: 17th – 18th Century_. London: HMSO, 1980.
 
-###### Wolfe, Karin. "Ten days in the life of a Cardinal Nephew at the Court of Pope Urban VIII: Antonio Barberini’s Diary of December 1630," in _I Barberini e la Cultura Europea Del Seicento: Atti del convegno internazionale Palazzo Barberini alle Quattro Fontane, 7–11 dicembre 2004_, edited by Lorenza Mochi Onori, Sebastian Schütze, Francesco Solinas, 253–261. Roma: De Luca Editori D'Arte, 2007.
+###### Wolfe, Karin. "Ten days in the life of a Cardinal Nephew at the Court of Pope Urban VIII: Antonio Barberini’s Diary of December 1630," nel _I Barberini e la Cultura Europea Del Seicento: Atti del convegno internazionale Palazzo Barberini alle Quattro Fontane, 7–11 dicembre 2004_, edito da Lorenza Mochi Onori, Sebastian Schütze, Francesco Solinas, 253–261. Roma: De Luca Editori D'Arte, 2007.
