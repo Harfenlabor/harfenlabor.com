@@ -79,7 +79,6 @@
         sortedNames.splice(i, 1);
         i = i-1;
       } else {
-        console.log(sortedNames[i].name);
         console.log(sortedNames[i]);
       }
     }
@@ -104,7 +103,7 @@
         if ((coordinates[i].place).includes(sortedNames[j].name)){
           //console.log(coordinates[i].place, sortedNames[j].name);
           //console.log(coordinates[i].latitude, coordinates[i].longitude);
-          //console.log(sortedNames[j]);
+          console.log("? " sortedNames[j]);
 
           var circle = L.circle([coordinates[i].latitude, coordinates[i].longitude], {
           color: 'var(--purpleColor)',
