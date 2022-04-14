@@ -33,6 +33,8 @@
   var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
   map.addLayer(layer);
 
+  console.log("map ", map);
+
   //get Map tags
   getJsonArray_map();
   function getJsonArray_map(){
