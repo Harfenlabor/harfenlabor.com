@@ -24,6 +24,10 @@ title = "Disegni per strumenti musicali"
 type = "Research"
 
 +++
+***
+
+***
+
 Quadri con rappresentazioni di concerti, musicisti, strumenti musicali abbondano sia nella pittura italiana del Seicento che in quella fiamminga.<sup>1</sup> Gli strumenti musicali dipinti nei quadri spesso corrispondono a precisi esemplari di proprietà dei committenti dei quadri. E alcuni pittori si dilettavano in musica e fabbricavano strumenti musicali. Sappiamo p.e. che il <span id="person_tag">Domenichino</span> è stato costruttore e ideatore di sofisticati strumenti musicali. La sua intima conoscenza si evince dalle rappresentazioni di strumenti musicali nei suoi dipinti, p.e. l’arpa minuziosamente raffigurata nel quadro con _Il re Davide che suona l’arpa_.<sup>2</sup>
 
 ***
@@ -54,7 +58,11 @@ Meno diffusi invece sono disegni preparatori per strumenti musicali, per gli int
 
 ***
 
-Si tratta di un progetto per un’arpa riccamente ornata ad intaglio sulla colonna di sostegno con motivi architettonici di volute e capitelli, alternati con putti, atlanti su piedistalli come divisione in tre registri, e sfingi in basso, con in alto, sulla fronte, uno stemma Barberini con le api sormontato da un cappello cardinalizio, sostenuto da un putto alato. ![](/images/fig-3c-_7918.jpg)
+Si tratta di un progetto per un’arpa riccamente ornata ad intaglio sulla colonna di sostegno con motivi architettonici di volute e capitelli, alternati con putti, atlanti su piedistalli come divisione in tre registri, e sfingi in basso, con in alto, sulla fronte, uno stemma Barberini con le api sormontato da un cappello cardinalizio, sostenuto da un putto alato. 
+
+***
+
+![](/images/fig-3c-_7918.jpg)
 
 ###### Attributo a Giovanni Battista Soria, _Progetto per un’arpa,_ dettaglio (<cap>Fig. 4</cap>).
 
@@ -88,15 +96,27 @@ Lo stretto rapporto del disegno con la cosiddetta arpa Barberini conservata nel 
 
 Era stato proprio lui il committente dello strumento, che lo diede in uso al musicista <span id="person_tag">Marco Marazzoli</span> (<span id="timeline_tag">1619-1663</span>), detto appunto “dell’arpa”, attivo al servizio dei Barberini come cantore, strumentista e compositore. Dopo la sua morte lo strumento ritornò in possesso al cardinale Antonio cui pervenne anche il dipinto di Lanfranco che era stato invece commissionato dal musicista all’amico pittore.
 
+***
+
 A mio avviso il disegno è proprio preparatorio per l’arpa Barberini conservata nel Museo degli Strumenti Musicali a Roma e raffigurata nel dipinto del Lanfranco.<sup>7</sup> La corrispondenza dello strumento realizzato per Antonio Barberini e l’arpa raffigurata nel dipinto risulta ovvia dai motivi figurativi perfettamente corrispondenti. Tranne la mancanza dello stemma, tutti i dettagli decorativi sono uguali e trovano riscontro nella descrizione dell’intagliatore, e perciò dubbi sull’identità dell’arpa dipinta con la cosiddetta arpa Barberini non sono giustificati dal punto di vista iconografico e visivo.
+
+***
 
 Rispetto all’arpa, esistono tuttavia nel disegno varianti nella decorazione. Nello strumento la sfinge è sostituita da una testa di leone con ricca chioma, che tra l’altro si vede anche nel dipinto, mentre sulla parte opposta, sopra lo stemma, manca il satiro e al posto del cappello cardinalizio appaiono una corona e il <span id="subjects_tag">Toson d'oro</span>, una modifica eseguita in un secondo momento dopo la morte del cardinale Antonio (<span id="timeline_tag">1671</span>), quando questo prestigioso ordine venne conferito nel <span id="timeline_tag">1673</span> al Principe Don <span id="person_tag">Maffeo Barberini</span>.<sup>8</sup> Il gruppo di putti sotto lo stemma è formato sullo strumento da due atlanti, piccoli ercoli bambini con addosso la pelle di leone. Nel registro sottostante si trovano due atlanti di giovani drappeggiati, e in basso una maschera maschile e motivi araldici barberiniani, l’ape e un ramo di alloro. Il fatto che lo stemma Barberini manchi nel quadro del Lanfranco indizia che il dipinto non era di committenza Barberini ma del musicista stesso che probabilmente lo suonava.
 
+***
+
 Il dipinto del Lanfranco fornisce una chiara indicazione cronologica sia per il disegno che per lo strumento, in quanto fu senz’altro eseguito prima della partenza del pittore per <span id="map_tag">Napoli</span> nel <span id="timeline_tag">1634</span> e dopo l’arrivo a Roma di Marco Marazzoli, committente del dipinto, dove è documentato dal <span id="timeline_tag">1629</span> al servizio del cardinale Antonio Barberini il giovane.<sup>9</sup> Questa datazione coincide con i documenti di recente ritrovati nelle carte Barberini dell’archivio Vaticano, cioè con i pagamenti il 23 di agosto <span id="timeline_tag">1632</span> al costruttore dell’arpa <span id="person_tag">Geronimo Acciari</span>, e nel <span id="timeline_tag">1633</span> all’intagliatore dell’arpa <span id="person_tag">Giovanni Tubi</span>.<sup>10</sup>
+
+***
 
 Il corredo figurativo del disegno, che non è di carattere tecnico ma puramente decorativo, conferma questa datazione all’inizio degli anni trenta, conforme alla datazione del dipinto. Tuttavia il disegno non spetta al Lanfranco per l’estraneità dal suo stile grafico. Per le ovvie corrispondenze dei motivi intagliati sembra che il Lanfranco abbia avuto come modello davanti a sé proprio lo strumento dell’amico musicista.
 
+***
+
 I motivi plastici e l’aspetto stilistico sono piuttosto di derivazione cortonesca, affini ai progetti del <span id="person_tag">Pietro Berrettini da Cortona</span> per monumenti funebri, per incisioni e per oggetti liturgici come p.e. per una mazza da cerimonia, tra l’altro proprio con lo stemma di Antonio Barberini il giovane.<sup>11</sup>
+
+***
 
 ![](/images/fig-6.jpg)
 
