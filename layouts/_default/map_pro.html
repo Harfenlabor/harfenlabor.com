@@ -24,17 +24,6 @@
   </div>
 </section>
 <script>
-  // Creating map options
-  var mapOptions = {
-    center: [46, 12],
-    zoom: 5
-  }
-  var map = new L.map('map_hl', mapOptions);
-  var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
-  map.addLayer(layer);
-
-  console.log("map 1 ", map);
-
   //get Map tags
   getJsonArray_map();
   function getJsonArray_map(){
@@ -45,8 +34,6 @@
     })
   }
 
-  console.log("map 2 ", map);
-
   function clean_map(array) {
     for (var key in array) {
       if (array[key] === null || array[key] === undefined) {
@@ -56,14 +43,10 @@
     return array
   }
 
-  console.log("map 3 ", map);
-
   var allNames_map = [];
   var allLinks_map = [];
   var allTitles_map = [];
   var arrayForMap = [];
-
-  console.log("map 4 ", map);
 
   function maptags(data){
     json = data; //fetch my json
@@ -85,7 +68,7 @@
         }
       }
     }
-    console.log("map 5 ", map);
+    
     const sortedNames = allNames_map.map((key, ind) => ({ 'name': key, 'link': [allLinks_map[ind]], 'title': [allTitles_map[ind]]}));
     sortedNames.sort((a, b) => (a.name > b.name) ? 1 : -1);
     //adjust, remove duplicates
@@ -98,6 +81,16 @@
       }
     }
 
+    // Creating map options
+    var mapOptions = {
+      center: [46, 12],
+      zoom: 5
+    }
+    var map = new L.map('map_hl', mapOptions);
+    var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+    map.addLayer(layer);
+
+    console.log("map 1 ", map);
     var coordinates = Object.values({{ site.Params.Coordinates }})[0];
     /*console.log(coordinates);
     console.log(coordinates[0]);
@@ -114,7 +107,7 @@
           var lon = coordinates[i].longitude;
           console.log(lat);
           console.log(lon);
-          console.log(map);
+          console.log("map 2", map);
 
           /*var circle = L.circle([52.5170365, 13.3888599], {
           color: 'var(--purpleColor)',
@@ -136,14 +129,14 @@
     return false;
   }
 
-  console.log("map 6 ", map);
+  /*console.log("map 6 ", map);
 
   var circle = L.circle([48, 14], {
   color: 'var(--purpleColor)',
   fillColor: 'var(--purpleColor)',
   fillOpacity: 0.2,
   radius: 10000, //rendi relativa a quanti articoli ne parlano!
-  alt: 'posto'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Questo</a> è un link.");
+  alt: 'posto'}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Questo</a> è un link.");*/
 
   /*var circle = L.circle([46, 16], {
   color: 'var(--purpleColor)',
