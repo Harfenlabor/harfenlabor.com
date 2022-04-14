@@ -87,23 +87,26 @@
       }
     }
 
-    console.log({{ site.Params.Coordinates }});
-    
+    //console.log({{ site.Params.Coordinates }});
     //console.log(sortedNames.length);
-    /*for (var i = 0; i < sortedNames.length; i++) {
-      var address = sortedNames[i].name;
-      console.log(address);
-      //$.get(location.protocol + '//nominatim.openstreetmap.org/search?format=json&q='+address, function(data){
-      $.get('https://nominatim.openstreetmap.org/search?format=json&q=Firenze', function(data){
-        console.log(data[0].lat, data[0].lon);
-        var circle = L.circle([data[0].lat, data[0].lon], {
-        color: 'var(--purpleColor)',
-        fillColor: 'var(--purpleColor)',
-        fillOpacity: 0.2,
-        radius: 10000, //rendi relativa a quanti articoli ne parlano!
-        alt: address}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>"+address+"</a> è un link.");
-      });
-    }*/
+    for (var i = 0; i < site.Params.Coordinates.length; i++){
+      for (var j = 0; j < sortedNames.length; j++) {
+        if (site.Params.Coordinates[i].includes(sortedNames[j].name)){
+          console.log(sortedNames[j].name);
+          console.log(site.Params.Coordinates[i].latitude, site.Params.Coordinates[i].longitude);
+        }
+        /*var address = sortedNames[j].name;
+        $.get('https://nominatim.openstreetmap.org/search?format=json&q=Firenze', function(data){
+          console.log(data[0].lat, data[0].lon);
+          var circle = L.circle([data[0].lat, data[0].lon], {
+          color: 'var(--purpleColor)',
+          fillColor: 'var(--purpleColor)',
+          fillOpacity: 0.2,
+          radius: 10000, //rendi relativa a quanti articoli ne parlano!
+          alt: address}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>"+address+"</a> è un link.");
+        });*/
+      }
+    }
     //return false;
   }
 
