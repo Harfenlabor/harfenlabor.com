@@ -91,7 +91,8 @@
     for (var i = 0; i < sortedNames.length; i++) {
       var address = sortedNames[i].name;
       console.log(address);
-      $.get('https://nominatim.openstreetmap.org/search?format=json&q='+address, function(data){
+      //$.get(location.protocol + '//nominatim.openstreetmap.org/search?format=json&q='+address, function(data){
+      $.get('https://nominatim.openstreetmap.org/search?format=json&q=Firenze', function(data){
         console.log(data[0].lat, data[0].lon);
         var circle = L.circle([data[0].lat, data[0].lon], {
         color: 'var(--purpleColor)',
