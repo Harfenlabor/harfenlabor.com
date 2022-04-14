@@ -88,7 +88,7 @@
     }
     
     console.log(sortedNames.length);
-    for (var i = 0; i < sortedNames.length; i++) {
+    /*for (var i = 0; i < sortedNames.length; i++) {
       var address = sortedNames[i].name;
       console.log(address);
       //$.get(location.protocol + '//nominatim.openstreetmap.org/search?format=json&q='+address, function(data){
@@ -98,12 +98,33 @@
         color: 'var(--purpleColor)',
         fillColor: 'var(--purpleColor)',
         fillOpacity: 0.2,
-        radius: 10000, /*rendi relativa a quanti articoli ne parlano!*/
+        radius: 10000, //rendi relativa a quanti articoli ne parlano!
         alt: address}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>"+address+"</a> è un link.");
       });
-    }
+    }*/
     //return false;
   }
+
+var circle = L.circle([48, 14], {
+color: 'var(--purpleColor)',
+fillColor: 'var(--purpleColor)',
+fillOpacity: 0.2,
+radius: 10000, //rendi relativa a quanti articoli ne parlano!
+alt: address}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Questo</a> è un link.");
+
+var circle = L.circle([46, 16], {
+color: 'var(--purpleColor)',
+fillColor: 'var(--purpleColor)',
+fillOpacity: 0.2,
+radius: 10000, //rendi relativa a quanti articoli ne parlano!
+alt: address}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Questo</a> è un link.");
+
+var circle = L.circle([44, 20], {
+color: 'var(--purpleColor)',
+fillColor: 'var(--purpleColor)',
+fillOpacity: 0.2,
+radius: 10000, //rendi relativa a quanti articoli ne parlano!
+alt: address}).addTo(map).bindPopup("Ciao! <a href='https://www.google.it/'>Questo</a> è un link.");
 
 </script>
 {{ end }}
