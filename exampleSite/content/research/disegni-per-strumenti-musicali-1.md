@@ -170,7 +170,7 @@ La proposta attributiva al Soria dell’ideazione e del progetto per l’arpa Ba
 
 ###### Fischer Pace, Ursula Verena. _Disegni del Seicento Romano_. Firenze: Olschki, 1997.
 
-###### Gonzáles Palacios, Alvar. “Avvio allo studio della mobilia romana.” introduzione di _Il Mobile Romano_, da Goffredo Lizzani. Milano: Görlich, 1970.
+###### Gonzáles Palacios, Alvar. “Avvio allo studio della mobilia romana.” Introduzione di _Il Mobile Romano_, da Goffredo Lizzani. Milano: Görlich, 1970.
 
 ###### Granata, Chiara. “'Un arpa grande tutta intagliata e dorata'. New documents on the Barberini harp.” _Recercare_ XXVII (2015): 139 – 164. [https://www.jstor.org/stable/26381197.](https://www.jstor.org/stable/26381197. "https://www.jstor.org/stable/26381197.")
 
