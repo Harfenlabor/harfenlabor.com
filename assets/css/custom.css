@@ -1101,7 +1101,7 @@ label.tl_label {
 /*#############*/
 /*###  MAP  ###*/
 /*#############*/
-#map {
+#map_hl {
 	z-index: 3;
 	position: relative;
 	background-color: var(--greyColor);
