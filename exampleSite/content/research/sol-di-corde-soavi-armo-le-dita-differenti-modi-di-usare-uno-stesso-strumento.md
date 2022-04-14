@@ -56,7 +56,7 @@ Che presenza sonora poteva avere uno strumento a corde in un’enorme piazza aff
 
 ***
 
-_Facciam che v’avvenga d’udire o in tempo di notte buia, o di lontano, tanto che nol veggiate, un valentissimo sonator d’arpa, che dopo una brieve ricercata, ch’è l’esame dell’accordatura, dia nelle più vaghe, e artificiose sonate, ch’egli sappia, d’ogni Tuono, e d’ogni Modo le proprie, e Dorico grave, e Lidio guerriero, e Frigio mesto; hor semplici, hor intrecciati, con quel maraviglioso dialogizzare che sembrano far le corde, e interrogarsi, e rispondersi le acute, e le gravi, hor con botte lente, e poche, hor velocissimamente sminuite, quasi tutte insieme: come fosser due cori di musici che si corrono dietro, seguendosi su le medesime note, e pur sempre lontane alcuno spazio misuratissimo, sì come spazio di consonanza._<sup>4</sup>
+##### _Facciam che v’avvenga d’udire o in tempo di notte buia, o di lontano, tanto che nol veggiate, un valentissimo sonator d’arpa, che dopo una brieve ricercata, ch’è l’esame dell’accordatura, dia nelle più vaghe, e artificiose sonate, ch’egli sappia, d’ogni Tuono, e d’ogni Modo le proprie, e Dorico grave, e Lidio guerriero, e Frigio mesto; hor semplici, hor intrecciati, con quel maraviglioso dialogizzare che sembrano far le corde, e interrogarsi, e rispondersi le acute, e le gravi, hor con botte lente, e poche, hor velocissimamente sminuite, quasi tutte insieme: come fosser due cori di musici che si corrono dietro, seguendosi su le medesime note, e pur sempre lontane alcuno spazio misuratissimo, sì come spazio di consonanza._<sup>4</sup>
 
 ***
 
