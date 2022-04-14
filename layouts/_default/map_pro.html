@@ -87,7 +87,6 @@
       }
     }
 
-    console.log(sortedNames);
     arrayForMap = sortedNames;
     console.log(arrayForMap);
     return false;
@@ -118,8 +117,8 @@
 
 
 
-  for (var i = 0; i < sortedNames.length; i++) {
-    var address = sortedNames[i].name;
+  for (var i = 0; i < arrayForMap.length; i++) {
+    var address = arrayForMap[i].name;
     $.get(location.protocol + '//nominatim.openstreetmap.org/search?format=json&q='+address, function(data){
       //console.log(data[0].lat, data[0].lon);
       var circle = L.circle([data[0].lat, data[0].lon], {
