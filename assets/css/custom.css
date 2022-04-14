@@ -588,6 +588,10 @@ p > img {
 	cursor: zoom-in;
 }
 
+.articleContent em {
+	line-height: 0;
+}
+
 .row {
 	color: black; /* for texts in articles */
 }
