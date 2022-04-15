@@ -31,14 +31,14 @@
   var arrayForMap = [];
 
   //get Map tags
-  getJsonArray_map();
   function getJsonArray_map(){
     $.ajax({
         url: '/index.json',
         type: 'GET',
-        success: maptags()
+        success: maptags
     })
   }
+  getJsonArray_map();
 
   console.log("allNames(1): ", allNames_map);
 
