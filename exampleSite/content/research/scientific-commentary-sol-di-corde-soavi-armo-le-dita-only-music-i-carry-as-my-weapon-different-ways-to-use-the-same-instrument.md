@@ -25,7 +25,7 @@ title = "\"My Hands are Armed with Nought but Sweet-toned Strings?\" Different W
 type = "Research"
 
 +++
-### Scientific commentary on [About the Barberini Harp](https://harfenlabor.netlify.app/research/barberini-harp-project-interviews-mara-galassi-and-dario-pontiggia-about-the-barberini-harp/)<br>Link to the original version of this article in Italian: [Sol di corde soavi armo le dita? Differenti modi di usare uno stesso strumento](https://harfenlabor.netlify.app/research/sol-di-corde-soavi-armo-le-dita-differenti-modi-di-usare-uno-stesso-strumento/)
+### Scientific commentary on [About the Barberini Harp](https://harfenlabor.netlify.app/research/barberini-harp-project-interviews-mara-galassi-and-dario-pontiggia-about-the-barberini-harp/)<br>Link to the original version of this article in Italian: [Sol di corde soavi armo le dita? Differenti modi di usare uno stesso strumento](https://www.harfenlabor.com/research/sol-di-corde-soavi-armo-le-dita-differenti-modi-di-usare-uno-stesso-strumento/)
 
 ***
 
