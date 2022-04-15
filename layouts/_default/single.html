@@ -148,7 +148,7 @@
       {{ if .Params.subjects_tag }}<p id="tagssubj" class="footer_insidetext tagssubj">Subjects:</p><p></p>{{ end }}
       {{ if .Params.timeline_tag }}<p id="tagsyears" class="footer_insidetext tagstime">Timeline:</p><p></p>{{ end }}
       {{ if .Params.map_tag }}<p id="tagsplaces" class="footer_insidetext tagsmap">Map:</p>{{ end }}
-      {{ if and (eq .Params.person_tag "") (eq .Params.subjects_tag "") (eq .Params.timeline_tag "") (eq .Params.map_tag "")}}<p class="footer_insidetext">There are no tags available for this article.</p>{{ end }}
+      {{ if and (ne .Params.person_tag) (ne .Params.subjects_tag) (ne .Params.timeline_tag) (ne .Params.map_tag)}}<p class="footer_insidetext">There are no tags available for this article.</p>{{ end }}
     </div>
   </div>
   <div id="footer" class="foot5">
@@ -222,7 +222,7 @@
     {{ if .Params.subjects_tag }}<p id="tagssubj" class="footer_insidetext tagssubj">Subjects:</p><p></p>{{ end }}
     {{ if .Params.timeline_tag }}<p id="tagsyears" class="footer_insidetext tagstime">Timeline:</p><p></p>{{ end }}
     {{ if .Params.map_tag }}<p id="tagsplaces" class="footer_insidetext tagsmap">Map:</p>{{ end }}
-    {{ if and (eq .Params.person_tag "") (eq .Params.subjects_tag "") (eq .Params.timeline_tag "") (eq .Params.map_tag "")}}<p class="footer_insidetext">There are no tags available for this article.</p>{{ end }}
+    {{ if and (ne .Params.person_tag) (ne .Params.subjects_tag) (ne .Params.timeline_tag) (ne .Params.map_tag)}}<p class="footer_insidetext">There are no tags available for this article.</p>{{ end }}
   </div>
 
   <div id="fm_Downloads" class="footer_bar-container footmobsection" style="display:none">
