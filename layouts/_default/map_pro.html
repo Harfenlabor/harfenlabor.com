@@ -109,6 +109,7 @@
           }
 
           var circle = L.circle([coordinates[i].latitude, coordinates[i].longitude], {
+          className: coordinates[i].place,
           color: 'var(--purpleColor)',
           fillColor: 'var(--purpleColor)',
           fillOpacity: 0.2,
