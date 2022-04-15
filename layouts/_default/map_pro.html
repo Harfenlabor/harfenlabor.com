@@ -40,15 +40,6 @@
     })
   }
 
-  function clean_map(array) {
-    for (var key in array) {
-      if (array[key] === null || array[key] === undefined) {
-        delete array[key];
-      }
-    }
-    return array
-  }
-
   console.log("allNames(1): ", allNames_map);
 
   function maptags(data){
