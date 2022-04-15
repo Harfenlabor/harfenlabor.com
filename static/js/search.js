@@ -18,7 +18,8 @@ var fuseOptions = {
 let pagesNotToRender = ["About", "Index", "Map", "Timeline", "Search", "News",
 "Mediathek", "Organology", "Performance Practice", "Musicology", "HL Editions",
 "Iconography", "Sociology of Art", "Harfenlabor lectures", "Barberini Harp Project",
-"Haydn’s Folk Harp"];
+"Haydn’s Folk Harp", "Barberini Harp Project / Convening", "Timeline Pro", "Map Pro",
+"Barberini Harp Project / Examinations", "Barberini Harp Project / Interviews"];
 
 
 window.addEventListener('load', function () {
@@ -41,7 +42,7 @@ function executeSearch(searchQuery){
     //console.log({"matches":result});
     document.getElementById('searchTitle').appendChild(document.createTextNode(" results for: "));
     let searchedWords = document.createElement('span');
-    searchedWords.style.color = "#B44BEB";
+    searchedWords.style.color = 'var(--purpleColor)';
     searchedWords.style.textTransform = "capitalize";
     let searchedWords_text = document.createTextNode(searchQuery);
     searchedWords.appendChild(searchedWords_text);
