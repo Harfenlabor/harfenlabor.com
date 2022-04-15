@@ -222,8 +222,9 @@ fields:
 - name: downloads
   type: tag_list
   default: []
-  description: To display downloadable files, copy and paste their link and the link
-    to an image, separated by a space (i.e. "www.google.com www.google.com/logo.png")
+  description: To display downloadable files, copy and paste (1) their link, (2) a
+    link to an image and (3) the title, separated by a space, two &amp;&amp; and another
+    space<br>(i.e. "www.google.com &amp;&amp; /logo.png &amp;&amp; Google")
   label: Downloads
 pages:
 - exampleSite/content/news/between-the-strings-festival-of-historical-harp-first-edition-haydn-s-folk-harp.md
