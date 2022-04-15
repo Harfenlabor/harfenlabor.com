@@ -24,31 +24,26 @@
   </div>
 </section>
 <script>
-  //prepare empty arrays
-  var allNames_map = [];
-  var allLinks_map = [];
-  var allTitles_map = [];
-  var arrayForMap = [];
+  var myArray = [];
 
-  //get Map tags
-  function getJsonArray_map(){
+  function getJsonArray(){
     $.ajax({
         url: '/index.json',
         type: 'GET',
-        success: maptags(json)
+        success: myFunction
     })
   }
-  getJsonArray_map();
+  getJsonArray();
 
-  console.log("allNames(1): ", allNames_map);
+  console.log("myArray(before): ", myArray);
 
-  function maptags(data){
-    console.log("allNames(2): ", allNames_map);
+  function myFunction(data){
+    console.log("myArray(after): ", myArray);
     json = data; //fetch my json
-    console.log("allNames(3): ", allNames_map);
     console.log("json: ", data);
-    
   }
+
+  console.log("myArray(3): ", myArray);
 
 </script>
 {{ end }}
