@@ -68,6 +68,9 @@
         }
       }
     }
+    console.log("1 ", allNames_map);
+    console.log("2 ", allLinks_map);
+    console.log("3 ", allTitles_map);
     
     const sortedNames = allNames_map.map((key, ind) => ({ 'name': key, 'link': [allLinks_map[ind]], 'title': [allTitles_map[ind]]}));
     sortedNames.sort((a, b) => (a.name > b.name) ? 1 : -1);
