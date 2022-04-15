@@ -111,8 +111,8 @@ google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
 [[params.Coordinates.coordinates]]
-latitude = "42.227681"
-longitude = "13.854983"
+latitude = "42.357197"
+longitude = "13.732624"
 place = "Abruzzo"
 [[params.Coordinates.coordinates]]
 latitude = "48.3668041"
@@ -147,12 +147,12 @@ latitude = "41.903148"
 longitude = "12.453801"
 place = "Città del Vaticano"
 [[params.Coordinates.coordinates]]
-latitude = "45.2208641"
-longitude = "10.037038"
+latitude = "45.134278"
+longitude = "10.022687"
 place = "Cremona"
 [[params.Coordinates.coordinates]]
-latitude = "44.7667642"
-longitude = "11.827939"
+latitude = "44.831560"
+longitude = "11.614656"
 place = "Ferrara"
 [[params.Coordinates.coordinates]]
 latitude = "43.7698712"
@@ -171,8 +171,8 @@ latitude = "45.463619"
 longitude = "9.188120"
 place = "Milano"
 [[params.Coordinates.coordinates]]
-latitude = "44.5384728"
-longitude = "10.9359609"
+latitude = "44.646210"
+longitude = "10.924165"
 place = "Modena"
 [[params.Coordinates.coordinates]]
 latitude = "40.839981"
@@ -191,32 +191,32 @@ latitude = "44.8013678"
 longitude = "10.3280833"
 place = "Parma"
 [[params.Coordinates.coordinates]]
-latitude = "45.0368546"
-longitude = "9.1378251"
+latitude = "45.188493"
+longitude = "9.170211"
 place = "Pavia"
 [[params.Coordinates.coordinates]]
 latitude = "48.3789351"
 longitude = "8.8877867"
 place = "Rangendingen"
 [[params.Coordinates.coordinates]]
-latitude = "44.3640607"
-longitude = "12.0590095"
+latitude = "44.414247"
+longitude = "12.204281"
 place = "Ravenna"
 [[params.Coordinates.coordinates]]
 latitude = "41.890560"
 longitude = "12.494270"
 place = "Roma"
 [[params.Coordinates.coordinates]]
-latitude = "40.4194416"
-longitude = "15.3107562"
+latitude = "40.677263"
+longitude = "14.768946"
 place = "Salerno"
 [[params.Coordinates.coordinates]]
 latitude = "45.4371908"
 longitude = "12.3345898"
 place = "Venezia"
 [[params.Coordinates.coordinates]]
-latitude = "45.6348591"
-longitude = "11.4063543"
+latitude = "45.546634"
+longitude = "11.545412"
 place = "Vicenza"
 [[params.Projects.projects]]
 description = "A podcast series on early harp in music, from Medieval to contemporary. Hosted by Margret Köll, Between the Strings brings dialogue and music related to Early Music and the harp. Varied people on the music scene bring rare insights into their working processes, ways of thinking, influences and experiences. "
