@@ -25,7 +25,7 @@
 </section>
 <script>
   //prepare empty arrays
-  var myArray = [];
+  var allNames_map = [];
 
   //get Map tags
   function getJsonArray_map(){
@@ -37,12 +37,14 @@
   }
   getJsonArray_map();
 
-  console.log("myArray(1): ", myArray);
+  console.log("allNames(1): ", allNames_map);
 
   function maptags(data){
-    console.log("myArray(2): ", myArray);
+    console.log("allNames(2): ", allNames_map);
     json = data; //fetch my json
+    console.log("allNames(3): ", allNames_map);
     console.log("json: ", data);
+    
   }
 
 </script>
