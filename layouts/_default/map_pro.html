@@ -119,8 +119,8 @@
       }
     }
 
-    console.log(document.getElementsByClassName('Città_del_Vaticano')[0]);
-    //document.getElementsByClassName('Città_del_Vaticano')[0].bringToFront();
+    var last = document.getElementsByClassName('Città_del_Vaticano')[0];
+    last.parentNode.appendChild(last);
     //return false;
   }
 
