@@ -24,21 +24,23 @@
   </div>
 </section>
 <script>
+  //prepare empty arrays
   var myArray = [];
 
-  function getJsonArray(){
+  //get Map tags
+  function getJsonArray_map(){
     $.ajax({
         url: '/index.json',
         type: 'GET',
-        success: myFunction
+        success: maptags
     })
   }
-  getJsonArray();
+  getJsonArray_map();
 
-  console.log("myArray(before): ", myArray);
+  console.log("myArray(1): ", myArray);
 
-  function myFunction(data){
-    console.log("myArray(after): ", myArray);
+  function maptags(data){
+    console.log("myArray(2): ", myArray);
     json = data; //fetch my json
     console.log("json: ", data);
   }
