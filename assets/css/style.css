@@ -2383,6 +2383,7 @@ figcaption {
   margin-right: 6px;
   font-weight: 700;
   color: var(--purpleColor);
+  border-radius: 10px;
 }
 
 .pagination .page-item .page-link:hover {
@@ -2393,7 +2394,7 @@ figcaption {
 
 .pagination .page-item:first-child .page-link,
 .pagination .page-item:last-child .page-link {
-  border-radius: 0;
+  border-radius: 10px;
 }
 
 .pagination .page-item.active .page-link {
