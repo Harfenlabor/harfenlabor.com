@@ -25,7 +25,10 @@
 </section>
 <script>
   //prepare empty arrays
-  var allNames_map = [];
+  var myArray = [];
+  var allLinks_map = [];
+  var allTitles_map = [];
+  var arrayForMap = [];
 
   //get Map tags
   function getJsonArray_map(){
@@ -37,14 +40,102 @@
   }
   getJsonArray_map();
 
-  console.log("allNames(1): ", allNames_map);
+  function clean_map(array) {
+    for (var key in array) {
+      if (array[key] === null || array[key] === undefined) {
+        delete array[key];
+      }
+    }
+    return array
+  }
+
+  console.log("myArray(1): ", myArray);
 
   function maptags(data){
-    console.log("allNames(2): ", allNames_map);
+    console.log("myArray(2): ", myArray);
     json = data; //fetch my json
-    console.log("allNames(3): ", allNames_map);
+    console.log("myArray(3): ", myArray);
     console.log("json: ", data);
+    for (var key in json) { //for each key in the json…
+      //console.log("key: ", key);
+      if (json.hasOwnProperty(key)) { //unless that key is not used…
+        //console.log("json Has: ", key);
+        var dirtyArray = json[key]; //create an array of those results…
+        //console.log(dirtyArray);
+        var result = clean_map(dirtyArray); //and clean it.
+        //console.log("allNames(3): ", allNames_map);
+        console.log("result: ", result);
+        if (result.hasOwnProperty("maptags")) { //and if the key "maptags" exists…
+          //console.log("allNames(4): ", allNames_map);
+          //console.log("result has maptags, length: ", result.maptags.length);
+          for (let i = 0; i < result.maptags.length; i++) { //for each result in "maptags"…
+            var singleMapTag = result.maptags[i];
+            //console.log(singleMapTag);
+            //exceptions in the name (unusable characters)
+            /*if (singleMapTag.includes('ç')){
+              singleMapTag = singleMapTag.replaceAll('ç', 'c');
+            }*/
+            myArray.push(singleMapTag);
+            //console.log("allNames(end): ", allNames_map);
+            allLinks_map.push(result.permalink);
+            allTitles_map.push(result.title);
+          }
+        }
+      }
+    }
+    //console.log("allNames: ", allNames_map);
+    //console.log("allLinks: ", allLinks_map);
+    //console.log("allTitles: ", allTitles_map);
     
+    const sortedNames = myArray.map((key, ind) => ({ 'name': key, 'link': [allLinks_map[ind]], 'title': [allTitles_map[ind]]}));
+    sortedNames.sort((a, b) => (a.name > b.name) ? 1 : -1);
+    //adjust, remove duplicates
+    for (var i = 0; i < sortedNames.length; i++) {
+      if ((i != 0)&&(sortedNames[i].name == sortedNames[i-1].name)){
+        sortedNames[i-1].link.push(sortedNames[i].link[0]);
+        sortedNames[i-1].title.push(sortedNames[i].title[0]);
+        sortedNames.splice(i, 1);
+        i = i-1;
+      }
+    }
+    console.log("Sortednames: ", sortedNames);
+
+    // Creating map options
+    var mapOptions = {
+      center: [46, 12],
+      zoom: 5
+    }
+    var map = new L.map('map_hl', mapOptions);
+    var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+    map.addLayer(layer);
+
+    var radiusSize = 4000;
+    var coordinates = Object.values({{ site.Params.Coordinates }})[0];
+
+    for (var i = 0; i < coordinates.length; i++){
+      for (var j = 0; j < sortedNames.length; j++) {
+        if ((coordinates[i].place).includes(sortedNames[j].name)){
+          //console.log(coordinates[i].place, sortedNames[j].name);
+          //console.log(coordinates[i].latitude, coordinates[i].longitude);
+          //console.log("? ", sortedNames[j]);
+
+          let linkList = "";
+          for (var x = 0; x < sortedNames[j].link.length; x++) {
+            linkList += "<a href='"+sortedNames[j].link[x]+"'>"+sortedNames[j].title[x].replaceAll('&&',' ')+"</a>";
+            linkList += "<br>";
+            //console.log(sortedNames[j].title[x]);
+          }
+
+          var circle = L.circle([coordinates[i].latitude, coordinates[i].longitude], {
+          color: 'var(--purpleColor)',
+          fillColor: 'var(--purpleColor)',
+          fillOpacity: 0.2,
+          radius: (radiusSize+(radiusSize*(0.4*sortedNames[j].link.length))),
+          alt: coordinates[i].place}).addTo(map).bindPopup("<span>"+coordinates[i].place+"</span><br>"+linkList);
+        }
+      }
+    }
+    //return false;
   }
 
 </script>
