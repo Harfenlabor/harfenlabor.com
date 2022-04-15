@@ -109,7 +109,7 @@
           }
 
           var circle = L.circle([coordinates[i].latitude, coordinates[i].longitude], {
-          className: coordinates[i].place,
+          className: coordinates[i].place.replaceAll(' ','_'),
           color: 'var(--purpleColor)',
           fillColor: 'var(--purpleColor)',
           fillOpacity: 0.2,
@@ -118,6 +118,8 @@
         }
       }
     }
+
+    document.getElementsByClassName('Città_del_Vaticano').bringToFront();
     //return false;
   }
 
