@@ -157,15 +157,15 @@
         {{ .Render "printPreview_toolbar" }}
 
         {{ range .Params.downloads }}
-          {{ $linkandimage := split . " " }}
+          {{ $linkandimage := split . " && " }}
           <article class="col-related-research clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
             <div class="post-block">
               <div class="media-wrapper">
-                <a href="https://{{ index $linkandimage 0 | absURL }}"><img class="img-fluid-related-research" style="height: 4em" data-src="{{ index $linkandimage 1 }}" src="{{ index $linkandimage 1 }}"></a>
+                <a href="{{ index $linkandimage 0 | absURL }}"><img class="img-fluid-related-research" style="height: 4em" data-src="{{ index $linkandimage 1 }}" src="{{ index $linkandimage 1 }}"></a>
               </div>
 
               <div class="content-related-research">
-                <h6 class="title-related-research"><a href="https://{{ index $linkandimage 0 | absURL }}">{{ index $linkandimage 0 }}</a></h6>
+                <h6 class="title-related-research"><a href="{{ index $linkandimage 0 | absURL }}">{{ index $linkandimage 2 }}</a></h6>
               </div>
             </div>
           </article>
