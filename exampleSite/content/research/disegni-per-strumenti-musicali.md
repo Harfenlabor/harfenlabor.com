@@ -99,17 +99,21 @@ The Cardinal himself commissioned the instrument and gave it to the musician <sp
 
 I believe that the drawing held at the Uffizi is a preparatory drawing for the Barberini Harp<sup>7</sup> displayed at the Museo Nazionale degli Strumenti Musicali, and depicted in Lanfranco's painting. The correspondence between the instrument made for  Antonio Barberini and the harp depicted in the painting is obvious: it can be deduced from the perfectly corresponding figurative motifs. Except for the coat of arms, not depicted in the painting, all the decorative details are the same and are reflected in the carver's description. From an iconographic and visual point of view there are therefore no justifiable doubts as to the identity of the painted harp being the same as that of the harp known as the Barberini Harp.
 
+***
+
 ![](/images/dif_000185_602_c.jpg)
 
 ###### The Barberini Harp at the Museo Nazionale degli Strumenti Musicali (<cap>Fig. 8</cap>).
 
-Compared to the harp, there are, however, some variations concerning the design of the decoration. On the instrument the sphinx is replaced by a lion's head with a thick mane, also seen in the painting, whereas on the opposite side, above the coat of arms, the satyr is missing and in place of the cardinal's hat we see a crown and the <span id="subjects_tag">Golden Fleece</span>. The latter change was made  after the death of Cardinal Antonio (<span id="timeline_tag">1671</span>), when this prestigious order was conferred in <span id="timeline_tag">1673</span> on Prince Don <span id="person_tag">Maffeo Barberini</span>.<sup>8</sup>
+***
+
+The group of putti under the coat of arms is on the instrument formed of two atlases, small herculean boys wearing lion skins. In the row below are two draped youth atlases, and at the bottom a male mask and the Barberini heraldic motifs, the bee and a laurel branch. The fact that the Barberini coat of arms is missing in Lanfranco's painting indicates that the painting was not commissioned by the Barberini but by the musician himself, who probably played the harp.
+
+***
 
 ![](/images/be30e30c-9320-4858-b50e-02f60b7d71a0.jpeg)
 
 ###### The Barberini Harp, detail (<cap>Fig. 9</cap>).
-
-The group of putti under the coat of arms is on the instrument formed of two atlases, small herculean boys wearing lion skins. In the row below are two draped youth atlases, and at the bottom a male mask and the Barberini heraldic motifs, the bee and a laurel branch. The fact that the Barberini coat of arms is missing in Lanfranco's painting indicates that the painting was not commissioned by the Barberini but by the musician himself, who probably played the harp.
 
 ***
 
