@@ -88,7 +88,8 @@
       zoom: 5
     }
     var map = new L.map('map_hl', mapOptions);
-    var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+    //var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+    var layer = new L.TileLayer('https://a.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}@2x.png');
     map.addLayer(layer);
 
     var radiusSize = 4000;
