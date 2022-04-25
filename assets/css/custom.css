@@ -759,10 +759,6 @@ p > img {
 	max-width: 100%;
 }
 
-.post-block-related-research {
-	width: 8em;
-}
-
 .embed-responsive {
 	margin-bottom: 2rem!important;
 }
@@ -1128,18 +1124,21 @@ label.tl_label {
 
 .leaflet-popup {
 	width: 20em;
-	height: 8em;
+	/*height: 8em;*/
 }
 
 .leaflet-popup-content-wrapper {
-	height: 8em;
+	/*height: 8em;*/
+	height: auto;
 }
 
 .leaflet-popup-content {
-	height: calc(8em - 14px);
+	/*height: calc(8em - 14px);
+	padding-bottom: 12px;*/
 	overflow-y: auto;
 	overflow-x: hidden;
-	padding-bottom: 12px;
+	height: auto;
+	max-height: 10em;
 }
 
 
