@@ -143,8 +143,8 @@ latitude = "41.8755616"
 longitude = "-87.6244212"
 place = "Chicago"
 [[params.Coordinates.coordinates]]
-latitude = "41.903148"
-longitude = "12.453801"
+latitude = "41.904311"
+longitude = "12.449973"
 place = "Città del Vaticano"
 [[params.Coordinates.coordinates]]
 latitude = "45.134278"
@@ -203,8 +203,8 @@ latitude = "44.414247"
 longitude = "12.204281"
 place = "Ravenna"
 [[params.Coordinates.coordinates]]
-latitude = "41.890560"
-longitude = "12.494270"
+latitude = "41.878817"
+longitude = "12.507737"
 place = "Roma"
 [[params.Coordinates.coordinates]]
 latitude = "40.677263"
