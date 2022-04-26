@@ -1,35 +1,141 @@
-{{ define "footerfiles" }}
-{{ end }}
-
 {{ define "main" }}
 {{ partial "navigation.html" . }}
+{{"<!-- Start Blog Section -->" | safeHTML}}
+<section class="section greyBackground tl_mainbody">
 
-<section class="section">
-  <div class="col-12">
-    <div class="title text-center wow fadeInDown">
-      <h1>Map</h1>
+  <div class="col-12 tl_upperpart">
+    <div class="text-center wow fadeInDown">
+      <h1>{{ .Title }}</h1>
       <div class="border-meghna"></div>
+      <!--p>ciao</p-->
     </div>
   </div>
-  
-  <div class="col-lg-8 offset-lg-2">
-    <div class="post-single-content">
-
-      <div id="maptags-search-results"></div>
-
-      <div id="indexboxspace_map">
-        <div id="indexBackground" style="background-color:rgba(0, 0, 0, 0.5);width:100vw;height:100vh;position:fixed;top:0;left:0;z-index:7;display:none"></div>
-      </div>
-    </div>
+  <div id="map_hl">
+    <a href="https://www.maptiler.com" style="position:absolute;left:10px;bottom:10px;z-index:999;"><img src="https://api.maptiler.com/resources/logo.svg" alt="MapTiler logo"></a>
   </div>
 
+  {{"<!-- /section title -->" | safeHTML}}
+  {{ $timelinePagination := .Site.GetPage "/research" }}
+
+  {{ range $timelinePagination.Data.Pages }}
+    {{ if not .Params.hide_from_research }}
+      {{/* .Render "article_tl" */}}
+    {{ end }}
+  {{ end }}
+
+  </div>
 </section>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mapbox-gl/1.13.1/mapbox-gl.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mapbox-gl-leaflet/0.0.15/leaflet-mapbox-gl.min.js"></script>
+<script>
+  //prepare empty arrays
+  var myArray = [];
+  var allLinks_map = [];
+  var allTitles_map = [];
+  var arrayForMap = [];
 
-<script id="maptag-result" type="text/x-js-template">
-    <div id="summary-${key}">
-      <h4>${title}</h4>
-      <p>${snippet}</p>{ end }
-    </div>
+  //get Map tags
+  function getJsonArray_map(){
+    $.ajax({
+        url: '/index.json',
+        type: 'GET',
+        success: maptags
+    })
+  }
+  getJsonArray_map();
+
+  function clean_map(array) {
+    for (var key in array) {
+      if (array[key] === null || array[key] === undefined) {
+        delete array[key];
+      }
+    }
+    return array
+  }
+
+  function maptags(data){
+    json = data; //fetch my json
+    for (var key in json) { //for each key in the json…
+      if (json.hasOwnProperty(key)) { //unless that key is not used…
+        var dirtyArray = json[key]; //create an array of those results…
+        var result = clean_map(dirtyArray); //and clean it.
+        if (result.hasOwnProperty("maptags")) { //and if the key "maptags" exists…
+          for (let i = 0; i < result.maptags.length; i++) { //for each result in "maptags"…
+            var singleMapTag = result.maptags[i];
+            //exceptions in the name (unusable characters)
+            /*if (singleMapTag.includes('ç')){
+              singleMapTag = singleMapTag.replaceAll('ç', 'c');
+            }*/
+            myArray.push(singleMapTag);
+            allLinks_map.push(result.permalink);
+            allTitles_map.push(result.title);
+          }
+        }
+      }
+    }
+    
+    const sortedNames = myArray.map((key, ind) => ({ 'name': key, 'link': [allLinks_map[ind]], 'title': [allTitles_map[ind]]}));
+    sortedNames.sort((a, b) => (a.name > b.name) ? 1 : -1);
+    //adjust, remove duplicates
+    for (var i = 0; i < sortedNames.length; i++) {
+      if ((i != 0)&&(sortedNames[i].name == sortedNames[i-1].name)){
+        sortedNames[i-1].link.push(sortedNames[i].link[0]);
+        sortedNames[i-1].title.push(sortedNames[i].title[0]);
+        sortedNames.splice(i, 1);
+        i = i-1;
+      }
+    }
+
+    // Creating map options
+    var mapOptions = {
+      center: [46, 12],
+      zoom: 5
+    }
+    //var map = new L.map('map_hl', mapOptions);
+    //var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+    //var layer = new L.TileLayer('https://a.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}@2x.png');
+    //map.addLayer(layer);
+
+    var map = L.map('map_hl').setView([46, 12], 5);
+    var gl = L.mapboxGL({
+      attribution: "\u003ca href=\"https://www.maptiler.com/copyright/\" target=\"_blank\"\u003e\u0026copy; MapTiler\u003c/a\u003e \u003ca href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\"\u003e\u0026copy; OpenStreetMap contributors\u003c/a\u003e",
+      style: 'https://api.maptiler.com/maps/e67e373f-5dd0-43eb-af03-ce94339f121c/style.json?key=wabELpVQcQH4whI0yKBP'
+    }).addTo(map);
+
+    var radiusSize = 4000;
+    var coordinates = Object.values({{ site.Params.Coordinates }})[0];
+
+    for (var i = 0; i < coordinates.length; i++){
+      for (var j = 0; j < sortedNames.length; j++) {
+        if ((coordinates[i].place).includes(sortedNames[j].name)){
+          //console.log(coordinates[i].place, sortedNames[j].name);
+          //console.log(coordinates[i].latitude, coordinates[i].longitude);
+          //console.log("? ", sortedNames[j]);
+
+          let linkList = "";
+          for (var x = 0; x < sortedNames[j].link.length; x++) {
+            linkList += "<a href='"+sortedNames[j].link[x]+"'>"+sortedNames[j].title[x].replaceAll('&&',' ')+"</a>";
+            linkList += "<br>";
+            //console.log(sortedNames[j].title[x]);
+          }
+
+          var circle = L.circle([coordinates[i].latitude, coordinates[i].longitude], {
+          className: coordinates[i].place.replaceAll(' ','_'),
+          color: 'var(--purpleColor)',
+          fillColor: 'var(--purpleColor)',
+          fillOpacity: 0.2,
+          /*radius: (radiusSize+(radiusSize*(0.4*sortedNames[j].link.length))),*/
+          radius: 8000,
+          weight: 2,
+          alt: coordinates[i].place}).addTo(map).bindPopup("<span>"+coordinates[i].place+"</span><br>"+linkList);
+        }
+      }
+    }
+
+    var last = document.getElementsByClassName('Città_del_Vaticano')[0];
+    last.parentNode.appendChild(last);
+    //return false;
+  }
+
 </script>
-
 {{ end }}
