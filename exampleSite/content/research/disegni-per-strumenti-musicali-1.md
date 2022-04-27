@@ -28,7 +28,7 @@ type = "Research"
 
 ***
 
-Quadri con rappresentazioni di concerti, musicisti, strumenti musicali abbondano sia nella pittura italiana del Seicento che in quella fiamminga.<sup>1</sup> Gli strumenti musicali dipinti nei quadri spesso corrispondono a precisi esemplari di proprietà dei committenti dei quadri. E alcuni pittori si dilettavano in musica e fabbricavano strumenti musicali. Sappiamo per esempio che il <span id="person_tag">Domenichino</span> è stato costruttore e ideatore di sofisticati strumenti musicali. La sua profonda conoscenza si evince dalle rappresentazioni di strumenti musicali nei suoi dipinti, per esempio l’arpa minuziosamente raffigurata nel quadro con _Il re Davide che suona l’arpa_.<sup>2</sup>
+Quadri con rappresentazioni di concerti, musicisti, strumenti musicali abbondano sia nella pittura italiana del Seicento che in quella fiamminga.<sup>1</sup> Gli strumenti musicali dipinti nei quadri spesso corrispondono a precisi esemplari di proprietà dei committenti dei quadri. E alcuni pittori si dilettavano in musica e fabbricavano strumenti musicali. Sappiamo per esempio che il <span id="person_tag">Domenichino</span> è stato costruttore e ideatore di sofisticati strumenti musicali. La sua profonda conoscenza si evince dalle rappresentazioni di strumenti musicali nei suoi dipinti, per esempio l’arpa minuziosamente raffigurata nel quadro _Il re Davide che suona l’arpa_.<sup>2</sup>
 
 ***
 
@@ -38,7 +38,7 @@ Quadri con rappresentazioni di concerti, musicisti, strumenti musicali abbondano
 
 ***
 
-E naturalmente rappresentazioni del <span id="subjects_tag">re Davide</span> sono occasioni di dipingere un’arpa. Un bel esempio ce lo mostra un foglio di <span id="person_tag">Pier Francesco Mola</span> con _L’apparizione dell’angelo a re Davide che suona l’arpa_ con un’arpa riccamente decorata, senz’altro preparatorio per un dipinto finora sconosciuto.<sup>3</sup>
+Naturalmente le rappresentazioni del <span id="subjects_tag">re Davide</span> sono occasioni di dipingere un’arpa. Un bel esempio ce lo mostra un foglio di <span id="person_tag">Pier Francesco Mola</span> con _L’apparizione dell’angelo a re Davide che suona l’arpa_ con un’arpa riccamente decorata, senz’altro preparatorio per un dipinto finora sconosciuto.<sup>3</sup>
 
 ***
 
@@ -48,7 +48,7 @@ E naturalmente rappresentazioni del <span id="subjects_tag">re Davide</span> son
 
 ***
 
-Meno diffusi invece sono disegni preparatori per strumenti musicali, per gli intagliatori, costruttori delle casse degli strumenti. È il caso di un disegno degli <span id="subjects_tag">Uffizi</span>, conosciuto e pubblicato da molto tempo.<sup>4</sup> Già nel catalogo del Museo degli Strumenti Musicali di Roma è stato paragonato con l’arpa Barberini, ma non identificato come disegno preparatorio.<sup>5</sup>
+Meno diffusi invece sono disegni preparatori per strumenti musicali, destinati agli intagliatori, e ai costruttori delle casse degli strumenti. È il caso di un disegno degli <span id="subjects_tag">Uffizi</span>, conosciuto e pubblicato da molto tempo.<sup>4</sup> Già nel catalogo del Museo degli Strumenti Musicali di Roma è stato paragonato con l’arpa Barberini, ma non identificato come disegno preparatorio.<sup>5</sup>
 
 ***
 
