@@ -28,7 +28,7 @@ type = "Research"
 
 ***
 
-Quadri con rappresentazioni di concerti, musicisti, strumenti musicali abbondano sia nella pittura italiana del Seicento che in quella fiamminga.<sup>1</sup> Gli strumenti musicali dipinti nei quadri spesso corrispondono a precisi esemplari di proprietà dei committenti dei quadri. E alcuni pittori si dilettavano in musica e fabbricavano strumenti musicali. Sappiamo p.e. che il <span id="person_tag">Domenichino</span> è stato costruttore e ideatore di sofisticati strumenti musicali. La sua intima conoscenza si evince dalle rappresentazioni di strumenti musicali nei suoi dipinti, p.e. l’arpa minuziosamente raffigurata nel quadro con _Il re Davide che suona l’arpa_.<sup>2</sup>
+Quadri con rappresentazioni di concerti, musicisti, strumenti musicali abbondano sia nella pittura italiana del Seicento che in quella fiamminga.<sup>1</sup> Gli strumenti musicali dipinti nei quadri spesso corrispondono a precisi esemplari di proprietà dei committenti dei quadri. E alcuni pittori si dilettavano in musica e fabbricavano strumenti musicali. Sappiamo per esempio che il <span id="person_tag">Domenichino</span> è stato costruttore e ideatore di sofisticati strumenti musicali. La sua profonda conoscenza si evince dalle rappresentazioni di strumenti musicali nei suoi dipinti, per esempio l’arpa minuziosamente raffigurata nel quadro con _Il re Davide che suona l’arpa_.<sup>2</sup>
 
 ***
 
@@ -58,7 +58,7 @@ Meno diffusi invece sono disegni preparatori per strumenti musicali, per gli int
 
 ***
 
-Si tratta di un progetto per un’arpa riccamente ornata ad intaglio sulla colonna di sostegno con motivi architettonici di volute e capitelli, alternati con putti, atlanti su piedistalli come divisione in tre registri, e sfingi in basso, con in alto, sulla fronte, uno stemma Barberini con le api sormontato da un cappello cardinalizio, sostenuto da un putto alato. 
+Si tratta di un progetto per un’arpa riccamente ornata ad intaglio sulla colonna di sostegno con motivi architettonici di volute e capitelli, alternati con putti, atlanti su piedistalli come divisione in tre registri, e sfingi in basso, con in alto, sulla fronte, uno stemma Barberini con le api sormontato da un cappello cardinalizio, sostenuto da un putto alato.
 
 ***
 
