@@ -110,7 +110,7 @@ Il dipinto del Lanfranco fornisce una chiara indicazione cronologica sia per il 
 
 ***
 
-Il corredo figurativo del disegno, che non è di carattere tecnico ma puramente decorativo, conferma questa datazione all’inizio degli anni trenta, conforme alla datazione del dipinto. Tuttavia il disegno non spetta al Lanfranco per l’estraneità dal suo stile grafico. Per le ovvie corrispondenze dei motivi intagliati sembra che il Lanfranco abbia avuto come modello davanti a sé proprio lo strumento dell’amico musicista.
+Il corredo figurativo del disegno, che non è di carattere tecnico ma puramente decorativo, conferma la datazione all’inizio degli anni Trenta, conformemente alla datazione del dipinto. Tuttavia il disegno non spetta al Lanfranco per l’estraneità dal suo stile grafico. Per le ovvie corrispondenze dei motivi intagliati sembra che il Lanfranco abbia avuto come modello davanti a sé proprio lo strumento dell’amico musicista.
 
 ***
 
