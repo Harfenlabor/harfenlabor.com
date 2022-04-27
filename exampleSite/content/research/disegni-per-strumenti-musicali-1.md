@@ -114,7 +114,7 @@ Il corredo figurativo del disegno, che non è di carattere tecnico ma puramente 
 
 ***
 
-I motivi plastici e l’aspetto stilistico sono piuttosto di derivazione cortonesca, affini ai progetti di <span id="person_tag">Pietro Berrettini da Cortona</span> per monumenti funebri, per incisioni e per oggetti liturgici come p.e. per una mazza da cerimonia, tra l’altro proprio con lo stemma di Antonio Barberini il giovane.<sup>11</sup>
+I motivi plastici e l’aspetto stilistico sono piuttosto di derivazione cortonesca, affini ai progetti di <span id="person_tag">Pietro Berrettini da Cortona</span> per monumenti funebri, per incisioni e per oggetti liturgici come per esempio una mazza da cerimonia, tra l’altro proprio con lo stemma di Antonio Barberini il giovane.<sup>11</sup>
 
 ***
 
