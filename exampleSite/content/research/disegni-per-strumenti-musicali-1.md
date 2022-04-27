@@ -110,11 +110,11 @@ Il dipinto del Lanfranco fornisce una chiara indicazione cronologica sia per il 
 
 ***
 
-Il corredo figurativo del disegno, che non è di carattere tecnico ma puramente decorativo, conferma la datazione all’inizio degli anni Trenta, conformemente alla datazione del dipinto. Tuttavia il disegno non spetta al Lanfranco per l’estraneità dal suo stile grafico. Per le ovvie corrispondenze dei motivi intagliati sembra che il Lanfranco abbia avuto come modello davanti a sé proprio lo strumento dell’amico musicista.
+Il corredo figurativo del disegno, che non è di carattere tecnico ma puramente decorativo, conferma la datazione all’inizio degli anni Trenta, conformemente alla datazione del dipinto. Tuttavia il disegno non spetta al Lanfranco, per l’estraneità dal suo stile grafico. Per le ovvie corrispondenze dei motivi intagliati sembra che il Lanfranco abbia avuto come modello davanti a sé proprio lo strumento dell’amico musicista.
 
 ***
 
-I motivi plastici e l’aspetto stilistico sono piuttosto di derivazione cortonesca, affini ai progetti del <span id="person_tag">Pietro Berrettini da Cortona</span> per monumenti funebri, per incisioni e per oggetti liturgici come p.e. per una mazza da cerimonia, tra l’altro proprio con lo stemma di Antonio Barberini il giovane.<sup>11</sup>
+I motivi plastici e l’aspetto stilistico sono piuttosto di derivazione cortonesca, affini ai progetti di <span id="person_tag">Pietro Berrettini da Cortona</span> per monumenti funebri, per incisioni e per oggetti liturgici come p.e. per una mazza da cerimonia, tra l’altro proprio con lo stemma di Antonio Barberini il giovane.<sup>11</sup>
 
 ***
 
