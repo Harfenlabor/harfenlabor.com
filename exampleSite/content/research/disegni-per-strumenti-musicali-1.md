@@ -54,7 +54,7 @@ Meno diffusi invece sono disegni preparatori per strumenti musicali, destinati a
 
 ![](/images/fig-3.jpg)
 
-###### Attributo a Giovanni Battista Soria, _Progetto per un’arpa_ (<cap>Fig. 3</cap>).
+###### Attribuito a Giovanni Battista Soria, _Progetto per un’arpa_ (<cap>Fig. 3</cap>).
 
 ***
 
@@ -64,13 +64,13 @@ Si tratta di un progetto per un’arpa riccamente ornata ad intaglio sulla colon
 
 ![](/images/fig-3c-_7918.jpg)
 
-###### Attributo a Giovanni Battista Soria, _Progetto per un’arpa,_ dettaglio (<cap>Fig. 4</cap>).
+###### Attribuito a Giovanni Battista Soria, _Progetto per un’arpa,_ dettaglio (<cap>Fig. 4</cap>).
 
 ***
 
 ![](/images/fig-3a-7915.jpg)
 
-###### Attributo a Giovanni Battista Soria, _Progetto per un’arpa,_ dettaglio (<cap>Fig. 5</cap>)
+###### Attribuito a Giovanni Battista Soria, _Progetto per un’arpa,_ dettaglio (<cap>Fig. 5</cap>)
 
 ***
 
@@ -80,7 +80,7 @@ Api sono disegnate pure sui piedistalli. Alla base del sostegno siede un satiro.
 
 ![](/images/fig-3b-7916.jpg)
 
-###### Attributo a Giovanni Battista Soria, _Progetto per un’arpa,_ dettaglio (<cap>Fig. 6</cap>).
+###### Attribuito a Giovanni Battista Soria, _Progetto per un’arpa,_ dettaglio (<cap>Fig. 6</cap>).
 
 ***
 
@@ -146,7 +146,7 @@ Si potrebbe allora pensare sia a <span id="person_tag">Bartolomeo de Rossi</span
 
 ![](/images/fig-9.jpg)
 
-###### Giovanni Battista Soria, _Custodia della Cattedra Petri_ (<cap>Fig. 11</cap>).
+###### Giovanni Battista Soria, _Custodia della Cathedra Petri_ (<cap>Fig. 11</cap>).
 
 ***
 
@@ -166,7 +166,7 @@ Qui il vocabolario decorativo assomiglia talmente sia a quello del disegno per l
 
 ![](/images/fig-4.jpg)
 
-###### Attributo a Giovanni Battista Soria, _Progetto per un’arpa,_ dettaglio (<cap>Fig. 13</cap>).
+###### Attribuito a Giovanni Battista Soria, _Progetto per un’arpa,_ dettaglio (<cap>Fig. 13</cap>).
 
 ***
 
