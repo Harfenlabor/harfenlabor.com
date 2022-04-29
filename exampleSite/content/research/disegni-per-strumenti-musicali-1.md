@@ -160,7 +160,7 @@ Simili motivi di volute e racemi sono presenti nella custodia lignea che il Sori
 
 ***
 
-Qui il vocabolario decorativo assomiglia talmente sia a quello del disegno per l’arpa che a un altro degli Uffizi per una base di un mobile,<sup>18</sup> da potersi attribuire allo stesso ideatore. Questo tipo di decorazione naturalistica e scultorea non è ancora di stampo berniniano, sebbene per l’ideazione, di “uno dei più begli strumenti musicali conosciuti” sia stato avanzato il nome del <span id="person_tag">Gian Lorenzo Bernini</span>.<sup>19</sup> Ma come <span id="person_tag">Alvar Gonzáles Palacios</span> osserva, “è cosa più antica”, impregnata di uno stile più grave dalla cultura barberiniana.<sup>20</sup> Sul foglio in basso a destra sotto la cassa si trova un leggero schizzo a matita nera di carattere architettonico a forma di tabernacolo o coronamento di ciborio. La presenza sul foglio di uno schizzo architettonico potrebbe essere un altro indizio per la sua attività di architetto, pur considerando che essa fu meno importante di quanto a lungo creduto, come giustamente osservato di recente da <span id="person_tag">Cristiano Marchegiani</span>, che ha ridimensionato il suo profilo da architetto nella voce del Dizionario Biografico degli Italiani.<sup>21</sup>
+Qui il vocabolario decorativo assomiglia talmente sia a quello del disegno per l’arpa che a un altro degli Uffizi per una base di un mobile,<sup>18</sup> da potersi attribuire allo stesso ideatore. Questo tipo di decorazione naturalistica e scultorea non è ancora di stampo berniniano, sebbene per l’ideazione, di “uno dei più begli strumenti musicali conosciuti” sia stato avanzato il nome del <span id="person_tag">Gian Lorenzo Bernini</span>.<sup>19</sup> Ma come <span id="person_tag">Alvar Gonzáles Palacios</span> osserva, “è cosa più antica”, impregnata di uno stile più grave dalla cultura barberiniana.<sup>20</sup> Sul foglio in basso a destra sotto la cassa si trova un leggero schizzo a matita nera di carattere architettonico a forma di tabernacolo o coronamento di ciborio. La presenza di un appunto architettonico potrebbe essere un ulteriore indizio per l’attività di architetto, pur considerando, pur considerando che essa in ogni caso fu meno importante di quanto a lungo creduto, come giustamente osservato di recente da <span id="person_tag">Cristiano Marchegiani</span>, che ha ridimensionato il suo profilo da architetto nella voce del Dizionario Biografico degli Italiani.<sup>21</sup>
 
 ***
 
@@ -170,9 +170,9 @@ Qui il vocabolario decorativo assomiglia talmente sia a quello del disegno per l
 
 ***
 
-L’apprendistato presso Giovanni Battista Montano e da Antonio Pomarancio era garanzia per la sua solida professionalità artistica riconoscibile indubbiamente anche in questo progetto di raffinato corredo decorativo. Tra l’altro spetta al Soria l’edizione dei disegni architettonici del suo maestro Giovanni Battista Montano, il cui insegnamento fu altrettanto importante per il Cortona, artista barberiniano per eccellenza, oltretutto molto amico del Soria.
+L’apprendistato da Giovanni Battista Montano e da Antonio Pomarancio era garanzia per la sua solida professionalità artistica riconoscibile indubbiamente anche in questo progetto di raffinato corredo decorativo. Tra l’altro spetta al Soria l’edizione dei disegni architettonici del suo maestro Giovanni Battista Montano, il cui insegnamento fu altrettanto importante per Pietro da Cortona, artista barberiniano per eccellenza, oltretutto molto amico del Soria.
 
-La proposta attributiva al Soria dell’ideazione e del progetto per l’arpa Barberini trova infine una sua ulteriore giustificazione nello stretto rapporto dell’artista con le committenze barberiniane per i lavori a S. Pietro e a palazzo Barberini.
+La proposta di attribuzione al Soria dell’ideazione e del progetto per l’arpa Barberini trova infine ulteriore sostegno nello stretto rapporto dell’artista con le committenze barberiniane per i lavori a San Pietro e a palazzo Barberini.
 
 ***
 
