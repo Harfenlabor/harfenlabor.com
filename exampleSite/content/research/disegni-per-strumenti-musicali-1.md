@@ -106,7 +106,7 @@ Rispetto all’arpa, esistono tuttavia nel disegno differenze nella decorazione.
 
 ***
 
-Il dipinto del Lanfranco fornisce una chiara indicazione cronologica sia per il disegno che per lo strumento, in quanto fu senz’altro eseguito prima della partenza del pittore per <span id="map_tag">Napoli</span> nel <span id="timeline_tag">1634</span> e dopo l’arrivo a Roma di Marco Marazzoli, committente del dipinto, dove è documentato dal <span id="timeline_tag">1629</span> al servizio del cardinale Antonio Barberini il giovane.<sup>9</sup> Questa datazione coincide con i documenti di recente ritrovati nelle carte Barberini dell’archivio Vaticano, cioè con i pagamenti del 23 agosto <span id="timeline_tag">1632</span> al costruttore dell’arpa <span id="person_tag">Geronimo Acciari</span>, e del <span id="timeline_tag">1633</span> all’intagliatore <span id="person_tag">Giovanni Tubi</span>.<sup>10</sup>
+Il dipinto del Lanfranco fornisce una chiara indicazione cronologica sia per il disegno che per lo strumento, in quanto fu senz’altro eseguito prima della partenza del pittore per <span id="map_tag">Napoli</span> nel <span id="timeline_tag">1634</span> e dopo l’arrivo a Roma di Marco Marazzoli, committente del dipinto, dove è documentato dal <span id="timeline_tag">1629</span> al servizio del cardinale Antonio Barberini il giovane.<sup>9</sup> Questa datazione coincide con i documenti di recente ritrovati nelle carte Barberini dell’Archivio Apostolico Vaticano, cioè con i pagamenti del 23 agosto <span id="timeline_tag">1632</span> al costruttore dell’arpa <span id="person_tag">Geronimo Acciari</span>, e del <span id="timeline_tag">1633</span> all’intagliatore <span id="person_tag">Giovanni Tubi</span>.<sup>10</sup>
 
 ***
 
