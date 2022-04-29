@@ -26,7 +26,7 @@ type = "Research"
 +++
 ***
 
-### Link to the original version of this article in Italian: [“Venere che sona d’arpa e due amori”: Marco Marazzoli alla corte dei Barberini](https://harfenlabor.netlify.app/research/venere-che-sona-d-arpa-e-due-amori-marco-marazzoli-alla-corte-dei-barberini-venere-che-sona-d-arpa-e-due-amori-marco-marazzoli-alla-corte-dei-barberini/)
+### Link to the original version of this article in Italian: [“Venere che sona d’arpa e due amori”: Marco Marazzoli alla corte dei Barberini](https://harfenlabor.com/research/venere-che-sona-d-arpa-e-due-amori-marco-marazzoli-alla-corte-dei-barberini-venere-che-sona-d-arpa-e-due-amori-marco-marazzoli-alla-corte-dei-barberini/)
 
 ***
 
