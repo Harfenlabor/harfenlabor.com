@@ -20,7 +20,7 @@ subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Iconography", "Sociology of Art"]
 summary_text = ""
 timeline_tag = ["1575", "1671", "1500s", "1633", "1634", "1626", "1629", "1637", "1639", "1640", "1630s", "1644", "1653", "1662", "1619-1663", "1632-1633", "1636-1644"]
-title = "“Venere che sona d’arpa e due amori”: Marco Marazzoli alla corte dei Barberini"
+title = "“Venere che sona d’arpa e due amori”:&&Marco Marazzoli alla corte dei Barberini"
 type = "Research"
 
 +++
