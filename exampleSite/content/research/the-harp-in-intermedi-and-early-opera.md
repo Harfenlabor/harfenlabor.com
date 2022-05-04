@@ -19,7 +19,7 @@ status = "draft"
 subjects_tag = ["intermedi", "Orpheus", "Orfeo", "Apollo", "Arione", "gravicembalo", "flauti", "flute", "trombone", "violone", "Baccho, Baccho, E U O E", "harp", "Florence", "Dorian harmony", "liuto grosso ", "chitarrone", "madrigal", "canto", "choir", " lira da braccio", "basso di viola", "viola bastarda", "lyre", "arpa", "spindle", "L'Armonia Doria ", "Sinfonia, a 6", "ensemble instrument", "stanza", "improvisation", "polyphony", "La Dafne", "viola", "L'Orfeo", "La catena d'Adone", "Palazo Conti", "ritornelli", "soprano", "La Fabula di Orfeo", "Orpheus and Eurydice", "Tod des Orpheus", "Orpheus und die Tiere", "The death of Orpheus", "Orpheus in der Unterwelt", "Orfeo Dolente", "arpa doppia", "clavicembalo", "contrabasso di viola", "ritornello", "organi", "instrumentation", "Possente spirto", "solo instrument", "Il Sant'Alessio", "theorbo", "violin", "zither", "basso continuo", "figure", "Ovid's Metamorphoses", "L'antica lira", "Arione salvato", "Palazzo Farnese", "recitation"]
 subtype = ["Performance Practice", "Musicology", "Iconography"]
 summary_text = ""
-timeline_tag = ["1539", "1589", "1626", "1480", "1534", "1494", "1514-1562", "1519", "1659", "1600-1605", "1616", "1631", "1656", "1641"]
+timeline_tag = ["1539", "1589", "1626", "1480", "1534", "1494", "1514-1562", "1519", "1659", "1600-1605", "1616", "1631", "1656", "1641", "1608"]
 title = "The Harp in Intermedi and Early Opera"
 type = "Research"
 
