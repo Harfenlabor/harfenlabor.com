@@ -39,7 +39,7 @@ Despite its undisputed historical value, the "Arpa Barberini" is far from having
 
 ***
 
-##### 14 December 2016 
+###### 14 December 2016 
 
 The Convening began in the afternoon of December 14, 2016, with the participants gathering in the exhibition room of the Museo Nazionale degli Strumenti Musicali, where the Barberini Harp is kept. Following opening remarks by the initiator Margret Köll and the museum director Sandra Suatoni, an extraordinary concert was held. Only a few metres from the original Barberini Harp, three copies of the instrument were set up: by David Brown (made in Baltimore in 1989), Dario Pontiggia (in Milano, 2006) and Eric Kleinmann (in Rangendingen, 2005). Mara Galassi (Milano), Chiara Granata (Milano) and Loredana Gintoli (Berlin) played 17the century compositions on these harps in an homage to the Barberini Harp.
 
@@ -49,7 +49,7 @@ Using excerpts from letters, Alexandra Ziane (Berlin) then reconstructed the eff
 
 ***
 
-##### 15 December 2016 / morning session
+###### 15 December 2016 / morning session
 
 The next morning, harpist and researcher Chiara Granata and harp maker Dario Pontiggia presented the current state of research on the Barberini Harp. As part of her research in the Barberini Archives of the Vatican Library, Granata was able to prove that a harp was built in 1632/33 on behalf of Cardinal Antonio Barberini for the composer and harpist Marco Marazzoli. It is very likely that this is the Barberini Harp, especially as older dendrochronological investigations dated the wood of the soundbox to between 1605 and 1610. However, Chiara Granata also pointed out the differences between the surviving instrument and the depiction of a harp in Lanfranco's painting, which exist in a number of details (color, shape, position of the sound holes, etc.).
 
@@ -63,7 +63,7 @@ The art historian Elisabetta Frullini (Roma/Wien) took Giovanni Lanfranco's famo
 
 ***
 
-##### 15 December 2016 / afternoon session
+###### 15 December 2016 / afternoon session
 
 ***
 
@@ -75,7 +75,7 @@ The day concluded with Harp Laboratory: the harpists Margret Köll, Mara Galassi
 
 ***
 
-##### 16 December 2016 / morning session
+###### 16 December 2016 / morning session
 
 The morning of December 16th was primarily reserved for the harp and string makers. David Brown used numerous illustrations and descriptions to place the Barberini Harp in the history of harp making in the 16th and 17th centuries. He also evaluated the X-rays of the Roman instrument.
 
@@ -93,7 +93,7 @@ Adam Lowe from Madrid was then included in the conversation via Skype, to talk a
 
 ***
 
-##### 16 December 2016 / afternoon session
+###### 16 December 2016 / afternoon session
 
 The afternoon lectures moved the focus back onto musico-historical topics and were devoted to possible interpreters and the presumed repertoire performed on the Barberini Harp. Alexandra Ziane introduced the many harpists who were active in Roma at the beginning of the 17th century, with a particular emphasis on Orazio Michi, whose playing was mentioned in several sources. Joachim Steinheuer (Heidelberg) considered the possible repertoire of the corresponding period, indicating the harp as an ensemble instrument, as well as a basso continuo and a solo instrument—an evaluation based on both written and iconographical sources. Finally, Florian Bassani in his lecture mentioned the use of harps in Roman sacral music and evaluated contemporaneous tracts for indications of harp repertoire. Accordingly, there was little idiomatic solo literature for the harp in Roma of the early 17th century. Instead, the harp was considered (e.g. by Agostino Agazzari) as an ensemble and bass instrument. However, improvising on bass models was an essential part of making music at the time, which could also include the harp as a solo or melody instrument.
 
