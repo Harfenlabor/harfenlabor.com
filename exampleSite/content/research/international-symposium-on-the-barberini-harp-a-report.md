@@ -44,3 +44,9 @@ Ursula Verena Fischer Pace (Roma) then situated design of the Barberini Harp wit
 The art historian Elisabetta Frullini (Roma/Wien) took Giovanni Lanfranco's famous painting "Allegory of Music" as the starting point for her presentation. Frullini pointed out the important role played by Marco Marazzoli as the Barberini court musician, and presented comparable paintings.
 
 15 December 2016 / afternoon session
+
+The discussion turned to specialist organological and historical issues. Dinko Fabris (Roma) dedicated his presentation to Luc Antonio Eustachio, who is described in Marin Mersenne's _Harmonie universelle_ (1637) as the inventor of the "arpa a tre ordini." Eustachio came to Roma from Apulia and was in the service of Pope Paul V of the Borghese family. Many documents mention him as a musician, without specifically mentioning his role in the development of the triple harp. Patrizio Barbieri (Roma) then devoted himself to harp and harpsichord models in which a distinction is made between enharmonic semitones.
+
+The day concluded with Harp Laboratory: the harpists Margret Köll, Mara Galassi, Loredana Gintoli and Chiara Granata, performing the same pieces on four different harps. The resulting differences in sound were then discussed in a plenum.
+
+The morning of December 16th was primarily reserved for the harp and string makers. David Brown used numerous illustrations and descriptions to place the Barberini Harp in the history of harp making in the 16th and 17th centuries. He also evaluated the X-rays of the Roman instrument.
