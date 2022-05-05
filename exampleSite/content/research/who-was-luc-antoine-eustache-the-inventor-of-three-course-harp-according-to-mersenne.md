@@ -32,7 +32,7 @@ type = "Research"
 
 ***
 
-**Translated transcript of the podcast:**
+**Translated transcript of the talk:**
 
 ***
 
