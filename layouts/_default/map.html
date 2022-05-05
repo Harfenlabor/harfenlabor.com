@@ -129,10 +129,13 @@
           weight: 2,
           alt: coordinates[i].place}).addTo(map).bindPopup("<span>"+coordinates[i].place+"</span><br>"+linkList);
 
+          const place = coordinates[i].place;
+          const links = linkList;
+
           /*on hover*/
           circle.on('mouseover', function(e) { 
             tooltipPopup = L.popup(/*{ offset: L.point(0, -50)}*/);
-            tooltipPopup.setContent("<span>"+coordinates[i].place+"</span><br>"+linkList);
+            tooltipPopup.setContent("<span>"+place+"</span><br>"+links);
             tooltipPopup.setLatLng(e.target.getLatLng());
             tooltipPopup.openOn(map);
           });
