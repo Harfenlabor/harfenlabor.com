@@ -134,7 +134,7 @@
 
           /*on hover*/
           circle.on('mouseover', function(e) { 
-            tooltipPopup = L.popup({ fillOpacity: 0.2 });
+            tooltipPopup = L.popup(/*{ offset: L.point(0, -50)}*/);
             tooltipPopup.setContent("<span>"+place+"</span><br>"+links);
             tooltipPopup.setLatLng(e.target.getLatLng());
             tooltipPopup.openOn(map);
