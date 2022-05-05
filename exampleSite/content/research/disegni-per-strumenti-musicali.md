@@ -101,7 +101,7 @@ I believe that the drawing held at the Uffizi is a preparatory drawing for the B
 
 ***
 
-Compared to the harp, there are, however, some variations concerning the design of the decoration. On the instrument the sphinx is replaced by a lion's head with a thick mane, also seen in the painting, whereas on the opposite side, above the coat of arms, the satyr is missing and in place of the Cardinal's hat we see a crown and the Golden Fleece. This change was made later, after the death of Cardinal Antonio (1671), when this prestigious order was conferred in 1673 on prince Don Maffeo Barberini.<sup>9</sup>
+Compared to the harp, there are, however, some variations concerning the design of the decoration. On the instrument the sphinx is replaced by a lion's head with a thick mane, also seen in the painting, whereas on the opposite side, above the coat of arms, the satyr is missing and in place of the cardinal's hat we see a crown and the Golden Fleece. This change was made later, after the death of Cardinal Antonio (1671), when this prestigious order was conferred in 1673 on prince Don Maffeo Barberini.<sup>9</sup>
 
 ***
 
