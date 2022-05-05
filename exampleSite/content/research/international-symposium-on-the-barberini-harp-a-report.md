@@ -49,6 +49,8 @@ The discussion turned to specialist organological and historical issues. Dinko F
 
 The day concluded with Harp Laboratory: the harpists Margret Köll, Mara Galassi, Loredana Gintoli and Chiara Granata, performing the same pieces on four different harps. The resulting differences in sound were then discussed in a plenum.
 
+16 December 2016 / morning session
+
 The morning of December 16th was primarily reserved for the harp and string makers. David Brown used numerous illustrations and descriptions to place the Barberini Harp in the history of harp making in the 16th and 17th centuries. He also evaluated the X-rays of the Roman instrument.
 
 Eric Kleinmann then gave a detailed account of some of the Barberini instrument's unanswered questions. He put forward the thesis that the change in the attachment of the strings was probably carried out in order to raise the pitch from originally a1=392 Hz. In addition, two low strings were added during a 17th-century remodelling, further hollowing out the neck at this point. The lowest string may not have been playable at all, coming too close to the elaborate decoration. Eric Kleinmann also presented photos of the interior of the harp's soundbox, taken with a 360-degree camera. The “inner workings” of the Barberini Harp could thus be clearly seen for the first time. Finally, he raised the possibility that the harp's soundboard might have been replaced at an early stage, which would, in turn explain the differences with Lanfranco's painting. According to Kleinmann, it is still unclear which wood was used in the making of the column.
