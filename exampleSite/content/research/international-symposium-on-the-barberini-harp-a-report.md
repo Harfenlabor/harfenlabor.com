@@ -39,8 +39,6 @@ Despite its undisputed historical value, the "Arpa Barberini" is far from having
 
 ***
 
-###### 14 December 2016 
-
 The Convening began in the afternoon of December 14, 2016, with the participants gathering in the exhibition room of the Museo Nazionale degli Strumenti Musicali, where the Barberini Harp is kept. Following opening remarks by the initiator Margret Köll and the museum director Sandra Suatoni, an extraordinary concert was held. Only a few metres from the original Barberini Harp, three copies of the instrument were set up: by David Brown (made in Baltimore in 1989), Dario Pontiggia (in Milano, 2006) and Eric Kleinmann (in Rangendingen, 2005). Mara Galassi (Milano), Chiara Granata (Milano) and Loredana Gintoli (Berlin) played 17the century compositions on these harps in an homage to the Barberini Harp.
 
 ***
