@@ -28,17 +28,19 @@ type = "Research"
 
 ![](/images/dif_000185_602_c.jpg)
 
-A harp commissioned by the influential aristocratic Barberini family was built in Roma, probably in 1632. It remains preserved to this day as one of the most valuable Italian musical instruments of the 17th century: the “Arpa Barberini,” an elaborately made instrument with a magnificent carved and gilded column. It bears the Barberini coat of arms and other symbolic decoration. Soon after the harp was made, the Roman painter Giovanni Lanfranco (1582-1647) immortalised the instrument in a painting, suggesting special appreciation for the harp in the artistic circles around the Barberini pope Urbano VIII (Maffeo Barberini, reign 1623-1644). Privately owned for a long time, the instrument thus survived the passage of time; it was not handed over to the Museo Nazionale degli Strumenti Musicali in Roma until the early 1970s. It remains in the museum’s collection today, though it can no longer be played for conservation reasons.
+A harp commissioned by the influential aristocratic Barberini family was built in Roma, probably in 1632. It remains preserved to this day as one of the most valuable Italian musical instruments of the 17th century: the “Arpa Barberini,” an elaborately made instrument with a magnificent carved and gilded column. It bears the Barberini coat of arms and other symbolic decoration. Soon after the harp was made, the Roman painter Giovanni Lanfranco (1582-1647) immortalised the instrument in a painting, suggesting special appreciation for the harp in the artistic circles around the Barberini pope Urbano VIII (Maffeo Barberini, reign 1623-1644). 
+
+![](/images/dif_000185_28_m.jpg)
+
+Privately owned for a long time, the instrument thus survived the passage of time; it was not handed over to the Museo Nazionale degli Strumenti Musicali in Roma until the early 1970s. It remains in the museum’s collection today, though it can no longer be played for conservation reasons.
 
 ***
-
-![](/images/img_8924.jpg)
 
 ***
 
 Despite its undisputed historical value, the "Arpa Barberini" is far from having been adequately researched. For this reason, an interdisciplinary conference was held at the Austrian Historical Institute in Roma in December 2016 at the initiative of the Berlin-based harpist Margret Köll. Harpists, instrument makers, musicologists and art historians from several countries met, discussed problems and questions relating to the Barberini Harp and explored the possibilities of creating an exact copy of the instrument.
 
-![](/images/carved-screen.png)
+![](/images/img_8924.jpg)
 
 ***
 
@@ -83,6 +85,8 @@ The morning of December 16th was primarily reserved for the harp and string make
 ***
 
 Eric Kleinmann then gave a detailed account of some of the Barberini instrument's unanswered questions. He put forward the thesis that the change in the attachment of the strings was probably carried out in order to raise the pitch from originally a1=392 Hz. In addition, two low strings were added during a 17th-century remodelling, further hollowing out the neck at this point. The lowest string may not have been playable at all, coming too close to the elaborate decoration. Eric Kleinmann also presented photos of the interior of the harp's soundbox, taken with a 360-degree camera. The “inner workings” of the Barberini Harp could thus be clearly seen for the first time. Finally, he raised the possibility that the harp's soundboard might have been replaced at an early stage, which would, in turn explain the differences with Lanfranco's painting. According to Kleinmann, it is still unclear which wood was used in the making of the column.
+
+![](/images/carved-screen.png)
 
 ***
 
