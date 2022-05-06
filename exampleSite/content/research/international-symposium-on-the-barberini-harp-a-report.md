@@ -20,7 +20,7 @@ subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Musicology", "Iconography", "Sociology of Art"]
 summary_text = ""
 timeline_tag = []
-title = "International Symposium on the Barberini Harp&&14-16 December 2016: A report"
+title = "Report on the Convening in Roma&&14-16 December 2016"
 type = "Research"
 
 +++
@@ -94,7 +94,7 @@ Adam Lowe from Madrid was then included in the conversation via Skype, to talk a
 
 ###### 16 December 2016 / afternoon session
 
-The afternoon lectures moved the focus back onto musico-historical topics and were devoted to possible interpreters and the presumed repertoire performed on the Barberini Harp. Alexandra Ziane introduced the many harpists who were active in Roma at the beginning of the 17th century, with a particular emphasis on Orazio Michi, whose playing was mentioned in several sources. Joachim Steinheuer (Heidelberg) considered the possible repertoire of the corresponding period, indicating the harp as an ensemble instrument, as well as a basso continuo and a solo instrument—an evaluation based on both written and iconographical sources. Finally, Florian Bassani in his lecture mentioned the use of harps in Roman sacral music and evaluated contemporaneous tracts for indications of harp repertoire. Accordingly, there was little idiomatic solo literature for the harp in Roma of the early 17th century. Instead, the harp was considered (e.g. by Agostino Agazzari) as an ensemble and bass instrument. However, improvising on bass models was an essential part of making music at the time, which could also include the harp as a solo or melody instrument.
+The afternoon lectures moved the focus back onto musico-historical topics and were devoted to possible interpreters and the presumed repertoire performed on the Barberini Harp. Alexandra Ziane introduced the many harpists who were active in Roma at the beginning of the 17th century, with a particular emphasis on Orazio Michi, whose playing was mentioned in several sources. Joachim Steinheuer (Heidelberg) considered the possible repertoire of the corresponding period, indicating the harp as an ensemble instrument, as well as a basso continuo and a solo instrument—an evaluation based on both written and iconographical sources. Finally, Florian Bassani in his lecture mentioned the use of harps in Roman sacral music and evaluated contemporaneous tracts for indications of harp repertoire. Accordingly, there was little idiomatic solo literature for the harp in Roma of the early 17th century. Instead, the harp was considered (by Agostino Agazzari, for example) as an ensemble and bass instrument. However, improvising on bass models was an essential part of making music at the time, which could also include the harp as a solo or melody instrument.
 
 ***
 
