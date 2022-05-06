@@ -58,7 +58,9 @@ Using excerpts from letters, Alexandra Ziane (Berlin) then reconstructed the eff
 
 ***
 
-#### 15 December 2016 / morning session
+15 December 2016 / morning session
+
+***
 
 The next morning, harpist and researcher Chiara Granata and harp maker Dario Pontiggia presented the current state of research on the Barberini Harp. As part of her research in the Barberini Archives of the Vatican Library, Granata was able to prove that a harp was built in 1632/33 on behalf of Cardinal Antonio Barberini for the composer and harpist Marco Marazzoli. It is very likely that this is the Barberini Harp, especially as older dendrochronological investigations dated the wood of the soundbox to between 1605 and 1610. However, Chiara Granata also pointed out the differences between the surviving instrument and the depiction of a harp in Lanfranco's painting, which exist in a number of details (color, shape, position of the sound holes, etc.).
 
@@ -72,7 +74,7 @@ The art historian Elisabetta Frullini (Roma/Wien) took Giovanni Lanfranco's famo
 
 ***
 
-###### 15 December 2016 / afternoon session
+15 December 2016 / afternoon session
 
 ***
 
