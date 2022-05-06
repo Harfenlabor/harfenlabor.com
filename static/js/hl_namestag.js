@@ -123,6 +123,9 @@ function persontags(data){
     if ((i == 0)||(sortedNames[i-1].name.charAt(0) != sortedNames[i].name.charAt(0))) {
       sortedNames.splice(i, 0, { 'name': sortedNames[i].name.charAt(0), 'link': ' ', 'title': sortedNames[i].name.charAt(0)});
     }
+    if ((i == 0)||(sortedSubjects[i-1].subject.charAt(0) != sortedSubjects[i].subject.charAt(0))) {
+      sortedSubjects.splice(i, 0, { 'name': sortedSubjects[i].subject.charAt(0), 'link': ' ', 'title': sortedSubjects[i].subject.charAt(0)});
+    }
 
     //adjust, remove duplicates
     if ((i != 0)&&(sortedNames[i].name == sortedNames[i-1].name)){
@@ -280,7 +283,6 @@ function populateWithResults(myResults){
         console.log("is a subject");
       }
       document.getElementById(url[1]).scrollIntoView({ behavior: 'smooth'});
-      console.log(document.getElementById(url[1]));
       document.getElementById(url[1]).style.color = 'var(--purpleColor)';
       //document.getElementById(url[1]).children[0].style.color = 'var(--purpleColor)' /*#B44BEB*/
     }
