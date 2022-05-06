@@ -100,4 +100,6 @@ Concludendo, il quadro di Lanfranco appare come un omaggio a Marazzoli ed alle s
 
 ***
 
-###### https://harfenlabor.netlify.app/research/venere-che-sona-d-arpa-e-due-amori-marco-marazzoli-at-the-barberini-court/#bibliography
+[Bibliografia](https://harfenlabor.netlify.app/research/venere-che-sona-d-arpa-e-due-amori-marco-marazzoli-at-the-barberini-court/#bibliography)
+
+###### 
