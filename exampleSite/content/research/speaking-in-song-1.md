@@ -7,6 +7,7 @@ description = ""
 downloads = []
 externallinks = "Academia Bizantina - https://www.accademiabizantina.it/en/ && Il Giardino Armonico, Viaggio Musicale, playlist - https://www.youtube.com/playlist?list=OLAK5uy_ksd_AQhIPVlvjcaVrYSgs5oTdpKkMrbac && L'Orfeo conducted by Claudio Cavina - https://www.youtube.com/watch?v=Jlq5-FynRVc && L'Orfeo conducted by John Eliot Gardiner - https://open.spotify.com/album/4HCExObDtytXFTN4cpotcI &&"
 footnotes = ""
+hide_from_research = false
 image = "/images/dif_000878_190.jpeg"
 imgcaptions = ""
 map_tag = ["Ferrara", "Cremona", "Ravenna"]
@@ -15,7 +16,7 @@ project_category = "Podcast: Between the Strings"
 relatedresearch = ["Two Souls of a Harp"]
 show_in_news = true
 status = "draft"
-subjects_tag = ["recitar cantando", "Academia Bizantina", "Teatro Comunale di Ferrara", "Orpheus", "L'Orfeo", "Orfeo", "Eurydice", "Euridice", "Messagera", "Messagiera", "mutatio toni", "enharmony", "Seicento", "Programmmusik", "programme music", "program music", "passus duriusculus", "theorbo", "positive organ", "harpsichord", "harp", "tonality", "modality", "opera", "\"Possente spirto\"", "canto", "melisma", "violin", "cornet", "Charon", "harmonic concept", "modal phrase", "prosody", "zither", "cadenza", "Follia", "folia", "Ulisse", "Poppea", "flute", "chitarrone", "Baroque", "trombone", "trumpet", "organ", "\"Rinaldo\"", "basso continuo", "rhetoric", "Il Giardino Armonico", "toccata", "modal", "tonal", "vibrato", "tactus", "scansion", "\"Possente spirto\""]
+subjects_tag = ["recitar cantando", "Academia Bizantina", "Teatro Comunale di Ferrara", "Orpheus", "L'Orfeo", "Orfeo", "Eurydice", "Euridice", "Messagera", "Messagiera", "mutatio toni", "enharmony", "Seicento", "Programmmusik", "programme music", "program music", "passus duriusculus", "theorbo", "positive organ", "harpsichord", "harp", "tonality", "modality", "opera", "canto", "melisma", "violin", "cornet", "Charon", "harmonic concept", "modal phrase", "prosody", "zither", "cadenza", "Follia", "folia", "Ulisse", "Poppea", "flute", "chitarrone", "Baroque", "trombone", "trumpet", "organ", "\"Rinaldo\"", "basso continuo", "rhetoric", "Il Giardino Armonico", "toccata", "modal", "tonal", "vibrato", "tactus", "scansion", "Possente spirto"]
 subtype = ["Organology", "Performance Practice", "Musicology"]
 summary_text = "Ottavio Dantone, conductor, outstanding cembalo and organ player and a basso continuo autodidact, demonstrates the power of music and word through some of the key moments in Monteverdi´s masterpiece <i>L'Orfeo</i>. Dantone shares his visionary views on the modernity of Monteverdi´s musical language, advocating for intuition in adapting performances to contemporary needs so as to electrify through synergy of music and words."
 timeline_tag = ["1607", "17th century", "18th century"]
