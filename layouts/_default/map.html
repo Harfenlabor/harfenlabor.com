@@ -139,7 +139,7 @@
             tooltipPopup.setLatLng(e.target.getLatLng());
             tooltipPopup.openOn(map);
           });
-          circle.on('mouseout', function(e) { 
+          map.on('mouseout', function(e) { 
             map.closePopup(tooltipPopup);
           });
         }
