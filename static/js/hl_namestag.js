@@ -128,7 +128,7 @@ function persontags(data){
     }*/
     if (i > 0) {
       console.log(sortedSubjects[i-1].subject);
-      console.log(sortedSubjects[i-1].subject.charAt[2]);
+      console.log(sortedSubjects[i-1].subject.charAt(0));
     }
 
     //adjust, remove duplicates
