@@ -20,11 +20,10 @@ subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Musicology", "Iconography", "Sociology of Art"]
 summary_text = ""
 timeline_tag = []
-title = "International Symposium on the Barberini Harp: A report"
+title = "International Symposium on the Barberini Harp&&14-16 December 2016: A report"
 type = "Research"
 
 +++
-
 ***
 
 A harp commissioned by the influential aristocratic Barberini family was built in Roma, probably in 1632. It remains preserved to this day as one of the most valuable Italian musical instruments of the 17th century: the “Arpa Barberini” \[Barberini Harp\], an elaborately made instrument with a magnificent carved and gilded column. It bears the Barberini coat of arms and other symbolic decoration. Soon after the harp was made, the Roman painter Giovanni Lanfranco (1582-1647) immortalized the instrument in a painting, suggesting special appreciation for the harp in the artistic circles around the Barberini Pope Urbano VIII (Maffeo Barberini, reign 1623-1644. Privately owned for a long time, the instrument thus survived the passage of time; it was not handed over to the Museo Nazionale degli Strumenti Musicali in Roma until the early 1970s. It remains in the museum’s collection today, though it can no longer be played for conservation reasons.
