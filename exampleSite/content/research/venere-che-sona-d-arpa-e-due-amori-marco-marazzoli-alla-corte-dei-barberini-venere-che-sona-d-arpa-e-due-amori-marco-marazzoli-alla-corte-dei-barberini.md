@@ -100,9 +100,7 @@ Concludendo, il quadro di Lanfranco appare come un omaggio a Marazzoli ed alle s
 
 ***
 
-***
-
-###### Bibliografia
+[https://harfenlabor.netlify.app/research/venere-che-sona-d-arpa-e-due-amori-marco-marazzoli-at-the-barberini-court/](https://harfenlabor.com/research/venere-che-sona-d-arpa-e-due-amori-marco-marazzoli-at-the-barberini-court#bibliography "Bibliografia")
 
 ###### Barb.lat. 4209. Archivio Barberini, Biblioteca Apostolica Vaticana. Città del Vaticano.
 
