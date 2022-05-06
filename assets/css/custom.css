@@ -685,6 +685,7 @@ p > img {
 .index_box_name {
 	color: var(--purpleColor);
 	padding-left: 0em;
+	margin-top: 0.5em;
 	margin-bottom: 0.5em;
 	line-break: normal;
 	font-size: 1.5rem;
