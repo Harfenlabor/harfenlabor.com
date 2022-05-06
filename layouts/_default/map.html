@@ -139,6 +139,9 @@
             tooltipPopup.setLatLng(e.target.getLatLng());
             tooltipPopup.openOn(map);
           });
+          map.on('mouseover', function(e) { 
+            map.closePopup(tooltipPopup);
+          });
           map.on('mouseout', function(e) { 
             map.closePopup(tooltipPopup);
           });
