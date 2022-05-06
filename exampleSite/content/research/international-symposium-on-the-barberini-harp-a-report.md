@@ -26,7 +26,7 @@ type = "Research"
 +++
 ***
 
-A harp commissioned by the influential aristocratic Barberini family was built in Roma, probably in 1632. It remains preserved to this day as one of the most valuable Italian musical instruments of the 17th century: the “Arpa Barberini,” an elaborately made instrument with a magnificent carved and gilded column. It bears the Barberini coat of arms and other symbolic decoration. Soon after the harp was made, the Roman painter Giovanni Lanfranco (1582-1647) immortalized the instrument in a painting, suggesting special appreciation for the harp in the artistic circles around the Barberini Pope Urbano VIII (Maffeo Barberini, reign 1623-1644. Privately owned for a long time, the instrument thus survived the passage of time; it was not handed over to the Museo Nazionale degli Strumenti Musicali in Roma until the early 1970s. It remains in the museum’s collection today, though it can no longer be played for conservation reasons.
+A harp commissioned by the influential aristocratic Barberini family was built in Roma, probably in 1632. It remains preserved to this day as one of the most valuable Italian musical instruments of the 17th century: the “Arpa Barberini,” an elaborately made instrument with a magnificent carved and gilded column. It bears the Barberini coat of arms and other symbolic decoration. Soon after the harp was made, the Roman painter Giovanni Lanfranco (1582-1647) immortalized the instrument in a painting, suggesting special appreciation for the harp in the artistic circles around the Barberini pope Urbano VIII (Maffeo Barberini, reign 1623-1644). Privately owned for a long time, the instrument thus survived the passage of time; it was not handed over to the Museo Nazionale degli Strumenti Musicali in Roma until the early 1970s. It remains in the museum’s collection today, though it can no longer be played for conservation reasons.
 
 ***
 
@@ -66,7 +66,7 @@ The art historian Elisabetta Frullini (Roma/Wien) took Giovanni Lanfranco's famo
 
 ***
 
-The discussion turned to specialist organological and historical issues. Dinko Fabris (Roma) dedicated his presentation to Luc Antonio Eustachio, who is described in Marin Mersenne's _Harmonie universelle_ (1637) as the inventor of the "arpa a tre ordini." Eustachio came to Roma from Apulia and was in the service of Pope Paul V of the Borghese family. Many documents mention him as a musician, without specifically mentioning his role in the development of the triple harp. Patrizio Barbieri (Roma) then devoted himself to harp and harpsichord models in which a distinction is made between enharmonic semitones.
+The discussion turned to specialist organological and historical issues. Dinko Fabris (Roma) dedicated his presentation to Luc Antonio Eustachio, who is described in Marin Mersenne's _Harmonie universelle_ (1637) as the inventor of the "arpa a tre ordini." Eustachio came to Roma from Apulia and was in the service of pope Paolo V of the Borghese family. Many documents mention him as a musician, without specifically mentioning his role in the development of the triple harp. Patrizio Barbieri (Roma) then devoted himself to harp and harpsichord models in which a distinction is made between enharmonic semitones.
 
 ***
 
@@ -76,7 +76,7 @@ The day concluded with Harp Laboratory: the harpists Margret Köll, Mara Galassi
 
 ###### 16 December 2016 / morning session
 
-The morning of December 16th was primarily reserved for the harp and string makers. David Brown used numerous illustrations and descriptions to place the Barberini Harp in the history of harp making in the 16th and 17th centuries. He also evaluated the X-rays of the Roman instrument.
+The morning of December 16th was primarily reserved for the harp and string makers. David Brown used numerous illustrations and descriptions to place the Barberini Harp in the history of harp making in the 16th and 17th centuries. He also evaluated the X-ray images of the Roman instrument.
 
 ***
 
@@ -88,7 +88,7 @@ String maker Mimmo Peruffo (Vicenza), offered his expertise in pointing out the 
 
 ***
 
-Adam Lowe from Madrid was then included in the conversation via Skype, to talk about the complex 3D scan of the Barberini Harp he made with his team from FACTUM arte. Participants were able to see a Studio Armin Linke account of this process the day before in a short film and photographic \[?} prints on display. The external appearance of the instrument can thus be precisely reconstructed following the 3D scan.
+Adam Lowe from Madrid was then included in the conversation via Skype, to talk about the complex 3D scan of the Barberini Harp he made with his team from FACTUM arte. Participants were able to see a Studio Armin Linke account of this process the day before in a short film and photographic prints on display. The external appearance of the instrument can thus be precisely reconstructed following the 3D scan.
 
 ***
 
