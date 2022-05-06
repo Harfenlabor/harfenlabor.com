@@ -120,20 +120,16 @@ function persontags(data){
   for (var i = 0; i < sortedNames.length; i++) {
 
     //push the first letter to the list
-    if (i == 0) {
-      sortedNames.splice(i, 0, { 'name': sortedNames[i].name.charAt(0), 'link': ' ', 'title': sortedNames[i].name.charAt(0)});
-      sortedSubjects.splice(i, 0, { 'name': sortedSubjects[i].subject.charAt(0), 'link': ' ', 'title': sortedSubjects[i].subject.charAt(0)});
-    }
-    if ((i > 0)||(sortedNames[i-1].name.charAt(0) != sortedNames[i].name.charAt(0))) {
+    if ((i == 0)||(sortedNames[i-1].name.charAt(0) != sortedNames[i].name.charAt(0))) {
       sortedNames.splice(i, 0, { 'name': sortedNames[i].name.charAt(0), 'link': ' ', 'title': sortedNames[i].name.charAt(0)});
     }
-    if ((i > 0)||(sortedSubjects[i-1].subject.charAt(0) != sortedSubjects[i].subject.charAt(0))) {
+    /*if ((i == 0)||(sortedSubjects[i-1].subject.charAt(0) != sortedSubjects[i].subject.charAt(0))) {
       sortedSubjects.splice(i, 0, { 'name': sortedSubjects[i].subject.charAt(0), 'link': ' ', 'title': sortedSubjects[i].subject.charAt(0)});
-    }
-    /*if (i > 0) {
+    }*/
+    if (i > 0) {
       console.log(sortedSubjects[i-1].subject);
       console.log(sortedSubjects[i-1].subject.charAt(0));
-    }*/
+    }
 
     //adjust, remove duplicates
     if ((i != 0)&&(sortedNames[i].name == sortedNames[i-1].name)){
