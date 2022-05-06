@@ -28,17 +28,23 @@ type = "Research"
 
 ![](/images/dif_000185_602_c.jpg)
 
+***
+
 A harp commissioned by the influential aristocratic Barberini family was built in Roma, probably in 1632. It remains preserved to this day as one of the most valuable Italian musical instruments of the 17th century: the “Arpa Barberini,” an elaborately made instrument with a magnificent carved and gilded column. It bears the Barberini coat of arms and other symbolic decoration. Soon after the harp was made, the Roman painter Giovanni Lanfranco (1582-1647) immortalised the instrument in a painting, suggesting special appreciation for the harp in the artistic circles around the Barberini pope Urbano VIII (Maffeo Barberini, reign 1623-1644). 
 
+***
+
 ![](/images/dif_000185_28_m.jpg)
+
+***
 
 Privately owned for a long time, the instrument thus survived the passage of time; it was not handed over to the Museo Nazionale degli Strumenti Musicali in Roma until the early 1970s. It remains in the museum’s collection today, though it can no longer be played for conservation reasons.
 
 ***
 
-***
-
 Despite its undisputed historical value, the "Arpa Barberini" is far from having been adequately researched. For this reason, an interdisciplinary conference was held at the Austrian Historical Institute in Roma in December 2016 at the initiative of the Berlin-based harpist Margret Köll. Harpists, instrument makers, musicologists and art historians from several countries met, discussed problems and questions relating to the Barberini Harp and explored the possibilities of creating an exact copy of the instrument.
+
+***
 
 ![](/images/img_8924.jpg)
 
@@ -52,7 +58,7 @@ Using excerpts from letters, Alexandra Ziane (Berlin) then reconstructed the eff
 
 ***
 
-###### 15 December 2016 / morning session
+#### 15 December 2016 / morning session
 
 The next morning, harpist and researcher Chiara Granata and harp maker Dario Pontiggia presented the current state of research on the Barberini Harp. As part of her research in the Barberini Archives of the Vatican Library, Granata was able to prove that a harp was built in 1632/33 on behalf of Cardinal Antonio Barberini for the composer and harpist Marco Marazzoli. It is very likely that this is the Barberini Harp, especially as older dendrochronological investigations dated the wood of the soundbox to between 1605 and 1610. However, Chiara Granata also pointed out the differences between the surviving instrument and the depiction of a harp in Lanfranco's painting, which exist in a number of details (color, shape, position of the sound holes, etc.).
 
