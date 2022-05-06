@@ -64,6 +64,10 @@ The next morning, harpist and researcher Chiara Granata and harp maker Dario Pon
 
 ***
 
+![](/images/chiara-dinko.png)
+
+***
+
 Ursula Verena Fischer Pace (Roma) then situated design of the Barberini Harp within the art-historical context of Roman culture in the first decades of the 17th century. Fischer Pace presented a drawing by the Roman architect Giovanni Battista Soria (1581–1651), depicting a model for a harp. This resulted in a very lively discussion about the meaning of the gilded figures on the harp’s column. Three carved male figures can be seen in the middle and directly above them two clearly younger boys draped in lionskin. Florian Bassani (Bern) suggested the following interpretation for this pictorial program: the three male figures represent the pope's three nephews Francesco (1597-1679, cardinal), Taddeo (1603-1647, Prefect of Rome, Prince of Palestrina) and Antonio (1607-1671, cardinal). The two boys represent the two sons of Taddeo (i.e. the pope’s great-nephews), who were born just when the harp was built: Carlo (1630–1704, cardinal) and Maffeo jr. (1631–1685, Prince of Palestrina). The lion skin could be an allusion to the ancient hero Hercules, as a synonym for great power and inviolability of the papal Barberini family.
 
 ***
