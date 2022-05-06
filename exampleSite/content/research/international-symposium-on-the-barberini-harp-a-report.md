@@ -58,6 +58,8 @@ Using excerpts from letters, Alexandra Ziane (Berlin) then reconstructed the eff
 
 ***
 
+***
+
 15 December 2016 / morning session
 
 ***
@@ -71,6 +73,8 @@ Ursula Verena Fischer Pace (Roma) then situated design of the Barberini Harp wit
 ***
 
 The art historian Elisabetta Frullini (Roma/Wien) took Giovanni Lanfranco's famous painting "Allegory of Music" as the starting point for her presentation. Frullini pointed out the important role played by Marco Marazzoli as the Barberini court musician, and presented comparable paintings.
+
+***
 
 ***
 
