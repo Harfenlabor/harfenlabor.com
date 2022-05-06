@@ -86,7 +86,9 @@ The day concluded with Harp Laboratory: the harpists Margret Köll, Mara Galassi
 
 ***
 
-###### 16 December 2016 / morning session
+16 December 2016 / morning session
+
+***
 
 The morning of December 16th was primarily reserved for the harp and string makers. David Brown used numerous illustrations and descriptions to place the Barberini Harp in the history of harp making in the 16th and 17th centuries. He also evaluated the X-ray images of the Roman instrument.
 
