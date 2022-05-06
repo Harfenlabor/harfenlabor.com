@@ -70,20 +70,6 @@ Al contrario nelle occasioni in cui l’arpa è descritta insieme ad altri strum
 
 ***
 
-###### Bibliografia
+###### [Clicca per la bibliografia](https://harfenlabor.netlify.app/research/scientific-commentary-sol-di-corde-soavi-armo-le-dita-only-music-i-carry-as-my-weapon-different-ways-to-use-the-same-instrument/#bibliography)
 
-###### Archivio Barberini, Giustificazioni I, vol. 236, f. 116v. _Le Giustificazioni dell’Archivio Barberini_, edited by Luigi Cacciaglia. Città del Vaticano: BAV, 2014.
-
-###### Bartoli, Daniello. _Opere del padre Daniello Bartoli_. Venezia, 1659.
-
-###### Collignon, François after Andrea Sacchi. _La nave di Bacco_. 1634, Etching, 41 x 44 cm. In Guido Bentivoglio, _Festa fatta in Roma alli 25 di febraio MDCXXXIV_. Roma: Vitale Mascardi, 1635.
-
-###### Fabbri, Paolo e Angelo Pompilio, eds. _Il Corago, o vero alcune osservazioni per mettere bene in scena le composizioni drammatiche_. Firenze: Leo S. Olschki, 1983.
-
-###### Granata, Chiara. “'Un’arpa grande tutta intagliata e dorata'. New documents on the Barberini harp”. _Recercare_ XXVII (2015): 139-164. [https://www.jstor.org/stable/26381197](https://www.jstor.org/stable/26381197 "https://www.jstor.org/stable/26381197")
-
-###### Nobili, Collegio dei, e eredi Galeazzo Rosati. _La Reggia Delle Grazie, Aperta per Celebrare Le Gloriosissime Nozze, Seguite Tra Le Altezze Del Serenissimo Francesco Duca Di Parma ... e Della Serenissima Principessa Palatina Dorotea Sofia Farnese ... e Considerata per Oggetto Di Solenne Accademia, Mist_. per gli eredi di Galeazzo Rosati. Parma, 1696. [https://books.google.it/books?id=9PSFiZrdcYwC](https://books.google.it/books?id=9PSFiZrdcYwC "https://books.google.it/books?id=9PSFiZrdcYwC")
-
-###### Pontiggia, Dario. “Barberini Harp. Datasheet”. _Recercare_ XXVII (2015): 165-184. [https://www.jstor.org/stable/26381198](https://www.jstor.org/stable/26381198 "https://www.jstor.org/stable/26381198")
-
-###### Galassi, Mara e Chiara Granata. “'Tanto che non si potrebbe sentire cosa più bella'. L’arpa come strumento di basso continuo a Roma negli anni di attività di Orazio Michi”. Nel _Basler Jahrbuch für Historische Musikpraxis_, vol. 39 (2015): 313-344.
+***
