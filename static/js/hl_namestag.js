@@ -136,8 +136,8 @@ function persontags(data){
   for (var i = 0; i < sortedSubjects.length; i++) {
 
     //push the first letter to the list
-    if ((i == 0)||(sortedSubjects[i-1].subject.charAt(0) != sortedSubjects[i].subject.charAt(0))) {
-      sortedSubjects.splice(i, 0, { 'subject': sortedSubjects[i].subject.charAt(0), 'link_subject': ' ', 'title_subject': sortedSubjects[i].subject.charAt(0)});
+    if ((i == 0)||(sortedSubjects[i-1].subject.charAt(0).toUpperCase() != sortedSubjects[i].subject.charAt(0).toUpperCase())) {
+      sortedSubjects.splice(i, 0, { 'subject': sortedSubjects[i].subject.charAt(0).toUpperCase(), 'link_subject': ' ', 'title_subject': sortedSubjects[i].subject.charAt(0).toUpperCase()});
     }
     /*if (i > 0) {
       console.log(sortedSubjects[i-1].subject);
