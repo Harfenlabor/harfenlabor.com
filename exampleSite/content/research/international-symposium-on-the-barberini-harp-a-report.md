@@ -100,6 +100,10 @@ The morning of December 16th was primarily reserved for the harp and string make
 
 ***
 
+![](/images/convo2.png)
+
+***
+
 Eric Kleinmann then gave a detailed account of some of the Barberini instrument's unanswered questions. He put forward the thesis that the change in the attachment of the strings was probably carried out in order to raise the pitch from originally a1=392 Hz. In addition, two low strings were added during a 17th-century remodelling, further hollowing out the neck at this point. The lowest string may not have been playable at all, coming too close to the elaborate decoration. Eric Kleinmann also presented photos of the interior of the harp's soundbox, taken with a 360-degree camera. The “inner workings” of the Barberini Harp could thus be clearly seen for the first time. Finally, he raised the possibility that the harp's soundboard might have been replaced at an early stage, which would, in turn explain the differences with Lanfranco's painting. According to Kleinmann, it is still unclear which wood was used in the making of the column.
 
 ![](/images/carved-screen.png)
