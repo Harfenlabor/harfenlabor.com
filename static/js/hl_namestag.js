@@ -127,7 +127,7 @@ function persontags(data){
       sortedSubjects.splice(i, 0, { 'name': sortedSubjects[i].subject.charAt(0), 'link': ' ', 'title': sortedSubjects[i].subject.charAt(0)});
     }*/
     if (i > 0) {
-      console.log(sortedSubjects[i-1].subject.charAt[0]);
+      console.log(sortedSubjects[i-1].subject.charAt[1]);
     }
 
     //adjust, remove duplicates
