@@ -90,6 +90,8 @@ The day concluded with Harp Laboratory: the harpists Margret Köll, Mara Galassi
 
 ***
 
+***
+
 16 December 2016 / morning session
 
 ***
@@ -109,6 +111,8 @@ String maker Mimmo Peruffo (Vicenza), offered his expertise in pointing out the 
 ***
 
 Adam Lowe from Madrid was then included in the conversation via Skype, to talk about the complex 3D scan of the Barberini Harp he made with his team from FACTUM arte. Participants were able to see a Studio Armin Linke account of this process the day before in a short film and photographic prints on display. The external appearance of the instrument can thus be precisely reconstructed following the 3D scan.
+
+***
 
 ***
 
