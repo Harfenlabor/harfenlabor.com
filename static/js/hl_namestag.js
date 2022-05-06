@@ -277,9 +277,12 @@ function populateWithResults(myResults){
         document.getElementById("persontags-search-results").classList.add('index_sel_inactive');
         document.getElementById("subjecttags-search-results").classList.remove('index_sel_inactive');
         document.getElementById("subjecttags-search-results").classList.add('index_sel_active');
+        console.log("is a subject");
       }
       document.getElementById(url[1]).scrollIntoView({ behavior: 'smooth'});
-      document.getElementById(url[1]).children[0].style.color = "#B44BEB";
+      console.log(document.getElementById(url[1]));
+      document.getElementById(url[1]).style.color = 'var(--purpleColor)';
+      //document.getElementById(url[1]).children[0].style.color = 'var(--purpleColor)' /*#B44BEB*/
     }
   }
 };
