@@ -100,4 +100,4 @@ Concludendo, il quadro di Lanfranco appare come un omaggio a Marazzoli ed alle s
 
 ***
 
-Bibliografia
+###### Bibliografia
