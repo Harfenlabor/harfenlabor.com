@@ -32,7 +32,7 @@ type = "Research"
 
 ***
 
-Una delle forme tipiche del sapere antico, ancora molto in uso nel primo Seicento in forma orale o scritta, è quello della disputa. Non si propone una tesi ma un confronto fra opposte opinioni. Per questa ragione trovo molto interessante che il liutaio Dario Pontiggia e l’arpista e ricercatrice Mara Galassi esprimano in relazione all’arpa Barberini due punti di vista opposti. Da un lato chi ricostruisce copie di strumenti musicali ed è abituato al confronto tra più strumenti affini si trova ad affrontare uno strumento singolo per questo meno comprensibile e più contradditorio. Vale la pena di costruire una "copia assoluta” di uno strumento che rischia di non essere completamente suonabile? Dal lato opposto la posizione dell’esecutore che coltiva l’utopia della "copia assoluta” nella speranza di avvicinarsi a un punto di vista nuovo che offra l’opportunità di ascoltare qualcosa di molto diverso da quella che chiamiamo da decenni "musica antica”. Penso che possiamo mantenere la tensione tra questi due punti di vista piuttosto che trovare un compromesso tra loro.
+Una delle forme tipiche del sapere antico, ancora molto in uso nel primo Seicento in forma orale o scritta, è quello della disputa. Non si propone una tesi ma un confronto fra opposte opinioni. Per questa ragione trovo molto interessante che il liutaio Dario Pontiggia e l’arpista e ricercatrice Mara Galassi esprimano in relazione all’arpa Barberini due punti di vista opposti. Da un lato chi ricostruisce copie di strumenti musicali ed è abituato al confronto tra più strumenti affini si trova ad affrontare uno strumento singolo per questo meno comprensibile e più contradditorio. Vale la pena di costruire una 'copia assoluta' di uno strumento che rischia di non essere completamente suonabile? Dal lato opposto la posizione dell’esecutore che coltiva l’utopia della 'copia assoluta' nella speranza di avvicinarsi a un punto di vista nuovo che offra l’opportunità di ascoltare qualcosa di molto diverso da quella che chiamiamo da decenni 'musica antica'. Penso che possiamo mantenere la tensione tra questi due punti di vista piuttosto che trovare un compromesso tra loro.
 
 ***
 
@@ -58,7 +58,7 @@ Che presenza sonora poteva avere uno strumento a corde in un’enorme piazza aff
 
 ***
 
-L'esecuzione descritta predilige la polifonia (recercata), e un contrappunto a due parti ("due cori” che diminuiscono a turno). Questo tipo di esecuzione richiede uno spazio acusticamente generoso che renda udibile la composizione in tutte le sue parti. Quindi uno spazio piccolo o particolarmente sonoro.
+L'esecuzione descritta predilige la polifonia (recercata), e un contrappunto a due parti ('due cori' che diminuiscono a turno). Questo tipo di esecuzione richiede uno spazio acusticamente generoso che renda udibile la composizione in tutte le sue parti. Quindi uno spazio piccolo o particolarmente sonoro.
 
 ***
 
@@ -66,7 +66,7 @@ Al contrario nelle occasioni in cui l’arpa è descritta insieme ad altri strum
 
 ***
 
-"Essendo la musica rappresentata in scena più vivace et attuosa assai di quella cantata in chiesa o in altra occasione, molto più viva \[= vivo\] e quasi arieggiante \[?\] è l’istromento di corde che stacca per aria la botta che non è il continuo suono dell’organo, per questo nei balli l’arpa è stimata la migliore".<sup>5</sup> E Stefano Landi nel Sant’Alessio abbina l’arpa a liuti, tiorbe e violoni, assegnandole una linea di basso più ritmica rispetto a quella dei clavicembali. Non tutte le scelte acustiche o di strumentazione sono per noi comprensibili. Ad esempio è difficile immaginare il concerto per le nozze di Francesco Duca di Parma con Dorotea Sofia Farnese, in cui si ascolta un’arpa, accompagnata da ben tre clavicembali.<sup>6</sup> Eppure questa varietà di situazioni serve ad avvicinarci a uno strumento che sembra aver avuto un uso molto vario e diversificato. La costruzione di una “copia assoluta” potrebbe rendere evidenti i vari usi di questo strumento. Rimarrebbero probabilmente intatte le sue contraddizioni che ciascun costruttore e ciascun musicista potrebbe poi risolvere in maniera diversa. Oggi come allora.
+"Essendo la musica rappresentata in scena più vivace et attuosa assai di quella cantata in chiesa o in altra occasione, molto più viva \[= vivo\] e quasi arieggiante \[?\] è l’istromento di corde che stacca per aria la botta che non è il continuo suono dell’organo, per questo nei balli l’arpa è stimata la migliore".<sup>5</sup> E Stefano Landi nel Sant’Alessio abbina l’arpa a liuti, tiorbe e violoni, assegnandole una linea di basso più ritmica rispetto a quella dei clavicembali. Non tutte le scelte acustiche o di strumentazione sono per noi comprensibili. Ad esempio è difficile immaginare il concerto per le nozze di Francesco Duca di Parma con Dorotea Sofia Farnese, in cui si ascolta un’arpa, accompagnata da ben tre clavicembali.<sup>6</sup> Eppure questa varietà di situazioni serve ad avvicinarci a uno strumento che sembra aver avuto un uso molto vario e diversificato. La costruzione di una 'copia assoluta' potrebbe rendere evidenti i vari usi di questo strumento. Rimarrebbero probabilmente intatte le sue contraddizioni che ciascun costruttore e ciascun musicista potrebbe poi risolvere in maniera diversa. Oggi come allora.
 
 ***
 
