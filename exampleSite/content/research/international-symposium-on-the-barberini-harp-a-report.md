@@ -54,7 +54,7 @@ The Convening began in the afternoon of December 14, 2016, with the participants
 
 ***
 
-Using excerpts from letters, Alexandra Ziane (Berlin) then reconstructed the efforts in the late 1960s by the American curator Emanuel Winternitz (1898–1983) to transfer the Barberini Harp from a private Italian collection to the New York Metropolitan Museum of Arts. Ziane’s presentation was followed by a tour of the museum with the director Sandra Suatoni, including of the newly designed area that was not yet open to the public.
+Using excerpts from letters, Alexandra Ziane (Berlin) then reconstructed the efforts in the late 1960s by the American curator Emanuel Winternitz (1898–1983) to transfer the Barberini Harp from a private Italian collection to the New York Metropolitan Museum of Arts. Ziane’s presentation was followed by a tour of the museum with the director Sandra Suatoni, including the newly designed area that was not yet open to the public.
 
 ***
 
