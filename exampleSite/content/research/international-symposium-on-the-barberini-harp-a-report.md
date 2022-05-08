@@ -42,11 +42,15 @@ Despite its undisputed historical value, the "Arpa Barberini" is far from having
 
 ***
 
-![](/images/img_8924.jpg)
+![](/images/img_8922.jpeg)
 
 ***
 
 The Convening began in the afternoon of December 14, 2016, with the participants gathering in the exhibition room of the Museo Nazionale degli Strumenti Musicali, where the Barberini Harp is kept. Following opening remarks by the initiator Margret Köll and the museum director Sandra Suatoni, an extraordinary concert was held. Only a few metres from the original Barberini Harp, three copies of the instrument were set up: by David Brown (made in Baltimore in 1989), Dario Pontiggia (in Milano, 2006) and Eric Kleinmann (in Rangendingen, 2005). Mara Galassi (Milano), Chiara Granata (Milano) and Loredana Gintoli (Berlin) played 17the century compositions on these harps in an homage to the Barberini Harp.
+
+***
+
+![](/images/img_8917.jpeg)
 
 ***
 
@@ -88,6 +92,8 @@ The art historian Elisabetta Frullini (Roma/Wien) took Giovanni Lanfranco's famo
 
 The discussion turned to specialist organological and historical issues. Dinko Fabris (Roma) dedicated his presentation to Luc Antonio Eustachio, who is described in Marin Mersenne's _Harmonie universelle_ (1637) as the inventor of the "arpa a tre ordini." Eustachio came to Roma from Apulia and was in the service of pope Paolo V of the Borghese family. Many documents mention him as a musician, without specifically mentioning his role in the development of the triple harp. Patrizio Barbieri (Roma) then devoted himself to harp and harpsichord models in which a distinction is made between enharmonic semitones.
 
+![](/images/participants-backlight.png)
+
 ***
 
 The day concluded with Harp Laboratory: the harpists Margret Köll, Mara Galassi, Loredana Gintoli and Chiara Granata, performing the same pieces on four different harps. The resulting differences in sound were then discussed in a plenum.
@@ -127,6 +133,8 @@ Adam Lowe from Madrid was then included in the conversation via Skype, to talk a
 ***
 
 The afternoon lectures moved the focus back onto musico-historical topics and were devoted to possible interpreters and the presumed repertoire performed on the Barberini Harp. Alexandra Ziane introduced the many harpists who were active in Roma at the beginning of the 17th century, with a particular emphasis on Orazio Michi, whose playing was mentioned in several sources. Joachim Steinheuer (Heidelberg) considered the possible repertoire of the corresponding period, indicating the harp as an ensemble instrument, as well as a basso continuo and a solo instrument—an evaluation based on both written and iconographical sources. Finally, Florian Bassani in his lecture mentioned the use of harps in Roman sacral music and evaluated contemporaneous tracts for indications of harp repertoire. Accordingly, there was little idiomatic solo literature for the harp in Roma of the early 17th century. Instead, the harp was considered (by Agostino Agazzari, for example) as an ensemble and bass instrument. However, improvising on bass models was an essential part of making music at the time, which could also include the harp as a solo or melody instrument.
+
+![](/images/img_8924.jpeg)
 
 ***
 
