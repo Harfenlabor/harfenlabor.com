@@ -72,7 +72,7 @@ The next morning, harpist and researcher Chiara Granata and harp maker Dario Pon
 
 ***
 
-Ursula Verena Fischer Pace (Roma) then situated design of the Barberini Harp within the art-historical context of Roman culture in the first decades of the 17th century. Fischer Pace presented a drawing by the Roman architect Giovanni Battista Soria (1581–1651), depicting a model for a harp. This resulted in a very lively discussion about the meaning of the gilded figures on the harp’s column. Three carved male figures can be seen in the middle and directly above them two clearly younger boys draped in lionskin. Florian Bassani (Bern) suggested the following interpretation for this pictorial program: the three male figures represent the pope's three nephews Francesco (1597-1679, cardinal), Taddeo (1603-1647, Prefect of Rome, Prince of Palestrina) and Antonio (1607-1671, cardinal). The two boys represent the two sons of Taddeo (i.e. the pope’s great-nephews), who were born just when the harp was built: Carlo (1630–1704, cardinal) and Maffeo jr. (1631–1685, Prince of Palestrina). The lion skin could be an allusion to the ancient hero Hercules, as a synonym for great power and inviolability of the papal Barberini family.
+Ursula Verena Fischer Pace (Roma) then situated the design of the Barberini Harp within the art-historical context of Roman culture in the first decades of the 17th century. Fischer Pace presented a drawing by the Roman architect Giovanni Battista Soria (1581–1651), depicting a model for a harp. This resulted in a very lively discussion about the meaning of the gilded figures on the harp’s column. Three carved male figures can be seen in the middle and directly above them two clearly younger boys draped in lionskin. Florian Bassani (Bern) suggested the following interpretation for this pictorial program: the three male figures represent the pope's three nephews Francesco (1597-1679, cardinal), Taddeo (1603-1647, prefect of Roma, prince of Palestrina) and Antonio (1607-1671, cardinal). The two boys represent the two sons of Taddeo (i.e. the pope’s great-nephews), who were born just when the harp was built: Carlo (1630–1704, cardinal) and Maffeo jr. (1631–1685, prince of Palestrina). The lion skin could be an allusion to the ancient hero Hercules, as a synonym for great power and inviolability of the papal Barberini family.
 
 ***
 
@@ -90,13 +90,13 @@ The art historian Elisabetta Frullini (Roma/Wien) took Giovanni Lanfranco's famo
 
 ***
 
-The discussion turned to specialist organological and historical issues. Dinko Fabris (Roma) dedicated his presentation to Luc Antonio Eustachio, who is described in Marin Mersenne's _Harmonie universelle_ (1637) as the inventor of the "arpa a tre ordini." Eustachio came to Roma from Apulia and was in the service of pope Paolo V of the Borghese family. Many documents mention him as a musician, without specifically mentioning his role in the development of the triple harp. Patrizio Barbieri (Roma) then devoted himself to harp and harpsichord models in which a distinction is made between enharmonic semitones.
+The discussion turned to specialist organological and historical issues. Dinko Fabris (Roma) dedicated his presentation to Luca Antonio Eustachio, who is described in Marin Mersenne's _Harmonie universelle_ (1637) as the inventor of the "arpa a tre ordini." Eustachio came to Roma from Apulia and was in the service of pope Paolo V of the Borghese family. Many documents mention him as a musician, without specifically mentioning his role in the development of the triple harp. Patrizio Barbieri (Roma) then devoted himself to harp and harpsichord models in which a distinction is made between enharmonic semitones.
 
 ![](/images/participants-backlight.png)
 
 ***
 
-The day concluded with Harp Laboratory: the harpists Margret Köll, Mara Galassi, Loredana Gintoli and Chiara Granata, performing the same pieces on four different harps. The resulting differences in sound were then discussed in a plenum.
+The day concluded with Harp Laboratory: the harpists Margret Köll, Mara Galassi, Loredana Gintoli and Chiara Granata performed the same piece on four different harps. The resulting differences in sound were then discussed in a plenum.
 
 ***
 
@@ -104,7 +104,7 @@ The day concluded with Harp Laboratory: the harpists Margret Köll, Mara Galassi
 
 16 December 2016 / morning session
 
-The morning of December 16th was primarily reserved for the harp and string makers. David Brown used numerous illustrations and descriptions to place the Barberini Harp in the history of harp making in the 16th and 17th centuries. He also evaluated the X-ray images of the Roman instrument.
+The morning of December 16th was primarily reserved for the harp makers and string makers. David Brown used numerous illustrations and descriptions in order to situate the Barberini Harp within the history of harp making in the 16th and 17th centuries. He also evaluated the X-ray images of the Roman instrument.
 
 ***
 
@@ -122,7 +122,7 @@ String maker Mimmo Peruffo (Vicenza), offered his expertise in pointing out the 
 
 ***
 
-Adam Lowe from Madrid was then included in the conversation via Skype, to talk about the complex 3D scan of the Barberini Harp he made with his team from FACTUM arte. Participants were able to see a Studio Armin Linke account of this process the day before in a short film and photographic prints on display. The external appearance of the instrument can thus be precisely reconstructed following the 3D scan.
+Adam Lowe from Madrid was then included in the conversation via Skype, to talk about the complex 3D scan of the Barberini Harp he made with his team from FACTUM arte. The Convening participants were able to see an account of this process, in a short film and  photographic prints by Studio Armin Linke, shown on the previous day. The external appearance of the instrument can thus be precisely reconstructed following the 3D scan.
 
 ***
 
@@ -132,7 +132,7 @@ Adam Lowe from Madrid was then included in the conversation via Skype, to talk a
 
 ***
 
-The afternoon lectures moved the focus back onto musico-historical topics and were devoted to possible interpreters and the presumed repertoire performed on the Barberini Harp. Alexandra Ziane introduced the many harpists who were active in Roma at the beginning of the 17th century, with a particular emphasis on Orazio Michi, whose playing was mentioned in several sources. Joachim Steinheuer (Heidelberg) considered the possible repertoire of the corresponding period, indicating the harp as an ensemble instrument, as well as a basso continuo and a solo instrument—an evaluation based on both written and iconographical sources. Finally, Florian Bassani in his lecture mentioned the use of harps in Roman sacral music and evaluated contemporaneous tracts for indications of harp repertoire. Accordingly, there was little idiomatic solo literature for the harp in Roma of the early 17th century. Instead, the harp was considered (by Agostino Agazzari, for example) as an ensemble and bass instrument. However, improvising on bass models was an essential part of making music at the time, which could also include the harp as a solo or melody instrument.
+The afternoon lectures moved the focus back onto musico-historical topics and were devoted to possible interpreters and the presumed repertoire performed on the Barberini Harp. Alexandra Ziane introduced the many harpists who were active in Roma at the beginning of the 17th century, with a particular emphasis on Orazio Michi, whose playing was mentioned in several sources. Joachim Steinheuer (Heidelberg) considered the possible repertoire of the corresponding period, indicating the harp as an ensemble instrument, as well as a basso continuo and a solo instrument—an evaluation based on both written and iconographical sources. Finally, Florian Bassani mentioned in his lecture the use of harps in Roman sacral music and evaluated contemporaneous tracts for indications of harp repertoire. Accordingly, there was little idiomatic solo literature for the harp in Roma of the early 17th century. Instead, the harp was considered (by Agostino Agazzari, for example) as an ensemble and bass instrument. However, improvising on bass models was an essential part of making music at the time, which could also include the harp as a solo or melody instrument.
 
 ![](/images/img_8924.jpeg)
 
