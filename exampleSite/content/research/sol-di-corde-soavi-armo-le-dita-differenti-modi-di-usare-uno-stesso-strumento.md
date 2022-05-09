@@ -40,7 +40,7 @@ La prima cosa che mi aveva colpito quando mi sono trovata di fronte alla nota di
 
 ***
 
-Per comprendere a fondo uno strumento è necessario farlo risuonare in spazi differenti. È molto probabile che l’arpa Barberini abbia fatto la sua comparsa nella <span id="subjects_tag">Giostra del Saracino</span>, tenuta nel <span id="timeline_tag">1634</span> a <span id="map_tag">Roma</span> in Piazza Navona. La testimonianza di questo spettacolare evento, illustrata dalle incisioni di François Collignon e Andrea Sacchi, attesta la presenza di una grande arpa intagliata, posta all’interno della nave d’oro che entra in piazza Navona a notte inoltrata, trasportando cantanti e strumentisti e lasciando stupefatto il pubblico.<sup>3</sup>
+Per comprendere a fondo uno strumento è necessario farlo risuonare in spazi differenti. È molto probabile che l’arpa Barberini abbia fatto la sua comparsa nella <span id="subjects_tag">Giostra del Saracino</span>, tenuta nel <span id="timeline_tag">1634</span> a <span id="map_tag">Roma</span> in Piazza Navona. La testimonianza di questo spettacolare evento, illustrata dalle incisioni di <span id="person_tag">François Collignon</span> e <span id="person_tag">Andrea Sacchi</span>, attesta la presenza di una grande arpa intagliata, posta all’interno della nave d’oro che entra in Piazza Navona a notte inoltrata, trasportando cantanti e strumentisti e lasciando stupefatto il pubblico.<sup>3</sup>
 
 ***
 
