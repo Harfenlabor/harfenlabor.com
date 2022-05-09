@@ -48,7 +48,7 @@ Naturalmente le rappresentazioni del <span id="subjects_tag">re Davide</span> so
 
 ***
 
-Meno diffusi invece sono disegni preparatori per strumenti musicali, destinati agli intagliatori, e ai costruttori delle casse degli strumenti. È il caso di un disegno degli <span id="subjects_tag">Uffizi</span>, conosciuto e pubblicato da molto tempo.<sup>4</sup> Già nel catalogo del Museo degli Strumenti Musicali di Roma è stato paragonato con l’arpa Barberini, ma non identificato come disegno preparatorio.<sup>5</sup>
+Meno diffusi invece sono disegni preparatori per strumenti musicali, destinati agli intagliatori, e ai costruttori delle casse degli strumenti. È il caso di un disegno degli <span id="subjects_tag">Uffizi</span>, conosciuto e pubblicato da molto tempo.<sup>4</sup> Già nel catalogo del Museo degli Strumenti Musicali di Roma è stato paragonato con l’<span id="subjects_tag">arpa Barberini</span>, ma non identificato come disegno preparatorio.<sup>5</sup>
 
 ***
 
@@ -112,7 +112,7 @@ Rispetto all’arpa, esistono tuttavia nel disegno differenze nella decorazione.
 
 ***
 
- Il gruppo di putti sotto lo stemma è formato sullo strumento da due atlanti, piccoli ercoli bambini con addosso la pelle di leone. Nel registro sottostante si trovano due giovani atlanti drappeggiati, e in basso una maschera maschile e motivi araldici barberiniani, l’ape e un ramo di alloro. Il fatto che lo stemma Barberini manchi nel quadro del Lanfranco indica che il dipinto non era di committenza Barberini ma del musicista stesso che probabilmente suonava lo strumento.
+Il gruppo di putti sotto lo stemma è formato sullo strumento da due atlanti, piccoli ercoli bambini con addosso la pelle di leone. Nel registro sottostante si trovano due giovani atlanti drappeggiati, e in basso una maschera maschile e motivi araldici barberiniani, l’ape e un ramo di alloro. Il fatto che lo stemma Barberini manchi nel quadro del Lanfranco indica che il dipinto non era di committenza Barberini ma del musicista stesso che probabilmente suonava lo strumento.
 
 ***
 
