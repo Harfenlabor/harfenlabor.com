@@ -38,7 +38,7 @@ Il presente articolo s’incentra su un quadro di <span id="subjects_tag">Giovan
 
 ![](/images/dif_000185_602_c.jpg)
 
-###### The Barberini Harp at the Museo Nazionale degli Strumenti Musicali (<cap>Fig. 2</cap>).
+###### Arpa Barberini, Museo Nazionale degli Strumenti Musicali (<cap>Fig. 2</cap>).
 
 ***
 
