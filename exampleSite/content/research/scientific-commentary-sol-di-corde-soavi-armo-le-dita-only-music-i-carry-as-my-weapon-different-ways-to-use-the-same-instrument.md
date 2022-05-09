@@ -37,7 +37,7 @@ The first thing that struck me when I saw the archival document of the order for
 
 ***
 
-To fully understand an instrument, it is necessary to hear it played in different spaces. It is very probable that the Barberini Harp made its first appearance for the <span id="subjects_tag">_Giostra del Saracino_</span> held in <span id="timeline_tag">1634</span> at <span id="map_tag">Piazza Navona</span> in <span id="map_tag">Roma</span>. The report on this spectacular event, illustrated with etchings by <span id="person_tag">François Collignon</span> and <span id="person_tag">Andrea Sacchi</span>, bears witness to the presence of a large carved harp placed inside the golden ship that entered Piazza Navona late at night, transporting singers and musicians and astonishing the audience.
+To fully understand an instrument, it is necessary to hear it played in different spaces. It is very probable that the Barberini Harp made its first appearance for the <span id="subjects_tag">_Giostra del Saracino_</span> held in <span id="timeline_tag">1634</span> at Piazza Navona in <span id="map_tag">Roma</span>. The report on this spectacular event, illustrated with etchings by <span id="person_tag">François Collignon</span> and <span id="person_tag">Andrea Sacchi</span>, bears witness to the presence of a large carved harp placed inside the golden ship that entered Piazza Navona late at night, transporting singers and musicians and astonishing the audience.
 
 ***
 
