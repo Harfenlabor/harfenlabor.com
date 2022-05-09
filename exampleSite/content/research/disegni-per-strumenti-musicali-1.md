@@ -16,7 +16,7 @@ project_category = "Barberini Harp Project"
 relatedresearch = ["Two Souls of a Harp", "“Venere che sona d’arpa e due amori”:&&Marco Marazzoli at the Barberini Court", "What We Know, and What We still Do Not Understand about the Barberini Harp", "About the Barberini Harp"]
 show_in_news = false
 status = "approved by author"
-subjects_tag = ["Il re Davide che suona l’arpa", "L’apparizione dell’angelo a re Davide che suona l’arpa", "arpa", "Museo degli Strumenti Musicali", "disegno preparatorio", "cassa armonica", "Progetto per un’arpa", "colonna", "Venere che suona l’arpa o la Musica", "Galleria Nazionale d’Arte Antica", "dipinto", "intagliatore", "pelle di leone", "costruttore", "corredo figurativo", "mazza da cerimonia", "Dizionario Biografico degli Italiani", "palazzo Barberini", "re Davide", "Uffizi", "Palazzo Barberini", "arpa Barberini", "Toson d'oro"]
+subjects_tag = ["Il re Davide che suona l’arpa", "L’apparizione dell’angelo a re Davide che suona l’arpa", "arpa", "disegno preparatorio", "cassa armonica", "Progetto per un’arpa", "colonna", "Venere che suona l’arpa o la Musica", "Galleria Nazionale d’Arte Antica", "dipinto", "intagliatore", "pelle di leone", "costruttore", "corredo figurativo", "mazza da cerimonia", "Dizionario Biografico degli Italiani", "palazzo Barberini", "re Davide", "Uffizi", "Palazzo Barberini", "arpa Barberini", "Toson d'oro", "volute", "capitelli", "putti", "sfingi", "api", "stemma Barberini", "cappello cardinalizio", "atlanti", "Museo Nazionale degli Strumenti Musicali", "strumentista", "cantore", "compositore"]
 subtype = ["Organology", "Iconography", "Sociology of Art"]
 summary_text = ""
 timeline_tag = ["1619-1663", "1673", "1634", "1629", "1671", "1632", "1633", "1630s", "1624", "1627", "1581", "1630", "17th century"]
@@ -48,7 +48,7 @@ Naturalmente le rappresentazioni del <span id="subjects_tag">re Davide</span> so
 
 ***
 
-Meno diffusi invece sono disegni preparatori per strumenti musicali, destinati agli intagliatori, e ai costruttori delle casse degli strumenti. È il caso di un disegno degli <span id="subjects_tag">Uffizi</span>, conosciuto e pubblicato da molto tempo.<sup>4</sup> Già nel catalogo del Museo degli Strumenti Musicali di Roma è stato paragonato con l’<span id="subjects_tag">arpa Barberini</span>, ma non identificato come disegno preparatorio.<sup>5</sup>
+Meno diffusi invece sono disegni preparatori per strumenti musicali, destinati agli intagliatori, e ai costruttori delle casse degli strumenti. È il caso di un disegno degli <span id="subjects_tag">Uffizi</span>, conosciuto e pubblicato da molto tempo.<sup>4</sup> Già nel catalogo del Museo Nazionale degli Strumenti Musicali di Roma è stato paragonato con l’<span id="subjects_tag">arpa Barberini</span>, ma non identificato come disegno preparatorio.<sup>5</sup>
 
 ***
 
@@ -84,7 +84,7 @@ Api sono disegnate pure sui piedistalli. Alla base del sostegno siede un satiro.
 
 ***
 
-Lo stretto rapporto del disegno con la cosiddetta arpa Barberini conservata nel Museo degli Strumenti Musicali a Roma è ovvio, e di conseguenza anche con il dipinto di <span id="person_tag">Giovanni Lanfranco</span> _Venere che suona l’arpa o la Musica_ (Galleria Nazionale d’Arte Antica, Roma) proveniente dalla collezione del cardinale <span id="person_tag">Antonio Barberini il giovane</span>.<sup>6</sup>
+Lo stretto rapporto del disegno con la cosiddetta arpa Barberini conservata nel Museo Nazionale degli Strumenti Musicali a Roma è ovvio, e di conseguenza anche con il dipinto di <span id="person_tag">Giovanni Lanfranco</span> _Venere che suona l’arpa o la Musica_ (Galleria Nazionale d’Arte Antica, Roma) proveniente dalla collezione del cardinale <span id="person_tag">Antonio Barberini il giovane</span>.<sup>6</sup>
 
 ***
 
@@ -98,7 +98,7 @@ Era stato proprio lui il committente dello strumento, che aveva dato in uso al m
 
 ***
 
-A mio avviso il disegno è proprio preparatorio per l’arpa Barberini conservata nel Museo degli Strumenti Musicali a Roma e raffigurata nel dipinto del Lanfranco.<sup>8</sup> La corrispondenza tra lo strumento realizzato per Antonio Barberini e l’arpa raffigurata nel dipinto risulta ovvia dai motivi figurativi perfettamente corrispondenti. Tranne la mancanza dello stemma, tutti i dettagli decorativi sono uguali e trovano riscontro nella descrizione dell’intagliatore, e perciò dubbi sull’identità dell’arpa dipinta con la cosiddetta arpa Barberini non sono giustificati dal punto di vista iconografico e visivo.
+A mio avviso il disegno è proprio preparatorio per l’arpa Barberini conservata nel Museo Nazionale degli Strumenti Musicali a Roma e raffigurata nel dipinto del Lanfranco.<sup>8</sup> La corrispondenza tra lo strumento realizzato per Antonio Barberini e l’arpa raffigurata nel dipinto risulta ovvia dai motivi figurativi perfettamente corrispondenti. Tranne la mancanza dello stemma, tutti i dettagli decorativi sono uguali e trovano riscontro nella descrizione dell’intagliatore, e perciò dubbi sull’identità dell’arpa dipinta con la cosiddetta arpa Barberini non sono giustificati dal punto di vista iconografico e visivo.
 
 ***
 
