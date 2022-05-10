@@ -56,7 +56,7 @@ The Convening began in the afternoon of December 14, 2016, with the participants
 
 ![](/images/3-harps.png)
 
-###### Istituto Storico Austriaco, three interpretations of the Barberini Harp (<cap>Fig. 2</cap>).
+###### Istituto Storico Austriaco, three interpretations of the Barberini Harp (<cap>Fig. 3</cap>).
 
 ***
 
@@ -75,6 +75,8 @@ The next morning, harpist and researcher Chiara Granata and harp maker Dario Pon
 ***
 
 ![](/images/chiara-dinko.png)
+
+###### Chiara Granata presenting at the Istituo Storico Austriaco (<cap>Fig. 2</cap>).
 
 ***
 
