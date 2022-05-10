@@ -26,7 +26,9 @@ type = "Research"
 +++
 ***
 
-![](/images/dif_000185_602_c.jpg)
+###### ![](/images/dif_000185_602_c.jpg)
+
+###### The Barberini Harp at the Museo Nazionale degli Strumenti Musicali (<cap>Fig. 1</cap>).
 
 ***
 
