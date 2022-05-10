@@ -28,7 +28,7 @@ type = "Research"
 
 ***
 
-<iframe src="https://player.vimeo.com/video/693439214?h=cd400a78ba&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Dinko Fabris: Who Was Luc Antoine Eustache, the Inventor of Three-Course Harp according to Mersenne?"></iframe> </div><div class="chapters"></div>
+<iframe src="https://player.vimeo.com/video/693439214?h=cd400a78ba&badge=0&autopause=0&player_id=0&app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Dinko Fabris: Who Was Luc Antoine Eustache, the Inventor of Three-Course Harp according to Mersenne?"></iframe> </div><div class="chapters"></div>
 
 ***
 
