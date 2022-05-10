@@ -84,7 +84,7 @@ The next morning, harpist and researcher Chiara Granata and harp maker Dario Pon
 
 ***
 
-The art historian Elisabetta Frullini (Roma/Wien) took Giovanni Lanfranco's famous painting "Allegory of Music" as the starting point for her presentation. Frullini pointed out the important role played by Marco Marazzoli as the Barberini court musician, and presented comparable paintings.
+The art historian <span id="person_tag">Elisabetta Frullini</span> (Roma/Wien) took <span id="person_tag">Giovanni Lanfranco</span>'s famous painting "Allegory of Music" as the starting point for her presentation. Frullini pointed out the important role played by Marco Marazzoli as the Barberini court musician, and presented comparable paintings.
 
 ***
 
