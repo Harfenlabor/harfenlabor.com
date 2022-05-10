@@ -26,8 +26,6 @@ type = "Research"
 +++
 ***
 
-***
-
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/693439214?h=cd400a78ba&badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dinko Fabris: Who Was Luc Antoine Eustache, the Inventor of Three-Course Harp according to Mersenne?"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> </div><div class="chapters"></div>
 
 ***
