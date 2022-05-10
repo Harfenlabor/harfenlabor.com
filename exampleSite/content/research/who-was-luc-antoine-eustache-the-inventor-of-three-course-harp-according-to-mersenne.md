@@ -28,7 +28,7 @@ type = "Research"
 
 ***
 
-<iframe src="https://player.vimeo.com/video/693439214?h=cd400a78ba" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><div class="chapters"></div>
+<iframe src="https://player.vimeo.com/video/693439214?h=cd400a78ba" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> </div><div class="chapters"></div>
 
 ***
 
