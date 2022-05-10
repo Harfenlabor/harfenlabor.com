@@ -10,16 +10,16 @@ footnotes = ""
 hide_from_research = false
 image = "/images/be30e30c-9320-4858-b50e-02f60b7d71a0.jpeg"
 imgcaptions = "Fig. 1 DIF_000185_602, Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma. Photo: © Armin Linke, 2014. All Rights Reserved. &&\nFig. 2 DIF_000185_28_M, Giovanni Lanfranco, <i>La Musica</i>, Galleria Nazionale d’Arte Antica di Palazzo Barberini, Roma, © Armin Linke 2014. All Rights Reserved. &&\n"
-map_tag = []
-person_tag = ["Mimmo Peruffo", "Armin Linke", "Bernhard Schrammek", "David Brown", "Mara Galassi", "Loredana Gintoli", "Margret Köll", "Chiara Granata", "Dinko Fabris", "Marin Mersenne", "Paolo V", "Giovanni Lanfranco", "Elisabetta Frullini", "Marco Marazzoli", "Florian Bassani", "Ursula-Verena Fischer-Pace", "Giovanni-Battista Soria", "Francesco Barberini", "Taddeo Barberini", "Carlo Barberini", "Maffeo Barberini", "Dario Pontiggia", "Antonio Barberini", "Alexandra Ziane", "Emanuel Winternitz", "Sandra Suatoni", "Eric Kleinmann", "Urbano VIII", "Maffeo-jr. Barberini"]
+map_tag = ["Bern", "Baltimore", "Berlin", "Milano", "Roma", "Rangendingen", "New York", "Wien", "Vicenza", "Heidelberg"]
+person_tag = ["Mimmo Peruffo", "Armin Linke", "Bernhard Schrammek", "David Brown", "Mara Galassi", "Loredana Gintoli", "Margret Köll", "Chiara Granata", "Dinko Fabris", "Marin Mersenne", "Paolo V", "Giovanni Lanfranco", "Elisabetta Frullini", "Marco Marazzoli", "Florian Bassani", "Ursula-Verena Fischer-Pace", "Giovanni-Battista Soria", "Francesco Barberini", "Taddeo Barberini", "Carlo Barberini", "Maffeo Barberini", "Dario Pontiggia", "Antonio Barberini", "Alexandra Ziane", "Emanuel Winternitz", "Sandra Suatoni", "Eric Kleinmann", "Urbano VIII", "Maffeo-jr. Barberini", "Emanuel Winternitz", "Patrizio Barbieri", "Luca Antonio Eustachio", "Agostino Agazzari", "Orazio Michi", "Joachim Steinheuer"]
 project_category = "Barberini Harp Project"
 relatedresearch = []
 show_in_news = false
 status = "to be approved by author"
-subjects_tag = []
+subjects_tag = ["New York Metropolitan Museum of Arts", "Museo Nazionale degli Strumenti Musicali", "Biblioteca Apostolica Vaticana", "Archivio Barberini", "Harmonie universelle", "arpa a tre ordini", "triple harp", "enharmonic", "semitone", "Barberini Harp"]
 subtype = ["Organology", "Performance Practice", "Musicology", "Iconography", "Sociology of Art"]
 summary_text = "Bernhard Schrammek's report offers a concise account of Harfenlabor's international symposium Convening around the Barberini Harp Project, which took place on 14-16 December 2016, in Roma, in collaboration with the Museo Nazionale degli Strumenti Musicali, Istituto Storico Austriaco a Roma, and the Deutsche Botschaft Rom."
-timeline_tag = []
+timeline_tag = ["2016", "1632", "1582-1647", "1623-1644", "1989", "2006", "1960s", "1898-1983", "1632-33", "1605-1610", "1581–1651", "1597-1679", "1603-1647", "1607-1671", "1630–1704", "1631–1685", "1637"]
 title = "Report on the Convening in Roma&&14-16 December 2016"
 type = "Research"
 
@@ -70,7 +70,7 @@ Using excerpts from letters, Alexandra Ziane (Berlin) then reconstructed the eff
 
 ***
 
-The next morning, harpist and researcher Chiara Granata and harp maker Dario Pontiggia presented the current state of research on the Barberini Harp. As part of her research in the Barberini Archives of the Vatican Library, Granata was able to prove that a harp was built in 1632/33 on behalf of cardinal Antonio Barberini for the composer and harpist Marco Marazzoli. It is very likely that this is the Barberini Harp, especially as older dendrochronological investigations dated the wood of the soundbox to between 1605 and 1610. However, Chiara Granata also pointed out the differences between the surviving instrument and the depiction of the harp in Lanfranco's painting, which exist in a number of details (including colour, shape, and position of the sound holes, and more).
+The next morning, harpist and researcher Chiara Granata and harp maker Dario Pontiggia presented the current state of research on the Barberini Harp. As part of her research in the Archivio Barberini at the Biblioteca Apostolica Vaticana, Granata was able to prove that a harp was built in 1632-33 on behalf of cardinal Antonio Barberini for the composer and harpist Marco Marazzoli. It is very likely that this is the Barberini Harp, especially as older dendrochronological investigations dated the wood of the soundbox to between 1605 and 1610. However, Chiara Granata also pointed out the differences between the surviving instrument and the depiction of the harp in Lanfranco's painting, which exist in a number of details (including colour, shape, and position of the sound holes, and more).
 
 ***
 
@@ -148,7 +148,7 @@ Adam Lowe from Madrid was then included in the conversation via Skype, to talk a
 
 ***
 
-The afternoon lectures moved the focus back onto musico-historical topics and were devoted to possible interpreters and the presumed repertoire performed on the Barberini Harp. Alexandra Ziane introduced the many harpists who were active in Roma at the beginning of the 17th century, with a particular emphasis on Orazio Michi, whose playing was mentioned in several sources. Joachim Steinheuer (Heidelberg) considered the possible repertoire of the corresponding period, indicating the harp as an ensemble instrument, as well as a basso continuo and a solo instrument—an evaluation based on both written and iconographical sources. Finally, Florian Bassani mentioned in his lecture the use of harps in Roman sacral music and evaluated contemporaneous tracts for indications of harp repertoire. Accordingly, there was little idiomatic solo literature for the harp in Roma of the early 17th century. Instead, the harp was considered (by Agostino Agazzari, for example) as an ensemble and bass instrument. However, improvising on bass models was an essential part of making music at the time, which could also include the harp as a solo or melody instrument.
+The afternoon lectures moved the focus back onto musico-historical topics and were devoted to possible interpreters and the presumed repertoire performed on the Barberini Harp. Alexandra Ziane introduced the many harpists who were active in Roma at the beginning of the 17th century, with a particular emphasis on Orazio Michi, whose playing was mentioned in several sources. Joachim Steinheuer (Heidelberg) considered the possible repertoire of the corresponding period, indicating the harp as an ensemble instrument, as well as a basso continuo and a solo instrument—an evaluation based on both written and iconographic sources. Finally, Florian Bassani mentioned in his lecture the use of harps in Roman sacral music and evaluated contemporaneous tracts for indications of harp repertoire. Accordingly, there was little idiomatic solo literature for the harp in Roma of the early 17th century. Instead, the harp was considered (by Agostino Agazzari, for example) as an ensemble and bass instrument. However, improvising on bass models was an essential part of making music at the time, which could also include the harp as a solo or melody instrument.
 
 ![](/images/img_8924.jpeg)
 
