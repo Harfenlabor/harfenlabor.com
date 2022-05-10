@@ -11,7 +11,7 @@ hide_from_research = false
 image = "/images/be30e30c-9320-4858-b50e-02f60b7d71a0.jpeg"
 imgcaptions = "Fig. 1 DIF_000185_602, Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma. Photo: © Armin Linke, 2014. All Rights Reserved. &&\nFig. 2 DIF_000185_28_M, Giovanni Lanfranco, <i>La Musica</i>, Galleria Nazionale d’Arte Antica di Palazzo Barberini, Roma, © Armin Linke 2014. All Rights Reserved. &&\n"
 map_tag = []
-person_tag = ["Mimmo Peruffo", "Armin Linke", "Bernhard Schrammek", "David Brown", "Mara Galassi", "Loredana Gintoli", "Margret Köll", "Chiara Granata", "Dinko Fabris", "Marin Mersenne", "Paolo V", "Giovanni Lanfranco", "Elisabetta Frullini", "Marco Marazzoli", "Florian Bassani", "Ursula-Verena Fischer-Pace", "Giovanni-Battista Soria"]
+person_tag = ["Mimmo Peruffo", "Armin Linke", "Bernhard Schrammek", "David Brown", "Mara Galassi", "Loredana Gintoli", "Margret Köll", "Chiara Granata", "Dinko Fabris", "Marin Mersenne", "Paolo V", "Giovanni Lanfranco", "Elisabetta Frullini", "Marco Marazzoli", "Florian Bassani", "Ursula-Verena Fischer-Pace", "Giovanni-Battista Soria", "Francesco Barberini", "Taddeo Barberini", "Carlo Barberini", "Maffeo Barberini", "Dario Pontiggia", "Antonio Barberini", "Alexandra Ziane", "Emanuel Winternitz", "Sandra Suatoni", "Eric Kleinmann", "Urbano VIII", "Maffeo-jr. Barberini"]
 project_category = "Barberini Harp Project"
 relatedresearch = []
 show_in_news = false
@@ -70,13 +70,13 @@ Using excerpts from letters, Alexandra Ziane (Berlin) then reconstructed the eff
 
 ***
 
-The next morning, harpist and researcher Chiara Granata and harp maker Dario Pontiggia presented the current state of research on the Barberini Harp. As part of her research in the Barberini Archives of the Vatican Library, Granata was able to prove that a harp was built in 1632/33 on behalf of Cardinal Antonio Barberini for the composer and harpist Marco Marazzoli. It is very likely that this is the Barberini Harp, especially as older dendrochronological investigations dated the wood of the soundbox to between 1605 and 1610. However, Chiara Granata also pointed out the differences between the surviving instrument and the depiction of the harp in Lanfranco's painting, which exist in a number of details (including colour, shape, and position of the sound holes, and more).
+The next morning, harpist and researcher Chiara Granata and harp maker Dario Pontiggia presented the current state of research on the Barberini Harp. As part of her research in the Barberini Archives of the Vatican Library, Granata was able to prove that a harp was built in 1632/33 on behalf of cardinal Antonio Barberini for the composer and harpist Marco Marazzoli. It is very likely that this is the Barberini Harp, especially as older dendrochronological investigations dated the wood of the soundbox to between 1605 and 1610. However, Chiara Granata also pointed out the differences between the surviving instrument and the depiction of the harp in Lanfranco's painting, which exist in a number of details (including colour, shape, and position of the sound holes, and more).
 
 ***
 
 ![](/images/chiara-dinko.png)
 
-###### Chiara Granata presenting at the Istituo Storico Austriaco (<cap>Fig. 4</cap>).
+###### Chiara Granata presenting at the Istituto Storico Austriaco (<cap>Fig. 4</cap>).
 
 ***
 
