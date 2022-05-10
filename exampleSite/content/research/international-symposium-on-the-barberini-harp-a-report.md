@@ -76,7 +76,7 @@ The next morning, harpist and researcher Chiara Granata and harp maker Dario Pon
 
 ![](/images/chiara-dinko.png)
 
-###### Chiara Granata presenting at the Istituo Storico Austriaco (<cap>Fig. 2</cap>).
+###### Chiara Granata presenting at the Istituo Storico Austriaco (<cap>Fig. 4</cap>).
 
 ***
 
@@ -90,6 +90,8 @@ The art historian Elisabetta Frullini (Roma/Wien) took Giovanni Lanfranco's famo
 
 ![](/images/dif_000185_28_m.jpg)
 
+###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 5</cap>).
+
 ***
 
 ***
@@ -101,6 +103,8 @@ The art historian Elisabetta Frullini (Roma/Wien) took Giovanni Lanfranco's famo
 The discussion turned to specialist organological and historical issues. Dinko Fabris (Roma) dedicated his presentation to Luca Antonio Eustachio, who is described in Marin Mersenne's _Harmonie universelle_ (1637) as the inventor of the "arpa a tre ordini." Eustachio came to Roma from Apulia and was in the service of pope Paolo V of the Borghese family. Many documents mention him as a musician, without specifically mentioning his role in the development of the triple harp. Patrizio Barbieri (Roma) then devoted himself to harp and harpsichord models in which a distinction is made between enharmonic semitones.
 
 ![](/images/participants-backlight.png)
+
+###### Istituto Storico Austriaco, participants (<cap>Fig. 6</cap>).
 
 ***
 
@@ -118,11 +122,15 @@ The morning of December 16th was primarily reserved for the harp makers and stri
 
 ![](/images/convo2.png)
 
+###### Istituto Storico Austriaco, discussion (<cap>Fig. 7</cap>).
+
 ***
 
 Eric Kleinmann then gave a detailed account of some of the Barberini instrument's unanswered questions. He put forward the thesis that the change in the attachment of the strings was probably carried out in order to raise the pitch from originally a1=392 Hz. In addition, two low strings were added during a 17th-century remodelling, further hollowing out the neck at this point. The lowest string may not have been playable at all, coming too close to the elaborate decoration. Eric Kleinmann also presented photos of the interior of the harp's soundbox, taken with a 360-degree camera. The “inner workings” of the Barberini Harp could thus be clearly seen for the first time. Finally, he raised the possibility that the harp's soundboard might have been replaced at an early stage, which would, in turn explain the differences with Lanfranco's painting. According to Kleinmann, it is still unclear which wood was used in the making of the column.
 
 ![](/images/01.png)
+
+###### Strings on the Barberini Harp (<cap>Fig. 8</cap>).
 
 ***
 
