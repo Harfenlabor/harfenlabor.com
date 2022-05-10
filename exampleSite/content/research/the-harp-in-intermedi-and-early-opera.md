@@ -33,3 +33,6 @@ type = "Research"
 ***
 
 In the talk given at Harfenlabor’s 2016 Convening, the musicologist <span id="person_tag">Joachim Steinheuer</span> provides rich overview of the different uses of harps in the intermedi, madrigals and early opera. Through intriguing comparisons of the various early musical and iconographic sources—offering, at times, unclear or contradicting accounts, riddles even—Steinheuer constructs a representation of the harp in the performance practices of the 16th and 17th century. Harp appears as an ensemble instrument, lead continuo and as a solo instrument, as well as in combinations that may appear strange to the modern ear, such as accompanying voice or voices with lira (or lire) da braccio. Steinheuer also considers the relations created in both musical and iconographic sources between the harp and the mythological figures of Apollo, Orpheus and Arion, in the early intermedi and in the first operas.
+
+© Armin Linke / Harfenlabor 2020  
+Licensed under [CC BY-NC-ND International 4.0](https://harfenlabor.netlify.app/aboutpage/#ccbyncnd)
