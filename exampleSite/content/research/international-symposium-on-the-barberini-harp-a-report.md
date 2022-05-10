@@ -16,10 +16,10 @@ project_category = "Barberini Harp Project"
 relatedresearch = []
 show_in_news = false
 status = "to be approved by author"
-subjects_tag = ["New York Metropolitan Museum of Arts", "Museo Nazionale degli Strumenti Musicali", "Biblioteca Apostolica Vaticana", "Archivio Barberini", "Harmonie universelle", "arpa a tre ordini", "triple harp", "enharmonic", "semitone", "Barberini Harp"]
+subjects_tag = ["New York Metropolitan Museum of Arts", "Museo Nazionale degli Strumenti Musicali", "Biblioteca Apostolica Vaticana", "Archivio Barberini", "Harmonie universelle", "arpa a tre ordini", "triple harp", "enharmonic", "semitone", "Barberini Harp", "Arpa Barberini"]
 subtype = ["Organology", "Performance Practice", "Musicology", "Iconography", "Sociology of Art"]
 summary_text = "Bernhard Schrammek's report offers a concise account of Harfenlabor's international symposium Convening around the Barberini Harp Project, which took place on 14-16 December 2016, in Roma, in collaboration with the Museo Nazionale degli Strumenti Musicali, Istituto Storico Austriaco a Roma, and the Deutsche Botschaft Rom."
-timeline_tag = ["2016", "1632", "1582-1647", "1623-1644", "1989", "2006", "1960s", "1898-1983", "1632-33", "1605-1610", "1581–1651", "1597-1679", "1603-1647", "1607-1671", "1630–1704", "1631–1685", "1637"]
+timeline_tag = ["2016", "1632", "1582-1647", "1623-1644", "1989", "2006", "1960s", "1898-1983", "1632-33", "1605-1610", "1581–1651", "1597-1679", "1603-1647", "1607-1671", "1630–1704", "1631–1685", "1637", "1970s"]
 title = "Report on the Convening in Roma&&14-16 December 2016"
 type = "Research"
 
@@ -32,15 +32,15 @@ type = "Research"
 
 ***
 
-A harp commissioned by the influential aristocratic Barberini family was built in Roma, probably in 1632. It remains preserved to this day as one of the most valuable Italian musical instruments of the 17th century: the “Arpa Barberini,” an elaborately made instrument with a magnificent carved and gilded column. It bears the Barberini coat of arms and other symbolic decoration. Soon after the harp was made, the Roman painter Giovanni Lanfranco (1582-1647) immortalised the instrument in a painting, suggesting special appreciation for the harp in the artistic circles around the Barberini pope Urbano VIII (Maffeo Barberini, reign 1623-1644).
+A harp commissioned by the influential aristocratic Barberini family was built in Roma, probably in 1632. It remains preserved to this day as one of the most valuable Italian musical instruments of the 17th century: the “<span id="subjects_tag">Arpa Barberini</span>,” an elaborately made instrument with a magnificent carved and gilded column. It bears the Barberini coat of arms and other symbolic decoration. Soon after the harp was made, the Roman painter <span id="person_tag">Giovanni Lanfranco</span> (1582-1647) immortalised the instrument in a painting, suggesting special appreciation for the harp in the artistic circles around the Barberini pope Urbano VIII (Maffeo Barberini, reign 1623-1644).
 
 ***
 
-Privately owned for a long time, the instrument thus survived the passage of time; it was not handed over to the Museo Nazionale degli Strumenti Musicali in Roma until the early 1970s. It remains in the museum’s collection today, though it can no longer be played for conservation reasons.
+Privately owned for a long time, the instrument thus survived the passage of time; it was not handed over to the Museo Nazionale degli Strumenti Musicali in <span id="map_tag">Roma</span> until the early 1970s. It remains in the museum’s collection today, though it can no longer be played for conservation reasons.
 
 ***
 
-Despite its undisputed historical value, the "Arpa Barberini" is far from having been adequately researched. For this reason, an interdisciplinary conference was held at the Austrian Historical Institute in Roma in December 2016 at the initiative of the Berlin-based harpist Margret Köll. Harpists, instrument makers, musicologists and art historians from several countries met, discussed problems and questions relating to the Barberini Harp and explored the possibilities of creating an exact copy of the instrument.
+Despite its undisputed historical value, the "Arpa Barberini" is far from having been adequately researched. For this reason, an interdisciplinary conference was held at the Istituto Storico Austriaco \[Austrian Historical Institute\] in Roma in December 2016 at the initiative of the Berlin-based harpist Margret Köll. Harpists, instrument makers, musicologists and art historians from several countries met, discussed problems and questions relating to the Barberini Harp and explored the possibilities of creating an exact copy of the instrument.
 
 ***
 
@@ -50,7 +50,7 @@ Despite its undisputed historical value, the "Arpa Barberini" is far from having
 
 ***
 
-The Convening began in the afternoon of December 14, 2016, with the participants gathering in the exhibition room of the Museo Nazionale degli Strumenti Musicali, where the Barberini Harp is kept. Following opening remarks by the initiator Margret Köll and the museum director Sandra Suatoni, an extraordinary concert was held. Only a few metres from the original Barberini Harp, three copies of the instrument were set up: by David Brown (made in Baltimore in 1989), by Dario Pontiggia (in Milano, 2006) and by Eric Kleinmann (in Rangendingen, 2005). Mara Galassi (Milano), Chiara Granata (Milano) and Loredana Gintoli (Berlin) played 17the century compositions on these harps in an homage to the Barberini Harp.
+The Convening began in the afternoon of December 14, 2016, with the participants gathering in the exhibition room of the Museo Nazionale degli Strumenti Musicali, where the Barberini Harp is kept. Following opening remarks by the initiator Margret Köll and the museum director Sandra Suatoni, an extraordinary concert was held. Only a few metres from the original Barberini Harp, three copies of the instrument were set up: by <span id="person_tag">David Brown</span> (made in Baltimore in 1989), by <span id="person_tag">Dario Pontiggia</span> (in Milano, 2006) and by <span id="person_tag">Eric Kleinmann</span> (in Rangendingen, 2005). <span id="person_tag">Mara Galassi</span> (Milano), <span id="person_tag">Chiara Granata</span> (Milano) and <span id="person_tag">Loredana Gintoli</span> (Berlin) played 17the century compositions on these harps in an homage to the Barberini Harp.
 
 ***
 
