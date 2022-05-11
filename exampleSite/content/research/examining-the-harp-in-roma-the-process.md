@@ -24,3 +24,13 @@ title = "Examining the Harp in Roma: The Process"
 type = "Research"
 
 +++
+
+17-18.12.2018
+
+***
+
+With the generous support of the Museo Nazionale degli Strumenti Musicali, Thünen-Institut, and Studio Armin Linke.
+
+***
+
+© Armin Linke / Harfenlabor 2022. All rights reserved.
