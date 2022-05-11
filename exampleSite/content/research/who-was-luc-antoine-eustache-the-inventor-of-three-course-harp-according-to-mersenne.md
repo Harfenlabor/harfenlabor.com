@@ -30,6 +30,8 @@ type = "Research"
 
 ***
 
+We still do not know how the triple harp was invented or by whom. The musicologist <span id="person_tag">Dinko Fabris</span> began to answer the latter through preliminary research into Marin Mersenne’s claim in Harmonie Universelle (1637) that the harp “à trois ordres” was invented by one “Luc Antoine Eustache” or Luca Antonio Eustachio, sometime between 1596 and 1606. Harfenlabor invited Fabris to present his initial findings at the 2016 Convening; this is a recording of his talk. At that point in time, Fabris aimed to verify the existence, history and importance of Eustachio. This research presents an outline for a biography of this musician and papal chamberlain, in service of the Borghese, Bentivoglio and the Barberini families, who went onto to political appointments, to eventually become the governor of Monterotondo.
+
 © Armin Linke / Harfenlabor 2020  
 Licensed under [CC BY-NC-ND International 4.0](https://harfenlabor.netlify.app/aboutpage/#ccbyncnd)
 
