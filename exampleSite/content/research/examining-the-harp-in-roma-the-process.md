@@ -16,10 +16,10 @@ project_category = "Barberini Harp Project"
 relatedresearch = []
 show_in_news = false
 status = "draft"
-subjects_tag = []
+subjects_tag = ["3D-reflected-light microscopy", "Barberini Harp", "Museo Nazionale degli Strumenti Nazionale", "Università degli Studi della Tuscia", "Thünen-Institut", "Institut für Holzforschung", "non-destructive ", "image analysis", "wood scientist"]
 subtype = ["Organology", "Iconography"]
 summary_text = "This is a video account of aspects of the scientific process deployed by the wood scientists Volker Haag and Valentia Zemke during the <i>The Barberini Harp Wood Species Identification</i> in the Museo Nazionale degli Strumenti Musicali Roma in 2018. It’s a delicate process, as their approach to the harp must be as conservative as possible, due to conservations concerns. "
-timeline_tag = ["2018"]
+timeline_tag = ["2018", "2019"]
 title = "Examining the Harp in Roma: The Process"
 type = "Research"
 
