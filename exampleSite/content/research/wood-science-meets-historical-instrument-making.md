@@ -24,6 +24,10 @@ title = "Wood Science Meets Historical Instrument Making"
 type = "Research"
 
 +++
+This zoom conversation between wood scientist Volker Haag and harp maker Eric Kleinmann is as much of a comment on Kleinmann’s conclusion presented in [Practical Examination of the Barberini Harp](https://harfenlabor.com/research/example-with-a-video/) as it is on Haag’s interview The Biology of Sound—a continued conversation between the two disciplines involved in the construction of historical instruments. His experience as a harp maker informed Kleinmann’s conclusion that the column of the Barberini Harp was not made of walnut, and yet, the wood science proved him wrong. The way in which a harp maker makes such a conclusion was illuminating for Haag, the wood scientist. Whilst the wood scientist will use technology to discover that the Barberini Harp’s neck has been hollowed out at some point, only an experienced harp maker such as Kleinmann can provide the explanation for this change.
+
+***
+
 **Translated transcript of the conversation:**
 
 **Volker Haag**: \[00:00:05\] Just like me, you’ve seen the Barberini Harp up close. You have engaged with elementary construction. People like us, who have spent time in instrument making and artisanal crafts, work with a relatively high degree of precision, and to put it simply, try to make everything really “beautiful.” When you look at the Barberini Harp now, what you see is completely unique, an incredible visual attraction. But when you look inside the harp, when you look at the parts leading into the neck, you ask yourself if the side walls have been worked on with an axe or how, and I had a similar feeling when I looked inside the harp. I would like to know how you feel about the fact that it is all show and no substance?

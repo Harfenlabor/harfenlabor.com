@@ -5,7 +5,6 @@ bhp_category = "Interviews"
 citation = ""
 description = ""
 downloads = []
-draft = true
 externallinks = ""
 footnotes = ""
 hide_from_research = false
