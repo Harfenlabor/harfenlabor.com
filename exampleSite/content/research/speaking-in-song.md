@@ -1,11 +1,14 @@
 +++
 PublishDate = 2022-03-09T23:00:00Z
-author = "Margret Köll with Ottavio Dantone"
+author = "Ottavio Dantone"
+bhp_category = ""
+citation = ""
 description = ""
 downloads = []
 draft = true
 externallinks = ""
 footnotes = ""
+hide_from_research = false
 image = ""
 imgcaptions = ""
 map_tag = []
