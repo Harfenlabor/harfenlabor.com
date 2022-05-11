@@ -44,17 +44,11 @@ too. So, the surface was probably made by a decorator and a gilder. Harp making 
 
 **Haag**: \[03:08\] Did you have the impression that this part, the neck of the harp, was basically always hollowed out?Because, if I understood you correctly, there’s been reworking over the years. What did you notice? “Oh, that could not have been from the beginning.” Did you notice this immediately? Or was it a process during which you realised, “No, that must have been done later.”
 
-**Kleinmann**: \[03:43\] I realised relatively quickly it had been done later, because it was not, as you said, done cleanly. If the neck had been separated from the column, it could have been done cleanly. You could have turned the neck around, fixed it to the table and worked it from above. It was done the way I explained in the \[Convening [https://harfenlabor.com/research/example-with-a-video/](https://harfenlabor.com/research/example-with-a-video/ "https://harfenlabor.com/research/example-with-a-video/")\] talk: hollowed out from below with irons. That's what they did with some harps later on. On the left and right they had a part of the neck closed on the top like a bridge. It was not their aim to make the instrument lighter. I think they tried to bring the strings down through the middle. If the neck had been made in two parts, they would have pierced the column and inserted the string into the hole from the bottom or from the top.
+**Kleinmann**: \[03:43\] I realised relatively quickly it had been done later, because it was not, as you said, done cleanly. If the neck had been separated from the column, it could have been done cleanly. You could have turned the neck around, fixed it to the table and worked it from above. It was done the way I explained in the \[[Convening](https://harfenlabor.com/research/example-with-a-video/)\] talk: hollowed out from below with irons. That's what they did with some harps later on. On the left and right they had a part of the neck closed on the top like a bridge. It was not their aim to make the instrument lighter. I think they tried to bring the strings down through the middle. If the neck had been made in two parts, they would have pierced the column and inserted the string into the hole from the bottom or from the top.
 
 **Haag**: I see.
 
-**Kleinmann**: There are such harps in Paraguay, for example, modern harps. Enthusiasts also made harps with strings inserted through the middle. Those have the same problem as this harp, namely that the lowest string hits against the decoration at the base, presumably for construction reasons. I interpret this as an error in planning. Or they simply wanted to add more strings later. That happened with many harps. Over the course of time people said, “We might need a G down there, let’s make another string hole there.” The interesting thing
-
-about the Barberini Harp soundboard is that the last string hole, on this square inserted into the soundboard, about a millimetre thick and made of hardwood, has no crack in the
-
-middle from ageing and stress. All the others have a crack in the middle. This string has probably not been used much or not at all. That is, for me, an indication of this. So, there
-
-was a problem up there somewhere, which is probably why they tried to pull the string through the middle of the neck.
+**Kleinmann**: There are such harps in Paraguay, for example, modern harps. Enthusiasts also made harps with strings inserted through the middle. Those have the same problem as this harp, namely that the lowest string hits against the decoration at the base, presumably for construction reasons. I interpret this as an error in planning. Or they simply wanted to add more strings later. That happened with many harps. Over the course of time people said, “We might need a G down there, let’s make another string hole there.” The interesting thing about the Barberini Harp soundboard is that the last string hole, on this square inserted into the soundboard, about a millimetre thick and made of hardwood, has no crack in the middle from ageing and stress. All the others have a crack in the middle. This string has probably not been used much or not at all. That is, for me, an indication of this. So, there was a problem up there somewhere, which is probably why they tried to pull the string through the middle of the neck.
 
 **Haag**: \[06:27\] Yes, yes, crazy. And on top of that, of course, that the instruments, guitar, for example, were still developing and evolving until the 1920s. This also goes for the harps, at least as in that their development wasn't finished 400 years ago. And one, basically, couldn't know what trends would come 100 or 200 years later—which is now 200 years ago for us.
 
@@ -66,9 +60,7 @@ was a problem up there somewhere, which is probably why they tried to pull the s
 
 **Haag**: \[07:33\] Something I don't know much about.
 
-**Kleinmann**: 07:45
-
-To do this, you need a D3 and an E at the top.
+**Kleinmann**: To do this, you need a D3 and an E at the top.
 
 **Haag**: And you can see that in the construction.
 
