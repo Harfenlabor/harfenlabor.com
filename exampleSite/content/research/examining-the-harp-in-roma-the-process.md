@@ -11,7 +11,7 @@ hide_from_research = false
 image = ""
 imgcaptions = ""
 map_tag = []
-person_tag = []
+person_tag = ["Volker Haag", "Valentina Zemke", "Swati Tamantini", "Kerstin Schwarz"]
 project_category = "Barberini Harp Project"
 relatedresearch = []
 show_in_news = false
@@ -33,4 +33,4 @@ With the generous support of the Museo Nazionale degli Strumenti Musicali, Thün
 
 ***
 
-© Armin Linke / Harfenlabor 2022. All rights reserved.
+© Armin Linke / Harfenlabor 2022. [All rights reserved.](https://harfenlabor.netlify.app/aboutpage/#allrightsreserved)

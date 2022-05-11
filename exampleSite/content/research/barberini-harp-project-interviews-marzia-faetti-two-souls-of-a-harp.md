@@ -38,6 +38,4 @@ With the generous support of the Kunsthistorisches Institut in Florenz – Max-P
 
 ***
 
-© Armin Linke / Harfenlabor 2020
-
-[All rights reserved.](https://harfenlabor.netlify.app/aboutpage/#allrightsreserved)
+© Armin Linke / Harfenlabor 2020. [All rights reserved.](https://harfenlabor.netlify.app/aboutpage/#allrightsreserved)
