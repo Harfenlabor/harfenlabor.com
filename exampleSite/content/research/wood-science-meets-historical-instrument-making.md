@@ -11,12 +11,12 @@ hide_from_research = false
 image = ""
 imgcaptions = ""
 map_tag = []
-person_tag = []
+person_tag = ["Volker Haag", "Eric Kleinmann"]
 project_category = "Barberini Harp Project"
 relatedresearch = []
 show_in_news = false
 status = "draft"
-subjects_tag = []
+subjects_tag = ["Barberini Harp", "construction", "gilding", "wood scientist", "harp maker", "soundboard"]
 subtype = ["Organology"]
 summary_text = "Volker Haag and Eric Kleinmann come together in this zoom conversation in order to comment on their respective earlier contributions and conclusions: <i>The Biology of Sound</i> and <i>Practical Examination of the Barberini Harp</i>. Their dialogue of is part of a continued conversation between the two disciplines—wood science and harp building—involved in preservation and construction of historical instruments. "
 timeline_tag = []
@@ -43,7 +43,7 @@ Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/abou
 
 **Kleinmann**: \[00:02:22\] Well, I've looked at different harps. Some of them were made excellently and seeing some of them I thought, “Oh. I could have done this as a 16-year-old, had I wanted to.” You know what I mean? I was also astonished. I found some details interesting, which I use in my work too. They also worked inside the harp; this is not the first soundboard. I think the soundboard is not original. Of course, you can rummage around in the instrument and make something. Actually, I found the inside to be not so tragic.
 
-**Haag**: \[00:03:08\] Did you have the impression that this part, the neck of the harp, was basically always hollowed out?Because, if I understood you correctly, there’s been reworking over the years. What did you notice? “Oh, that could not have been from the beginning.” Did you notice this immediately? Or was it a process during which you realised, “No, that must have been done later.”
+**Haag**: \[00:03:08\] Did you have the impression that this part, the neck of the harp, was basically always hollowed out? Because, if I understood you correctly, there’s been reworking over the years. What did you notice? “Oh, that could not have been from the beginning.” Did you notice this immediately? Or was it a process during which you realised, “No, that must have been done later.”
 
 **Kleinmann**: \[00:03:43\] I realised relatively quickly it had been done later, because it was not, as you said, done cleanly. If the neck had been separated from the column, it could have been done cleanly. You could have turned the neck around, fixed it to the table and worked it from above. It was done the way I explained in the \[[Convening](https://harfenlabor.com/research/example-with-a-video/)\] talk: hollowed out from below with irons. That's what they did with some harps later on. On the left and right they had a part of the neck closed on the top like a bridge. It was not their aim to make the instrument lighter. I think they tried to bring the strings down through the middle. If the neck had been made in two parts, they would have pierced the column and inserted the string into the hole from the bottom or from the top.
 
