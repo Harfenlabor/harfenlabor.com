@@ -24,3 +24,4 @@ title = "The Barberini Harp Wood Species: The Biology of Sound"
 type = "Research"
 
 +++
+Volker Haag, Thünen-Institut, Institut für Holzforschung
