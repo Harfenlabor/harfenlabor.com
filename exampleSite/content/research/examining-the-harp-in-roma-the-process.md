@@ -10,7 +10,7 @@ footnotes = ""
 hide_from_research = false
 image = ""
 imgcaptions = ""
-map_tag = []
+map_tag = ["Roma"]
 person_tag = ["Volker Haag", "Valentina Zemke", "Swati Tamantini", "Kerstin Schwarz"]
 project_category = "Barberini Harp Project"
 relatedresearch = []
@@ -19,7 +19,7 @@ status = "draft"
 subjects_tag = []
 subtype = ["Organology", "Iconography"]
 summary_text = ""
-timeline_tag = []
+timeline_tag = ["2018"]
 title = "Examining the Harp in Roma: The Process"
 type = "Research"
 
