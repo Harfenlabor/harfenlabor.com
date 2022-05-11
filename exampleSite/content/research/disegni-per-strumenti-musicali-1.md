@@ -94,7 +94,7 @@ Lo stretto rapporto del disegno con la cosiddetta arpa Barberini conservata nel 
 
 ***
 
-Era stato proprio lui il committente dello strumento, che aveva dato in uso al musicista <span id="person_tag">Marco Marazzoli</span> (<span id="timeline_tag">1619-1663</span>)<sup>7</sup>, detto appunto “dall’arpa”, attivo al servizio dei Barberini come cantore, strumentista e compositore. Dopo la sua morte lo strumento ritornò in possesso al cardinale Antonio cui pervenne anche il dipinto di Lanfranco che era stato invece commissionato dal musicista all’amico pittore.
+Era stato proprio lui il committente dello strumento, che aveva dato in uso al musicista <span id="person_tag">Marco Marazzoli</span> (<span id="timeline_tag">1619-1663</span>),<sup>7</sup> detto appunto “dall’arpa”, attivo al servizio dei Barberini come cantore, strumentista e compositore. Dopo la sua morte lo strumento ritornò in possesso al cardinale Antonio cui pervenne anche il dipinto di Lanfranco che era stato invece commissionato dal musicista all’amico pittore.
 
 ***
 
