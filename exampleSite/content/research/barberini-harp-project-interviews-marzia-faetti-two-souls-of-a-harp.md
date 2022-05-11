@@ -32,7 +32,11 @@ type = "Research"
 
 This edition of the Barberini Harp Project Interviews brought Harfenlabor in 2019 to <span id="person_tag">Marzia Faietti</span>, the former director of the Gabinetto dei Disegni e delle Stampe at Le Gallerie degli Uffizi, <span id="map_tag">Firenze</span>. Faietti provides invaluable art historical context for music iconography within the graphic art of the 16th and 17th century preserved at the Uffizi. Faietti's analysis of a preparatory drawing, often attributed to <span id="person_tag">Giovanni Battista Soria</span>, for a richly decorated harp with an unusually sumptuously decorated column, offers a fascinating insight into the aesthetic, musical, political, ceremonial and economic importance of such an instrument. This drawing is believed to be a preparatory drawing for the <span id="subjects_tag">Barberini Harp</span>, now preserved at the Museo Nazionale degli Strumenti Musicali, <span id="map_tag">Roma</span>. The matter of whether the drawing is by Soria, and whether it could indeed be a preparatory drawing for the Barberini Harp is also the topic of <span id="person_tag">Ursula Verena Fischer Pace</span>'s article [Designs for Musical Instruments](https://harfenlabor.netlify.app/research/disegni-per-strumenti-musicali/ "Designs for Musical Instruments").
 
+***
+
 With the generous support of the Kunsthistorisches Institut in Florenz – Max-Planck-Institut and Istituto Storico Austriaco. Special thanks to Eike Schmidt, Laura Donati and Fabrizio Paolucci at the Uffizi.
+
+***
 
 © Armin Linke / Harfenlabor 2020
 
