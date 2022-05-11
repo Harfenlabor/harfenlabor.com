@@ -28,17 +28,11 @@ Translated transcript of the conversation:
 
 00:05
 
-**Volker Haag**: Just like me, you’ve seen the Barberini Harp up close. You have engaged with elementary construction. People like us, who have spent time in instrument making and artisanal crafts, work with a relatively high degree of precision, and to put it simply, try to make everything really “beautiful.” When you look at the Barberini Harp now, what you see is completely unique, an incredible visual attraction. But when you look inside the harp, when you look at the parts leading into the neck, you ask yourself if the side walls have been worked on with an axe or how, and I had a similar feeling when I looked inside the harp. I would like to know how you feel about the fact that it is all show and no substance?
+**Volker Haag**: \[00:05\] Just like me, you’ve seen the Barberini Harp up close. You have engaged with elementary construction. People like us, who have spent time in instrument making and artisanal crafts, work with a relatively high degree of precision, and to put it simply, try to make everything really “beautiful.” When you look at the Barberini Harp now, what you see is completely unique, an incredible visual attraction. But when you look inside the harp, when you look at the parts leading into the neck, you ask yourself if the side walls have been worked on with an axe or how, and I had a similar feeling when I looked inside the harp. I would like to know how you feel about the fact that it is all show and no substance?
 
-01:19
+**Eric Kleinmann**: Yes. I have to say that the surface work on the Barberini Harp was done by people who only worked surfaces. Gilding is not just applying a bit of oil and then applying gold. Oil gilding has a chalk base formed by a mix of Bolognese chalk and animal glue. That’s why you cannot get through it \[with anything\]. It’s not a thick coat of lacquer, but like a very hard plaster that you have to scrape out in fine detail afterwards so you can see the fine lines again, you have to imagine it's like a thick liquid curd yogurt. I’ve done this myself, too. So, the surface was probably made by a decorator and a gilder. Harp making is pragmatic work: you avoid elaborate work that also costs money.
 
-**Eric Kleinmann**: \[ \] Yes. I have to say that the surface work on the Barberini Harp was done by people who only worked surfaces. Gilding is not just applying a bit of oil and then applying gold. Oil gilding has a chalk base formed by a mix of Bolognese chalk and animal glue. That’s why you cannot get through it \[with anything\]. It’s not a thick coat of lacquer, but like
-
-a very hard plaster that you have to scrape out in fine detail afterwards so you can see the fine lines again, you have to imagine it's like a thick liquid curd yogurt. I’ve done this myself,
-
-too. So, the surface was probably made by a decorator and a gilder. Harp making is pragmatic work: you avoid elaborate work that also costs money.
-
-**Haag**: \[ \] Of course, that is also an aspect, yes.
+**Haag**: Of course, that is also an aspect, yes.
 
 **Kleinmann**: \[02:22\] Well, I've looked at different harps. Some of them were made excellently and seeing some of them I thought, “Oh. I could have done this as a 16-year-old, had I wanted to.” You know what I mean? I was also astonished. I found some details interesting, which I use in my work too. They also worked inside the harp; this is not the first soundboard. I think the soundboard is not original. Of course, you can rummage around in the instrument and make something. Actually, I found the inside to be not so tragic.
 
