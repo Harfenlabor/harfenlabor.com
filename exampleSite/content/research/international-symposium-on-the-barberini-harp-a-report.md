@@ -10,13 +10,13 @@ footnotes = ""
 hide_from_research = false
 image = "/images/be30e30c-9320-4858-b50e-02f60b7d71a0.jpeg"
 imgcaptions = "Fig. 1 DIF_000185_602, Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma. Photo: © Armin Linke, 2014. All Rights Reserved. &&\nFig. 2 DIF_000185_28_M, Giovanni Lanfranco, <i>La Musica</i>, Galleria Nazionale d’Arte Antica di Palazzo Barberini, Roma, © Armin Linke 2014. All Rights Reserved. &&\n"
-map_tag = ["Bern", "Baltimore", "Berlin", "Milano", "Roma", "Rangendingen", "New York", "Wien", "Vicenza", "Heidelberg"]
+map_tag = ["Bern", "Baltimore", "Berlin", "Milano", "Roma", "Rangendingen", "New York", "Wien", "Vicenza", "Heidelberg", "Madrid"]
 person_tag = ["Mimmo Peruffo", "Armin Linke", "Bernhard Schrammek", "David Brown", "Mara Galassi", "Loredana Gintoli", "Margret Köll", "Chiara Granata", "Dinko Fabris", "Marin Mersenne", "Paolo V", "Giovanni Lanfranco", "Elisabetta Frullini", "Marco Marazzoli", "Florian Bassani", "Ursula-Verena Fischer-Pace", "Giovanni-Battista Soria", "Francesco Barberini", "Taddeo Barberini", "Carlo Barberini", "Maffeo Barberini", "Dario Pontiggia", "Antonio Barberini", "Alexandra Ziane", "Emanuel Winternitz", "Sandra Suatoni", "Eric Kleinmann", "Urbano VIII", "Maffeo-jr. Barberini", "Emanuel Winternitz", "Patrizio Barbieri", "Luca Antonio Eustachio", "Agostino Agazzari", "Orazio Michi", "Joachim Steinheuer"]
 project_category = "Barberini Harp Project"
 relatedresearch = []
 show_in_news = false
 status = "to be approved by author"
-subjects_tag = ["New York Metropolitan Museum of Arts", "Museo Nazionale degli Strumenti Musicali", "Biblioteca Apostolica Vaticana", "Archivio Barberini", "Harmonie universelle", "arpa a tre ordini", "triple harp", "enharmonic", "semitone", "Barberini Harp", "Arpa Barberini"]
+subjects_tag = ["New York Metropolitan Museum of Arts", "Museo Nazionale degli Strumenti Musicali", "Biblioteca Apostolica Vaticana", "Archivio Barberini", "Harmonie universelle", "arpa a tre ordini", "triple harp", "enharmonic", "semitone", "Barberini Harp", "Arpa Barberini", "replica"]
 subtype = ["Organology", "Performance Practice", "Musicology", "Iconography", "Sociology of Art"]
 summary_text = "Bernhard Schrammek's report offers a concise account of Harfenlabor's international symposium Convening around the Barberini Harp Project, which took place on 14-16 December 2016, in Roma, in collaboration with the Museo Nazionale degli Strumenti Musicali, Istituto Storico Austriaco a Roma, and the Deutsche Botschaft Rom."
 timeline_tag = ["2016", "1632", "1582-1647", "1623-1644", "1989", "2006", "1960s", "1898-1983", "1632-33", "1605-1610", "1581–1651", "1597-1679", "1603-1647", "1607-1671", "1630–1704", "1631–1685", "1637", "1970s"]
@@ -60,7 +60,7 @@ The [Convening](https://harfenlabor.com/projects/bhpconvening/) began in the aft
 
 ***
 
-Using excerpts from letters, <span id="person_tag">Alexandra Ziane</span> (Berlin) then reconstructed the efforts in the late 1960s by the American curator Emanuel Winternitz (1898–1983) to transfer the Barberini Harp from a private Italian collection to the New York Metropolitan Museum of Arts. Ziane’s presentation was followed by a tour of the Museo Nazionale degli Strumenti Musicali with the director Sandra Suatoni, including the newly designed area that was not yet open to the public.
+Using excerpts from letters, <span id="person_tag">Alexandra Ziane</span> (Berlin) then reconstructed the efforts in the late 1960s by the American curator Emanuel Winternitz (1898–1983) to transfer the Barberini Harp from a private Italian collection to the New York Metropolitan Museum of Arts. Ziane’s presentation was followed by a tour of the Museo Nazionale degli Strumenti Musicali with the director <span id="person_tag">Sandra Suatoni</span>, including the newly designed area that was not yet open to the public.
 
 ***
 
@@ -100,7 +100,7 @@ The art historian <span id="person_tag">Elisabetta Frullini</span> (Roma/Wien) t
 
 ***
 
-The discussion turned to specialist organological and historical issues. Dinko Fabris (Roma) dedicated his presentation to Luca Antonio Eustachio, who is described in Marin Mersenne's _Harmonie universelle_ (1637) as the inventor of the "arpa a tre ordini." Eustachio came to Roma from Apulia and was in the service of pope Paolo V of the Borghese family. Many documents mention him as a musician, without specifically mentioning his role in the development of the triple harp. Patrizio Barbieri (Roma) then devoted himself to harp and harpsichord models in which a distinction is made between enharmonic semitones.
+The discussion turned to specialist organological and historical issues. <span id="person_tag">Dinko Fabris</span> (Roma) dedicated his presentation to <span id="person_tag">Luca Antonio Eustachio</span>, who is described in <span id="person_tag">Marin Mersenne</span>'s _Harmonie universelle_ (1637) as the inventor of the "arpa a tre ordini." Eustachio came to Roma from Apulia and was in the service of pope Paolo V of the Borghese family. Many documents mention him as a musician, without specifically mentioning his role in the development of the triple harp. <span id="person_tag">Patrizio Barbieri</span> (Roma) then devoted himself to harp and harpsichord models in which a distinction is made between enharmonic semitones.
 
 ![](/images/participants-backlight.png)
 
@@ -126,7 +126,7 @@ The morning of December 16th was primarily reserved for the harp makers and stri
 
 ***
 
-Eric Kleinmann then gave a detailed account of some of the Barberini instrument's unanswered questions. He put forward the thesis that the change in the attachment of the strings was probably carried out in order to raise the pitch from originally a1=392 Hz. In addition, two low strings were added during a 17th-century remodelling, further hollowing out the neck at this point. The lowest string may not have been playable at all, coming too close to the elaborate decoration. Eric Kleinmann also presented photos of the interior of the harp's soundbox, taken with a 360-degree camera. The “inner workings” of the Barberini Harp could thus be clearly seen for the first time. Finally, he raised the possibility that the harp's soundboard might have been replaced at an early stage, which would, in turn explain the differences with Lanfranco's painting. According to Kleinmann, it is still unclear which wood was used in the making of the column.
+<span id="person_tag">Eric Kleinmann</span> then gave a detailed account of some of the Barberini instrument's unanswered questions. He put forward the thesis that the change in the attachment of the strings was probably carried out in order to raise the pitch from originally a1=392 Hz. In addition, two low strings were added during a 17th-century remodelling, further hollowing out the neck at this point. The lowest string may not have been playable at all, coming too close to the elaborate decoration. Eric Kleinmann also presented photos of the interior of the harp's soundbox, taken with a 360-degree camera. The “inner workings” of the Barberini Harp could thus be clearly seen for the first time. Finally, he raised the possibility that the harp's soundboard might have been replaced at an early stage, which would, in turn explain the differences with Lanfranco's painting. According to Kleinmann, it is still unclear which wood was used in the making of the column.
 
 ![](/images/01.png)
 
@@ -134,11 +134,11 @@ Eric Kleinmann then gave a detailed account of some of the Barberini instrument'
 
 ***
 
-String maker Mimmo Peruffo (Vicenza), offered his expertise in pointing out the possible nature of the strings on the Barberini Harp. In his experience, the highest frequency before a string breaks is 260 Hz per metre.
+String maker <span id="person_tag">Mimmo Peruffo</span> (Vicenza), offered his expertise in pointing out the possible nature of the strings on the Barberini Harp. In his experience, the highest frequency before a string breaks is 260 Hz per metre.
 
 ***
 
-Adam Lowe from Madrid was then included in the conversation via Skype, to talk about the complex 3D scan of the Barberini Harp he made with his team from FACTUM arte. The Convening participants were able to see an account of this process, in a short film and  photographic prints by Studio Armin Linke, shown on the previous day. The external appearance of the instrument can thus be precisely reconstructed following the 3D scan.
+<span id="person_tag">Adam Lowe</span> from Madrid was then included in the conversation via Skype, to talk about the complex 3D scan of the Barberini Harp he made with his team from FACTUM arte. The Convening participants were able to see an account of this process, in a short film and  photographic prints by Studio Armin Linke, shown on the previous day. The external appearance of the instrument can thus be precisely reconstructed following the 3D scan.
 
 ***
 
@@ -148,7 +148,7 @@ Adam Lowe from Madrid was then included in the conversation via Skype, to talk a
 
 ***
 
-The afternoon lectures moved the focus back onto musico-historical topics and were devoted to possible interpreters and the presumed repertoire performed on the Barberini Harp. Alexandra Ziane introduced the many harpists who were active in Roma at the beginning of the 17th century, with a particular emphasis on Orazio Michi, whose playing was mentioned in several sources. Joachim Steinheuer (Heidelberg) considered the possible repertoire of the corresponding period, indicating the harp as an ensemble instrument, as well as a basso continuo and a solo instrument—an evaluation based on both written and iconographic sources. Finally, Florian Bassani mentioned in his lecture the use of harps in Roman sacral music and evaluated contemporaneous tracts for indications of harp repertoire. Accordingly, there was little idiomatic solo literature for the harp in Roma of the early 17th century. Instead, the harp was considered (by Agostino Agazzari, for example) as an ensemble and bass instrument. However, improvising on bass models was an essential part of making music at the time, which could also include the harp as a solo or melody instrument.
+The afternoon lectures moved the focus back onto musico-historical topics and were devoted to possible interpreters and the presumed repertoire performed on the Barberini Harp. <span id="person_tag">Alexandra Ziane</span> introduced the many harpists who were active in Roma at the beginning of the 17th century, with a particular emphasis on <span id="person_tag">Orazio Michi</span>, whose playing was mentioned in several sources. <span id="person_tag">Joachim Steinheuer</span> (Heidelberg) considered the possible repertoire of the corresponding period, indicating the harp as an ensemble instrument, as well as a basso continuo and a solo instrument—an evaluation based on both written and iconographic sources. Finally, Florian Bassani mentioned in his lecture the use of harps in Roman sacral music and evaluated contemporaneous tracts for indications of harp repertoire. Accordingly, there was little idiomatic solo literature for the harp in Roma of the early 17th century. Instead, the harp was considered (by <span id="person_tag">Agostino Agazzari</span>, for example) as an ensemble and bass instrument. However, improvising on bass models was an essential part of making music at the time, which could also include the harp as a solo or melody instrument.
 
 ![](/images/img_8924.jpeg)
 
