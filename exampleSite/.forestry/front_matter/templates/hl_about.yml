@@ -1,0 +1,15 @@
+---
+label: HL_about
+hide_body: false
+fields:
+- name: text_area
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text Area
+pages:
+- layouts/_default/aboutpage.html

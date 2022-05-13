@@ -12,12 +12,16 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: md
+  templates:
+  - hl_home
 - type: directory
   path: exampleSite/content/research
   label: Research
   create: all
   match: "**/*"
   new_doc_ext: md
+  templates:
+  - hl_home
 - type: document
   path: layouts/_default/aboutpage.html
   label: About
