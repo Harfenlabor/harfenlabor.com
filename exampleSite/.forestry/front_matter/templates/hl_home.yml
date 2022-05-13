@@ -227,6 +227,7 @@ fields:
     space<br>(i.e. "www.google.com &amp;&amp; /logo.png &amp;&amp; Google")
   label: Downloads
 pages:
+- exampleSite/content/about/about..md
 - exampleSite/content/news/between-the-strings-festival-of-historical-harp-first-edition-haydn-s-folk-harp.md
 - exampleSite/content/research/a-door-to-medieval-music.md
 - exampleSite/content/research/barberini-harp-project-examinations-thunen-institut-investigation-in-roma.md

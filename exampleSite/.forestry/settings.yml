@@ -18,6 +18,17 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: md
+- type: directory
+  path: exampleSite/content/about
+  label: About
+  create: all
+  match: "**/*"
+  new_doc_ext: ".md"
+- type: document
+  path: exampleSite/content/about/aboutp
+  label: Aboutp
+  match: "**/*"
+  read_only: false
 - type: heading
   label: Configuration
 - type: directory
