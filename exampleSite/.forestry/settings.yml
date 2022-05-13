@@ -22,10 +22,6 @@ sections:
   new_doc_ext: md
   templates:
   - hl_home
-- type: document
-  path: layouts/_default/aboutpage.html
-  label: About
-  read_only: false
 - type: heading
   label: Configuration
 - type: directory

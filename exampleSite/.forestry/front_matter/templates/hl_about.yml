@@ -11,5 +11,3 @@ fields:
     schema:
       format: markdown
   label: Text Area
-pages:
-- layouts/_default/aboutpage.html
