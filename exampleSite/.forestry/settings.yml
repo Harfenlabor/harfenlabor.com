@@ -19,8 +19,13 @@ sections:
   match: "**/*"
   new_doc_ext: md
 - type: document
+  path: exampleSite/aboutpage.md
+  label: About md
+  match: "**/*"
+  read_only: true
+- type: document
   path: layouts/_default/aboutpage.html
-  label: About
+  label: About html
   read_only: true
 - type: heading
   label: Configuration
