@@ -19,13 +19,9 @@ sections:
   match: "**/*"
   new_doc_ext: md
 - type: document
-  path: exampleSite/aboutpage.md
-  label: About md
-  read_only: true
-- type: document
   path: layouts/_default/aboutpage.html
-  label: About html
-  read_only: true
+  label: About
+  read_only: false
 - type: heading
   label: Configuration
 - type: directory
