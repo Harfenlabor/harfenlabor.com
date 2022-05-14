@@ -133,7 +133,7 @@ The plastic motifs and the stylistic aspects of this drawing are rather of Corto
 
 ###### Pietro da Cortona, _Mazza da ceremonia_, drawing (<cap>Fig. 10</cap>).
 
-Moreover, the architectural, figurative and animal motifs are also similar, as are the mixed technique of pen and watercolour. But the draftsman is not Pietro da Cortona either, thought it appears they could have been someone close to him. The author could also be Tubi, the carver of the instrument, but we know nothing about his artistic background in drawing. Three decorative projects from the same Uffizi collection (Inv. 1591 E; Inv. 1592 E; Inv. 1593 are likely to have been made by the same draftsman.<sup>13</sup>
+Moreover, the architectural, figurative and animal motifs are also similar, as are the mixed technique of pen and watercolour. But the draftsman is not Pietro da Cortona either, thought it appears they could have been someone close to him. The author could also be Tubi, the carver of the instrument, but we know nothing about his artistic background in drawing. Three decorative projects from the same Uffizi collection (Inv. 1591 E; Inv. 1592 E; Inv. 1593) are likely to have been made by the same draftsman.<sup>13</sup>
 
 ***
 
