@@ -24,6 +24,10 @@ title = "The Barberini Harp Wood Species: The Biology of Sound"
 type = "Research"
 
 +++
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/709875170?h=485fd67471&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Volker Haag: The Barberini Harp Wood Species: The Biology of Sound"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+***
+
 In 2018, Harfenlabor asked the Institut für Holzforschung at the Thünen-Institut (Hamburg) to, for the first time ever, [examine the wood on the Barberini Harp’s column](https://www.harfenlabor.com/research/barberini-harp-wood-species-identification/) and other parts (some of which have been examined using different methods) using new non-invasive methodology, and identify the wood species used in the construction of the instrument. On 16-18 December, 2018, wood scientists <span id="person_tag">Volker Haag</span> and <span id="person_tag">Valentina Zemke</span> carried out [anatomical determination of structural features on the harp](https://harfenlabor.netlify.app/research/examining-the-harp-in-roma-the-process/), at the Museo Nazionale degli Strumenti Musicali in <span id="map_tag">Roma</span>. Following their report, Harfenlabor interviewed Haag in Hamburg, in November 2019, in order to better understand the science and the processes involved in both identifying wood species used in the construction of historical instruments, and to understand the biology behind properties that make certain woods more suitable as tone woods than others.
 
 ***
@@ -32,7 +36,7 @@ With the generous support of the Thünen-Institut and Studio Armin Linke.
 
 ***
 
-© Armin Linke / Harfenlabor 2022. 
+© Armin Linke / Harfenlabor 2022.
 
 [All rights reserved.](https://harfenlabor.netlify.app/aboutpage/#allrightsreserved)
 
