@@ -26,8 +26,6 @@ type = "Research"
 +++
 ***
 
-***
-
 <div id="buzzsprout-player-10423076"></div><script src="https://www.buzzsprout.com/1934249/10423076-virtuosic-and-delicate-the-sound-of-natural-trumpet.js?container_id=buzzsprout-player-10423076&player=small" type="text/javascript" charset="utf-8"></script>
 
 ***
@@ -42,7 +40,6 @@ To find out more about the Alpine Brass Band Academy visit [https://brassbandaca
 
 ***
 
-  
 **Margret Köll**: \[00:00:30\] Welcome Andreas!
 
 **Andreas Lackner**: \[00:00:34\] Welcome!
