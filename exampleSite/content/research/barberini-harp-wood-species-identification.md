@@ -162,4 +162,6 @@ type = "Research"
 
 ###### Volker Haag conducts image-analytical comparison of the Barberini Harp examination material with the samples in the scientific wood collection of the Thünen-Institut, Hamburg, 2018.
 
-###### All images © Armin Linke / Harfenlabor 2020. Licensed under [CC BY-NC-ND International 4.0](https://harfenlabor.netlify.app/aboutpage/#ccbyncnd)
+###### All images © Armin Linke / Harfenlabor 2020. 
+
+###### Licensed under [CC BY-NC-ND International 4.0](https://harfenlabor.netlify.app/aboutpage/#ccbyncnd)
