@@ -24,6 +24,10 @@ title = "Examining the Harp in Roma: The Process"
 type = "Research"
 
 +++
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/709897259?h=29172dbe12&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Volker Haag and Valentina Zemke: Examining the Harp in Roma: The Process"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+***
+
 In December 2018, wood scientists <span id="person_tag">Volker Haag</span> and <span id="person_tag">Valentina Zemke</span> from the [Thünen-Institut](https://harfenlabor.netlify.app/indextag#Th%C3%BCnen-Institut), [Institut für Holzforschung](https://harfenlabor.netlify.app/indextag#Institut%20f%C3%BCr%20Holzforschung) transported comprehensive microscopy equipment from [Hamburg](https://harfenlabor.netlify.app/map#Hamburg) to the Museo Nazionale degli Strumenti Musicali in [Roma](https://harfenlabor.netlify.app/map#Roma). At the heart of this equipment is a state-of-the-art 3D-RLM (3D-reflected-light microscopy) microscope for a completely non-destructive material analysis that allows the scientists to identify the types of wood used to build the <span id="subjects_tag">Barberini Harp</span>. The scientists’ repertoire of tools also includes a custom computer with specialist image analysis software, as well as various eyepieces and stands for different applications. This video provides an account of this process. Haag and Zemke were supported in this process by the wood scientist <span id="person_tag">Swati Tamantini</span> of the Università degli Studi della Tuscia, DIBAF (Viterbo), who took and processed images used in the February 2019 [Thünen-Institut Wood Species Identification Report](https://www.harfenlabor.com/research/thunen-wood-species-identification-report/).
 
 ***
@@ -34,4 +38,4 @@ With the generous support of the Museo Nazionale degli Strumenti Musicali, Thün
 
 © Armin Linke / Harfenlabor 2022.
 
- [All rights reserved.](https://harfenlabor.netlify.app/aboutpage/#allrightsreserved)
+[All rights reserved.](https://harfenlabor.netlify.app/aboutpage/#allrightsreserved)
