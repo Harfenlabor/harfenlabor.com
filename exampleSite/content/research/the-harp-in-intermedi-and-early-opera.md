@@ -24,9 +24,10 @@ title = "The Harp in Intermedi and Early Opera"
 type = "Research"
 
 +++
+
 ***
 
-<div class="embed-responsive embed-responsive-16by9"> <iframe src="https://player.vimeo.com/video/693494627" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>  </div><div class="chapters"></div>
+<div class="embed-responsive embed-responsive-16by9"> <iframe src="https://player.vimeo.com/video/693494627" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> </div><div class="chapters"></div>
 
 ***
 
