@@ -23,11 +23,8 @@ sections:
   templates:
   - hl_home
 - type: document
-  path: layouts/_default/aboutpage.html
-  label: About
-- type: document
   path: exampleSite/content/aboutpage.md
-  label: About md
+  label: About
 - type: heading
   label: Configuration
 - type: directory
