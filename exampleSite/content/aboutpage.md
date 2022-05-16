@@ -1,28 +1,7 @@
 +++
 PublishDate = "2022-05-16T13:00:41+00:00"
-author = ""
-bhp_category = ""
-citation = ""
-description = ""
-downloads = []
-externallinks = ""
-footnotes = ""
-hide_from_research = false
-image = ""
-imgcaptions = ""
-map_tag = []
-person_tag = []
-project_category = ""
-relatedresearch = []
-show_in_news = false
-status = "draft"
-subjects_tag = []
-subtype = []
-summary_text = ""
-text_area = ""
-timeline_tag = []
+hide_from_research = true
 title = "About"
-type = "News"
 
 +++
 **Harfenlabor** is a platform for critical and open discourse on topics related to the enigma of Historical Harp. This instrument was only revived around 35 years ago—it has not so far received the attention it is due in the music world and beyond, and it is largely invisible to a wider audience.
