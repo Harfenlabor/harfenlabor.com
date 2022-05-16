@@ -22,6 +22,10 @@ sections:
   new_doc_ext: md
   templates:
   - hl_home
+- type: document
+  path: layouts/_default/aboutpage.html
+  label: About
+  match: "**/*"
 - type: heading
   label: Configuration
 - type: directory
