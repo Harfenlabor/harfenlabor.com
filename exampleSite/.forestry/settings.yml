@@ -26,6 +26,10 @@ sections:
   path: layouts/_default/aboutpage.html
   label: About
   match: "**/*"
+- type: document
+  path: exampleSite/content/aboutpage.md
+  label: About md
+  match: "**/*"
 - type: heading
   label: Configuration
 - type: directory
