@@ -43,7 +43,7 @@ fields:
   type: select
   default: ''
   config:
-    required: true
+    required: false
     options:
     - Barberini Harp Project
     - Haydn’s Folk Harp
