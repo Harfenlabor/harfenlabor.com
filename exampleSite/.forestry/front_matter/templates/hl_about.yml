@@ -11,3 +11,5 @@ fields:
     schema:
       format: markdown
   label: Text Area
+pages:
+- exampleSite/content/aboutpage.md
