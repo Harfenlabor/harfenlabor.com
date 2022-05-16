@@ -11,7 +11,9 @@
     <div class="row">
       <div class="col-lg-8 offset-lg-2 text-center">
         <img id="logo_for_print" src="/images/logo.png">
+        {{ if .Type }}
         <p id="this_article_type"><a href="..\"{{ .Type }}>{{ .Type }}</a></p>
+        {{ end }}
         <h1 class="this_article_title">
         {{ if in .Title "&&" }}
           {{ $titleLines := split .Title "&&" }}
