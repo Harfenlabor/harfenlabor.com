@@ -19,7 +19,7 @@ Harfenlabor was initiated and founded by [Margret Köll](www.margretkoell.com) i
 
 **Scientific Advisory Boards**
 
-In order to insure scientific rigour and depth of research, each of the Harfenlabor's projects is guided by a scientific advisory board.
+In order to insure scientific rigour and depth of research, and strengthen the artistic and scientific aims of Harfenlabor, each of Harfenlabor's major projects is guided by a scientific advisory board.
 
 ***
 
