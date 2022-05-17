@@ -31,15 +31,9 @@ December 14-16, 2016, Roma
 ***
 
 2018  
-Harfenlabor invited Thünen-Institut (Hamburg) to examine the column and other important components of the Barberini Harp at the Museo Nazionale degli Strumenti Musicali, Roma, with a new 3D microscope, under direction of Volker Haag, in order to identify the types of wood used in the construction of this harp.
+Harfenlabor invited Thünen-Institut (Hamburg) to examine the column and other important components of the [Barberini Harp](https://www.harfenlabor.com/research/the-barberini-harp/) at the Museo Nazionale degli Strumenti Musicali, Roma, with a new 3D microscope, under the direction of Volker Haag, in order to [identify the types of wood used in the construction](https://www.harfenlabor.com/research/barberini-harp-wood-species-identification/) of this harp.
 
 ***
-
-[\[v1\]](applewebdata://AB0A62A0-006F-497E-9A15-89AF48D08959#_msoanchor_1)LINK
-
-[\[v2\]](applewebdata://AB0A62A0-006F-497E-9A15-89AF48D08959#_msoanchor_2)I would take this out...
-
-[\[MOU3\]](applewebdata://AB0A62A0-006F-497E-9A15-89AF48D08959#_msoanchor_3)Why?
 
 2019  
 "Investigations of the Barberini Harp," lecture at the Thünen-Institut, Institut für Holzforschung (Hamburg), by Margret Köll (Harfenlabor) and Volker Haag (Thünen-Institut).  
