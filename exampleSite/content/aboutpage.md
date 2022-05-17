@@ -74,6 +74,8 @@ Rennweg 22
 6020 Innsbruck — Österreich  
 E-Mail: [info@harfenlabor.com]()
 
+***
+
 **Licencing information**  
 Unless stated otherwise, the content on these pages is licenced under Creative Commons BY-NC International License 4.0.
 
@@ -87,6 +89,8 @@ This means that sharing is allowed, provided appropriate credit is given and no 
 
 **All Rights Reserved.**  
 This means that no copying, sharing, distribution, reuse or modification, etc. of any kind is allowed without express permission of the copyright holder.
+
+***
 
 **Data Protection**  
 Our website can usually be used without providing personal data. Insofar as personal data (e.g. name, address or email address) is collected on our website, this is always done on a voluntary basis as far as possible. These data will not be passed on to third parties without your express consent.
