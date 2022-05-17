@@ -23,7 +23,7 @@ In order to insure scientific rigour and depth of research, each of the Harfenla
 
 ***
 
-The Barberini Harp Project has benefited greatly through the strategic guidance, resources and knowledge lent it by the members of its Scientific Advisory Board:
+The [Barberini Harp Project](https://www.harfenlabor.com/projects/barberini/) has benefited greatly through the strategic guidance, resources and knowledge lent it by the members of its Scientific Advisory Board:
 
 Dr. Alexandra Ziane, musicologist
 
@@ -35,7 +35,17 @@ Margret Köll, historical harpist
 
 ***
 
-**Selected activities**
+**Harfenlabor's digital platform team**
+
+Margret Köll, artistic director
+
+Carlo Andrea Schlatter, website design
+
+Vanessa Vasić-Janeković, editor
+
+Sandra Perrone, editorial support, translation
+
+**Harfenlabor: selected activities**
 
 2016  
 December 14-16, 2016, Roma  
@@ -87,7 +97,7 @@ The [Zwischen den Saiten-Fest der Historischen Harfe](https://www.harfenlabor.co
 
 ***
 
-**Kontakt**  
+**Contact**  
 Rennweg 22  
 6020 Innsbruck — Österreich  
 E-Mail: [info@harfenlabor.com]()
