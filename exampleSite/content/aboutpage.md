@@ -37,8 +37,14 @@ Harfenlabor invited Thünen-Institut (Hamburg) to examine the column and other i
 
 2019  
 "Investigations of the Barberini Harp," lecture at the Thünen-Institut, Institut für Holzforschung (Hamburg), by Margret Köll (Harfenlabor) and Volker Haag (Thünen-Institut).  
-“Harp and Myth,” at Le Gallerie degli Uffizi (Firenze), a lecture in collaboration with the art historian Marzia Faetti, analysing representations of harp in a mythological context through drawings in the Uffizi collection.  
-“Barock bis Galant,” workshop at Studio Linke (Berlin).
+  
+“Harp and Myth,” at Le Gallerie degli Uffizi (Firenze), a lecture-concert in collaboration with the art historian Marzia Faetti, analysing representations of harp in a mythological context through drawings in the Uffizi collection.  
+  
+“Barock bis Galant,” harp workshop at Studio Linke (Berlin).
+
+***
+
+[\[v1\]](applewebdata://254A5D7F-0DCF-4AA6-A4FA-1278DE3F0866#_msoanchor_1)LINK
 
 2021  
 “Giovanni Girolamo Kapsberger,” online lecture with harpsichord player Anne Marie Dragosits, and lutenist Michele Pasotti; focusing on basso continuo.  
