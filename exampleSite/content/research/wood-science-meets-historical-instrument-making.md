@@ -155,7 +155,7 @@ Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/abou
 
 **Haag**: Yes, yes, I was just going to say that each has their own characteristics, depending on whether one approaches it macroscopically or microscopically.
 
-**Kleinmann**: \[00:17:57\] I also have my own four walls in the forest with fir and spruce.
+**Kleinmann**: \[00:18:05\] I also have my own four walls in the forest with fir and spruce.
 
 **Haag**: You would know, living in a fir house.
 
