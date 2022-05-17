@@ -139,7 +139,7 @@ Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/abou
 
 **Haag**: Yes, I tried that too with a telescopic probe. Exactly.
 
-**Kleinmann**: \[00:15:23\] And it worked really well. At the bottom, I could put the camera through the sound hole chewed on by mice. I used a 360-degree camera to take the photos.
+**Kleinmann**: \[00:15:30\] And it worked really well. At the bottom, I could put the camera through the sound hole chewed on by mice. I used a 360-degree camera to take the photos.
 
 **Haag**: Yes. And what do you say about the wood for the body?
 
