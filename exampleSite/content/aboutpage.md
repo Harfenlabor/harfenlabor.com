@@ -17,6 +17,12 @@ Harfenlabor was initiated and founded by [Margret Köll](www.margretkoell.com) i
 
 ***
 
+Harfenlabor Advisory Boards:
+
+The Barberini Harp Project has benefited greatly from
+
+***
+
 **Selected activities**
 
 2016  
