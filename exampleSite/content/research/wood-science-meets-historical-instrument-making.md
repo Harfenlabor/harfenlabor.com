@@ -201,7 +201,7 @@ Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/abou
 
 **Kleinmann**:... that remains. And if you take something out of it, the tension and the structure in the wood changes. Therefore, if you now saw a 7 by 7 plank and put it up until it settles and then you can continue working. It's important that I know where the tension is in the wood because it has to work against the string tension. In a two-metre-tall column, you have to work with that.
 
-**Haag**: \[00:24:40\] Eric, with an eye on the time, perhaps one last question. What do you think, when was the last time the Barberini Harp was played?
+**Haag**: \[00:24:48\] Eric, with an eye on the time, perhaps one last question. What do you think, when was the last time the Barberini Harp was played?
 
 **Kleinmann**: It's hard to say. I’d say it was more than two hundred years ago, I guess. Or a hundred. What was experimented with there was done later, probably at the time when the other holes were drilled.
 
@@ -209,7 +209,7 @@ Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/abou
 
 **Kleinmann**: By the way, the same applies to the neck. You have to take a board that is already bending when you saw it out of the plank. On the top of the harp top you have the pin and the string going down. The neck must have tension against the string. Even if it’s straight, the tension in the wood remains and is naturally more tension-resistant if there is tension in the wood. That's what you have to take into account with this big harp. The instrument is already quite warped; I saw where they filled the gaps. So, it was not straight, it does not really stand straight. It might also be interesting for you to know that at the back of the harp it is not the body producing the sound: the “space” produces the sound. The soundboard and the strings are the most important for the sound. Modern harps have a body made of cardboard; I almost fell over when I heard how good they sound.
 
-**Haag**: \[00:26:32\] Ah okay, there is an experimental guitar by the great Antonio de Torres. He actually once built a guitar with a body made of cardboard. Out of cardboard. Yes, super.
+**Haag**: \[00:26:39\] Ah okay, there is an experimental guitar by the great Antonio de Torres. He actually once built a guitar with a body made of cardboard. Out of cardboard. Yes, super.
 
 **Kleinmann**: Well, I found most interesting how you found that out. The wood is... as I said, I am, of course, blind to some things as an expert in the construction of such harps, as I always start from what I do practically. And then, of course, I'm also “business” blind and don't think the same way. So, walnut. I would never have taken it to be walnut.
 
