@@ -109,7 +109,7 @@ Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/abou
 
 **Kleinmann**: Ah, okay, okay.
 
-**Haag**: \[00:13:32\] Robinia trees come from North America. The oldest Robinias we have in Europe were planted by Jean Robin, as a wood gardener, along the Seine in Paris. That means that at that time there wouldn't have been any Robinia wood in Europe unless imported from North America.
+**Haag**: \[00:13:20\] Robinia trees come from North America. The oldest Robinias we have in Europe were planted by Jean Robin, as a wood gardener, along the Seine in Paris. That means that at that time there wouldn't have been any Robinia wood in Europe unless imported from North America.
 
 **Kleinmann**:Another wood, besides walnut, that has a similarly coarse structure is sweet chestnut, that's what I also had in mind.
 
@@ -119,11 +119,9 @@ Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/abou
 
 **Haag**: Yes, true.
 
-**Kleinmann**: And walnut is more homogeneous. It also leans in the direction of pear, so that when working it, it does not split so fast, it is easier to carve it. But I thought, “Walnut? It
+**Kleinmann**: And walnut is more homogeneous. It also leans in the direction of pear, so that when working it, it does not split so fast, it is easier to carve it. But I thought, “Walnut? It can't be.” I make my \[harps\] in maple.
 
-can't be.” I make my \[harps\] in maple.
-
-**Haag**: \[00:14:21\] So, you mean now that it can’t be walnut because it would have been too difficult to realise?
+**Haag**: \[00:14:28\] So, you mean now that it can’t be walnut because it would have been too difficult to realise?
 
 **Kleinmann**: But yes, we must always consider that the Barberini Harp was built at a time when they had just invented them.
 
