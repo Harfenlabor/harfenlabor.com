@@ -23,11 +23,11 @@ In order to insure scientific rigour and depth of research, each of the Harfenla
 
 The Barberini Harp Project has benefited greatly through the strategic guidance, resources and knowledge lent it by the member of its Scientific Advisory Board: 
 
-Alexandra Ziane, musicologist
+Dr. Alexandra Ziane, musicologist
 
-Chiara Granata, harpist and researcher
+[Chiara Granata](https://www.chiaragranata.com/), harpist and researcher
 
-Costanza Caraffa, art historian
+Dr. [Costanza Caraffa](https://www.khi.fi.it/en/institut/mitarbeiter/caraffa-costanza.php), art historian, Head of the Photothek, Kunsthistorisches Institut in Florenz – Max-Planck-Institut
 
 Margret Köll, historical harpist
 
