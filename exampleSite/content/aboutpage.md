@@ -37,13 +37,17 @@ Margret Köll, historical harpist
 
 **Harfenlabor's digital platform team**
 
+Carlo Andrea Schlatter, website design
+
+Giulia Bruno, audiovisual postproduction
+
 Margret Köll, artistic director
 
-Carlo Andrea Schlatter, website design
+Sandra Perrone, editorial support, translation
 
 Vanessa Vasić-Janeković, editor
 
-Sandra Perrone, editorial support, translation
+***
 
 **Harfenlabor: selected activities**
 
