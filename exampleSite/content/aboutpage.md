@@ -17,9 +17,19 @@ Harfenlabor was initiated and founded by [Margret Köll](www.margretkoell.com) i
 
 ***
 
-Harfenlabor Advisory Boards:
+**Scientific Advisory Boards**
 
-The Barberini Harp Project has benefited greatly from
+In order to insure scientific rigour and depth of research, each of the Harfenlabor's projects is guided by a scientific advisory board. 
+
+The Barberini Harp Project has benefited greatly through the strategic guidance, resources and knowledge lent it by the member of its Scientific Advisory Board: 
+
+Alexandra Ziane, musicologist
+
+Chiara Granata, harpist and researcher
+
+Costanza Caraffa, art historian
+
+Margret Köll, historical harpist
 
 ***
 
@@ -42,19 +52,19 @@ Harfenlabor invited Thünen-Institut (Hamburg) to examine the column and other i
 ***
 
 2019  
-"Investigations of the Barberini Harp," lecture at the Thünen-Institut, Institut für Holzforschung (Hamburg), by Margret Köll (Harfenlabor) and Volker Haag (Thünen-Institut).  
-  
-“Harp and Myth,” at Le Gallerie degli Uffizi (Firenze), a lecture-concert in collaboration with the art historian [Marzia Faetti, analysing representations of harp in a mythological context through drawings](https://www.harfenlabor.com/research/barberini-harp-project-interviews-marzia-faetti-two-souls-of-a-harp/) in the Uffizi collection.  
-  
+"Investigations of the Barberini Harp," lecture at the Thünen-Institut, Institut für Holzforschung (Hamburg), by Margret Köll (Harfenlabor) and Volker Haag (Thünen-Institut).
+
+“Harp and Myth,” at Le Gallerie degli Uffizi (Firenze), a lecture-concert in collaboration with the art historian [Marzia Faetti, analysing representations of harp in a mythological context through drawings](https://www.harfenlabor.com/research/barberini-harp-project-interviews-marzia-faetti-two-souls-of-a-harp/) in the Uffizi collection.
+
 “Barock bis Galant,” harp workshop at Studio Armin Linke (Berlin).
 
 ***
 
 2021  
-“[Giovanni Girolamo Kapsperger](https://www.harfenlabor.com/research/giovanni-girolamo-kapsberger/),” online lecture with harpsichord player Anne Marie Dragosits, and lutenist Michele Pasotti, focusing on basso continuo.  
-  
-“Zwischen den Saiten,” online harp workshop.  
-  
+“[Giovanni Girolamo Kapsperger](https://www.harfenlabor.com/research/giovanni-girolamo-kapsberger/),” online lecture with harpsichord player Anne Marie Dragosits, and lutenist Michele Pasotti, focusing on basso continuo.
+
+“Zwischen den Saiten,” online harp workshop.
+
 “Haydn’s Folk Harp,” the first edition of Harfenlabor’s new biannual [Festival of Historical Harp, titled Zwischen den Saiten](https://www.harfenlabor.com/news/between-the-strings-festival-of-historical-harp-first-edition-haydn-s-folk-harp/), is an artistic-scientific duel between the Single-Action-Harp around Haydn and its Alpine counterpart, the Tyrolean Folk Harp. The festival took place November 11–14, 2021, at Haus der Musik Innsbruck and Tiroler Landesmuseen Ferdinandeum.
 
 ***
