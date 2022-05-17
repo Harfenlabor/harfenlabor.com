@@ -9,7 +9,7 @@ externallinks = ""
 footnotes = ""
 hide_from_research = false
 image = "/images/ottavio-1-hold.png"
-imgcaptions = ""
+imgcaptions = "Ottavio Dantone demonstrates the mysterious recitar cantando through some of the key moments in Monteverdi´s masterpiece <i>L'Orfeo</i>. Dantone shares his visionary views on the modernity of Monteverdi´s musical language, advocating for intuition in adapting performances to contemporary needs so as to electrify through synergy of music and words."
 map_tag = []
 person_tag = []
 project_category = ""
@@ -24,11 +24,11 @@ title = "Monteverdi’s <i>L’Orfeo</i>: Speaking in Song"
 type = "Research"
 
 +++
-***
-
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="https://player.vimeo.com/video/694010238" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div><div class="chapters"></div>
+
+***
 
 ***
 
