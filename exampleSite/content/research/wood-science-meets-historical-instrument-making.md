@@ -89,7 +89,7 @@ Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/abou
 
 **Kleinmann**: Yes. Walnut contracts a lot, and its capillaries are quite coarse, as you know, so moisture gets in there.
 
-**Haag**: \[00:11:10\] Yes. Especially too, given its differently sized vessels, since walnut is semi-ring porous.
+**Haag**: \[00:11:17\] Yes. Especially too, given its differently sized vessels, since walnut is semi-ring porous.
 
 **Kleinmann**: And if a piece of wood has not grown straight, there is still tension in it.
 
@@ -103,7 +103,7 @@ Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/abou
 
 **Haag**: And would not have grown straight. I did my master craftsman's degree in carpentry 15 years ago and decided to build my masterpiece out of walnut. And I cursed it so much, because I had to buy more wood all the time. Every time I cut something open, there was something stuck in it. I didn’t make it easy for myself. But I am more than 100 per cent sure that \[the Barberini column\] is walnut. You could see it very clearly afterwards.
 
-**Kleinmann**: \[00:12:24\] On the front, where you can see the wood amidst the black decoration, you can also see that the wood is relatively rough and raw. I would have bet it was Robinia, you have a lot of them in Italy. It is extremely tough and stable, but not good for carving because it is brittle.
+**Kleinmann**: \[00:12:31\] On the front, where you can see the wood amidst the black decoration, you can also see that the wood is relatively rough and raw. I would have bet it was Robinia, you have a lot of them in Italy. It is extremely tough and stable, but not good for carving because it is brittle.
 
 **Haag**: As far as I know, the oldest Robinia we have in Europe hails from its namesake, the French court gardener Jean Robin, from around 1600, I think.
 
