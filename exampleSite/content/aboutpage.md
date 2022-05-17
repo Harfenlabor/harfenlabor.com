@@ -45,11 +45,11 @@ Harfenlabor invited Thünen-Institut (Hamburg) to examine the column and other i
 ***
 
 2021  
-“Giovanni Girolamo Kapsperger,” online lecture with harpsichord player Anne Marie Dragosits, and lutenist Michele Pasotti, focusing on basso continuo.  
+“[Giovanni Girolamo Kapsperger](https://www.harfenlabor.com/research/giovanni-girolamo-kapsberger/),” online lecture with harpsichord player Anne Marie Dragosits, and lutenist Michele Pasotti, focusing on basso continuo.  
   
 “Zwischen den Saiten,” online harp workshop.  
   
-“Haydn’s Folk Harp,” the first edition of Harfenlabor’s new biannual Festival of Historical Harp, titled Zwischen den Saiten, is an artistic-scientific duel between the Single-Action-Harp around Haydn and its Alpine counterpart, the Tyrolean Folk Harp. The festival took place November 11–14, 2021, at Haus der Musik Innsbruck and Tiroler Landesmuseen Ferdinandeum.
+“Haydn’s Folk Harp,” the first edition of Harfenlabor’s new biannual [Festival of Historical Harp, titled Zwischen den Saiten](https://www.harfenlabor.com/news/between-the-strings-festival-of-historical-harp-first-edition-haydn-s-folk-harp/), is an artistic-scientific duel between the Single-Action-Harp around Haydn and its Alpine counterpart, the Tyrolean Folk Harp. The festival took place November 11–14, 2021, at Haus der Musik Innsbruck and Tiroler Landesmuseen Ferdinandeum.
 
 ***
 
