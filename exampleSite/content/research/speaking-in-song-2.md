@@ -18,7 +18,7 @@ show_in_news = false
 status = "approved by author"
 subjects_tag = []
 subtype = ["Performance Practice", "Musicology"]
-summary_text = "Ottavio Dantone shares his insights into the modernity of Monteverdi's musical language in this interview and demonstrates recitar cantando, accompanying himself on the harpsichord, through some of the key moments in Claudio Monteverdi´s masterpiece <i>L'Orfeo</i>. The interview took place on the stage of the Teatro Comunale di Ferrara where Dantone conducted <i>L'Orfeo</i>, staged for performance conditions similar to those in which the opera would have been performed in the 17th century. "
+summary_text = "Ottavio Dantone shares his insights into the modernity of Monteverdi's musical language in this interview and demonstrates recitar cantando, accompanying himself on the harpsichord, through some of the key moments in Claudio Monteverdi´s masterpiece <i>L'Orfeo</i>. The interview took place in the Teatro Comunale di Ferrara where Dantone conducted <i>L'Orfeo</i>, staged for performance conditions similar to those in which the opera would have been performed in the 17th century. "
 timeline_tag = []
 title = "Monteverdi’s <i>L’Orfeo</i>: Speaking in Song"
 type = "Research"
@@ -32,6 +32,6 @@ type = "Research"
 
 ***
 
-Ottavio Dantone, conductor, outstanding cembalo and organ player and a basso continuo autodidact, demonstrates the power of music and word through some of the key moments in Monteverdi´s masterpiece _L'Orfeo_. Dantone shares his visionary views on the modernity of Monteverdi´s musical language, advocating for intuition in adapting performances to contemporary needs so as to electrify through synergy of music and words.
+Ottavio Dantone, conductor, outstanding cembalo and organ player and a basso continuo autodidact, demonstrates the power of music and word through chosen moments in Monteverdi´s _L'Orfeo,_ the first true opera.  Dantone shares his visionary views on the modernity of Monteverdi´s musical language, advocating for intuition in adapting performances to contemporary needs so as to electrify through synergy of music and words.
 
 You can find out more about Ottavio Dantone and his ensemble Accademia Bizantina on [https://www.accademiabizantina.it](https://www.accademiabizantina.it "https://www.accademiabizantina.it").
