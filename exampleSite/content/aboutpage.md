@@ -13,11 +13,7 @@ Already active as an analogue network, Harfenlabor has been initiating research 
 
 ***
 
-#### Harfenlabor was initiated and founded by [Margret Köll](www.margretkoell.com) in 2016.
-
-***
-
-# **Scientific Advisory Boards**
+Harfenlabor was initiated and founded by [Margret Köll](www.margretkoell.com) in 2016. 
 
 In order to insure scientific rigour and depth of research, and strengthen the artistic and scientific aims of Harfenlabor, each of Harfenlabor's major projects is guided by a scientific advisory board.
 
@@ -35,7 +31,7 @@ Margret Köll, historical harpist
 
 ***
 
-## **Harfenlabor's digital platform team**
+**Harfenlabor's digital platform team**
 
 Carlo Andrea Schlatter, website design
 
@@ -49,7 +45,7 @@ Vanessa Vasić-Janeković, editor
 
 ***
 
-### **Harfenlabor: selected activities**
+**Harfenlabor: selected activities**
 
 2016  
 December 14-16, 2016, Roma  
