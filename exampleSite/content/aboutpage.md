@@ -40,16 +40,22 @@ Harfenlabor invited Thünen-Institut (Hamburg) to examine the column and other i
   
 “Harp and Myth,” at Le Gallerie degli Uffizi (Firenze), a lecture-concert in collaboration with the art historian [Marzia Faetti, analysing representations of harp in a mythological context through drawings](https://www.harfenlabor.com/research/barberini-harp-project-interviews-marzia-faetti-two-souls-of-a-harp/) in the Uffizi collection.  
   
-“Barock bis Galant,” harp workshop at Studio Linke (Berlin).
+“Barock bis Galant,” harp workshop at Studio Armin Linke (Berlin).
 
 ***
 
-[\[v1\]](applewebdata://254A5D7F-0DCF-4AA6-A4FA-1278DE3F0866#_msoanchor_1)LINK
-
 2021  
-“Giovanni Girolamo Kapsberger,” online lecture with harpsichord player Anne Marie Dragosits, and lutenist Michele Pasotti; focusing on basso continuo.  
-“Between the Strings,” online workshop organised by Harfenlabor.  
-“Haydn’s Folk Harp,” the first edition of Harfenlabor’s new biannual Festival of Historical Harp, titled Between the Strings, is an artistic-scientific duel between the Single-Action-Harp around Haydn and its Alpine counterpart, the Tyrolean Folk Harp. The festival is taking place November 11–14, 2021, at Haus der Musik Innsbruck and Tiroler Landesmuseen Ferdinandeum.
+“Giovanni Girolamo Kapsperger,” online lecture with harpsichord player Anne Marie Dragosits, and lutenist Michele Pasotti, focusing on basso continuo.  
+  
+“Zwischen den Saiten,” online harp workshop.  
+  
+“Haydn’s Folk Harp,” the first edition of Harfenlabor’s new biannual Festival of Historical Harp, titled Zwischen den Saiten, is an artistic-scientific duel between the Single-Action-Harp around Haydn and its Alpine counterpart, the Tyrolean Folk Harp. The festival took place November 11–14, 2021, at Haus der Musik Innsbruck and Tiroler Landesmuseen Ferdinandeum.
+
+***
+
+[\[v1\]](applewebdata://D0025137-46DF-4DAD-8B93-4426506A4290#_msoanchor_1)LINK
+
+[\[v2\]](applewebdata://D0025137-46DF-4DAD-8B93-4426506A4290#_msoanchor_2)perhaps we don’t need this?
 
 2022  
 In February 2022, Harfenlabor will officially launch its digital edition, of which these pages are a preview.
