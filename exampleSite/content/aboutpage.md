@@ -53,23 +53,21 @@ Harfenlabor invited Thünen-Institut (Hamburg) to examine the column and other i
 
 ***
 
-[\[v1\]](applewebdata://D0025137-46DF-4DAD-8B93-4426506A4290#_msoanchor_1)LINK
-
-[\[v2\]](applewebdata://D0025137-46DF-4DAD-8B93-4426506A4290#_msoanchor_2)perhaps we don’t need this?
-
 2022  
-In February 2022, Harfenlabor will officially launch its digital edition, of which these pages are a preview.
+In May 2022, the launch of Harfenlabor's digital edition, of which these pages are a preview.
 
-**Margret Koell — Triple Harp, Single-Action Harp**
-
-Margret Köll is a leading international exponent and interpreter in the field of historically informed performance practice, and, in particular, of her instrument, the historical harp, in all its forms and stages of development. An active musician and specialist in early music, she performs worldwide as a soloist as well as a chamber musician and continuo player. Köll performed as the principal harpist with Il Giardino Armonico, Accademia Bizantina and the Balthasar-Neumann-Ensemble. Köll has performed at events and venues that include the Salzburg Festival, Covent Garden, the Theater an der Wien, the Operá Garnier Paris, the Bavarian State Opera, the Teatro alla Scala Milan, the Elbphilharmonie Hamburg and the Pierre Boulez Saal Berlin. Köll’s renowned chamber music partners are Luca Pianca, Dmitry Sinkovsky, Stefan Temmingh, Vittorio Ghielmi, Emöke Barath, Roberta Invernizzi and Philippe Jaroussky.  Köll’s debut solo CD ‘L’arpa di Partenope’ with early baroque music from Naples, released in 2014 (Accent), was awarded the Diapason d’Or. Köll has released four solo CDs and participated in CD productions, broadcsts and tours with Cecilia Bartoli, Magdalena Kozena, Sonia Prina, Luca Pianca and Roberta Invernizzi.  Köll studied modern and historical harp in Innsbruck, Baltimore, Munich and Milan. In addition, Köll currently heads the baroque harp class at the Hanns Eisler School of Music in Berlin, and pursues intensive teaching practice through master classes and workshops at various institutions and conservatories across Europe.
-
-As the artistic director of Harfenlabor, Köll has initiated a new, biannual Festival of Historical Harp, titled Between the Strings, with the first edition taking place November 11-14, 2021 in Innsbruck. In 2022 Köll will be on a solo tour of Colombia; in 2023 performing a duo with the tenor Benedikt Kristjánsson at Pierre Boulez Saal Berlin.
-
-[www.margretkoell.com]()
+***
 
 **Support**  
-The Harfenlabor digital edition enjoys the generous support of the Senatsverwaltung für Kultur und Europa, Abteilung Kultur, Kunsthistorisches Institut in Florenz – Max-Planck-Institut, and Istituto Storico Austriaco and Museo Nazionale degli Strumenti Musicali, Roma.
+Harfenlabor’s digital edition enjoys the generous support of the Senatsverwaltung für Kultur und Europa (Berlin), the Istituto Storico Austriaco a Roma and Studio Armin Linke (Berlin).
+
+The [Barberini Harp Project](https://www.harfenlabor.com/projects/barberini/) has enjoyed generous support from, in particular, the Istituto Storico Austriaco a Roma, as well as the Museo Nazionale degli Strumenti Musicali (Roma), the Thünen-Institut (Hamburg), and the Kunsthistorisches Institut in Florenz – Max-Planck-Institut.
+
+[Podcast: Between the Strings](https://www.harfenlabor.com/projects/podcast/) has been made possible through generous support of the Gesellschaft zur Verwertung von Leistungsschutzrechten, Berlin, through its programme Neustart Kultur.
+
+The [Zwischen den Saiten-Fest der Historischen Harfe](https://www.harfenlabor.com/news/between-the-strings-festival-of-historical-harp-first-edition-haydn-s-folk-harp/) (11-14.11.2021, Innsbruck) was made possible through cooperation with the Department für Musikwissenschaft / Fachbereich Musikalische Ethnologie (Universität Mozarteum Salzburg), Institut für Musikwissenschaft (Leopold-Franzens-Universität Innsbruck), Tiroler Volksmusikverein, Tiroler Landesmuseen, Innsbrucker Festwochen der Alten Musik, Haus der Musik Innsbruck and Istituto Italiano di Cultura Vienna. The festival was supported and sponsored by Land Tirol, Stadt Innsbruck, Bundesministerium für Kunst und Kultur, Tiroler Versicherung, ISIA Urbino, Firma Mürnseer, Firma Rauch, Firma Petutschnigg, and Firma Hammerschmidt.
+
+***
 
 **Kontakt**  
 Rennweg 22  
