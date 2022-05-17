@@ -169,7 +169,7 @@ Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/abou
 
 **Kleinmann**: You did that. Yeah, sure. Yes, so I would have, so I would have. I suggested to do it in another spot, where not even an expert could see it anyway. From this hollowed section, for example, in which so many splinters stick out, one would be able to easily take one with tweezers.
 
-**Haag**: \[00:19:47\] Another team went before us and took X-rays \[of the Barberini Harp\], and they had the permission to take a sample. I wrote to them and asked whether anything was left over from this sample for scanning electron microscopy examination. They sent it to me, and in the mean time we went further, but that hasn’t been published yet. We also had the fragments examined in the USA, confirming it was walnut wood.
+**Haag**: \[00:19:55\] Another team went before us and took X-rays \[of the Barberini Harp\], and they had the permission to take a sample. I wrote to them and asked whether anything was left over from this sample for scanning electron microscopy examination. They sent it to me, and in the mean time we went further, but that hasn’t been published yet. We also had the fragments examined in the USA, confirming it was walnut wood.
 
 **Kleinmann**: Uh, sure, yes, but that's actually ... not common. Nowadays, most harp makers use maple for the frame, the neck and the column.
 
