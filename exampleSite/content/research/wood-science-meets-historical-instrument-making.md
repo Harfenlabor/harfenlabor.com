@@ -195,7 +195,7 @@ Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/abou
 
 **Haag**: Yes, exactly, great. Likewise, for a guitar neck: it must be standing annual rings.
 
-**Kleinmann**: \[00:23:13} But now the column is two metres long. I have an uncarved column; the column that stands there is now 5.5 by 5.5. It was cut into 7 by 7 from the plank and it stood there for a year. By then it's no longer straight, so I mark the direction it bends in and then make it 6 by 6. Of course, it has a bit more at the top, it is a bit wider for the transition to the neck. In principle, I have to draw it in so that I know where the tension is in the wood, because there is always tension in the wood. It will not be released; it can't always be released. You know, when this is like this and the fibre is straight, there is tension inside...
+**Kleinmann**: \[00:23:20\] But now the column is two metres long. I have an uncarved column; the column that stands there is now 5.5 by 5.5. It was cut into 7 by 7 from the plank and it stood there for a year. By then it's no longer straight, so I mark the direction it bends in and then make it 6 by 6. Of course, it has a bit more at the top, it is a bit wider for the transition to the neck. In principle, I have to draw it in so that I know where the tension is in the wood, because there is always tension in the wood. It will not be released; it can't always be released. You know, when this is like this and the fibre is straight, there is tension inside...
 
 **Haag**: Naturally.
 
