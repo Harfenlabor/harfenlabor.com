@@ -165,7 +165,7 @@ Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/abou
 
 **Kleinmann**: You don't do it. But you could have taken other samples and it was good that you did it that way.
 
-**Haag**: \[00:18:43\] I had two options. I informed Mrs. \[Sandra\] Suatoni, the director, and told her that, based on the examination possibilities I had on site, I can conclude that it’s fir wood. But how much precision did she need? I said I couldn't bet my life on it. But I showed her—of course, I am very skilled at this—how I removed a tiny, tiny, piece of pine wood I had with me to show I could remove such a piece very carefully. She couldn’t believe how tiny it was, and was then all right with us taking a tiny fragment from the hole where the mice had chewed at it.
+**Haag**: \[00:18:51\] I had two options. I informed Mrs. \[Sandra\] Suatoni, the director, and told her that, based on the examination possibilities I had on site, I can conclude that it’s fir wood. But how much precision did she need? I said I couldn't bet my life on it. But I showed her—of course, I am very skilled at this—how I removed a tiny, tiny, piece of pine wood I had with me to show I could remove such a piece very carefully. She couldn’t believe how tiny it was, and was then all right with us taking a tiny fragment from the hole where the mice had chewed at it.
 
 **Kleinmann**: You did that. Yeah, sure. Yes, so I would have, so I would have. I suggested to do it in another spot, where not even an expert could see it anyway. From this hollowed section, for example, in which so many splinters stick out, one would be able to easily take one with tweezers.
 
