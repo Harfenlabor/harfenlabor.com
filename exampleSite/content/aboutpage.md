@@ -5,23 +5,41 @@ text_area = ""
 title = "About"
 
 +++
-**Harfenlabor** is a platform for critical and open discourse on topics related to the enigma of Historical Harp. This instrument was only revived around 35 years ago—it has not so far received the attention it is due in the music world and beyond, and it is largely invisible to a wider audience.
+**Harfenlabor** is a platform for critical and open discourse on topics related to the enigma of Historical Harp. This instrument was only revived around 40 years ago—it has not so far received the attention it is due in the music world and beyond, and it is largely invisible to a wider audience.
 
-Already active as an analogue network, Harfenlabor has been initiating research and gathering musicologists, scientists, conductors, singers, instrumentalists, harp makers, string makers, and others through regular workshops, masterclasses, lectures, symposia, and concerts to study and reflect on sources, train in historical harp skills, research the repertory for the harp, as well as commission contemporary works for historical instruments.
+***
 
-Harfenlabor will present and disseminate this valuable content on these pages, its digital edition: a comprehensive, immersive, searchable resource of scientific and artistic research on Historical Harp. This approach reflects Harfenlabor’s research process: individual research results are first shared and discussed in a smaller, analogue circle of a Convening. This process opens new directions for Interviews and Examinations as the second level of research resulting in new contributions. Following careful evaluation, review and scrutiny, the outcomes of this research process become Harfenlabor’s digital content. Scientific commentaries aim to provoke cross-disciplinary thinking and consider the still open research questions and propose new directions. Harfenlabor aims to strengthen the transfer of these advances to new generations of musicians and researchers. Harfenlabor was initiated and founded by Margret Köll in 2016.
+Already active as an analogue network, Harfenlabor has been initiating research and gathering musicologists, scientists, conductors, singers, instrumentalists, harp makers, string makers, and others through regular workshops, masterclasses, lectures, symposia and concerts to study and reflect on sources, train in historical harp skills, research the repertory for the harp, as well as commission contemporary works for historical instruments. Harfenlabor aims to provoke cross-disciplinary thinking and consider the still open research questions and propose new directions. To strengthen the transfer of these advances to musicians and researchers, Harfenlabor will present and disseminate this valuable content on these pages, its digital edition: a comprehensive, immersive, searchable resource of scientific and artistic research on Historical Harp.
 
-**Harfenlabor, selected activities**
+***
+
+Harfenlabor was initiated and founded by [Margret Köll](www.margretkoell.com) in 2016.
+
+***
+
+**Selected activities**
 
 2016  
 December 14-16, 2016, Roma  
-Convening around the Barberini Harp Project, international conference in cooperation with the Istituto Storico Austriaco (Dr. Gottsmann), Museo Nazionale degli Strumenti Musicali Roma, Mozarteum Salzburg and the Deutsche Botschaft in Rom, with contributions by harpists, harp makers, musicologists and art historians.
+[Convening](https://www.harfenlabor.com/projects/bhpconvening/) around the [Barberini Harp Project](https://www.harfenlabor.com/projects/barberini/), international symposium in cooperation with the Istituto Storico Austriaco (Andreas Gottsmann), Museo Nazionale degli Strumenti Musicali Roma (Sandra Suatoni), Mozarteum Salzburg and the Deutsche Botschaft in Rom, with contributions by harpists, harp makers, musicologists and art historians.
 
-2016-2021  
-“Between the Strings,” ongoing workshops at the Tiroler Landeskonservatorium and Haus der Music Innsbruck.
+***
+
+2016-2022  
+“Zwischen den Saiten,” ongoing workshops at the Tiroler Landeskonservatorium and Haus der Musik Innsbruck.
+
+***
 
 2018  
 Harfenlabor invited Thünen-Institut (Hamburg) to examine the column and other important components of the Barberini Harp at the Museo Nazionale degli Strumenti Musicali, Roma, with a new 3D microscope, under direction of Volker Haag, in order to identify the types of wood used in the construction of this harp.
+
+***
+
+[\[v1\]](applewebdata://AB0A62A0-006F-497E-9A15-89AF48D08959#_msoanchor_1)LINK
+
+[\[v2\]](applewebdata://AB0A62A0-006F-497E-9A15-89AF48D08959#_msoanchor_2)I would take this out...
+
+[\[MOU3\]](applewebdata://AB0A62A0-006F-497E-9A15-89AF48D08959#_msoanchor_3)Why?
 
 2019  
 "Investigations of the Barberini Harp," lecture at the Thünen-Institut, Institut für Holzforschung (Hamburg), by Margret Köll (Harfenlabor) and Volker Haag (Thünen-Institut).  
