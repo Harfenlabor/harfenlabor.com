@@ -19,9 +19,9 @@ Harfenlabor was initiated and founded by [Margret Köll](www.margretkoell.com) i
 
 **Scientific Advisory Boards**
 
-In order to insure scientific rigour and depth of research, each of the Harfenlabor's projects is guided by a scientific advisory board. 
+In order to insure scientific rigour and depth of research, each of the Harfenlabor's projects is guided by a scientific advisory board.
 
-The Barberini Harp Project has benefited greatly through the strategic guidance, resources and knowledge lent it by the member of its Scientific Advisory Board: 
+The Barberini Harp Project has benefited greatly through the strategic guidance, resources and knowledge lent it by the members of its Scientific Advisory Board:
 
 Dr. Alexandra Ziane, musicologist
 
