@@ -20,7 +20,7 @@ subjects_tag = []
 subtype = ["Performance Practice", "Musicology"]
 summary_text = ""
 timeline_tag = []
-title = "Monteverdi’s L’Orfeo: Speaking in Song"
+title = "Monteverdi’s <i>L’Orfeo</i>: Speaking in Song"
 type = "Research"
 
 +++
