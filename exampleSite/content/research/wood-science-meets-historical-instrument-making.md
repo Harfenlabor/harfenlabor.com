@@ -173,7 +173,7 @@ Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/abou
 
 **Kleinmann**: Uh, sure, yes, but that's actually ... not common. Nowadays, most harp makers use maple for the frame, the neck and the column.
 
-**Haag**: \[00:20:40\] Yes, I know that from Torres, the guitar maker. And then there are these French Macaferri guitars, jazz guitars, and they also like to use walnut. Of course, as a lot less wood is processed, fewer surfaces are used, it's possible to use walnut for guitars.
+**Haag**: \[00:20:49\] Yes, I know that from Torres, the guitar maker. And then there are these French Macaferri guitars, jazz guitars, and they also like to use walnut. Of course, as a lot less wood is processed, fewer surfaces are used, it's possible to use walnut for guitars.
 
 **Kleinmann**: I found it quite surprising this is walnut. I explained in my lecture that you can clearly see that this was done afterwards. You can see from the insertion of the tools that they only came in at an angle because the decoration at the bottom interfered.
 
@@ -181,7 +181,7 @@ Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/abou
 
 **Kleinmann**: That has nothing to do with making it easy. Well, that's rubbish. They were just experimenting. They had to. And you can clearly see that the ornamentation on the top could also be removed. It was removed. They did a lot of experimenting up there, which was later rather detrimental to the statics. To what you said about the frame: it doesn't have to be made in tone wood. Of course, maple is a good tone wood, but the frame contributes nothing to the sound.
 
-**Haag**: \[00:22:13\] Yes, it has to be a very sturdy wood.
+**Haag**: \[00:22:20\] Yes, it has to be a very sturdy wood.
 
 **Kleinmann**: It has to be sturdy wood. I’d like to tell you what it's like when I saw for a column. I brought you something. You can easily recognise a cross-section through the trunk.
 
