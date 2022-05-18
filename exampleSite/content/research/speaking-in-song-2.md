@@ -5,7 +5,7 @@ bhp_category = ""
 citation = ""
 description = ""
 downloads = []
-externallinks = ""
+externallinks = "Academia Bizantina - https://www.accademiabizantina.it/en/ && Il Giardino Armonico, Viaggio Musicale, playlist - https://www.youtube.com/playlist?list=OLAK5uy_ksd_AQhIPVlvjcaVrYSgs5oTdpKkMrbac && L'Orfeo conducted by Claudio Cavina - https://www.youtube.com/watch?v=Jlq5-FynRVc && L'Orfeo conducted by John Eliot Gardiner - https://open.spotify.com/album/4HCExObDtytXFTN4cpotcI &&"
 footnotes = ""
 hide_from_research = false
 image = "/images/ottavio-1-hold.png"
@@ -13,7 +13,7 @@ imgcaptions = ""
 map_tag = ["Ferrara", "Cremona", "Ravenna"]
 person_tag = ["Ottavio Dantone", "Margret Köll", "Claudio Monteverdi", "Pier-Luigi Pizzi", "Luciano Berio", "Emilia Fadini", "Giovanni Antonini", "Claudio Cavina", "Giovanni Gabrieli", "Girolamo Frescobaldi", "Francesco Rognoni", "John-Eliot Gardiner"]
 project_category = ""
-relatedresearch = ["Two Souls of a Harp"]
+relatedresearch = ["Two Souls of a Harp", "The Harp in Intermedi and Early Opera"]
 show_in_news = false
 status = "approved by author"
 subjects_tag = ["recitar cantando", "Accademia Bizantina", "Teatro Comunale di Ferrara", "Orpheus", "L'Orfeo", "Orfeo", "Eurydice", "Euridice", "Messagera", "Messagiera", "mutatio toni", "enharmony", "Seicento", "Programmmusik", "program music", "passus duriusculus", "theorbo", "positive organ", "harpsichord", "harp", "opera", "canto", "melisma", "violin", "cornet", "Charon", "harmonic concept", "modal phrase", "prosody", "zither", "cadenza", "Follia", "Ulisse", "Poppea", "flute", "chitarrone", "Baroque", "trombone", "trumpet", "organ", "basso continuo", "rhetoric", "Il Giardino Armonico", "toccata", "modal", "tonal", "vibrato", "tactus", "scansion", "Possente spirto", "Rinaldo"]
@@ -32,6 +32,6 @@ type = "Research"
 
 ***
 
-Ottavio Dantone, conductor, outstanding cembalo and organ player and a basso continuo autodidact, demonstrates the power of music and word deployed by the 17th century style of singing known as recitar cantando by performing particularly relevant moments from Claudio Monteverdi´s _L'Orfeo,_ the first true opera. Dantone elaborates on what makes Monteverdi's musical language and dramaturgical approach so modern, and advocates for intuition in adapting performances to contemporary needs so as to retain a fidelity to Monteverdi's intention to convey the emotional content as faithfully as possible. Though originally intended as podcast only, this interview was also filmed so as to capture more fully the context and Dantone's performance. 
+Ottavio Dantone, conductor, outstanding cembalo and organ player and a basso continuo autodidact, demonstrates the power of music and word deployed by the 17th century style of singing known as recitar cantando by performing particularly relevant moments from <span id="person_tag">Claudio Monteverdi</span>´s _L'Orfeo,_ the first true opera. Dantone elaborates on what makes Monteverdi's musical language and dramaturgical approach so modern, and advocates for intuition in adapting performances to contemporary needs so as to retain a fidelity to Monteverdi's intention to convey the emotional content as faithfully as possible. Though originally intended as podcast only, this interview was also filmed so as to capture more fully the context and Dantone's performance.
 
 You can find out more about Ottavio Dantone and his ensemble Accademia Bizantina on [https://www.accademiabizantina.it](https://www.accademiabizantina.it "https://www.accademiabizantina.it").
