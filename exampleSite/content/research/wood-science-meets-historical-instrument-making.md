@@ -41,6 +41,10 @@ Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/abou
 
 ***
 
+***
+
+***
+
 **Translated transcript of the conversation:**
 
 **Volker Haag**: \[00:00:12\] Just like me, you’ve seen the <span id="subjects_tag">Barberini Harp</span> up close. You have engaged with elementary construction. People like us, who have spent time in instrument making and artisanal crafts, work with a relatively high degree of precision, and to put it simply, try to make everything really “beautiful.” When you look at the Barberini Harp now, what you see is completely unique, an incredible visual attraction. But when you look inside the harp, when you look at the parts leading into the neck, you ask yourself if the side walls have been worked on with an axe or how, and I had a similar feeling when I looked inside the harp. I would like to know how you feel about the fact that it is all show and no substance?
