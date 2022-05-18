@@ -16,10 +16,10 @@ project_category = "Podcast: Between the Strings"
 relatedresearch = []
 show_in_news = false
 status = "draft"
-subjects_tag = ["Musikverein Wien", "Wiener Akademie", "Concentus Musicus Wien", "Alpine Brass Band Academy", "natural trumpet", "Mozarteum Innsbruck", "Bavarian Radio Chorus", "Early Music", "Wiltener Sängerknaben", "Weihnachtshistorie", "Tafelmusik", "instrumentalist", "wind instrument", "articulation", "Jazz", "Baroque music", "phrasing", "orchestral training", "melodic arc", "cantata", "tromba da tirarsi", "choral", "ancient trombone", "horn", "oratorio", "Encaenia Musices", "Ars Antiqua Austria", "El Sistema project", "brass band", "Adolphe Sax", "saxhorn", "cornet", "baritone", "euphonium"]
+subjects_tag = ["Musikverein Wien", "Wiener Akademie", "Concentus Musicus Wien", "Alpine Brass Band Academy", "natural trumpet", "Mozarteum Innsbruck", "Bavarian Radio Chorus", "Early Music", "Wiltener Sängerknaben", "Weihnachtshistorie", "Tafelmusik", "instrumentalist", "wind instrument", "articulation", "Jazz", "Baroque music", "phrasing", "orchestral training", "melodic arc", "cantata", "tromba da tirarsi", "choral", "ancient trombone", "horn", "oratorio", "Encaenia Musices", "Ars Antiqua Austria", "El Sistema project", "brass band", "Adolphe Sax", "saxhorn", "cornet", "baritone", "euphonium", "vent hole", "transposing device", "natural tone"]
 subtype = ["Organology", "Performance Practice"]
 summary_text = "Andreas Lackner, a natural trumpet pioneer and an enthusiastic teacher of his instrument from East Tyrol, talks about hitting the notes on natural trumpet, about the formative and inspiring experiences with the legendary ensemble Concentus Musicus Wien under Nikolaus Harnoncourt, and his ambitious education project, the Alpine Brass Band Academy. Lackner shares his deep appreciation of the virtuosic and delicate trumpet repertoire."
-timeline_tag = ["1988", "2019", "17th century", "19th century"]
+timeline_tag = ["1988", "2019", "17th century", "19th century", "18th century"]
 title = "Virtuosic and Delicate—the Sound of Natural Trumpet"
 type = "Research"
 
