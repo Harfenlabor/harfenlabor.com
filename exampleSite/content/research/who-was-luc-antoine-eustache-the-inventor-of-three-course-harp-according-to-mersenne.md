@@ -39,6 +39,8 @@ Licensed under [CC BY-NC-ND International 4.0](https://harfenlabor.netlify.app/a
 
 ***
 
+***
+
 **Translated transcript of the talk:**
 
 ***
