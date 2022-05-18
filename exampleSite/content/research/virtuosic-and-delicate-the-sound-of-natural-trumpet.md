@@ -5,13 +5,13 @@ bhp_category = ""
 citation = "\"Virtuosic and Delicate—the Sound of Natural Trumpet” with Andreas Lackner, April 13, 2022, in Between the Strings, produced by Margret Köll, podcast, MP3, 36:58, https://www.buzzsprout.com/1934249/10051864-a-door-to-medieval-music?t=0.\n"
 description = "Andreas Lackner, a natural trumpet pioneer and an enthusiastic teacher of his instrument from East Tyrol, talks about hitting the notes on natural trumpet, about the formative and inspiring experiences with the legendary ensemble Concentus Musicus Wien under Nikolaus Harnoncourt, and his ambitious education project, the Alpine Brass Band Academy. Lackner shares his deep appreciation of the virtuosic and delicate trumpet repertoire."
 downloads = []
-externallinks = ""
+externallinks = "Alpine Brass Band Academy - https://brassbandacademy.at && El Sistema project - https://sistemaglobal.org/about/el-sistema-venezuela/ && \n"
 footnotes = ""
 hide_from_research = false
 image = "/images/lackner.jpg"
 imgcaptions = ""
 map_tag = ["Wien", "München", "Innsbruck", "Montreaux", "Toblach", "Lienz"]
-person_tag = ["Andreas Lackner", "Johann-Sebastian Bach", "Wolfgang-Amadeus Mozart", "Georg-Philipp Telemann", "Georg-Friederich Händel", "Herbert Walser", "Romanus Weichlein", "Maximilian-I", "Niklas Ecklund", "John Eliot Gardiner", "Friedemann Immer"]
+person_tag = ["Andreas Lackner", "Johann-Sebastian Bach", "Wolfgang-Amadeus Mozart", "Georg-Philipp Telemann", "Georg-Friederich Händel", "Herbert Walser", "Romanus Weichlein", "Maximilian-I", "Niklas Ecklund", "John Eliot Gardiner", "Friedemann Immer", "Antonio Caldara"]
 project_category = "Podcast: Between the Strings"
 relatedresearch = []
 show_in_news = false
@@ -98,7 +98,7 @@ To find out more about the Alpine Brass Band Academy visit [https://brassbandaca
 
 **Köll**: \[00:23:58\] Thinking about the solo cantatas, there is a sense that trumpet playing is a team sport.
 
-**Lackner**: \[00:24:05\] Yes, it is. There are many sonatas and concerts for two, or even three trumpets, even whole cantatas by Bach. The three trumpets distribution was very important for Bach, Telemann and Händel, from two up to four trumpets. In Caldara and in the opera you often have eight trumpets, that is, four choirs, each with the corresponding instruments, everything was possible. In Innsbruck, during the golden age of <span id="person_tag">Maximilian I</span>, there were twenty-four court trumpet players. This was, of course, a status symbol: the more trumpets a ruler had for appearances, the more important he was considered to be.
+**Lackner**: \[00:24:05\] Yes, it is. There are many sonatas and concerts for two, or even three trumpets, even whole cantatas by Bach. The three trumpets distribution was very important for Bach, Telemann and Händel, from two up to four trumpets. In <span id="person_tag">Antonio Caldara</span> and in the opera you often have eight trumpets, that is, four choirs, each with the corresponding instruments, everything was possible. In Innsbruck, during the golden age of <span id="person_tag">Maximilian I</span>, there were twenty-four court trumpet players. This was, of course, a status symbol: the more trumpets a ruler had for appearances, the more important he was considered to be.
 
 **Köll**: \[00:25:03\] Yes, the trumpets were a beautiful, important attribute of authority. You also have a big brass band project, maybe you could say something about it for our audience? What are your plans and what does this arc from the Early Music to brass band projects mean to you?
 
