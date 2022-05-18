@@ -2,7 +2,7 @@
 PublishDate = 2022-04-12T22:00:00Z
 author = "Andreas Lackner"
 bhp_category = ""
-citation = "\"Virtuosic and Delicate—the Sound of Natural Trumpet” with Andreas Lackner, April 13, 2022, in Between the Strings, produced by Margret Köll, podcast, MP3, 50:09, https://www.buzzsprout.com/1934249/10051864-a-door-to-medieval-music?t=0.\n"
+citation = "\"Virtuosic and Delicate—the Sound of Natural Trumpet” with Andreas Lackner, April 13, 2022, in Between the Strings, produced by Margret Köll, podcast, MP3, 36:36, https://www.buzzsprout.com/1934249/10051864-a-door-to-medieval-music?t=0.\n"
 description = "Andreas Lackner, a natural trumpet pioneer and an enthusiastic teacher of his instrument from East Tyrol, talks about hitting the notes on natural trumpet, about the formative and inspiring experiences with the legendary ensemble Concentus Musicus Wien under Nikolaus Harnoncourt, and his ambitious education project, the Alpine Brass Band Academy. Lackner shares his deep appreciation of the virtuosic and delicate trumpet repertoire."
 downloads = []
 externallinks = ""
