@@ -11,12 +11,12 @@ hide_from_research = false
 image = "/images/lackner.jpg"
 imgcaptions = ""
 map_tag = ["Wien", "München"]
-person_tag = ["Andreas Lackner", "Johann-Sebastian Bach", "Wolfgang-Amadeus Mozart"]
+person_tag = ["Andreas Lackner", "Johann-Sebastian Bach", "Wolfgang-Amadeus Mozart", "Georg-Philipp Telemann", "Georg-Friederich Händel"]
 project_category = "Podcast: Between the Strings"
 relatedresearch = []
 show_in_news = false
 status = "draft"
-subjects_tag = ["Musikverein Wien", "Wiener Akademie", "Concentus Musicus Wien", "Alpine Brass Band Academy", "natural trumpet", "Mozarteum Innsbruck", "Bavarian Radio Chorus", "Early Music", "Wiltener Sängerknaben", "Weihnachtshistorie", "Tafelmusik", "instrumentalist", "wind instrument", "articulation", "Jazz", "Baroque music", "phrasing", "orchestral training", "melodic arc", "cantata"]
+subjects_tag = ["Musikverein Wien", "Wiener Akademie", "Concentus Musicus Wien", "Alpine Brass Band Academy", "natural trumpet", "Mozarteum Innsbruck", "Bavarian Radio Chorus", "Early Music", "Wiltener Sängerknaben", "Weihnachtshistorie", "Tafelmusik", "instrumentalist", "wind instrument", "articulation", "Jazz", "Baroque music", "phrasing", "orchestral training", "melodic arc", "cantata", "tromba da tirarsi", "choral", "ancient trombone", "horn", "oratorio"]
 subtype = ["Organology", "Performance Practice"]
 summary_text = "Andreas Lackner, a natural trumpet pioneer and an enthusiastic teacher of his instrument from East Tyrol, talks about hitting the notes on natural trumpet, about the formative and inspiring experiences with the legendary ensemble Concentus Musicus Wien under Nikolaus Harnoncourt, and his ambitious education project, the Alpine Brass Band Academy. Lackner shares his deep appreciation of the virtuosic and delicate trumpet repertoire."
 timeline_tag = ["1988"]
@@ -58,7 +58,7 @@ To find out more about the Alpine Brass Band Academy visit [https://brassbandaca
 
 **Köll**: \[00:06:17\] What fascinated you so much? Was it the instrument, or also the repertoire and the music?
 
-**Lackner**: \[00:06:25\] All of the Baroque music, from Early to Late Baroque, is of greatest interest to us trumpet players, because there is so much literature, and it sometimes demands extreme virtuosity, it is really a big challenge to play these pieces. This special sound fascinated me the most. The closeness, for example, of an oboe and a trumpet: they have such a similar sound texture that in the \[Georg Philipp\] Telemannʼs Tafelmusik you are unable to distinguish one from another. This sound, also in this interplay with the sound of the strings, is what grabbed me at the beginning and just never lets me go.
+**Lackner**: \[00:06:25\] All of the Baroque music, from Early to Late Baroque, is of greatest interest to us trumpet players, because there is so much literature, and it sometimes demands extreme virtuosity, it is really a big challenge to play these pieces. This special sound fascinated me the most. The closeness, for example, of an oboe and a trumpet: they have such a similar sound texture that in the <span id="person_tag">Georg Philipp Telemann</span>ʼs Tafelmusik you are unable to distinguish one from another. This sound, also in this interplay with the sound of the strings, is what grabbed me at the beginning and just never lets me go.
 
 **Köll**: \[00:07:28\] You are also an enthusiastic teacher. What is your teaching approach? Are your students practicing on the modern or on the natural trumpet? What is your concept?
 
@@ -82,7 +82,7 @@ To find out more about the Alpine Brass Band Academy visit [https://brassbandaca
 
 **Köll**: \[00:15:52\] Do you mean music literature for the trumpet?
 
-**Lackner**: \[00:15:54\] Sure, literature for the trumpet. So much has not yet been performed. There are still many black spots when it comes to the choice of instrument. For example, in <span id="person_tag">Johann Sebastian Bach</span>’s cantatas you can have a remark about the instrument, but nobody knows which instrument it is. Harnoncourt often said that it does not designate the instrument but the way you have to play it. For example, in a Bach cantata there was this tromba da tirarsi, and he wanted us trumpet players to play the chorals on ancient tromboni. At the beginning we didn’t even know how we could approach this instrument, but it worked very well. When you understand how to deal with the mouth piece, you can play Bach’s chorals very well on the trombone. There is also this closeness between trumpet and horn, which were not so strongly separated at that time. I remember a Handel’s oratorio where you have trumpets at the beginning and at the end. In the middle, there is a choir piece with two horns, so Harnoncourt wanted us trumpet players to play the horn parts on horns. We did that and it worked very well.
+**Lackner**: \[00:15:54\] Sure, literature for the trumpet. So much has not yet been performed. There are still many black spots when it comes to the choice of instrument. For example, in <span id="person_tag">Johann Sebastian Bach</span>’s cantatas you can have a remark about the instrument, but nobody knows which instrument it is. Harnoncourt often said that it does not designate the instrument but the way you have to play it. For example, in a Bach cantata there was this tromba da tirarsi, and he wanted us trumpet players to play the chorals on ancient tromboni. At the beginning we didn’t even know how we could approach this instrument, but it worked very well. When you understand how to deal with the mouth piece, you can play Bach’s chorals very well on the trombone. There is also this closeness between trumpet and horn, which were not so strongly separated at that time. I remember a <span id="person_tag">Georg Friederich Händel</span>’s oratorio where you have trumpets at the beginning and at the end. In the middle, there is a choir piece with two horns, so Harnoncourt wanted us trumpet players to play the horn parts on horns. We did that and it worked very well.
 
 **Köll**: \[00:17:36\] Did you need to practice a lot for this?
 
