@@ -2,7 +2,7 @@
 PublishDate = 2022-05-10T23:36:00Z
 author = "Bernhard Schrammek"
 bhp_category = "Convening"
-citation = ""
+citation = "Bernhard Schrammek, \"Scientific Commentary: Sol di corde soavi armo le dita? Only music I carry as my weapon? Different ways to use the same instrument,\" Harfenlabor.com, October 31, 2021, https://www.harfenlabor.com/research/scientific-commentary-sol-di-corde-soavi-armo-le-dita-only-music-i-carry-as-my-weapon-different-ways-to-use-the-same-instrument/."
 description = ""
 downloads = []
 externallinks = "Granata, Chiara. “‘Un’arpa Grande Tutta Intagliata e Dorata’. New Documents on the Barberini Harp.” Recercare 27, no. 1/2 (2015): 139–64. - www.jstor.org/stable/26381197 && Museo Nazionale degli Strumenti Musicali - http://museostrumentimusicali.beniculturali.it/index.php?it/129/arpa-barberini && Istituto Storico Austriaco a Roma - https://www.austriacult.roma.it && Palazzo Barberini - https://www.barberinicorsini.org/en/ &&"
