@@ -11,7 +11,7 @@ hide_from_research = false
 image = "/images/lackner.jpg"
 imgcaptions = ""
 map_tag = ["Wien", "München", "Innsbruck", "Montreaux", "Toblach", "Lienz"]
-person_tag = ["Andreas Lackner", "Johann-Sebastian Bach", "Wolfgang-Amadeus Mozart", "Georg-Philipp Telemann", "Georg-Friederich Händel", "Herbert Walser", "Romanus Weichlein", "Maximilian-I", "Niklas Ecklund", "John Eliot Gardiner"]
+person_tag = ["Andreas Lackner", "Johann-Sebastian Bach", "Wolfgang-Amadeus Mozart", "Georg-Philipp Telemann", "Georg-Friederich Händel", "Herbert Walser", "Romanus Weichlein", "Maximilian-I", "Niklas Ecklund", "John Eliot Gardiner", "Friedemann Immer"]
 project_category = "Podcast: Between the Strings"
 relatedresearch = []
 show_in_news = false
@@ -54,7 +54,7 @@ To find out more about the Alpine Brass Band Academy visit [https://brassbandaca
 
 **Köll**: \[00:04:45\] How were things with Harnoncourt? Did he give you some tips? Did he work with you to achieve an ideal trumpet sound?
 
-**Lackner**: \[00:05:01\] When I first met the Concentus Musicus Wien, Friedemann Immer was already with them. He was already an institution on the Early Music scene, and I learned a lot from him, because I always watched what he was doing. Nikolaus Harnoncourt always had a clear idea, a clear picture of what he wanted from us. He did not really ask that we sound as if in the 17th and the 18th century. He instead had the idea to look for the sound he had in his mind, which had resulted from his research. It was an incredible school—I worked with him for over twenty-five years—from the initial musical idea to the performance, process repeated, over and over again; it never ceased, over the many years it remained what it was in the first year.
+**Lackner**: \[00:05:01\] When I first met the Concentus Musicus Wien, <span id="person_tag">Friedemann Immer</span> was already with them. He was already an institution on the Early Music scene, and I learned a lot from him, because I always watched what he was doing. Nikolaus Harnoncourt always had a clear idea, a clear picture of what he wanted from us. He did not really ask that we sound as if in the 17th and the 18th century. He instead had the idea to look for the sound he had in his mind, which had resulted from his research. It was an incredible school—I worked with him for over twenty-five years—from the initial musical idea to the performance, process repeated, over and over again; it never ceased, over the many years it remained what it was in the first year.
 
 **Köll**: \[00:06:17\] What fascinated you so much? Was it the instrument, or also the repertoire and the music?
 
