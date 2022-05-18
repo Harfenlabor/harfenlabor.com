@@ -11,12 +11,12 @@ hide_from_research = false
 image = "/images/lackner.jpg"
 imgcaptions = ""
 map_tag = ["Wien", "München"]
-person_tag = ["Andreas Lackner", "Johann-Sebastian Bach", "Wolfgang-Amadeus Mozart", "Georg-Philipp Telemann", "Georg-Friederich Händel"]
+person_tag = ["Andreas Lackner", "Johann-Sebastian Bach", "Wolfgang-Amadeus Mozart", "Georg-Philipp Telemann", "Georg-Friederich Händel", "Herbert Walser", "Romanus Weichlein"]
 project_category = "Podcast: Between the Strings"
 relatedresearch = []
 show_in_news = false
 status = "draft"
-subjects_tag = ["Musikverein Wien", "Wiener Akademie", "Concentus Musicus Wien", "Alpine Brass Band Academy", "natural trumpet", "Mozarteum Innsbruck", "Bavarian Radio Chorus", "Early Music", "Wiltener Sängerknaben", "Weihnachtshistorie", "Tafelmusik", "instrumentalist", "wind instrument", "articulation", "Jazz", "Baroque music", "phrasing", "orchestral training", "melodic arc", "cantata", "tromba da tirarsi", "choral", "ancient trombone", "horn", "oratorio"]
+subjects_tag = ["Musikverein Wien", "Wiener Akademie", "Concentus Musicus Wien", "Alpine Brass Band Academy", "natural trumpet", "Mozarteum Innsbruck", "Bavarian Radio Chorus", "Early Music", "Wiltener Sängerknaben", "Weihnachtshistorie", "Tafelmusik", "instrumentalist", "wind instrument", "articulation", "Jazz", "Baroque music", "phrasing", "orchestral training", "melodic arc", "cantata", "tromba da tirarsi", "choral", "ancient trombone", "horn", "oratorio", "Encaenia Musices", "Ars Antiqua Austria"]
 subtype = ["Organology", "Performance Practice"]
 summary_text = "Andreas Lackner, a natural trumpet pioneer and an enthusiastic teacher of his instrument from East Tyrol, talks about hitting the notes on natural trumpet, about the formative and inspiring experiences with the legendary ensemble Concentus Musicus Wien under Nikolaus Harnoncourt, and his ambitious education project, the Alpine Brass Band Academy. Lackner shares his deep appreciation of the virtuosic and delicate trumpet repertoire."
 timeline_tag = ["1988"]
@@ -86,11 +86,11 @@ To find out more about the Alpine Brass Band Academy visit [https://brassbandaca
 
 **Köll**: \[00:17:36\] Did you need to practice a lot for this?
 
-**Lackner**: \[00:17:39\] Yes, of course, we needed time to get used to the mouth piece, to find the right material, but it was wonderful to get there and it was very exciting. And we did it from time to time, I mean Herbert Walser and I, we played the high horn parts.
+**Lackner**: \[00:17:39\] Yes, of course, we needed time to get used to the mouth piece, to find the right material, but it was wonderful to get there and it was very exciting. And we did it from time to time, I mean <span id="person_tag">Herbert Walser</span> and I, we played the high horn parts.
 
 **Köll**: \[00:18:06\] Herbert Walser, with whom you played a lot—this is a good point for listening to some music.
 
-**Lackner**: \[00:18:16\] We are going to listen to the Con discretione movement from the first Sonata by Romanus Weichlein, from Encaenia Musices, performed by Ars Antiqua Austria under Gunar Letzbor with Herbert Walser and me. I am the trumpet player.
+**Lackner**: \[00:18:16\] We are going to listen to the Con discretione movement from the first Sonata by <span id="person_tag">Romanus Weichlein</span>, from Encaenia Musices, performed by Ars Antiqua Austria under <span id="person_tag">Gunar Letzbor</span> with Herbert Walser and me. I am the trumpet player.
 
 **Köll**: \[00:23:28\] Very beautiful! Weichlein!
 
