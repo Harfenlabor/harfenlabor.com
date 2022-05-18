@@ -10,16 +10,16 @@ footnotes = ""
 hide_from_research = false
 image = "/images/lackner.jpg"
 imgcaptions = ""
-map_tag = ["Wien", "München", "Innsbruck"]
-person_tag = ["Andreas Lackner", "Johann-Sebastian Bach", "Wolfgang-Amadeus Mozart", "Georg-Philipp Telemann", "Georg-Friederich Händel", "Herbert Walser", "Romanus Weichlein", "Maximilian-I"]
+map_tag = ["Wien", "München", "Innsbruck", "Montreaux", "Toblach", "Lienz"]
+person_tag = ["Andreas Lackner", "Johann-Sebastian Bach", "Wolfgang-Amadeus Mozart", "Georg-Philipp Telemann", "Georg-Friederich Händel", "Herbert Walser", "Romanus Weichlein", "Maximilian-I", "Niklas Ecklund", "John Eliot Gardiner"]
 project_category = "Podcast: Between the Strings"
 relatedresearch = []
 show_in_news = false
 status = "draft"
-subjects_tag = ["Musikverein Wien", "Wiener Akademie", "Concentus Musicus Wien", "Alpine Brass Band Academy", "natural trumpet", "Mozarteum Innsbruck", "Bavarian Radio Chorus", "Early Music", "Wiltener Sängerknaben", "Weihnachtshistorie", "Tafelmusik", "instrumentalist", "wind instrument", "articulation", "Jazz", "Baroque music", "phrasing", "orchestral training", "melodic arc", "cantata", "tromba da tirarsi", "choral", "ancient trombone", "horn", "oratorio", "Encaenia Musices", "Ars Antiqua Austria", "El Sistema project"]
+subjects_tag = ["Musikverein Wien", "Wiener Akademie", "Concentus Musicus Wien", "Alpine Brass Band Academy", "natural trumpet", "Mozarteum Innsbruck", "Bavarian Radio Chorus", "Early Music", "Wiltener Sängerknaben", "Weihnachtshistorie", "Tafelmusik", "instrumentalist", "wind instrument", "articulation", "Jazz", "Baroque music", "phrasing", "orchestral training", "melodic arc", "cantata", "tromba da tirarsi", "choral", "ancient trombone", "horn", "oratorio", "Encaenia Musices", "Ars Antiqua Austria", "El Sistema project", "brass band", "Adolphe Sax", "saxhorn", "cornet", "baritone", "euphonium"]
 subtype = ["Organology", "Performance Practice"]
 summary_text = "Andreas Lackner, a natural trumpet pioneer and an enthusiastic teacher of his instrument from East Tyrol, talks about hitting the notes on natural trumpet, about the formative and inspiring experiences with the legendary ensemble Concentus Musicus Wien under Nikolaus Harnoncourt, and his ambitious education project, the Alpine Brass Band Academy. Lackner shares his deep appreciation of the virtuosic and delicate trumpet repertoire."
-timeline_tag = ["1988"]
+timeline_tag = ["1988", "2019", "17th century", "19th century"]
 title = "Virtuosic and Delicate—the Sound of Natural Trumpet"
 type = "Research"
 
@@ -114,7 +114,7 @@ To find out more about the Alpine Brass Band Academy visit [https://brassbandaca
 
 **Köll**: \[00:31:12\] How beautiful, hopefully a lot of people will come! At the end of our conversation I would like to ask you to recommend some recordings to make the new generations fall in love with Early Music and perhaps with the natural trumpet.
 
-**Lackner**: \[00:31:30\] There are of course many. Niklas Ecklund recorded many trumpet concertos twenty years ago, these are excellent recordings. All of the Bach cantata recordings by Gardiner… there are so many fantastic recordings. The best would be to simply choose a renowned ensemble on historical instruments, taking into consideration also the new generation ensembles that are emerging. These swarms of young generation artists in every instrumental genre fascinate me—I notice this in particular with my instrument—when I began, the main reference where the English musicians and their \[natural\] trumpet with four vent holes. Friedemann Immer was very active on the French and German natural trumpet scene, playing on the trumpet with three vent holes. Since then, the trumpet without vent holes has gained in importance. I was very sceptical about it at first, till I found my approach. Nowadays, there are terrific wind instrument players who can do incredible things on the trumpet without vent holes.
+**Lackner**: \[00:31:30\] There are of course many. <span id="person_tag">Niklas Ecklund</span> recorded many trumpet concertos twenty years ago, these are excellent recordings. All of the Bach cantata recordings by <span id="person_tag">John Eliot Gardiner</span>… there are so many fantastic recordings. The best would be to simply choose a renowned ensemble on historical instruments, taking into consideration also the new generation ensembles that are emerging. These swarms of young generation artists in every instrumental genre fascinate me—I notice this in particular with my instrument—when I began, the main reference where the English musicians and their \[natural\] trumpet with four vent holes. Friedemann Immer was very active on the French and German natural trumpet scene, playing on the trumpet with three vent holes. Since then, the trumpet without vent holes has gained in importance. I was very sceptical about it at first, till I found my approach. Nowadays, there are terrific wind instrument players who can do incredible things on the trumpet without vent holes.
 
 **Köll**: \[00:33:14\] Why did the vent hole become so important?
 
