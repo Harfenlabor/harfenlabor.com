@@ -1,8 +1,8 @@
 +++
-PublishDate = 2022-04-03T22:00:00Z
+PublishDate = 2022-05-17T22:00:00Z
 author = "Chiara Granata"
 bhp_category = "Interviews"
-citation = ""
+citation = "Chiara Granata, \"Sol di corde soavi armo le dita? Differenti modi di usare uno stesso strumento,\" Harfenlabor.com, 18.05. 2022., https://www.harfenlabor.com/research/sol-di-corde-soavi-armo-le-dita-differenti-modi-di-usare-uno-stesso-strumento/."
 description = ""
 downloads = []
 externallinks = ""
