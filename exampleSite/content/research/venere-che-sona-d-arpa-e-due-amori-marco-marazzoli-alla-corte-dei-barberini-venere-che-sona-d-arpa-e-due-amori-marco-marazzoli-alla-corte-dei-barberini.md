@@ -1,5 +1,5 @@
 +++
-PublishDate = 2022-04-05T22:00:00Z
+PublishDate = 2022-05-16T22:00:00Z
 author = "Elisabetta Frullini"
 bhp_category = "Convening"
 citation = "Elisabetta Frullini, \"'Venere che sona d’arpa e due amori': Marco Marazzoli alla corte dei Barberini\", Harfenlabor.com, May 17, 2022, https://harfenlabor.netlify.app/research/venere-che-sona-d-arpa-e-due-amori-marco-marazzoli-at-the-barberini-court/."
