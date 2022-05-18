@@ -24,7 +24,6 @@ title = "Report on the Convening in Roma&&14-16 December 2016"
 type = "Research"
 
 +++
-
 ***
 
 ![](/images/dif_000185_602_c.jpg)
@@ -55,7 +54,7 @@ The [Convening](https://harfenlabor.com/projects/bhpconvening/) began in the aft
 
 ***
 
-![](/images/3-harps.png)
+![](/images/screenshot-videostill-harfenlabor-steinheuer.png)
 
 ###### Istituto Storico Austriaco, three interpretations of the Barberini Harp (<cap>Fig. 3</cap>).
 
