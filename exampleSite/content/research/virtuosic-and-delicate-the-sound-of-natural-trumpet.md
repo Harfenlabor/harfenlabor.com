@@ -10,13 +10,13 @@ footnotes = ""
 hide_from_research = false
 image = "/images/lackner.jpg"
 imgcaptions = ""
-map_tag = ["Wien", "München"]
-person_tag = ["Andreas Lackner", "Johann-Sebastian Bach", "Wolfgang-Amadeus Mozart", "Georg-Philipp Telemann", "Georg-Friederich Händel", "Herbert Walser", "Romanus Weichlein"]
+map_tag = ["Wien", "München", "Innsbruck"]
+person_tag = ["Andreas Lackner", "Johann-Sebastian Bach", "Wolfgang-Amadeus Mozart", "Georg-Philipp Telemann", "Georg-Friederich Händel", "Herbert Walser", "Romanus Weichlein", "Maximilian-I"]
 project_category = "Podcast: Between the Strings"
 relatedresearch = []
 show_in_news = false
 status = "draft"
-subjects_tag = ["Musikverein Wien", "Wiener Akademie", "Concentus Musicus Wien", "Alpine Brass Band Academy", "natural trumpet", "Mozarteum Innsbruck", "Bavarian Radio Chorus", "Early Music", "Wiltener Sängerknaben", "Weihnachtshistorie", "Tafelmusik", "instrumentalist", "wind instrument", "articulation", "Jazz", "Baroque music", "phrasing", "orchestral training", "melodic arc", "cantata", "tromba da tirarsi", "choral", "ancient trombone", "horn", "oratorio", "Encaenia Musices", "Ars Antiqua Austria"]
+subjects_tag = ["Musikverein Wien", "Wiener Akademie", "Concentus Musicus Wien", "Alpine Brass Band Academy", "natural trumpet", "Mozarteum Innsbruck", "Bavarian Radio Chorus", "Early Music", "Wiltener Sängerknaben", "Weihnachtshistorie", "Tafelmusik", "instrumentalist", "wind instrument", "articulation", "Jazz", "Baroque music", "phrasing", "orchestral training", "melodic arc", "cantata", "tromba da tirarsi", "choral", "ancient trombone", "horn", "oratorio", "Encaenia Musices", "Ars Antiqua Austria", "El Sistema project"]
 subtype = ["Organology", "Performance Practice"]
 summary_text = "Andreas Lackner, a natural trumpet pioneer and an enthusiastic teacher of his instrument from East Tyrol, talks about hitting the notes on natural trumpet, about the formative and inspiring experiences with the legendary ensemble Concentus Musicus Wien under Nikolaus Harnoncourt, and his ambitious education project, the Alpine Brass Band Academy. Lackner shares his deep appreciation of the virtuosic and delicate trumpet repertoire."
 timeline_tag = ["1988"]
@@ -98,7 +98,7 @@ To find out more about the Alpine Brass Band Academy visit [https://brassbandaca
 
 **Köll**: \[00:23:58\] Thinking about the solo cantatas, there is a sense that trumpet playing is a team sport.
 
-**Lackner**: \[00:24:05\] Yes, it is. There are many sonatas and concerts for two, or even three trumpets, even whole cantatas by Bach. The three trumpets distribution was very important for Bach, Telemann and Handel, from two up to four trumpets. In Caldara and in the opera you often have eight trumpets, that is, four choirs, each with the corresponding instruments, everything was possible. In Innsbruck, during the golden age of Maximilian \[I\], there were twenty-four court trumpet players. This was, of course, a status symbol: the more trumpets a ruler had for appearances, the more important he was considered to be.
+**Lackner**: \[00:24:05\] Yes, it is. There are many sonatas and concerts for two, or even three trumpets, even whole cantatas by Bach. The three trumpets distribution was very important for Bach, Telemann and Händel, from two up to four trumpets. In Caldara and in the opera you often have eight trumpets, that is, four choirs, each with the corresponding instruments, everything was possible. In Innsbruck, during the golden age of <span id="person_tag">Maximilian I</span>, there were twenty-four court trumpet players. This was, of course, a status symbol: the more trumpets a ruler had for appearances, the more important he was considered to be.
 
 **Köll**: \[00:25:03\] Yes, the trumpets were a beautiful, important attribute of authority. You also have a big brass band project, maybe you could say something about it for our audience? What are your plans and what does this arc from the Early Music to brass band projects mean to you?
 
