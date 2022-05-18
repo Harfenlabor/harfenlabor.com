@@ -2,7 +2,7 @@
 PublishDate = 2022-04-04T22:00:00Z
 author = "Ursula Verena Fischer Pace"
 bhp_category = "Convening"
-citation = "Ursula Verena Fischer Pace, \"Disegni per strumenti musicali\", Harfenlabor.com, 11.05.2022., https://harfenlabor.com/research/disegni-per-strumenti-musicali/"
+citation = "Ursula Verena Fischer Pace, \"Disegni per strumenti musicali\", Harfenlabor.com, 04.05.2022., https://harfenlabor.com/research/disegni-per-strumenti-musicali/"
 description = ""
 downloads = []
 externallinks = "Gabinetto Disegni e Stampe degli Uffizi - https://www.uffizi.it/en/the-uffizi/prints-and-drawings && Galleria Nazionale d’Arte Antica at Palazzo Barberini - https://www.barberinicorsini.org/arte/collezioni/ && Musée National du Chateau de Versailles - http://collections.chateauversailles.fr/ && Granata, Chiara. “'Un’arpa Grande Tutta Intagliata e Dorata'. New Documents on the Barberini Harp.” Recercare XXVII (2015): 139–64. - www.jstor.org/stable/26381197 && Arpa Barberini, Museo Nazionale degli Strumenti Musicali - http://museostrumentimusicali.beniculturali.it/index.php?it/129/arpa-barberini && Istituto Storico Austriaco - http://www.oehirom.it/it/ && Marchegiani su Soria, Dizionario Biografico degli Italiani - https://www.treccani.it/enciclopedia/giovanni-battista-soria_(Dizionario-Biografico) &&"
