@@ -15,11 +15,11 @@ person_tag = ["Ottavio Dantone", "Margret Köll", "Claudio Monteverdi", "Pier-Lu
 project_category = "Podcast: Between the Strings"
 relatedresearch = ["Two Souls of a Harp"]
 show_in_news = true
-status = "draft"
+status = "approved by author"
 subjects_tag = ["recitar cantando", "Teatro Comunale di Ferrara", "Orpheus", "L'Orfeo", "Orfeo", "Eurydice", "Euridice", "Messagera", "Messagiera", "mutatio toni", "enharmony", "Seicento", "Programmmusik", "program music", "passus duriusculus", "theorbo", "positive organ", "harpsichord", "harp", "opera", "canto", "melisma", "violin", "cornet", "Charon", "harmonic concept", "modal phrase", "prosody", "zither", "cadenza", "Follia", "folia", "Ulisse", "Poppea", "flute", "chitarrone", "Baroque", "trombone", "trumpet", "organ", "basso continuo", "rhetoric", "Il Giardino Armonico", "toccata", "modal", "tonal", "vibrato", "tactus", "scansion", "Possente spirto", "Rinaldo", "Accademia Bizantina"]
 subtype = ["Performance Practice", "Musicology"]
 summary_text = "Ottavio Dantone, conductor, outstanding cembalo and organ player and a basso continuo autodidact, demonstrates the power of music and word through some of the key moments in Monteverdi´s masterpiece <i>L'Orfeo</i>. Dantone shares his visionary views on the modernity of Monteverdi´s musical language, advocating for intuition in adapting performances to contemporary needs so as to electrify through synergy of music and words."
-timeline_tag = ["1607", "17th century", "18th century"]
+timeline_tag = ["1607", "17th century", "18th century", "2000s"]
 title = "Speaking in Song"
 type = "Research"
 
