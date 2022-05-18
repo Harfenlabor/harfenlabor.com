@@ -2,7 +2,7 @@
 PublishDate = 2022-04-03T22:00:00Z
 author = "Ottavio Dantone"
 bhp_category = ""
-citation = ""
+citation = "\"Speaking in Song” with Ottavio Dantone, April 4, 2022, in Between the Strings, produced by Margret Köll,\npodcast, MP3, 43:08, https://www.buzzsprout.com/1934249/10210259-speaking-in-song.\n"
 description = ""
 downloads = []
 externallinks = "Academia Bizantina - https://www.accademiabizantina.it/en/ && Il Giardino Armonico, Viaggio Musicale, playlist - https://www.youtube.com/playlist?list=OLAK5uy_ksd_AQhIPVlvjcaVrYSgs5oTdpKkMrbac && L'Orfeo conducted by Claudio Cavina - https://www.youtube.com/watch?v=Jlq5-FynRVc && L'Orfeo conducted by John Eliot Gardiner - https://open.spotify.com/album/4HCExObDtytXFTN4cpotcI &&"
