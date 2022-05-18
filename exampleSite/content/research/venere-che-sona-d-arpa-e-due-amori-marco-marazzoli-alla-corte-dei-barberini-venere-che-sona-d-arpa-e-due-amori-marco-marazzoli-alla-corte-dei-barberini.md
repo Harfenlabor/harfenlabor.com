@@ -2,7 +2,7 @@
 PublishDate = 2022-04-05T22:00:00Z
 author = "Elisabetta Frullini"
 bhp_category = "Convening"
-citation = "Elisabetta Frullini, \"'Venere che sona d’arpa e due amori': Marco Marazzoli alla corte dei Barberini\", Harfenlabor, MAY TEST 2022, https://harfenlabor.netlify.app/research/venere-che-sona-d-arpa-e-due-amori-marco-marazzoli-at-the-barberini-court/."
+citation = "Elisabetta Frullini, \"'Venere che sona d’arpa e due amori': Marco Marazzoli alla corte dei Barberini\", Harfenlabor.com, MAY TEST 2022, https://harfenlabor.netlify.app/research/venere-che-sona-d-arpa-e-due-amori-marco-marazzoli-at-the-barberini-court/."
 description = ""
 downloads = []
 externallinks = "Davide Daolmi, \"L’armi e gli amori\". Un’opera di cappa e spada nella Roma di mezzo Seicento (PhD diss., Università degli studi di Roma \"La Sapienza\", 2001) - http://www.examenapium.it/armi && Museo Nazionale d'Arte Antica di Palazzo Barberini - https://www.barberinicorsini.org/en/art/collections/ && Arpa Barberini nel Museo Nazionale degli Strumenti Musicali - http://museostrumentimusicali.beniculturali.it/index.php?it/129/arpa-barberini && Morelli on Marazzoli, Dizionario Biographico (in Italian) -  https://www.treccani.it/enciclopedia/marco-marazzoli_(Dizionario-Biografico) && Andrea Sacchi, <i>Allegoria della Divina Sapienza</i>, Galleria Nazionale d'Arte Antica a Palazzo Barberini, Roma -  https://www.barberinicorsini.org/opera/allegoria-della-divina-sapienza/ &&"
