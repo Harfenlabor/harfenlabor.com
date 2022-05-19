@@ -13,7 +13,7 @@
         {{"<!-- section title -->" | safeHTML}}
         <div class="title text-center wow fadeInDown">
           <h1>{{ .Title }}</h1>
-          <p>{{ $.Param "Description" }}</p>
+          <p class="description_paragraph">{{ $.Param "Description" }}</p>
           <div class="border-meghna"></div>
         </div>
       </div>
@@ -28,7 +28,6 @@
       {{/* .Params.show_in_news */}}
       {{/* . */}}
 
-
       {{$a := where $.Site.RegularPages "Section" "news"}}
       {{$b := where $.Site.RegularPages "Section" "research"}}
       {{$c := $a | union $b }}
@@ -37,20 +36,6 @@
         {{ .Render "article_onepage" }}
         {{ end }}
       {{ end }}
-
-
-
-      {{/* $research := .Site.GetPage "/research" }}
-      {{ range $research.Data.Pages }}
-
-        {{ if .Params.show_in_news }}
-        {{ .Render "article_onepage" }}
-        {{ end }}
-      {{ end */}}
-
-
-
-
 
       <div class="col-12">
         {{ template "_internal/pagination.html" . }}
