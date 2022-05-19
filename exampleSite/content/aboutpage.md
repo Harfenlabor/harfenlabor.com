@@ -49,9 +49,8 @@ Carlo Andrea Schlatter
 
 ***
 
-**Harfenlabor: selected activities**
-
-2016  
+**Harfenlabor: selected activities  
+**2016  
 December 14-16, 2016, Roma  
 [Convening](https://www.harfenlabor.com/projects/bhpconvening/) around the [Barberini Harp Project](https://www.harfenlabor.com/projects/barberini/), international symposium in cooperation with the Istituto Storico Austriaco (Andreas Gottsmann), Museo Nazionale degli Strumenti Musicali Roma (Sandra Suatoni), Mozarteum Salzburg and the Deutsche Botschaft in Rom, with contributions by harpists, harp makers, musicologists and art historians.
 
@@ -101,8 +100,8 @@ The [Zwischen den Saiten-Fest der Historischen Harfe](https://www.harfenlabor.co
 
 ***
 
-**Contact**  
-Rennweg 22  
+**Contact  
+**Rennweg 22  
 6020 Innsbruck — Österreich  
 E-Mail: [info@harfenlabor.com]()
 
