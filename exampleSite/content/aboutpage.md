@@ -33,7 +33,7 @@ Studio Armin Linke: Elena Capra, Armin Linke,
 **Web development and design**  
 Carlo Andrea Schlatter
 
-**Special thanks** for their help and advice goes to Mara Galassi, Christa Patton,
+**Special thanks** for their help and advice to Mara Galassi, Christa Patton, 
 
 ***
 
@@ -75,7 +75,7 @@ In May 2022, the launch of Harfenlabor's digital edition, of which these pages a
 
 ***
 
-**Support**  
+#### **Support**  
 Harfenlabor’s digital edition enjoys the generous support of the Senatsverwaltung für Kultur und Europa (Berlin), the Istituto Storico Austriaco a Roma and Studio Armin Linke (Berlin).
 
 The [Barberini Harp Project](https://www.harfenlabor.com/projects/barberini/) has enjoyed generous support from, in particular, the Istituto Storico Austriaco a Roma, as well as the Museo Nazionale degli Strumenti Musicali (Roma), the Thünen-Institut (Hamburg), and the Kunsthistorisches Institut in Florenz – Max-Planck-Institut.
@@ -86,14 +86,14 @@ The [Zwischen den Saiten-Fest der Historischen Harfe](https://www.harfenlabor.co
 
 ***
 
-\**Contact  
-\**Rennweg 22  
+#### **Contact**  
+Rennweg 22  
 6020 Innsbruck — Österreich  
 E-Mail: [info@harfenlabor.com]()
 
 ***
 
-**Licencing information**  
+#### **Licencing information**  
 Unless stated otherwise, the content on these pages is licenced under Creative Commons BY-NC International License 4.0.
 
 **CC BY-NC 4.0**  
@@ -109,7 +109,7 @@ This means that no copying, sharing, distribution, reuse or modification, etc. o
 
 ***
 
-**Data Protection**  
+#### **Data Protection**  
 Our website can usually be used without providing personal data. Insofar as personal data (e.g. name, address or email address) is collected on our website, this is always done on a voluntary basis as far as possible. These data will not be passed on to third parties without your express consent.
 
 We would like to point out that data transmission over the Internet (e.g. when communicating by e-mail) can have security gaps. A complete protection of the data against access by third parties is not possible.
