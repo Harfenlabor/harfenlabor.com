@@ -20,35 +20,25 @@ Margret Köll, artistic director
 Armin Linke, artistic consultant  
 Vanessa Vasić-Janeković, chief editor
 
-***
-
 **Translations**  
 Andrea Antonini, Annamaria Celeste (OEHI), Giulia Bruno, Stephen Piccolo, Sandra Perrone
-
-***
 
 **Audiovisual**  
 Giulia Bruno, editing and postproduction  
 Studio Armin Linke
 
-**Photography  
-**Studio Armin Linke: Elena Capra, Armin Linke, 
-
-***
+**Photography**  
+Studio Armin Linke: Elena Capra, Armin Linke,
 
 **Web development and design**  
 Carlo Andrea Schlatter
 
-***
-
-**Special thanks** for their help and advice goes to Mara Galassi, Christa Patton, 
+**Special thanks** for their help and advice goes to Mara Galassi, Christa Patton,
 
 **Harfenlabor: selected activities**  
 2016  
 December 14-16, 2016, Roma  
 [Convening](https://www.harfenlabor.com/projects/bhpconvening/) around the [Barberini Harp Project](https://www.harfenlabor.com/projects/barberini/), international symposium in cooperation with the Istituto Storico Austriaco (Andreas Gottsmann), Museo Nazionale degli Strumenti Musicali Roma (Sandra Suatoni), Mozarteum Salzburg and the Deutsche Botschaft in Rom, with contributions by harpists, harp makers, musicologists and art historians.
-
-***
 
 2016-2022  
 “Zwischen den Saiten,” ongoing workshops at the Tiroler Landeskonservatorium and Haus der Musik Innsbruck.
