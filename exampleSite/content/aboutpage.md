@@ -35,6 +35,8 @@ Carlo Andrea Schlatter
 
 **Special thanks** for their help and advice goes to Mara Galassi, Christa Patton,
 
+***
+
 #### **Harfenlabor: selected activities**  
 2016  
 December 14-16, 2016, Roma  
