@@ -17,7 +17,7 @@ In order to insure scientific rigour and depth of research, and strengthen the a
 
 The [Barberini Harp Project](https://www.harfenlabor.com/projects/barberini/) has benefited greatly through the strategic guidance, resources and knowledge lent it by the members of its Scientific Advisory Board:
 
-Dr. Alexandra Ziane, musicologist   
+Dr. Alexandra Ziane, musicologist  
 [Chiara Granata](https://www.chiaragranata.com/), harpist and researcher  
 Dr. [Costanza Caraffa](https://www.khi.fi.it/en/institut/mitarbeiter/caraffa-costanza.php), art historian, Head of the Photothek, Kunsthistorisches Institut in Florenz – Max-Planck-Institut  
 [Margret Köll](https://margretkoell.com), historical harpist
@@ -39,8 +39,8 @@ Andrea Antonini, Annamaria Celeste (OEHI), Giulia Bruno, Stephen Piccolo, Sandra
 
 ***
 
-**Audiovisual and photography  
-**Giulia Bruno, audiovisual postproduction
+**Audiovisual and photography**  
+Giulia Bruno, audiovisual postproduction
 
 ***
 
