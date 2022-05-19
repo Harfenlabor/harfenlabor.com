@@ -30,3 +30,5 @@ type = "Research"
 ###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
 
 ***
+
+![](/images/dif_000185_497.jpg)
