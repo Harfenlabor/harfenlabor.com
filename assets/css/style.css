@@ -74,6 +74,7 @@ h3 /*USED FOR DOI*/ {
 .aboutpage h3 {
   font-size: 1.2rem;
   line-height: 1.44rem;
+  padding-bottom: .4rem;
   border-bottom: 1px solid var(--purpleColor);
 }
 
@@ -85,10 +86,11 @@ h4 /*USED FOR TRANSLATION QUOTES*/ {
   padding-top: 0.6em;
 }
 
-.aboutpage h3 {
+.aboutpage h4 {
   font-size: 1.2rem;
   line-height: 1.44rem;
   border-top: 1px solid var(--purpleColor);
+  padding-top: .4rem;
 }
 
 h5 /*USED FOR INDENT PARAGRAPHS*/ {
