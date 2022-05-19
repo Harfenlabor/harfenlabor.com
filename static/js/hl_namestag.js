@@ -300,7 +300,7 @@ function populateWithResults(myResults){
 };
 
 function makeItInteractive(){
-  $('span').each(
+  $('span.quinome').each(
     function() {
       if (this.textContent.length <= 2) {
         $(this).css('color', 'var(--purpleColor)');
