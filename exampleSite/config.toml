@@ -106,7 +106,7 @@ themesDir = "../.."
 title = "Harfenlabor"
 [params]
 author = "Harfenlabor"
-description = "Harfenlabor is a platform for critical and open discourse on topics related to Historical Harp. Already active as an analogue network, Harfenlabor initiates and shares research, and gathers artists, scientists, harp makers, and string makers, with the aim to provoke cross-disciplinary thinking, consider the still open research questions and propose new directions. This is its digital edition: an immersive, searchable resource of scientific and artistic research."
+description = "Harfenlabor is a platform for critical and open discourse on topics related to Historical Harp. Already active as an analogue network, Harfenlabor initiates and shares research, and gathers musicians, scientists, harp makers, and string makers, with the aim to provoke cross-disciplinary thinking, consider the still open research questions and propose new directions. This is its digital edition: an immersive, searchable resource of scientific and artistic research."
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
