@@ -15,7 +15,8 @@ In order to insure scientific rigour and depth of research, and strengthen the a
 
 ***
 
-**Harfenlabor's digital platform team**  
+#### **Harfenlabor's digital platform team**
+
 Margret Köll, artistic director  
 Armin Linke, artistic consultant  
 Vanessa Vasić-Janeković, chief editor
