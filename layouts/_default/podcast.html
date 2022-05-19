@@ -14,7 +14,7 @@
           {{ $this_proj_title := .Title }}
           {{ range $.Param "Projects.projects" }}
             {{ if eq $this_proj_title .title}}
-            <p>{{ .description }}</p>
+            <p class="description_paragraph">{{ .description }}</p>
             {{ end }}
           {{ end }}
           
