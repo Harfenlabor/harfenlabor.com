@@ -15,7 +15,7 @@ In order to insure scientific rigour and depth of research, and strengthen the a
 
 ***
 
-#### **Harfenlabor's digital platform team**  
+**Harfenlabor's digital platform team**  
 Margret Köll, artistic director  
 Armin Linke, artistic consultant  
 Vanessa Vasić-Janeković, chief editor
@@ -35,7 +35,7 @@ Carlo Andrea Schlatter
 
 **Special thanks** for their help and advice goes to Mara Galassi, Christa Patton,
 
-**Harfenlabor: selected activities**  
+#### **Harfenlabor: selected activities**  
 2016  
 December 14-16, 2016, Roma  
 [Convening](https://www.harfenlabor.com/projects/bhpconvening/) around the [Barberini Harp Project](https://www.harfenlabor.com/projects/barberini/), international symposium in cooperation with the Istituto Storico Austriaco (Andreas Gottsmann), Museo Nazionale degli Strumenti Musicali Roma (Sandra Suatoni), Mozarteum Salzburg and the Deutsche Botschaft in Rom, with contributions by harpists, harp makers, musicologists and art historians.
