@@ -14,14 +14,65 @@
         {{ if or (eq .Type "News") (eq .Type "Research") }}
         <p id="this_article_type"><a href="..\"{{ .Type }}>{{ .Type }}</a></p>
         {{ end }}
-        <h1 class="this_article_title">
-        {{ if in .Title "&&" }}
-          {{ $titleLines := split .Title "&&" }}
-          {{ range $titleLines }}
-            {{ . }}
-            <br>
-          {{ end }}
-        {{ else }}{{ .Title }}{{ end }}</h1>
+
+
+        {{ if and (in .Title "<i>") (in .Title "</i>") }}
+          {{ $firstCutItalic := split .Title "<i>" }}
+          {{ $beforeItalic := index $firstCutItalic 0 }}
+
+          {{ $secondCutItalic := index $firstCutItalic 1 }}
+          {{ $italicAndAfter := split $secondCutItalic "</i>" }}
+          {{ $italic := index $italicAndAfter 0 }}
+          {{ $afterItalic := index $italicAndAfter 1 }}
+          <h1 class="this_article_title">
+          {{ if in .Title "&&" }}
+
+            {{ if in $beforeItalic "&&" }}
+              {{ $beforeItalicLines := split $beforeItalic "&&" }}
+              {{ range $beforeItalicLines }}
+                {{ . }}
+                <br>
+              {{ end }}
+              <span style="font-style: italic!important; line-height:0px">{{ $italic }}</span>
+              {{ $afterItalic }}
+            {{ end }}
+            {{ if in $italic "&&" }}
+              {{ $italicLines := split $italic "&&" }}
+              {{ $beforeItalic }}
+              <span style="font-style: italic!important; line-height:0px">
+              {{ range $italicLines }}
+                {{ . }}
+                <br>
+              {{ end }}
+              </span>
+              {{ $afterItalic }}
+            {{ end }}
+            {{ if in $afterItalic "&&" }}
+              {{ $afterItalicLines := split $afterItalic "&&" }}
+              {{ $beforeItalic }}
+              <span style="font-style: italic!important; line-height:0px">{{ $italic }}</span>
+              {{ range $afterItalicLines }}
+                {{ . }}
+                <br>
+              {{ end }}
+            {{ end }}
+
+          {{ else }}
+            {{ $beforeItalic }}
+            <span style="font-style: italic!important; line-height:0px">{{ $italic }}</span>
+            {{ $afterItalic }}
+          {{ end }}</h1>
+
+        {{ else }}
+          <h1 class="this_article_title">
+          {{ if in .Title "&&" }}
+            {{ $titleLines := split .Title "&&" }}
+            {{ range $titleLines }}
+              {{ . }}
+              <br>
+            {{ end }}
+          {{ else }}{{ .Title }}{{ end }}</h1>
+        {{ end }}
 
         <!--p id="this_article_author">.Params.author }}</p-->
         <!--Name formats: Name, Name-Name, Name Surname, Name-Name Surname-->
