@@ -30,7 +30,7 @@
 
 @font-face {
   font-family: Jungka;
-  src: url("Jungka-Book.woff2?raw=true") format("woff2");
+  /*src: url("Jungka-Book.woff2?raw=true") format("woff2");*/
   src: url("https://www.arminlinke.de/harfenlabor_com/css/Jungka-Book.woff2") format("woff2");
   font-style: normal;
 }
@@ -104,6 +104,11 @@ p {
 p a{
   text-decoration: none;
   color: var(--purpleColor);
+}
+
+.aboutpage p, .description_paragraph {
+  font-size: 1.2rem;
+  line-height: 1.44rem;
 }
 
 [scroll-behavior=smooth] {
