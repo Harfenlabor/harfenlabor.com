@@ -46,41 +46,41 @@
         {{ $italicAndAfter := split $secondCutItalic "</i>" }}
         {{ $italic := index $italicAndAfter 0 }}
         {{ $afterItalic := index $italicAndAfter 1 }}
-        <p class='articleTitle' style="color: var(--purpleColor);"><a class="list_article_title" href="{{ .Permalink }}">
+        <p class='articleTitle'><a class="list_article_title" href="{{ .Permalink }}">
         {{ if in .Title "&&" }}
 
           {{ if in $beforeItalic "&&" }}
             {{ $beforeItalicLines := split $beforeItalic "&&" }}
             {{ range $beforeItalicLines }}
-              <span class="list_article_title">{{ . }}</span>
+              <span>{{ . }}</span>
               <br>
             {{ end }}
-            <span class="list_article_title" style="font-style: italic!important">{{ $italic }}</span>
-            <span class="list_article_title">{{ $afterItalic }}</span>
+            <span style="font-style: italic!important">{{ $italic }}</span>
+            <span>{{ $afterItalic }}</span>
           {{ end }}
           {{ if in $italic "&&" }}
             {{ $italicLines := split $italic "&&" }}
-            <span class="list_article_title">{{ $beforeItalic }}</span>
+            <span>{{ $beforeItalic }}</span>
             {{ range $italicLines }}
-              <span class="list_article_title" style="font-style: italic!important">{{ . }}</span>
+              <span style="font-style: italic!important">{{ . }}</span>
               <br>
             {{ end }}
-            <span class="list_article_title">{{ $afterItalic }}</span>
+            <span>{{ $afterItalic }}</span>
           {{ end }}
           {{ if in $afterItalic "&&" }}
             {{ $afterItalicLines := split $afterItalic "&&" }}
-            <span class="list_article_title">{{ $beforeItalic }}</span>
-            <span class="list_article_title" style="font-style: italic!important">{{ $italic }}</span>
+            <span>{{ $beforeItalic }}</span>
+            <span style="font-style: italic!important">{{ $italic }}</span>
             {{ range $afterItalicLines }}
-              <span class="list_article_title">{{ . }}</span>
+              <span>{{ . }}</span>
               <br>
             {{ end }}
           {{ end }}
 
         {{ else }}
-          <span class="list_article_title">{{ $beforeItalic }}</span>
-          <span class="list_article_title" style="font-style: italic!important">{{ $italic }}</span>
-          <span class="list_article_title">{{ $afterItalic }}</span>
+          <span>{{ $beforeItalic }}</span>
+          <span style="font-style: italic!important">{{ $italic }}</span>
+          <span>{{ $afterItalic }}</span>
         {{ end }}</a></p>
 
       {{ else }}
