@@ -52,27 +52,29 @@
           {{ if in $beforeItalic "&&" }}
             {{ $beforeItalicLines := split $beforeItalic "&&" }}
             {{ range $beforeItalicLines }}
-              <span>{{ . }}</span>
+              {{ . }}
               <br>
             {{ end }}
-            <span style="font-style: italic!important">{{ $italic }}</span>
-            <span>{{ $afterItalic }}</span>
+            <span style="font-style: italic!important; line-height:0px">{{ $italic }}</span>
+            {{ $afterItalic }}
           {{ end }}
           {{ if in $italic "&&" }}
             {{ $italicLines := split $italic "&&" }}
-            <span>{{ $beforeItalic }}</span>
+            {{ $beforeItalic }}
+            <span style="font-style: italic!important; line-height:0px">
             {{ range $italicLines }}
-              <span style="font-style: italic!important">{{ . }}</span>
+              {{ . }}
               <br>
             {{ end }}
-            <span>{{ $afterItalic }}</span>
+            </span>
+            {{ $afterItalic }}
           {{ end }}
           {{ if in $afterItalic "&&" }}
             {{ $afterItalicLines := split $afterItalic "&&" }}
-            <span>{{ $beforeItalic }}</span>
-            <span style="font-style: italic!important">{{ $italic }}</span>
+            {{ $beforeItalic }}
+            <span style="font-style: italic!important; line-height:0px">{{ $italic }}</span>
             {{ range $afterItalicLines }}
-              <span>{{ . }}</span>
+              {{ . }}
               <br>
             {{ end }}
           {{ end }}
