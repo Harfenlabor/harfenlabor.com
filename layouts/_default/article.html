@@ -37,11 +37,7 @@
       </h6>
       {{ end }}
 
-      {{ if and (in .Title "<i>") (in .Title "</i>") }}
-        
-        <p>ciao</p>
-
-      {{ else }}
+      
         <p class='articleTitle'><a class="list_article_title" href="{{ .Permalink }}">
         {{ if in .Title "&&" }}
           {{ $titleLines := split .Title "&&" }}
