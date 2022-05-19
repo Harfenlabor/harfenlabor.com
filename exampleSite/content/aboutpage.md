@@ -13,7 +13,7 @@ In order to insure scientific rigour and depth of research, and strengthen the a
 
 ***
 
-#### **Harfenlabor's digital platform team**  
+#### **Harfenlabor's digital edition team**  
 Margret Köll, artistic director  
 Armin Linke, artistic consultant  
 Vanessa Vasić-Janeković, chief editor
@@ -43,12 +43,8 @@ December 14-16, 2016, Roma
 2016-2022  
 “Zwischen den Saiten,” ongoing workshops at the Tiroler Landeskonservatorium and Haus der Musik Innsbruck.
 
-***
-
 2018  
 Harfenlabor invited Thünen-Institut (Hamburg) to examine the column and other important components of the [Barberini Harp](https://www.harfenlabor.com/research/the-barberini-harp/) at the Museo Nazionale degli Strumenti Musicali, Roma, with a new 3D microscope, under the direction of Volker Haag, in order to [identify the types of wood used in the construction](https://www.harfenlabor.com/research/barberini-harp-wood-species-identification/) of this harp.
-
-***
 
 2019  
 "Investigations of the Barberini Harp," lecture at the Thünen-Institut, Institut für Holzforschung (Hamburg), by Margret Köll (Harfenlabor) and Volker Haag (Thünen-Institut).
@@ -57,8 +53,6 @@ Harfenlabor invited Thünen-Institut (Hamburg) to examine the column and other i
 
 “Barock bis Galant,” harp workshop at Studio Armin Linke (Berlin).
 
-***
-
 2021  
 “[Giovanni Girolamo Kapsperger](https://www.harfenlabor.com/research/giovanni-girolamo-kapsberger/),” online lecture with harpsichord player Anne Marie Dragosits, and lutenist Michele Pasotti, focusing on basso continuo.
 
@@ -66,10 +60,8 @@ Harfenlabor invited Thünen-Institut (Hamburg) to examine the column and other i
 
 “Haydn’s Folk Harp,” the first edition of Harfenlabor’s new biannual [Festival of Historical Harp, titled Zwischen den Saiten](https://www.harfenlabor.com/news/between-the-strings-festival-of-historical-harp-first-edition-haydn-s-folk-harp/), is an artistic-scientific duel between the Single-Action-Harp around Haydn and its Alpine counterpart, the Tyrolean Folk Harp. The festival took place November 11–14, 2021, at Haus der Musik Innsbruck and Tiroler Landesmuseen Ferdinandeum.
 
-***
-
 2022  
-In May 2022, the launch of Harfenlabor's digital edition, of which these pages are a preview.
+In May 2022, the launch of Harfenlabor's digital edition.
 
 ***
 
