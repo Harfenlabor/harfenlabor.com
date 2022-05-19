@@ -2,7 +2,7 @@
 PublishDate = 2022-05-17T23:36:00Z
 author = "Bernhard Schrammek"
 bhp_category = "Convening"
-citation = "Bernhard Schrammek, \"Report on the Convening in Roma \n14-16 December 2016,\" Harfenlabor.com, May 18, 2021, https://www.harfenlabor.com/research/international-symposium-on-the-barberini-harp-a-report/."
+citation = "Bernhard Schrammek, \"Report on the Convening in Roma \n14-16 December 2016,\" Harfenlabor.com, May 18, 2021, https://www.harfenlabor.com/research/report-on-the-convening-in-roma-14-16-december-2016/."
 description = ""
 downloads = []
 externallinks = "Granata, Chiara. “‘Un’arpa Grande Tutta Intagliata e Dorata’. New Documents on the Barberini Harp.” Recercare 27, no. 1/2 (2015): 139–64. - www.jstor.org/stable/26381197 && Museo Nazionale degli Strumenti Musicali - http://museostrumentimusicali.beniculturali.it/index.php?it/129/arpa-barberini && Istituto Storico Austriaco a Roma - https://www.austriacult.roma.it && Palazzo Barberini - https://www.barberinicorsini.org/en/ &&"
