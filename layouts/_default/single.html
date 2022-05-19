@@ -690,16 +690,17 @@
     //ITALIC IN EXTERNAL LINKS
     $('.extlinks').each(function() {
         
-        console.log(this);
+        console.log(this.innerText);
+        console.log(this.innerHTML);
 
-        /*if (this.includes("&lt;i&gt;")){
+        if (this.innerText.includes("&lt;i&gt;")){
 
           console.log("yes, ", this);
           
         } else {
           
           console.log("no, ", this);
-        }*/
+        }
 
       });
 
