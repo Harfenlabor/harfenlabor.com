@@ -39,20 +39,7 @@
 
       {{ if in .Title "<i>" }}
         
-        {{ $beforeItalic := split .Title "<i>" }}
-        {{ $italicAndAfter := split $beforeItalic "</i>" }}
-        {{ $italic := index $italicAndAfter 0 }}
-        {{ $afterItalic := index $italicAndAfter 1 }}
-        <p class='articleTitle'><a class="list_article_title" href="{{ .Permalink }}">
-        {{ if in .Title "&&" }}
-
-          <p>ciao</p>
-
-        {{ else }}
-          <span>{{ $beforeItalic }}</span>
-          <span style="font-style: italic!important">{{ $italic }}</span>
-          <span>{{ $afterItalic }}</span>
-        {{ end }}</a></p>
+        <p>ciao</p>
 
       {{ else }}
         <p class='articleTitle'><a class="list_article_title" href="{{ .Permalink }}">
