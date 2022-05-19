@@ -52,35 +52,35 @@
           {{ if in $beforeItalic "&&" }}
             {{ $beforeItalicLines := split $beforeItalic "&&" }}
             {{ range $beforeItalicLines }}
-              <span class="list_article_title">{{ . }}</span>
+              <span style="color: var(--purpleColor);">{{ . }}</span>
               <br>
             {{ end }}
-            <span class="list_article_title" style="font-style: italic!important">{{ $italic }}</span>
-            <span class="list_article_title">{{ $afterItalic }}</span>
+            <span style="color: var(--purpleColor); font-style: italic!important">{{ $italic }}</span>
+            <span style="color: var(--purpleColor);">{{ $afterItalic }}</span>
           {{ end }}
           {{ if in $italic "&&" }}
             {{ $italicLines := split $italic "&&" }}
-            <span class="list_article_title">{{ $beforeItalic }}</span>
+            <span style="color: var(--purpleColor);">{{ $beforeItalic }}</span>
             {{ range $italicLines }}
-              <span class="list_article_title" style="font-style: italic!important">{{ . }}</span>
+              <span style="color: var(--purpleColor); font-style: italic!important">{{ . }}</span>
               <br>
             {{ end }}
-            <span class="list_article_title">{{ $afterItalic }}</span>
+            <span style="color: var(--purpleColor);">{{ $afterItalic }}</span>
           {{ end }}
           {{ if in $afterItalic "&&" }}
             {{ $afterItalicLines := split $afterItalic "&&" }}
-            <span class="list_article_title">{{ $beforeItalic }}</span>
-            <span class="list_article_title" style="font-style: italic!important">{{ $italic }}</span>
+            <span style="color: var(--purpleColor);">{{ $beforeItalic }}</span>
+            <span style="color: var(--purpleColor); font-style: italic!important">{{ $italic }}</span>
             {{ range $afterItalicLines }}
-              <span class="list_article_title">{{ . }}</span>
+              <span style="color: var(--purpleColor);">{{ . }}</span>
               <br>
             {{ end }}
           {{ end }}
 
         {{ else }}
-          <span class="list_article_title">{{ $beforeItalic }}</span>
-          <span class="list_article_title" style="font-style: italic!important">{{ $italic }}</span>
-          <span class="list_article_title">{{ $afterItalic }}</span>
+          <span style="color: var(--purpleColor);">{{ $beforeItalic }}</span>
+          <span style="color: var(--purpleColor); font-style: italic!important">{{ $italic }}</span>
+          <span style="color: var(--purpleColor);">{{ $afterItalic }}</span>
         {{ end }}</a></p>
 
       {{ else }}
