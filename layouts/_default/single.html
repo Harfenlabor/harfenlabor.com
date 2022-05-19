@@ -192,7 +192,25 @@
       {{ $eachExtLink := split .Params.externallinks " && " }}
       {{ range $eachExtLink }}
         {{ $titleandlink := split . " - " }}
-        <a href="{{ index $titleandlink 1 | absURL }}"><p class="footer_insidetext extlinks" style="color: var(--purpleColor)">{{ index $titleandlink 0 }}</p></a>
+        <a href="{{ index $titleandlink 1 | absURL }}"><p class="footer_insidetext extlinks" style="color: var(--purpleColor)">
+          {{ $extlinkParag := index $titleandlink 0 }}
+
+          {{ if and (in $extlinkParag "<i>") (in $extlinkParag "</i>") }}
+            {{ $firstCut := split $extlinkParag "<i>" }}
+            {{ $beforeItalic := index $firstCut 0 }}
+            {{ $secondCut := index $firstCut 1 }}
+            {{ $italicAndAfter := split $secondCut "</i>" }}
+            {{ $italic := index $italicAndAfter 0 }}
+            {{ $afterItalic := index $italicAndAfter 1 }}
+            
+            {{ $beforeItalic }}
+            <span style="font-style: italic!important; line-height:0px">{{ $italic }}</span>
+            {{ $afterItalic }}
+            
+          {{ else }}
+            {{ $extlinkParag }}
+          {{ end }}
+        </p></a>
       {{ end }}
     </div>
   </div>
@@ -686,33 +704,6 @@
         break; //break the "for" loop
       }
     }
-
-    //ITALIC IN EXTERNAL LINKS
-    $('.extlinks').each(function() {
-        
-      //console.log(this.innerText);
-      //console.log(this.innerHTML);
-      if (this.innerText.includes("<i>")){
-
-        var firstCut = this.innerText.split('<i>');
-        var secondCut = firstCut[1].split('</i>');
-
-        console.log(firstCut[0], secondCut[0], secondCut[1]);
-
-        //this.innerHTML = firstCut[0]+"<span class='italic'>"+secondCut[0]+"</span>"+secondCut[1];
-
-        console.log("1: ", this);
-        console.log("1b: ", this.innerText);
-        /*this.innerHTML = "ciao1";
-        this.innerText = "ciao2";*/
-        console.log("2: ", firstCut[0]);
-        console.log("3: ", secondCut[0]);
-        console.log("4: ", secondCut[1]);
-
-        this.innerHTML = "";
-      }
-    });
-
   })
 
   //set video chapters
