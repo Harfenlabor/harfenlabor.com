@@ -29,9 +29,10 @@ Studio Armin Linke
 Studio Armin Linke: Elena Capra, Armin Linke,
 
 **Web development and design**  
-Carlo Andrea Schlatter
+[Carlo Andrea Schlatter]( www.schlatterca.com)  
+This website was made possible as part of a collaboration between Harfenlabor and ISIA U (Istituto Superiore per le Industrie Artistiche Urbino), with professor Armin Linke and student Carlo Andrea Schlatter. ISIA U encourages collaboration among institutions, faculty, and students in order to foster social development and cultural design. Special thanks for the development of the Harfenlabor website go to iSIA U Director Jonathan Pierini, for his extensive and fundamental contribution in overseeing the project.
 
-**Special thanks** for their help and advice to Mara Galassi, Christa Patton, 
+**Special thanks** for their help and advice  to Mara Galassi, Christa Patton, 
 
 ***
 
