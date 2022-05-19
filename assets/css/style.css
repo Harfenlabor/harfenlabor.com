@@ -71,12 +71,24 @@ h3 /*USED FOR DOI*/ {
   border-bottom: 1px solid var(--purpleColor);
 }
 
+.aboutpage h3 {
+  font-size: 1.2rem;
+  line-height: 1.44rem;
+  border-bottom: 1px solid var(--purpleColor);
+}
+
 h4 /*USED FOR TRANSLATION QUOTES*/ {
   /*font-family: Jungka;*/
   font-size: 1.5rem;
   line-height: 1.7rem;
   border-top: 1px solid var(--purpleColor);
   padding-top: 0.6em;
+}
+
+.aboutpage h3 {
+  font-size: 1.2rem;
+  line-height: 1.44rem;
+  border-top: 1px solid var(--purpleColor);
 }
 
 h5 /*USED FOR INDENT PARAGRAPHS*/ {
