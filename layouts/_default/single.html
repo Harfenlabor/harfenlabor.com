@@ -686,27 +686,30 @@
         break; //break the "for" loop
       }
     }
+
+    //ITALIC IN EXTERNAL LINKS
+    $('.extlinks').each(function() {
+        
+      //console.log(this.innerText);
+      //console.log(this.innerHTML);
+      if (this.innerText.includes("<i>")){
+
+        var firstCut = this.innerText.split('<i>');
+        var secondCut = firstCut[1].split('</i>');
+
+        console.log(firstCut[0], secondCut[0], secondCut[1]);
+
+        //this.innerHTML = firstCut[0]+"<span class='italic'>"+secondCut[0]+"</span>"+secondCut[1];
+
+        console.log("1: ", this);
+        this.innerHTML = "ciao1";
+        this.innerText = "ciao2";
+        console.log("2: ", this.innerHTML);
+        console.log("3: ", this.innerText);
+      }
+    });
+
   })
-
-  //ITALIC IN EXTERNAL LINKS
-  $('.extlinks').each(function() {
-      
-    //console.log(this.innerText);
-    //console.log(this.innerHTML);
-    if (this.innerText.includes("<i>")){
-
-      console.log("yes, ", this);
-      var firstCut = this.innerText.split('<i>');
-      var secondCut = firstCut[1].split('</i>');
-
-      console.log(firstCut[0], secondCut[0], secondCut[1]);
-
-      this.innerHTML = firstCut[0]+"<span class='italic'>"+secondCut[0]+"</span>"+secondCut[1];
-
-      this.innerHTML = "ciao1";
-      this.innerText = "ciao2"; 
-    }
-  });
 
   //set video chapters
   const iframe = document.querySelector('iframe');
