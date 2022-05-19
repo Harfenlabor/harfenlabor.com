@@ -39,8 +39,11 @@
 
       {{ if and (in .Title "<i>") (in .Title "</i>") }}
         
-        {{ $beforeItalic := split .Title "<i>" }}
-        {{ $italicAndAfter := split $beforeItalic "</i>" }}
+        {{ $firstCutItalic := split .Title "<i>" }}
+        {{ $beforeItalic := index $firstCutItalic 0 }}
+
+        {{ $secondCutItalic := index $firstCutItalic 1 }}
+        {{ $italicAndAfter := split $secondCutItalic "</i>" }}
         {{ $italic := index $italicAndAfter 0 }}
         {{ $afterItalic := index $italicAndAfter 1 }}
         <p class='articleTitle'><a class="list_article_title" href="{{ .Permalink }}">
