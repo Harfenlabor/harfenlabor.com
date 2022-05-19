@@ -52,35 +52,35 @@
           {{ if in $beforeItalic "&&" }}
             {{ $beforeItalicLines := split $beforeItalic "&&" }}
             {{ range $beforeItalicLines }}
-              <span>{{ . }}</span>
+              <span class="articleTitle">{{ . }}</span>
               <br>
             {{ end }}
-            <span style="font-style: italic!important">{{ $italic }}</span>
-            <span>{{ $afterItalic }}</span>
+            <span class="articleTitle" style="font-style: italic!important">{{ $italic }}</span>
+            <span class="articleTitle">{{ $afterItalic }}</span>
           {{ end }}
           {{ if in $italic "&&" }}
             {{ $italicLines := split $italic "&&" }}
-            <span>{{ $beforeItalic }}</span>
+            <span class="articleTitle">{{ $beforeItalic }}</span>
             {{ range $italicLines }}
-              <span style="font-style: italic!important">{{ . }}</span>
+              <span class="articleTitle" style="font-style: italic!important">{{ . }}</span>
               <br>
             {{ end }}
-            <span>{{ $afterItalic }}</span>
+            <span class="articleTitle">{{ $afterItalic }}</span>
           {{ end }}
           {{ if in $afterItalic "&&" }}
             {{ $afterItalicLines := split $afterItalic "&&" }}
-            <span>{{ $beforeItalic }}</span>
-            <span style="font-style: italic!important">{{ $italic }}</span>
+            <span class="articleTitle">{{ $beforeItalic }}</span>
+            <span class="articleTitle" style="font-style: italic!important">{{ $italic }}</span>
             {{ range $afterItalicLines }}
-              <span>{{ . }}</span>
+              <span class="articleTitle">{{ . }}</span>
               <br>
             {{ end }}
           {{ end }}
 
         {{ else }}
-          <span>{{ $beforeItalic }}</span>
-          <span style="font-style: italic!important">{{ $italic }}</span>
-          <span>{{ $afterItalic }}</span>
+          <span class="articleTitle">{{ $beforeItalic }}</span>
+          <span class="articleTitle" style="font-style: italic!important">{{ $italic }}</span>
+          <span class="articleTitle">{{ $afterItalic }}</span>
         {{ end }}</a></p>
 
       {{ else }}
