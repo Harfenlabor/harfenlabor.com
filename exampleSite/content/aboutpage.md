@@ -11,25 +11,13 @@ title = "About"
 
 Already active as an analogue network, Harfenlabor has been initiating research and gathering musicologists, scientists, conductors, singers, instrumentalists, harp makers, string makers, and others through regular workshops, masterclasses, lectures, symposia and concerts to study and reflect on sources, train in historical harp skills, research the repertory for the harp, as well as commission contemporary works for historical instruments. Harfenlabor aims to provoke cross-disciplinary thinking and consider the still open research questions and propose new directions. To strengthen the transfer of these advances to musicians and researchers, Harfenlabor will present and disseminate this valuable content on these pages, its digital edition: a comprehensive, immersive, searchable resource of scientific and artistic research on Historical Harp. Harfenlabor was initiated and founded by [Margret Köll](www.margretkoell.com) in 2016.
 
-In order to insure scientific rigour and depth of research, and strengthen the artistic and scientific aims of Harfenlabor, each of Harfenlabor's major projects is guided by a scientific advisory board.
+In order to insure scientific rigour and depth of research, and strengthen the artistic and scientific aims of Harfenlabor, each of Harfenlabor's major projects is guided by a scientific advisory board. The [Barberini Harp Project](https://www.harfenlabor.com/projects/barberini/) has benefited greatly through the strategic guidance, resources and knowledge lent it by the members of its Scientific Advisory Board: Dr. Alexandra Ziane, musicologist; [Chiara Granata](https://www.chiaragranata.com/), harpist and researcher; Dr. [Costanza Caraffa](https://www.khi.fi.it/en/institut/mitarbeiter/caraffa-costanza.php), art historian, Head of the Photothek, Kunsthistorisches Institut in Florenz – Max-Planck-Institut; and [Margret Köll](https://margretkoell.com), historical harpist.
 
 ***
 
-The [Barberini Harp Project](https://www.harfenlabor.com/projects/barberini/) has benefited greatly through the strategic guidance, resources and knowledge lent it by the members of its Scientific Advisory Board:
-
-Dr. Alexandra Ziane, musicologist  
-[Chiara Granata](https://www.chiaragranata.com/), harpist and researcher  
-Dr. [Costanza Caraffa](https://www.khi.fi.it/en/institut/mitarbeiter/caraffa-costanza.php), art historian, Head of the Photothek, Kunsthistorisches Institut in Florenz – Max-Planck-Institut  
-[Margret Köll](https://margretkoell.com), historical harpist
-
-***
-
-**Harfenlabor's digital platform team**
-
-***
-
-**Editorial**  
+**Harfenlabor's digital platform team**  
 Margret Köll, artistic director  
+Armin Linke, artistic consultant  
 Vanessa Vasić-Janeković, chief editor
 
 ***
@@ -39,8 +27,12 @@ Andrea Antonini, Annamaria Celeste (OEHI), Giulia Bruno, Stephen Piccolo, Sandra
 
 ***
 
-**Audiovisual and photography**  
-Giulia Bruno, audiovisual postproduction
+**Audiovisual**  
+Giulia Bruno, editing and postproduction  
+Studio Armin Linke
+
+**Photography  
+**Studio Armin Linke: Elena Capra, Armin Linke, 
 
 ***
 
@@ -49,8 +41,10 @@ Carlo Andrea Schlatter
 
 ***
 
-**Harfenlabor: selected activities  
-**2016  
+**Special thanks** for their help and advice goes to Mara Galassi, Christa Patton, 
+
+**Harfenlabor: selected activities**  
+2016  
 December 14-16, 2016, Roma  
 [Convening](https://www.harfenlabor.com/projects/bhpconvening/) around the [Barberini Harp Project](https://www.harfenlabor.com/projects/barberini/), international symposium in cooperation with the Istituto Storico Austriaco (Andreas Gottsmann), Museo Nazionale degli Strumenti Musicali Roma (Sandra Suatoni), Mozarteum Salzburg and the Deutsche Botschaft in Rom, with contributions by harpists, harp makers, musicologists and art historians.
 
@@ -100,8 +94,8 @@ The [Zwischen den Saiten-Fest der Historischen Harfe](https://www.harfenlabor.co
 
 ***
 
-**Contact  
-**Rennweg 22  
+\**Contact  
+\**Rennweg 22  
 6020 Innsbruck — Österreich  
 E-Mail: [info@harfenlabor.com]()
 
