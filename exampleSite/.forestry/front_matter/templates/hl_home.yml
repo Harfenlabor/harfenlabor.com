@@ -46,10 +46,9 @@ fields:
     required: false
     options:
     - Barberini Harp Project
-    - Haydn’s Folk Harp
     - Harfenlabor Lectures
-    - HL Editions
     - 'Podcast: Between the Strings'
+    - NONE
     source:
       type: simple
       section: 
