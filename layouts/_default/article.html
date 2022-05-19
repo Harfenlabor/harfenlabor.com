@@ -37,9 +37,48 @@
       </h6>
       {{ end }}
 
-      {{ if in .Title "&lti&rt" }}
+      {{ if and (in .Title "<i>") (in .Title "</i>") }}
         
-        <p>ciao</p>
+        {{ $beforeItalic := split .Title "<i>" }}
+        {{ $italicAndAfter := split $beforeItalic "</i>" }}
+        {{ $italic := index $italicAndAfter 0 }}
+        {{ $afterItalic := index $italicAndAfter 1 }}
+        <p class='articleTitle'><a class="list_article_title" href="{{ .Permalink }}">
+        {{ if in .Title "&&" }}
+
+          {{ if in $beforeItalic "&&" }}
+            {{ $beforeItalicLines := split $beforeItalic "&&" }}
+            {{ range $beforeItalicLines }}
+              <span>{{ . }}</span>
+              <br>
+            {{ end }}
+            <span style="font-style: italic!important">{{ $italic }}</span>
+            <span>{{ $afterItalic }}</span>
+          {{ end }}
+          {{ if in $italic "&&" }}
+            {{ $italicLines := split $italic "&&" }}
+            <span>{{ $beforeItalic }}</span>
+            {{ range $italicLines }}
+              <span style="font-style: italic!important">{{ . }}</span>
+              <br>
+            {{ end }}
+            <span>{{ $afterItalic }}</span>
+          {{ end }}
+          {{ if in $afterItalic "&&" }}
+            {{ $afterItalicLines := split $afterItalic "&&" }}
+            <span>{{ $beforeItalic }}</span>
+            <span style="font-style: italic!important">{{ $italic }}</span>
+            {{ range $afterItalicLines }}
+              <span>{{ . }}</span>
+              <br>
+            {{ end }}
+          {{ end }}
+
+        {{ else }}
+          <span>{{ $beforeItalic }}</span>
+          <span style="font-style: italic!important">{{ $italic }}</span>
+          <span>{{ $afterItalic }}</span>
+        {{ end }}</a></p>
 
       {{ else }}
         <p class='articleTitle'><a class="list_article_title" href="{{ .Permalink }}">
@@ -50,6 +89,7 @@
             <br>
           {{ end }}
         {{ else }}{{ .Title }}{{ end }}</a></p>
+      {{ end }}
       <p class="summarytext">{{ if .Params.summary_text }}{{ .Params.summary_text }}{{ else }}{{ .Summary }}{{ end }}</p>
       <h6 style="max-width: 100%;">{{ .PublishDate.Format "January 2, 2006" }}</a></h6>
       <a class="btn btn-transparent" href="{{ .Permalink }}">{{ i18n "readMore" }}</a>
