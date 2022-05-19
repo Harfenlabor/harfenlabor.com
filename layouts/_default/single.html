@@ -696,7 +696,7 @@
         if (this.innerText.includes("<i>")){
 
           console.log("yes, ", this);
-          var firstCut = this.Text.split('<i>');
+          var firstCut = this.innerText.split('<i>');
           var secondCut = firstCut[1].split('</i>');
 
           console.log(firstCut[0], secondCut[0], secondCut[1]);
