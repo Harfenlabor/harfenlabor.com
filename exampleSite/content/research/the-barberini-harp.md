@@ -25,3 +25,4 @@ title = "The Barberini Harp"
 type = "Research"
 
 +++
+![](/images/dif_000185_688.jpg)
