@@ -27,10 +27,6 @@ title = "Designs for Musical Instruments"
 type = "Research"
 
 +++
-***
-
-***
-
 ### Link to the original version of this article in Italian: [Disegni per strumenti musicali](https://harfenlabor.com/research/disegni-per-strumenti-musicali-1/).
 
 ***
