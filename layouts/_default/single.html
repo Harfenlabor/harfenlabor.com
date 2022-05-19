@@ -106,17 +106,19 @@
 
 {{ if eq .Type "Research" }}
 <footer id="footer_desktop">
-  <div id="footer" class="foot1">
-    <p class="footer_title footitle1">{{ .Params.project_category | safeHTML | truncate 22 }}</p>
-    <div class="footer_insidebox_1">
-      {{ $this_proj_cat := .Params.project_category }}
-      {{ range $.Param "Projects.projects" }}
-        {{ if eq $this_proj_cat .title}}
-        <p class="footer_insidetext">{{ .description }}</p>
+  {{ if ne .Params.project_category "NONE" }}
+    <div id="footer" class="foot1">
+      <p class="footer_title footitle1">{{ .Params.project_category | safeHTML | truncate 22 }}</p>
+      <div class="footer_insidebox_1">
+        {{ $this_proj_cat := .Params.project_category }}
+        {{ range $.Param "Projects.projects" }}
+          {{ if eq $this_proj_cat .title}}
+          <p class="footer_insidetext">{{ .description }}</p>
+          {{ end }}
         {{ end }}
-      {{ end }}
+      </div>
     </div>
-  </div>
+  {{ end }}
   <div id="footer" class="foot2">
     <p class="footer_title footitle2">Related Research</p>
     <div class="footer_insidebox_2">
