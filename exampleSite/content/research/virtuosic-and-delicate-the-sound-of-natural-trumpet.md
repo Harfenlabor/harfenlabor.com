@@ -2,7 +2,7 @@
 PublishDate = 2022-04-12T22:00:00Z
 author = "Andreas Lackner"
 bhp_category = ""
-citation = "\"Virtuosic and Delicate—the Sound of Natural Trumpet” with Andreas Lackner, April 13, 2022, in Between the Strings, produced by Margret Köll, podcast, MP3, 36:58, https://www.buzzsprout.com/1934249/10423076-virtuosic-and-delicate-the-sound-of-natural-trumpet.js.\n"
+citation = "\"Virtuosic and Delicate—the Sound of Natural Trumpet” with Andreas Lackner, April 13, 2022, in Between the Strings, produced by Margret Köll, podcast, MP3, 36:58, https://www.harfenlabor.com/research/virtuosic-and-delicate-the-sound-of-natural-trumpet/.\n"
 description = "Andreas Lackner, a natural trumpet pioneer and an enthusiastic teacher of his instrument from East Tyrol, talks about hitting the notes on natural trumpet, about the formative and inspiring experiences with the legendary ensemble Concentus Musicus Wien under Nikolaus Harnoncourt, and his ambitious education project, the Alpine Brass Band Academy. Lackner shares his deep appreciation of the virtuosic and delicate trumpet repertoire."
 downloads = []
 externallinks = "Encænia musices, Op. 1, Sonata No. 1: II. Con discretione - https://www.youtube.com/watch?v=r-nuTXV8jec && Alpine Brass Band Academy - https://brassbandacademy.at && Concentus Musicus Wien - https://www.concentusmusicus.com/en/ && El Sistema project - https://sistemaglobal.org/about/el-sistema-venezuela/ && \n"
