@@ -25,6 +25,10 @@ title = "The Barberini Harp"
 type = "Research"
 
 +++
+![](/images/dif_000185_593.jpg)
+
+###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
+
 ![](/images/dif_000185_688.jpg)
 
 ###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
@@ -48,9 +52,5 @@ type = "Research"
 ###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
 
 ![](/images/dif_000185_566.jpg)
-
-###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
-
-![](/images/dif_000185_593.jpg)
 
 ###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
