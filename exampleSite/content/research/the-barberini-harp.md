@@ -34,9 +34,13 @@ type = "Research"
 
 ***
 
+![](/images/dif_000185_688_b.jpg)
+
+###### DIF_000185_688 Museo Nazionale degli Strumenti Musicali, Barberini Harp and the X-ray of the harp, Rome, Italy, 2014.
+
 ![](/images/dif_000185_593_b.jpg)
 
-###### Barberini Harp, from the back, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+###### Barberini Harp, from the back, Museo Nazionale Degli Strumenti Musicali, Roma, 2014. 
 
 ***
 
