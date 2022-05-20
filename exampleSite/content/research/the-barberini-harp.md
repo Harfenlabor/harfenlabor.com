@@ -24,7 +24,7 @@ title = "The Barberini Harp"
 type = "Research"
 
 +++
-###### In 2014, the historical harpist Margret Köll invited Armin Linke to take images of the Barberini Harp as part of her research into Baroque harp and the repertoire for it.  The director of the Museo Nazionale degli Strumenti Musicali in Roma Dr. Sandra Suatoni kindly allowed for the harp to be removed from its protective glass box and photographed. In the museum room housing the harp also hang the X-ray images of the harp, in sections as well as a large composite image.
+###### In 2014, the historical harpist Margret Köll invited Armin Linke to take images of the Barberini Harp as part of her research into Baroque harp and the repertoire for it.  The director of the Museo Nazionale degli Strumenti Musicali in Roma Dr. Sandra Suatoni kindly allowed for the harp to be removed from its protective glass box and photographed. In the museum room housing the harp there also hangs large composite X-ray image of the harp.
 
 ***
 
