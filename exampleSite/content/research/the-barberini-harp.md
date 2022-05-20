@@ -149,3 +149,7 @@ type = "Research"
 ![](/images/dif_000185_675_b.jpg)
 
 ###### X-ray image of the heads and hands of the three youths' figures forming the central section of the column of the Barberini Harp. Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+
+![](/images/dif_000185_701_b.jpg)
+
+###### The Barberini Harp being taken out of its glass box. Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
