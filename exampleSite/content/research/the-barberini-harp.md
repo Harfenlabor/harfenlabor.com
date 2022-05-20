@@ -96,6 +96,12 @@ type = "Research"
 
 ***
 
+![](/images/dif_000185_650_b.jpg)
+
+###### X-ray image of a section of the soundboard of the Barberini Harp showing reinforcement braces. Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+
+***
+
 ![](/images/dif_000185_503_b.jpg)
 
 ###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
