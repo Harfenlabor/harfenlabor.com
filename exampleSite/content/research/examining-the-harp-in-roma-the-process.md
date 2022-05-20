@@ -40,6 +40,5 @@ With the generous support of the Museo Nazionale degli Strumenti Musicali, Thün
 
 ***
 
-© Armin Linke / Harfenlabor 2022.
-
-[All rights reserved.](https://harfenlabor.netlify.app/aboutpage/#allrightsreserved)
+© Armin Linke / Harfenlabor 2022  
+[All rights reserved](https://harfenlabor.netlify.app/aboutpage/#allrightsreserved)
