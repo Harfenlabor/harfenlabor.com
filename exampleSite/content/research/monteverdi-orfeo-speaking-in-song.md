@@ -37,3 +37,6 @@ type = "Research"
 Ottavio Dantone, conductor, outstanding cembalo and organ player and a basso continuo autodidact, demonstrates the power of music and word deployed by the 17th century style of singing known as recitar cantando by performing particularly relevant moments from <span id="person_tag">Claudio Monteverdi</span>´s <span id="subjects_tag">_L'Orfeo_</span>_,_ the first true opera. Dantone elaborates on what makes Monteverdi's musical language and dramaturgical approach so modern, and advocates for intuition in adapting performances to contemporary needs so as to retain a fidelity to Monteverdi's intention to convey the emotional content as faithfully as possible. Though originally intended as podcast only, this interview was also filmed so as to capture more fully the context and Dantone's performance.
 
 You can find out more about Ottavio Dantone and his ensemble Accademia Bizantina on [https://www.accademiabizantina.it](https://www.accademiabizantina.it "https://www.accademiabizantina.it").
+
+###### © Armin Linke / Harfenlabor 2022.  
+Licensed under [CC BY-NC-ND International 4.0](https://harfenlabor.netlify.app/aboutpage/#ccbyncnd)
