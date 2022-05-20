@@ -38,7 +38,7 @@ type = "Research"
 
 ![](/images/dif_000185_557_b.jpg)
 
-###### The tuning pins on the Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014. (<cap>Fig. 1</cap>).
+###### The tuning pins on the Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
 
 ![](/images/dif_000185_503_b.jpg)
 
