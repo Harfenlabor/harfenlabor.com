@@ -112,6 +112,12 @@ type = "Research"
 
 ***
 
+![](/images/dif_000185_657_b.jpg)
+
+###### X-ray of the head of the Barberini Harp showing the legs of the two putti holding the Barberini coat of arms. Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+
+***
+
 ![](/images/dif_000185_524_b.jpg)
 
 ###### The Barberini coat of arms, with the bees, on the head of the Barberini Harp. Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
