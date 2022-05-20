@@ -36,7 +36,7 @@ type = "Research"
 
 ***
 
-###### ![](/images/dif_000185_503_b.jpg)
+###### 
 
 ***
 
@@ -100,13 +100,19 @@ type = "Research"
 
 ***
 
+![](/images/dif_000185_503_b.jpg)
+
+###### The head and the top section of the column or the pillar of the Barberini Harp. At the very top sits the crown of the Prince of Palestrina, with the Golden Fleece collar. Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+
+***
+
+![](/images/dif_000185_524_b.jpg)
+
 ![](/images/dif_000185_497_b.jpg)
 
 ###### The head and the column or the pillar of the Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
 
 ***
-
-![](/images/dif_000185_524_b.jpg)
 
 ###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
 
