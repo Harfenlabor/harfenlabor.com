@@ -28,6 +28,14 @@ type = "Research"
 
 ###### Barberini Harp from the back, Museo Nazionale Degli Strumenti Musicali, Roma, 2014. (<cap>Fig. 1</cap>).
 
+***
+
+![](/images/dif_000185_550_b.jpg)
+
+###### The strings and string pins on the Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014. (<cap>Fig. 1</cap>).
+
+***
+
 ![](/images/dif_000185_503_b.jpg)
 
 ###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
