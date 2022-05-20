@@ -112,7 +112,7 @@ type = "Research"
 
 ![](/images/dif_000185_497_b.jpg)
 
-###### The head and the column or the pillar of the Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+###### The head and the top and central sections of the column or the pillar of the Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
 
 ***
 
