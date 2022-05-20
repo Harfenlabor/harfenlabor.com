@@ -50,6 +50,10 @@ type = "Research"
 
 ![](/images/dif_000185_667.jpg)
 
+###### X-ray image of the lion's head on the shoulder of the Barberini Harp, showing metal connecting the soundboard and the neck with the shoulder, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+
+***
+
 ![](/images/dif_000185_550_b.jpg)
 
 ###### The strings and string pins on the neck of the Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
