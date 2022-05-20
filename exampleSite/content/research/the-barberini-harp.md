@@ -130,9 +130,21 @@ type = "Research"
 
 ![](/images/dif_000185_654_b.jpg)
 
+###### X-ray image of the two bambini ercoli holding the head of the Barberini Harp--the top section of the column or the pillar of the harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+
+***
+
 ![](/images/dif_000185_646_b.jpg)
 
+###### This X-ray image moves down slightly, to show the legs and feet, as well as lion skin hanging from the shoulders of the two bambini ercoli holding the head of the Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+
+***
+
 ![](/images/dif_000185_644_b.jpg)
+
+###### This X-ray image moves down slightly, to show the legs and feet, as well as lion skin hanging from the shoulders of the two bambini ercoli holding the head of the Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+
+This X-ray image moves down slightly, to show the legs and feet, as well as lion skin hanging from the shoulders of the two bambini ercoli holding the head of the Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
 
 ![](/images/dif_000185_675_b.jpg)
 
