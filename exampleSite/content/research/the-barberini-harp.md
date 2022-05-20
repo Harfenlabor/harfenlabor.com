@@ -24,13 +24,13 @@ title = "The Barberini Harp"
 type = "Research"
 
 +++
-###### In 2014, the Harfenlabor founder Margret Köll invited Armin Linke to take images of the Barberini Harp at the Museo Nazionale degli Strumenti Musicali in Roma. The museum's then director Dr. Sandra Suatoni kindly allowed for the harp to be removed from its protective glass box and photographed. In the museum room housing the harp also hang the X-ray images of the harp, in sections as well as a large composite image. 
+###### In 2014, the Harfenlabor founder Margret Köll invited Armin Linke to take images of the Barberini Harp at the Museo Nazionale degli Strumenti Musicali in Roma. The museum's then director Dr. Sandra Suatoni kindly allowed for the harp to be removed from its protective glass box and photographed. In the museum room housing the harp also hang the X-ray images of the harp, in sections as well as a large composite image.
 
 ***
 
 ![](/images/dif_000185_688_b.jpg)
 
-###### The Barberini Harp with the X-ray image of the harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+###### The Barberini Harp with the X-ray image of the harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014. (<cap>1</cap>)
 
 ***
 
