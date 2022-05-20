@@ -15,12 +15,12 @@ In order to insure scientific rigour and depth of research, and strengthen the a
 
 #### **Harfenlabor's digital edition team**
 
-Margret Köll, artistic director  
+Margret Köll, artistic / research director  
 Armin Linke, artistic consultant  
-Vanessa Vasić-Janeković, chief editor
+Vanessa Vasić-Janeković, editorial director
 
 **Translations**  
-Andrea Antonini, Annamaria Celeste (OEHI), Giulia Bruno, Sandra Perrone, Stephen Piccolo
+Andrea Antonini, Giulia Bruno, Annamaria Celeste (OEHI), , Sandra Perrone, Stephen Piccolo
 
 **Audiovisual**  
 Giulia Bruno, editing and postproduction  
@@ -33,7 +33,7 @@ Studio Armin Linke: Elena Capra, Armin Linke,
 [Carlo Andrea Schlatter](www.schlatterca.com)  
 This website was made possible as part of a collaboration between Harfenlabor and ISIA U (Istituto Superiore per le Industrie Artistiche Urbino), with professor Armin Linke and student Carlo Andrea Schlatter. ISIA U encourages collaboration among institutions, faculty, and students in order to foster social development and cultural design. Special thanks for the development of the Harfenlabor website go to iSIA U Director Jonathan Pierini, for his extensive and fundamental contribution in overseeing the project.
 
-**Special thanks** for their help and advice in preparing the content for these pages go to Mara Galassi, Christa Patton,
+**Special thanks** for their help and advice in preparing the content for these pages go to Yan Bongiovanni, Laura Donati, Mara Galassi, Fabrizio Paolucci, Christa Patton, Eike Schmidt, 
 
 ***
 
@@ -72,7 +72,7 @@ In May 2022, the launch of Harfenlabor's digital edition.
 
 Harfenlabor’s digital edition enjoys the generous support of the Senatsverwaltung für Kultur und Europa (Berlin), the Istituto Storico Austriaco a Roma and Studio Armin Linke (Berlin).
 
-The [Barberini Harp Project](https://www.harfenlabor.com/projects/barberini/) has enjoyed generous support from, in particular, the [Istituto Storico Austriaco a Roma](https://www.austriacult.roma.it/istituto-storico-austriaco/) (with special thanks to Prof. dott. Andreas Gottsmann, Director); as well as the [Museo Nazionale degli Strumenti Musicali ](http://museostrumentimusicali.beniculturali.it) in Roma (with special thanks to the former director, Dr. Sandra Suatoni, as well as to Arch. Sonia Martone, the current director); to the [Thünen-Institut](https://www.thuenen.de/) in Hamburg (with special thanks to Dr. rer. nat Volker Haag), the [Gabinetto dei Disegni e delle Stampe, Gallerie degli Uffizi](https://www.uffizi.it/en/the-uffizi/prints-and-drawings) in Firenze (with special thanks to Dr. Marzia Faietti, the former director, as well as the new director of the Uffizi, Eike Schmidt, Laura Donati, the Coordinator of the Gabinetto, and Fabrizio Paolucci, the Curator of the Arte Classica delle Gallerie); and the [Kunsthistorisches Institut in Florenz – Max-Planck-Institut](https://www.khi.fi.it/) (with special thanks to Dr. Costanza Caraffa, Head of the Phototek).
+The [Barberini Harp Project](https://www.harfenlabor.com/projects/barberini/) has enjoyed generous support from, in particular, the [Istituto Storico Austriaco a Roma](https://www.austriacult.roma.it/istituto-storico-austriaco/) (with special thanks to Prof. dott. Andreas Gottsmann, Director); as well as the [Museo Nazionale degli Strumenti Musicali ](http://museostrumentimusicali.beniculturali.it) in Roma (with special thanks to the former director, Dr. Sandra Suatoni, as well as to Arch. Sonia Martone, the current director); to the [Thünen-Institut](https://www.thuenen.de/) in Hamburg (with special thanks to Dr. rer. nat Volker Haag), the [Gabinetto dei Disegni e delle Stampe, Gallerie degli Uffizi](https://www.uffizi.it/en/the-uffizi/prints-and-drawings) in Firenze (with special thanks to Dr. Marzia Faietti, the former director); and the [Kunsthistorisches Institut in Florenz – Max-Planck-Institut](https://www.khi.fi.it/) (with special thanks to Dr. Costanza Caraffa, Head of the Phototek).
 
 [Podcast: Between the Strings](https://www.harfenlabor.com/projects/podcast/) has been made possible through generous support of the Gesellschaft zur Verwertung von Leistungsschutzrechten, Berlin, through its programme Neustart Kultur.
 
