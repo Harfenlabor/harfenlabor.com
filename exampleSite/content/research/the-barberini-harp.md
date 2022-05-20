@@ -84,6 +84,18 @@ type = "Research"
 
 ***
 
+![](/images/dif_000185_615_b.jpg)
+
+###### The strings and buttons on the soundboard of the Barberini Harp, also showing a brace cover and a section of the soundbox. Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+
+***
+
+![](/images/dif_000185_619_b.jpg)
+
+###### The strings and buttons on the soundboard of the Barberini Harp, also showing a brace cover. Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+
+***
+
 ![](/images/dif_000185_503_b.jpg)
 
 ###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
