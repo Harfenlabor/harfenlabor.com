@@ -42,6 +42,14 @@ type = "Research"
 
 ***
 
+![](/images/dif_000185_542_b.jpg)
+
+###### Lion's head on the shoulder of the Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+
+***
+
+![](/images/dif_000185_667.jpg)
+
 ![](/images/dif_000185_550_b.jpg)
 
 ###### The strings and string pins on the neck of the Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
