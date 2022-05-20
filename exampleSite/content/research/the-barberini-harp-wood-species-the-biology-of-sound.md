@@ -40,8 +40,7 @@ With the generous support of the Thünen-Institut and Studio Armin Linke.
 
 ***
 
-© Armin Linke / Harfenlabor 2022.
-
+© Armin Linke / Harfenlabor 2022.  
 [All rights reserved.](https://harfenlabor.netlify.app/aboutpage/#allrightsreserved)
 
 ***
