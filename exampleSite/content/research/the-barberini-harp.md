@@ -36,9 +36,7 @@ type = "Research"
 
 ***
 
-![](/images/dif_000185_497_b.jpg)
-
-###### Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+###### ![](/images/dif_000185_503_b.jpg)
 
 ***
 
@@ -102,7 +100,9 @@ type = "Research"
 
 ***
 
-![](/images/dif_000185_503_b.jpg)
+![](/images/dif_000185_497_b.jpg)
+
+###### Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
 
 ###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
 
