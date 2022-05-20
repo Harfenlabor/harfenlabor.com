@@ -38,5 +38,5 @@ Ottavio Dantone, conductor, outstanding cembalo and organ player and a basso con
 
 You can find out more about Ottavio Dantone and his ensemble Accademia Bizantina on [https://www.accademiabizantina.it](https://www.accademiabizantina.it "https://www.accademiabizantina.it").
 
-###### © Armin Linke / Harfenlabor 2022.  
-Licensed under [CC BY-NC-ND International 4.0](https://harfenlabor.netlify.app/aboutpage/#ccbyncnd)
+© Armin Linke / Harfenlabor 2022.  
+Licensed under [CC BY-NC-ND International 4.0](https://harfenlabor.netlify.app/aboutpage/#ccbyncnd).
