@@ -32,7 +32,7 @@ type = "Research"
 
 ![](/images/dif_000185_550_b.jpg)
 
-###### The strings and string pins on the Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014. (<cap>Fig. 1</cap>).
+###### The strings and string pins on the Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
 
 ***
 
