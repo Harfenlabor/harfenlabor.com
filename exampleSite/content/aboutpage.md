@@ -20,7 +20,7 @@ Armin Linke, artistic consultant
 Vanessa Vasić-Janeković, editorial director
 
 **Translations**  
-Andrea Antonini, Giulia Bruno, Annamaria Celeste (OEHI), , Sandra Perrone, Stephen Piccolo
+Andrea Antonini, Giulia Bruno, Annamaria Celeste (OEHI), Sandra Perrone, Stephen Piccolo
 
 **Audiovisual**  
 Giulia Bruno, editing and postproduction  
