@@ -136,42 +136,16 @@ type = "Research"
 
 ![](/images/dif_000185_646_b.jpg)
 
-###### This X-ray image moves down slightly, to show the legs and feet, as well as lion skin hanging from the shoulders of the two bambini ercoli holding the head of the Barberini Harp, and the heads of the three figures making up the central section of the harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+###### Moving down the column slightly, this X-ray image shows the legs and feet of the two bambini ercoli holding the head of the Barberini Harp, as well as the paws of the lion skins hanging from their shoulders, and below them the heads of the three figures making up the central section of the harp. Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
 
 ***
 
 ![](/images/dif_000185_644_b.jpg)
 
-###### This X-ray image moves down slightly, to show the legs and feet, as well as lion skin hanging from the shoulders of the two bambini ercoli holding the head of the Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
-
-This X-ray image moves down slightly, to show the legs and feet, as well as lion skin hanging from the shoulders of the two bambini ercoli holding the head of the Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
-
-![](/images/dif_000185_675_b.jpg)
-
-###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
-
-![](/images/dif_000185_688.jpg)
-
-###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
+###### This X-ray image shows more of the central section of the column of the Barberini Harp, formed of three figures of youths, holding up the top section. Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
 
 ***
 
-![](/images/dif_000185_497.jpg)
+![](/images/dif_000185_675_b.jpg)
 
-###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
-
-![](/images/dif_000185_604.jpg)
-
-###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
-
-![](/images/dif_000185_566.jpg)
-
-###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
-
-![](/images/dif_000185_557.jpg)
-
-###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
-
-![](/images/dif_000185_566.jpg)
-
-###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
+###### X-ray image of the heads and hands of the three youths' figures forming the central section of the column of the Barberini Harp. Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
