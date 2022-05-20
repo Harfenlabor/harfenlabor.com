@@ -56,7 +56,7 @@ type = "Research"
 
 ![](/images/dif_000185_664_b.jpg)
 
-###### X-ray image of a portion of the neck, showing the string pins, tuning pins, and pinholes, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+###### X-ray image of the section of the neck leading into the shoulder, showing the string pins, tuning pins, and pinholes, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
 
 ***
 
