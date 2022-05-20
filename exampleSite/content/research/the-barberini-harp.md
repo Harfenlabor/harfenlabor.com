@@ -30,7 +30,7 @@ type = "Research"
 
 ![](/images/dif_000185_688_b.jpg)
 
-###### The Barberini Harp with the X-ray image of the harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014. (<cap>1</cap>)
+###### The Barberini Harp with the X-ray image of the harp, Museo Nazionale degli Strumenti Musicali, Roma, 2014. (<cap>1</cap>)
 
 ***
 
@@ -42,7 +42,7 @@ type = "Research"
 
 ![](/images/dif_000185_593_b.jpg)
 
-###### Barberini Harp, from the back, Museo Nazionale Degli Strumenti Musicali, Roma, 2014. 
+###### Barberini Harp, from the back. The shoulder carved in the shape of a lion's head, leads onto the neck with carved laurels, and into the head. Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
 
 ***
 
