@@ -26,7 +26,7 @@ type = "Research"
 +++
 ![](/images/dif_000185_593_b.jpg)
 
-###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 1</cap>).
+###### Barberini Harp from the back, Museo Nazionale Degli Strumenti Musicali (<cap>Fig. 1</cap>).
 
 ![](/images/dif_000185_503_b.jpg)
 
