@@ -124,19 +124,19 @@ type = "Research"
 
 ![](/images/dif_000185_497_b.jpg)
 
-###### The head and the top and central sections of the column or the pillar of the Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+###### The head, and the top and central sections of the column or the pillar of the Barberini Harp, and a view of the soundboard with the two of the sound holes and the central braces. Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
 
 ***
 
 ![](/images/dif_000185_654_b.jpg)
 
-###### X-ray image of the two bambini ercoli holding the head of the Barberini Harp--the top section of the column or the pillar of the harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+###### X-ray image of the two bambini ercoli holding the head of the Barberini Harp. The two figures form the top section of the column or the pillar of the harp. Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
 
 ***
 
 ![](/images/dif_000185_646_b.jpg)
 
-###### This X-ray image moves down slightly, to show the legs and feet, as well as lion skin hanging from the shoulders of the two bambini ercoli holding the head of the Barberini Harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+###### This X-ray image moves down slightly, to show the legs and feet, as well as lion skin hanging from the shoulders of the two bambini ercoli holding the head of the Barberini Harp, and the heads of the three figures making up the central section of the harp, Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
 
 ***
 
