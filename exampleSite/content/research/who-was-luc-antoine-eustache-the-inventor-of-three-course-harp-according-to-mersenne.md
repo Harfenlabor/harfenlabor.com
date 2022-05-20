@@ -34,7 +34,7 @@ We still do not know how the triple harp was invented or by whom. The musicologi
 
 ***
 
-© Armin Linke / Harfenlabor 2020  
+© Armin Linke / Harfenlabor 2022  
 Licensed under [CC BY-NC-ND International 4.0](https://harfenlabor.netlify.app/aboutpage/#ccbyncnd)
 
 ***
