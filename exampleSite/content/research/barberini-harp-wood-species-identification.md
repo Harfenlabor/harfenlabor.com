@@ -26,8 +26,6 @@ title = "The Barberini Harp Wood Species Identification"
 type = "Research"
 
 +++
-***
-
 ###### In December 2018, the team from the <span id="subjects_tag">Thünen-Institut</span>, <span id="subjects_tag">Institut für Holzforschung</span> transported comprehensive microscopy equipment from <span id="map_tag">Hamburg</span> to <span id="map_tag">Roma</span> for this investigation. At the heart of this equipment is a state-of-the-art <span id="subjects_tag">3D-RLM</span> (3D-reflected-light microscopy) microscope. This advanced technology enables a completely non-destructive material analysis that allows identification of the types of wood that the harp was built of. The scientists’ repertoire of tools also includes a custom computer with specialist image analysis software, as well as various eyepieces and stands for different applications. In February 2019, Thünen-Institut, Institut für Holzforschung shared their findings with Harfenlabor in the  [Thünen-Institut Wood Species Identification Report](https://www.harfenlabor.com/research/thunen-wood-species-identification-report/).
 
 ***
@@ -162,6 +160,7 @@ type = "Research"
 
 ###### Volker Haag conducts image-analytical comparison of the Barberini Harp examination material with the samples in the scientific wood collection of the Thünen-Institut, Hamburg, 2018.
 
-###### All images © Armin Linke / Harfenlabor 2020. 
+***
 
-###### Licensed under [CC BY-NC-ND International 4.0](https://harfenlabor.netlify.app/aboutpage/#ccbyncnd)
+###### All images © Armin Linke / Harfenlabor 2020.  
+Licensed under [CC BY-NC-ND International 4.0](https://harfenlabor.netlify.app/aboutpage/#ccbyncnd)
