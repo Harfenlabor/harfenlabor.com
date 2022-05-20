@@ -13,7 +13,8 @@ In order to insure scientific rigour and depth of research, and strengthen the a
 
 ***
 
-#### **Harfenlabor's digital edition team**  
+#### **Harfenlabor's digital edition team**
+
 Margret Köll, artistic director  
 Armin Linke, artistic consultant  
 Vanessa Vasić-Janeković, chief editor
@@ -29,14 +30,15 @@ Studio Armin Linke
 Studio Armin Linke: Elena Capra, Armin Linke,
 
 **Web development and design**  
-[Carlo Andrea Schlatter]( www.schlatterca.com)  
+[Carlo Andrea Schlatter](www.schlatterca.com)  
 This website was made possible as part of a collaboration between Harfenlabor and ISIA U (Istituto Superiore per le Industrie Artistiche Urbino), with professor Armin Linke and student Carlo Andrea Schlatter. ISIA U encourages collaboration among institutions, faculty, and students in order to foster social development and cultural design. Special thanks for the development of the Harfenlabor website go to iSIA U Director Jonathan Pierini, for his extensive and fundamental contribution in overseeing the project.
 
-**Special thanks** for their help and advice in preparing the content for these pages go to Mara Galassi, Christa Patton, 
+**Special thanks** for their help and advice in preparing the content for these pages go to Mara Galassi, Christa Patton,
 
 ***
 
-#### **Harfenlabor: selected activities**  
+#### **Harfenlabor: selected activities**
+
 2016  
 December 14-16, 2016, Roma  
 [Convening](https://www.harfenlabor.com/projects/bhpconvening/) around the [Barberini Harp Project](https://www.harfenlabor.com/projects/barberini/), international symposium in cooperation with the Istituto Storico Austriaco (Andreas Gottsmann), Museo Nazionale degli Strumenti Musicali Roma (Sandra Suatoni), Mozarteum Salzburg and the Deutsche Botschaft in Rom, with contributions by harpists, harp makers, musicologists and art historians.
@@ -66,10 +68,11 @@ In May 2022, the launch of Harfenlabor's digital edition.
 
 ***
 
-#### **Support**  
+#### **Support**
+
 Harfenlabor’s digital edition enjoys the generous support of the Senatsverwaltung für Kultur und Europa (Berlin), the Istituto Storico Austriaco a Roma and Studio Armin Linke (Berlin).
 
-The [Barberini Harp Project](https://www.harfenlabor.com/projects/barberini/) has enjoyed generous support from, in particular, the Istituto Storico Austriaco a Roma, as well as the Museo Nazionale degli Strumenti Musicali (Roma), the Thünen-Institut (Hamburg), and the Kunsthistorisches Institut in Florenz – Max-Planck-Institut.
+The [Barberini Harp Project](https://www.harfenlabor.com/projects/barberini/) has enjoyed generous support from, in particular, the Istituto Storico Austriaco a Roma, with special thanks to Dr. Andreas Gottsman, director; as well as the Museo Nazionale degli Strumenti Musicali (Roma), with special thanks to the former director, Dr. Sandra Suatoni, as well as to Arch. Sonia Martone, the current director; to the Thünen-Institut (Hamburg), and the Kunsthistorisches Institut in Florenz – Max-Planck-Institut.
 
 [Podcast: Between the Strings](https://www.harfenlabor.com/projects/podcast/) has been made possible through generous support of the Gesellschaft zur Verwertung von Leistungsschutzrechten, Berlin, through its programme Neustart Kultur.
 
@@ -77,14 +80,16 @@ The [Zwischen den Saiten-Fest der Historischen Harfe](https://www.harfenlabor.co
 
 ***
 
-#### **Contact**  
+#### **Contact**
+
 Rennweg 22  
 6020 Innsbruck — Österreich  
 E-Mail: [info@harfenlabor.com]()
 
 ***
 
-#### **Licencing information**  
+#### **Licencing information**
+
 Unless stated otherwise, the content on these pages is licenced under Creative Commons BY-NC International License 4.0.
 
 **CC BY-NC 4.0**  
@@ -100,7 +105,8 @@ This means that no copying, sharing, distribution, reuse or modification, etc. o
 
 ***
 
-#### **Data Protection**  
+#### **Data Protection**
+
 Our website can usually be used without providing personal data. Insofar as personal data (e.g. name, address or email address) is collected on our website, this is always done on a voluntary basis as far as possible. These data will not be passed on to third parties without your express consent.
 
 We would like to point out that data transmission over the Internet (e.g. when communicating by e-mail) can have security gaps. A complete protection of the data against access by third parties is not possible.
