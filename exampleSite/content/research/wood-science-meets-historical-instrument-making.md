@@ -24,6 +24,8 @@ title = "Wood Science Meets Historical Instrument Making"
 type = "Research"
 
 +++
+### A commentary on [Practical Examination of the Barberini Harp](https://harfenlabor.com/research/practical-examination-of-the-barberini-harp/) and [The Barberini Harp Wood Species: The Biology of Sound](https://www.harfenlabor.com/research/the-barberini-harp-wood-species-the-biology-of-sound/)
+
 ***
 
 <div class="embed-responsive embed-responsive-16by9">
