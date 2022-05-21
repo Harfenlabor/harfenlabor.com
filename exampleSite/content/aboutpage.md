@@ -31,7 +31,7 @@ Giulia Bruno, editing and postproduction
 
 **Web development and design**  
 [Carlo Andrea Schlatter](www.schlatterca.com)  
-This website was made possible as part of a collaboration between Harfenlabor and ISIA U (Istituto Superiore per le Industrie Artistiche Urbino) and is ISIA U's Carlo Andrea Schlatter's BA diploma work. with Armin Linke and student . ISIA U encourages collaboration among institutions, faculty, and students in order to foster social development and cultural design. Special thanks for the development of the Harfenlabor website go to iSIA U Director Jonathan Pierini, for his extensive and fundamental contribution in overseeing the project.
+This website was made possible through collaboration between Harfenlabor and ISIA U (Istituto Superiore per le Industrie Artistiche Urbino) and is ISIA U's Carlo Andrea Schlatter's BA diploma project, in which he was supported by Armin Linke and the iSIA U Director Jonathan Pierini (with special thanks for his extensive and fundamental contribution in overseeing the project). ISIA U encourages collaboration among institutions, faculty, and students in order to foster social development and cultural design. 
 
 **Special thanks** for their help and advice in preparing these pages go to Hannah Bader, Yann Bongiovanni, Elena Capra, Laura Donati, Mara Galassi, Giuseppe Ielasi, Thomas Nußbaumer, Fabrizio Paolucci, Christa Patton, Martina Pozzan, Eike Schmidt, Kati Simon, Paola Spagnolo
 
