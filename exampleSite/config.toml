@@ -29,12 +29,6 @@ parent = "projects"
 url = "/projects/lectures"
 weight = "2"
 [[menu.main]]
-identifier = "Podcast: Between the Strings"
-name = "Podcast: Between the Strings"
-parent = "projects"
-url = "/projects/podcast"
-weight = "3"
-[[menu.main]]
 identifier = "research"
 name = "Research"
 url = "/research"
