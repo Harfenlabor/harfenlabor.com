@@ -93,7 +93,7 @@
           {{ $beforeItalic }}
           <span style="font-style: italic!important; line-height:0px">{{ $italic }}</span>
           {{ $afterItalic }}
-        {{ end }}</a></p>
+        {{ end }}</a></h1>
 
       {{ else }}
         <h1 class='articleTitle' style="text-align: center"><a class="list_article_title" href="{{ .Permalink }}">
@@ -103,7 +103,7 @@
             {{ . }}
             <br>
           {{ end }}
-        {{ else }}{{ .Title }}{{ end }}</a></p>
+        {{ else }}{{ .Title }}{{ end }}</a></h1>
       {{ end }}
 
       <p class="summarytext">{{ if .Params.summary_text }}{{ .Params.summary_text }}{{ else }}{{ .Summary }}{{ end }}</p>
