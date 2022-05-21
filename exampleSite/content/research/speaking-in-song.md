@@ -5,6 +5,7 @@ bhp_category = ""
 citation = "\"Speaking in Song” with Ottavio Dantone, May 12, 2022, in Between the Strings, produced by Margret Köll,\npodcast, MP3, 43:08, https://www.harfenlabor.com/research/speaking-in-song/.\n"
 description = ""
 downloads = []
+draft = true
 externallinks = "Academia Bizantina - https://www.accademiabizantina.it/en/ && Il Giardino Armonico, Viaggio Musicale, playlist - https://www.youtube.com/playlist?list=OLAK5uy_ksd_AQhIPVlvjcaVrYSgs5oTdpKkMrbac && L'Orfeo conducted by Claudio Cavina - https://www.youtube.com/watch?v=Jlq5-FynRVc && L'Orfeo conducted by John Eliot Gardiner - https://open.spotify.com/album/4HCExObDtytXFTN4cpotcI &&"
 footnotes = ""
 hide_from_research = false
