@@ -54,7 +54,7 @@ The [Convening](https://harfenlabor.com/projects/bhpconvening/) began in the aft
 
 ***
 
-![](/images/screenshot-videostill-harfenlabor-steinheuer.png)
+![](/images/joachim-hold.png)
 
 ###### Istituto Storico Austriaco, three interpretations of the Barberini Harp (<cap>Fig. 3</cap>).
 
