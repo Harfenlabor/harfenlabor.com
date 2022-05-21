@@ -28,14 +28,7 @@
       {{/* .Params.show_in_news */}}
       {{/* . */}}
 
-      {{$a := where $.Site.RegularPages "Section" "news"}}
-      {{$b := where $.Site.RegularPages "Section" "research"}}
-      {{$c := $a | union $b }}
-      {{ range $c }}
-        {{ if .Params.show_in_news }}
-        {{ .Render "article_onepage" }}
-        {{ end }}
-      {{ end }}
+      <div>Test</div>
 
       <div class="col-12">
         {{ template "_internal/pagination.html" . }}
