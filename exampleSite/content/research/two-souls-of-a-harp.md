@@ -1,5 +1,5 @@
 +++
-PublishDate = 2022-05-10T22:00:00Z
+PublishDate = 2022-05-08T22:00:00Z
 author = "Marzia Faietti"
 bhp_category = "Interviews"
 citation = "Marzia Faietti, <i>Two Souls of a Harp</i>, Barberini Harp Project / Interviews, by Studio Armin Linke / Harfenlabor.com, May 11, 2022, Harfenlabor.com, MP4, 18:26, https://www.harfenlabor.com/research/two-souls-of-a-harp/."
