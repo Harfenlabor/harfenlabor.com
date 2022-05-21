@@ -1,5 +1,5 @@
 +++
-PublishDate = 2022-04-04T22:00:00Z
+PublishDate = 2022-05-14T22:00:00Z
 author = "Dinko Fabris"
 bhp_category = "Convening"
 citation = "Dinko Fabris, <i>Who was Luc Antoine Eustache, the Inventor of Three-Course Harp according to Mersenne?</i>, Barberini Harp Project / Convening, by Studio Armin Linke / Harfenlabor, April 5, 2022, Harfenlabor.com, MP4, 32:17, https://www.harfenlabor.com/research/who-was-luc-antoine-eustache-the-inventor-of-three-course-harp-according-to-mersenne/.\n"
