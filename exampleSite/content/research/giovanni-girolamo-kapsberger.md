@@ -1,5 +1,5 @@
 +++
-PublishDate = 2021-11-05T23:00:00Z
+PublishDate = 2022-05-06T22:00:00Z
 author = "Anne Marie Dragosits / Michele Pasotti"
 bhp_category = ""
 citation = "“Giovanni Girolamo Kapsberger,\" online Zoom lecture by Anne Marie Dragosits and Michele Pasotti, moderated by Margret Köll, November 5, 2021, Harfenlabor.com, Zoom recording, 02:55:57, https://www.harfenlabor.com/research/giovanni-girolamo-kapsberger/."
