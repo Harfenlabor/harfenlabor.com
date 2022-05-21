@@ -1,5 +1,5 @@
 +++
-PublishDate = 2022-05-11T22:00:00Z
+PublishDate = 2022-05-19T22:00:00Z
 author = "Mara Galassi / Dario Pontiggia"
 bhp_category = "Interviews"
 citation = "Mara Galassi and Dario Pontiggia, <i>About the Barberini Harp</i>, Barberini Harp Project / Interviews, by Studio Armin Linke / Harfenlabor, May 12, 2022, Harfenlabor.com, MP4, 10:15, https://www.harfenlabor.com/research/about-the-barberini-harp/."
