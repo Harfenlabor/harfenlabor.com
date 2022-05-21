@@ -130,29 +130,29 @@ type = "Research"
 
 ![](/images/dif_000185_654_b.jpg)
 
-###### X-ray image of the two bambini ercoli holding the head of the Barberini Harp. The two figures form the top section of the column or the pillar of the harp. Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+###### X-ray image of the two bambini ercoli holding the head of the Barberini Harp. The two figures form the top section of the column or the pillar of the harp. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
 ***
 
 ![](/images/dif_000185_646_b.jpg)
 
-###### Moving down the column slightly, this X-ray image shows the legs and feet of the two bambini ercoli holding the head of the Barberini Harp, as well as the paws of the lion skins hanging from their shoulders, and below them the heads of the three figures making up the central section of the harp. Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+###### Moving down the column slightly, this X-ray image shows the legs and feet of the two bambini ercoli holding the head of the Barberini Harp, as well as the paws of the lion skins hanging from their shoulders, and below them the heads of the three figures making up the central section of the harp. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
 ***
 
 ![](/images/dif_000185_644_b.jpg)
 
-###### This X-ray image shows more of the central section of the column of the Barberini Harp, formed of three figures of youths, holding up the top section. Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+###### This X-ray image shows more of the central section of the column of the Barberini Harp, formed of three figures of youths, holding up the top section. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
 ***
 
 ![](/images/dif_000185_675_b.jpg)
 
-###### X-ray image of the heads and hands of the three youths' figures forming the central section of the column of the Barberini Harp. Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+###### X-ray image of the heads and hands of the three youths' figures forming the central section of the column of the Barberini Harp. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
 ![](/images/dif_000185_701_b.jpg)
 
-###### The Barberini Harp being taken out of its glass box. Museo Nazionale Degli Strumenti Musicali, Roma, 2014.
+###### The Barberini Harp being taken out of its glass box. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
 ***
 
