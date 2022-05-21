@@ -1,8 +1,8 @@
 +++
-PublishDate = 2022-05-09T22:00:00Z
+PublishDate = 2022-05-20T22:00:00Z
 author = "Volker Haag / Eric Kleinmann"
 bhp_category = "Interviews"
-citation = "Volker Haag and Eric Kleinmann, <i>Wood Science Meets Historical Instrument Making</i>, Barberini Harp Project / Interviews, by Harfenlabor, May 10, 2022, Harfenlabor.com, Zoom recording, 27:52, https://www.harfenlabor.com/research/wood-science-meets-historical-instrument-making/."
+citation = "Volker Haag and Eric Kleinmann, <i>Wood Science Meets Historical Instrument Making</i>, Barberini Harp Project / Interviews, by Harfenlabor, May 21, 2022, Harfenlabor.com, Zoom recording, 27:52, https://www.harfenlabor.com/research/wood-science-meets-historical-instrument-making/."
 description = ""
 downloads = []
 externallinks = "Granata, Chiara. “‘Un’arpa Grande Tutta Intagliata e Dorata’. New Documents on the Barberini Harp.” Recercare 27, no. 1/2 (2015): 139–64. - www.jstor.org/stable/26381197 && Barberini Harp in the Museo Nazionale degli Strumenti Musicali - http://museostrumentimusicali.beniculturali.it/index.php?it/129/arpa-barberini && Thünen-Institut, Institut für Holzforschung - https://www.thuenen.de/en/hf/ && Bruni, S., Gessi, A., Lazzaroni, F. et al., “Diagnostic investigations on the Barberini harp,” - https://doi.org/10.1007/s12210-020-00894-x && Das Barberini-Harfen-Projekt - https://www.researchgate.net/publication/357242011_Das_Barberini-Harfen-Projekt_-_Untersuchungen_an_einem_Meisterwerk_aus_dem_Jahr_1630 && "
