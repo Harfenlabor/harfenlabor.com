@@ -77,8 +77,6 @@ In May 2022, the launch of Harfenlabor's digital edition.
 
 ***
 
-***
-
 #### **Contact**
 
 Rennweg 22  
