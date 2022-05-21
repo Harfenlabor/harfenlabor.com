@@ -1,5 +1,5 @@
 +++
-PublishDate = 2022-04-02T22:00:00Z
+PublishDate = 2022-04-18T22:00:00Z
 author = "Mimmo Peruffo"
 bhp_category = "Interviews"
 citation = "Mimmo Peruffo, <i>Early Music Strings</i>, Barberini Harp Project / Interviews, by Studio Armin Linke / Harfenlabor.com, May 4, 2022, Harfenlabor, MP4, 05:20, https://www.harfenlabor.com/research/early-music-strings/."
