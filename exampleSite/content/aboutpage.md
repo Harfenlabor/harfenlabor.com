@@ -14,9 +14,9 @@ In order to insure scientific rigour and depth of research, and strengthen the a
 ***
 
 #### **Harfenlabor's digital edition team  
-**  
-**Editorial**  
-Margret Köll, artistic / research director  
+  
+Editorial  
+**Margret Köll, artistic / research director  
 Vanessa Vasić-Janeković, editorial director  
 Alexandra Ziane, contributing editor
 
