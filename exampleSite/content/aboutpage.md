@@ -34,6 +34,8 @@ This website was made possible through collaboration between Harfenlabor and ISI
 
 **Special thanks** for their help and advice in preparing these pages go to Hannah Bader, Yann Bongiovanni, Elena Capra, Laura Donati, Mara Galassi, Giuseppe Ielasi, Thomas Nußbaumer, Fabrizio Paolucci, Christa Patton, Martina Pozzan, Eike Schmidt, Kati Simon, Paola Spagnolo
 
+***
+
 #### **Support**
 
 Harfenlabor’s digital edition enjoys the generous support of the Senatsverwaltung für Kultur und Europa (Berlin), the Istituto Storico Austriaco a Roma and Studio Armin Linke (Berlin).
