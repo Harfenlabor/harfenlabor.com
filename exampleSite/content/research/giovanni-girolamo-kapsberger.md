@@ -26,7 +26,9 @@ type = "Research"
 +++
 ***
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/643964471?h=edc2ee98ed&badge=0&autopause=0&player_id=0&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Harfenlabor. Anne Marie Dragosits, Michele Pasotti moderated by Margret Köll: Giovanni Girolamo Kapsberger"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="https://player.vimeo.com/video/712422769?h=6935462389" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div><div class="chapters"></div>
 
 ***
 
