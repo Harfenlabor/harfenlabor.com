@@ -1,503 +1,163 @@
-/* ========================================================================= */
-/*	CARLO SCRIPT: HOVERING SIDEBAR + FOOTER
-/* ========================================================================= */
+summaryInclude=60;
+var fuseOptions = {
+  shouldSort: true,
+  includeMatches: true,
+  threshold: 0.0,
+  tokenize:true,
+  location: 0,
+  distance: 100,
+  maxPatternLength: 32,
+  minMatchCharLength: 3,
+  keys: [
+    {name:"title",weight:0.8},
+    {name:"contents",weight:0.5},
+    {name:"tags",weight:0.3}
+  ]
+};
 
-/*var sidebar = true;
-function toggleSidebar() {
-  if (sidebar) {
-    document.getElementsByClassName("navigation")[0].style.width = "400px";
-    document.getElementsByClassName("section")[0].style.marginLeft = "400px";
+let pagesNotToRender = ["About", "Index", "Map", "Timeline", "Search", "News",
+"Mediathek", "Organology", "Performance Practice", "Musicology", "HL Editions",
+"Iconography", "Sociology of Art", "Harfenlabor lectures", "Barberini Harp Project",
+"Haydn’s Folk Harp", "Barberini Harp Project / Convening", "Timeline Pro", "Map Pro",
+"Barberini Harp Project / Examinations", "Barberini Harp Project / Interviews"];
 
-    document.getElementsByClassName("navbar-left")[0].style.marginLeft = "0px";
-    document.getElementsByClassName("navbar-brand")[0].style.marginLeft = "20px";
-    this.sidebar = false;
-  } else {
-    document.getElementsByClassName("navigation")[0].style.width = "50px";
-    document.getElementsByClassName("section")[0].style.marginLeft = "50px";
 
-    document.getElementsByClassName("navbar-left")[0].style.marginLeft = "-290px";
-    document.getElementsByClassName("navbar-brand")[0].style.marginLeft = "-30px";
-    this.sidebar = true;
+window.addEventListener('load', function () {
+  var searchQuery = param("s");
+  if(searchQuery){
+    $("#search-query").val(searchQuery);
+    executeSearch(searchQuery);
+  }else {
+    $('#search-results').append("<p>Please enter a word or phrase above</p>");
   }
-}*/
+})
 
-//MOBILE MENU
-let active = true;
-function toggleMenu(button) {
-  active =! active;
-  if (active) {
-    button.setAttribute("style", "transform: rotate(0deg)");
-    document.getElementById("navigation_mobile").style.top = "-200%";
-  } else {
-    button.setAttribute("style", "transform: rotate(45deg)");
-    document.getElementById("navigation_mobile").style.top = "0px";
-  }
-}
 
-//DESKTOP SIDEBAR
-document.getElementById('menu_lid').addEventListener('mouseover', function(e) {
-  toggleSidebar();
-});
-document.getElementById('menu_lid').addEventListener('mouseout', function(e) {
-  untoggleSidebar();
-});
 
-document.getElementById("navigation").addEventListener('mouseover', function(e) {
-  toggleSidebar();
-});
-document.getElementById("navigation").addEventListener('mouseout', function(e) {
-  untoggleSidebar();
-});
-
-function toggleSidebar() {
-  if(window.innerWidth >= 768){
-    document.getElementById("menu_lid").style.marginLeft = "calc(30em - 5px)";
-    document.getElementById("navigation").style.width = "30em";
-  }
-}
-function untoggleSidebar() {
-  if(window.innerWidth >= 768){
-    document.getElementById("menu_lid").style.marginLeft = "-5px";
-    document.getElementById("navigation").style.width = "0px";
-  }
-}
-
-//OPEN SYNOPSIS BOX
-var synopsisBoxExists = document.getElementsByClassName('open_synopsis_box')[0];
-
-if ( synopsisBoxExists ) {
-	/*document.getElementsByClassName('open_synopsis_box')[0].addEventListener('click', function(e) {
-	  toggleSynopsisBox();
-	});*/
-
-	$('.open_synopsis_box').each(
-    function() {
-    	$(this).on("click", function() {
-				toggleSynopsisBox();
-			});
+function executeSearch(searchQuery){
+  $.getJSON( "/index.json", function( data ) {
+    var pages = data;
+    var fuse = new Fuse(pages, fuseOptions);
+    var result = fuse.search(searchQuery);
+    //console.log({"matches":result});
+    document.getElementById('searchTitle').appendChild(document.createTextNode(" results for: "));
+    let searchedWords = document.createElement('span');
+    searchedWords.style.color = 'var(--purpleColor)';
+    searchedWords.style.textTransform = "capitalize";
+    let searchedWords_text = document.createTextNode(searchQuery);
+    searchedWords.appendChild(searchedWords_text);
+    document.getElementById('searchTitle').appendChild(searchedWords);
+    if(result.length > 0){
+      populateResults(result);
+    }else{
+      $('#search-results').append("<p>No matches found</p>");
     }
-  );
-
-	var synopsisboxisclosed = true;
-	function toggleSynopsisBox() {
-		if (synopsisboxisclosed) {
-			//document.getElementsByClassName('open_synopsis_box')[0].style.transform = "rotate(45deg)";
-			//document.getElementsByClassName('synopsis_box')[0].classList.add("isopen");
-			
-			$('.open_synopsis_box').css('transform', 'rotate(45deg)');
-			$('.synopsis_box').addClass('isopen');
-
-			this.synopsisboxisclosed = false;
-		} else {
-			//document.getElementsByClassName('open_synopsis_box')[0].style.transform = "rotate(0deg)";
-			//document.getElementsByClassName('synopsis_box')[0].classList.remove("isopen");
-			
-			$('.open_synopsis_box').css('transform', 'rotate(0deg)');
-			$('.synopsis_box').removeClass('isopen');
-
-			this.synopsisboxisclosed = true;
-		}
-	}
+  });
 }
 
-/*OPEN FOOTNOTES BOX*/
-var footnotesBoxExists = document.getElementsByClassName('open_footnotes_box')[0];
-
-if ( footnotesBoxExists ) {
-
-	$('.open_footnotes_box').each(
-    function() {
-    	$(this).on("click", function() {
-				toggleFootnotesBox();
-			});
-    }
-  );
-
-	var footnotesboxisclosed = true;
-	function toggleFootnotesBox() {
-		if (footnotesboxisclosed) {
-
-			$('.open_footnotes_box').css('transform', 'rotate(45deg)');
-			$('.footnotes_box').addClass('isopen_footnotes');
-
-			this.footnotesboxisclosed = false;
-		} else {
-				
-			$('.open_footnotes_box').css('transform', 'rotate(0deg)');
-			$('.footnotes_box').removeClass('isopen_footnotes');
-
-			this.footnotesboxisclosed = true;
-		}
-	}
+/*to be used for summary contents, when rendering the articles*/
+function shorten(str, maxLen, separator = ' ') {
+  if (str.length <= maxLen) return str;
+  return str.substr(0, str.lastIndexOf(separator, maxLen));
 }
 
-/*OPEN IMAGE CAPTIONS BOX*/
-var imgcaptionsBoxExists = document.getElementsByClassName('open_imgcaptions_box')[0];
+function populateResults(result){
+  $.each(result,function(key,value){
+    var contents = value.item.contents;
+    //pull template from hugo template definition
+    var templateDefinition = $('#search-result-template').html();
+    //replace values
+    var output = render(templateDefinition,{key:key,title:value.item.title,link:value.item.permalink,tags:value.item.tags,categories:value.item.categories});
+    $('#search-results').append(output);
 
-if ( imgcaptionsBoxExists ) {
-	$('.open_imgcaptions_box').each(
-    function() {
-    	$(this).on("click", function() {
-				toggleImgcaptionsBox();
-			});
-    }
-  );
-	var imgcaptionsboxisclosed = true;
-	function toggleImgcaptionsBox() {
-		if (imgcaptionsboxisclosed) {
-			$('.open_imgcaptions_box').css('transform', 'rotate(45deg)');
-			$('.imgcaptions_box').addClass('isopen_imgcaptions');
-			this.imgcaptionsboxisclosed = false;
-		} else {
-			$('.open_imgcaptions_box').css('transform', 'rotate(0deg)');
-			$('.imgcaptions_box').removeClass('isopen_imgcaptions');
-			this.imgcaptionsboxisclosed = true;
-		}
-	}
-}
+    if (pagesNotToRender.includes(this.item.title)){
+      return
+    } else {
 
-//BREAK LINES IN SYNOPSIS
-var synopsis = document.getElementsByClassName('synopsis')[0];
-if ( synopsis ) {
-	$('.synopsis').each(function() {
-		var synopsis_paragraphs = this.innerHTML.split('&amp;&amp;');
-		var paragraphBox = document.createElement('div');
-		paragraphBox.setAttribute('class', 'paragraph_box');
+      let article = document.createElement('article');
+      article.setAttribute('class', 'col-lg-4 col-md-6 col-12 clearfix wow fadeInUp mb-4');
+      article.setAttribute('data-wow-duration', '500ms');
+      /**/let postBlock = document.createElement('div');
+      postBlock.setAttribute('class', 'post-block');
+      /****/let mediaWrapper = document.createElement('div');
+      mediaWrapper.setAttribute('class', 'media-wrapper');
+      /******/let imgFluid = document.createElement('img');
+      imgFluid.setAttribute('class', 'img-fluid');
+      imgFluid.setAttribute('src', 'https://harfenlabor.netlify.app'+this.item.image);
+      /****/let content = document.createElement('div');
+      content.setAttribute('class', 'content');
+      /******/let title = document.createElement('p'); /*was h3*/
+      /********/let title_link = document.createElement('a');
+      title_link.setAttribute('href', this.item.permalink);
 
-		for (let i = 0; i < synopsis_paragraphs.length; i++) {
-			var paragraph = document.createElement('p');
-			paragraph.setAttribute('class', 'synopsis');
-			
-			if (synopsis_paragraphs[i].includes("&lt;i&gt;")){
+      //let title_link_text = document.createTextNode(this.item.title);
 
-				var first = synopsis_paragraphs[i].split('&lt;i&gt;');
-				var paragraphText_1 = document.createTextNode(first[0]);
-				paragraph.appendChild(paragraphText_1);
+      if (this.item.title.includes("&&")){
+        var title_lines = this.item.title.split("&&");
 
-				for (let j = 1; j < first.length; j++) {
-					var second = first[j].split('&lt;/i&gt;');	
+        for (let i = 0; i < title_lines.length; i++) {
+          let title_link_text = document.createTextNode(title_lines[i]);
+          title_link.appendChild(title_link_text);
+          title_link.appendChild(document.createElement('br'));
+        }
 
-					var paragraphText_2 = document.createTextNode(second[0]);
-					var italicSpan = document.createElement('span');
-					italicSpan.setAttribute('class', 'italic');
-					italicSpan.appendChild(paragraphText_2);
-					paragraph.appendChild(italicSpan);
+      } else {
+        let title_link_text = document.createTextNode(this.item.title);
+        title_link.appendChild(title_link_text);
+      }
 
-					var paragraphText_3 = document.createTextNode(second[1]);
-					paragraph.appendChild(paragraphText_3);
-				}
-				
-			} else {
-				var paragraphText = document.createTextNode(synopsis_paragraphs[i]);
-				paragraph.appendChild(paragraphText);
-			}
-			paragraphBox.appendChild(paragraph);
-		}
-		this.innerHTML="";
-		$(this).parent().append(paragraphBox);
+      title.appendChild(title_link);
+
+      /******//*let summary = document.createElement('p');
+      let summary_text = document.createTextNode(shorten(this.item.contents, 550)+'…');
+      summary.appendChild(summary_text);*/
+
+      let summary = document.createElement('p');
+      summary.innerHTML = (shorten(this.item.contents, 550)+'…');
+
+      /******/let readMore = document.createElement('a');
+      readMore.setAttribute('class', 'btn btn-transparent');
+      readMore.setAttribute('href', this.item.permalink);
+      let readMore_text = document.createTextNode("Read more");
+      readMore.appendChild(readMore_text);
+
+      mediaWrapper.append(imgFluid);
+      content.append(title);
+      content.append(summary);
+      content.append(readMore);
+      postBlock.append(mediaWrapper);
+      postBlock.append(content);
+      article.append(postBlock);
+      document.getElementById('toBePopulated').append(article);
+    }    
   });
 }
 
-//BREAK LINES IN FOOTNOTES
-var footnotes = document.getElementsByClassName('footnotes')[0];
-
-if ( footnotes ) {
-	$('.footnotes').each(function() {
-		var footnotes_paragraphs = this.innerHTML.split('&amp;&amp;');
-		var paragraphBox = document.createElement('div');
-		paragraphBox.setAttribute('class', 'paragraph_box');
-
-		for (let i = 0; i < footnotes_paragraphs.length; i++) {
-			var paragraph = document.createElement('p');
-			paragraph.setAttribute('class', 'footnotes');
-
-			if (footnotes_paragraphs[i].includes("&lt;i&gt;")){
-
-				var first = footnotes_paragraphs[i].split('&lt;i&gt;');
-				var paragraphText_1 = document.createTextNode(first[0]);
-				paragraph.appendChild(paragraphText_1);
-
-				for (let j = 1; j < first.length; j++) {
-					var second = first[j].split('&lt;/i&gt;');	
-
-					var paragraphText_2 = document.createTextNode(second[0]);
-					var italicSpan = document.createElement('span');
-					italicSpan.setAttribute('class', 'italic');
-					italicSpan.appendChild(paragraphText_2);
-					paragraph.appendChild(italicSpan);
-
-					var paragraphText_3 = document.createTextNode(second[1]);
-					paragraph.appendChild(paragraphText_3);
-				}
-				
-			} else {
-				var paragraphText = document.createTextNode(footnotes_paragraphs[i]);
-				paragraph.appendChild(paragraphText);
-			}
-
-			paragraphBox.appendChild(paragraph);
-			if (i == footnotes_paragraphs.length-1){
-				var paragraph_extraSpace = document.createElement('p');
-				var extraSpace = document.createTextNode(" ");
-				paragraph_extraSpace.setAttribute('class', 'footnotes');
-				paragraph_extraSpace.appendChild(extraSpace);
-				paragraph_extraSpace.style.whiteSpace = 'break-spaces';
-				paragraphBox.appendChild(paragraph_extraSpace);
-			}
-		}
-		this.innerHTML="";
-		$(this).parent().append(paragraphBox);
-  });
+function param(name) {
+    return decodeURIComponent((location.search.split(name + '=')[1] || '').split('&')[0]).replace(/\+/g, ' ');
 }
 
-//BREAK LINES IN IMAGE CAPTIONS
-var imgcaptions = document.getElementsByClassName('imgcaptions')[0];
-
-if ( imgcaptions ) {
-	$('.imgcaptions').each(function() {
-		var imgcaptions_paragraphs = this.innerHTML.split('&amp;&amp;');
-		var paragraphBox = document.createElement('div');
-		paragraphBox.setAttribute('class', 'paragraph_box');
-
-		for (let i = 0; i < imgcaptions_paragraphs.length; i++) {
-			var paragraph = document.createElement('p');
-			paragraph.setAttribute('class', 'imgcaptions');
-
-			if (imgcaptions_paragraphs[i].includes("&lt;i&gt;")){
-
-				var first = imgcaptions_paragraphs[i].split('&lt;i&gt;');
-				var paragraphText_1 = document.createTextNode(first[0]);
-				paragraph.appendChild(paragraphText_1);
-
-				for (let j = 1; j < first.length; j++) {
-					var second = first[j].split('&lt;/i&gt;');	
-
-					var paragraphText_2 = document.createTextNode(second[0]);
-					var italicSpan = document.createElement('span');
-					italicSpan.setAttribute('class', 'italic');
-					italicSpan.appendChild(paragraphText_2);
-					paragraph.appendChild(italicSpan);
-
-					var paragraphText_3 = document.createTextNode(second[1]);
-					paragraph.appendChild(paragraphText_3);
-				}
-				
-			} else {
-				var paragraphText = document.createTextNode(imgcaptions_paragraphs[i]);
-				paragraph.appendChild(paragraphText);
-			}
-
-			paragraphBox.appendChild(paragraph);
-			if (i == imgcaptions_paragraphs.length-1){
-				var paragraph_extraSpace = document.createElement('p');
-				var extraSpace = document.createTextNode(" ");
-				paragraph_extraSpace.setAttribute('class', 'imgcaptions');
-				paragraph_extraSpace.appendChild(extraSpace);
-				paragraph_extraSpace.style.whiteSpace = 'break-spaces';
-				paragraphBox.appendChild(paragraph_extraSpace);
-			}
-		}
-		this.innerHTML="";
-		$(this).parent().append(paragraphBox);
-  });
-}
-
-//FOOTER
-var footer = true;
-function toggleFooter(e) {
-	if (footer) {
-		e.style.width = "40vw";
-		this.footer = false;
-	} else {
-		e.style.width = "2em";
-		this.footer = true;
-	}
-}
-
-function showFooterText(e) { //CHECK ??? ###
-	var footertexts= document.querySelectorAll('.footer_text_'+e);
-	for(var i = 0; i < footertexts.length; ++i) {
-		document.getElementsByClassName("footer_text_1")[i].classList.remove('visible');
-		document.getElementsByClassName("footer_text_1")[i].classList.add('notvisible');
-	}
-}
-
-//MAKE EACH IMAGE CLICKABLE TO BE SEEN FULL SCREEN
-$('p img').addClass('img-enlargeable').click(function() {
-  var src = $(this).attr('src');
-  var modal;
-
-  function removeModal() {
-    modal.remove();
-    $('body').off('keyup.modal-close');
-  }
-  modal = $('<div>').css({
-    background: 'RGBA(0,0,0,.5) url(' + src + ') no-repeat center',
-    backgroundSize: 'contain',
-    width: '100%',
-    height: '100%',
-    position: 'fixed',
-    zIndex: '10000',
-    top: '0',
-    left: '0',
-    cursor: 'zoom-out'
-  }).click(function() {
-    removeModal();
-  }).appendTo('body');
-  //handling ESC
-  $('body').on('keyup.modal-close', function(e) {
-    if (e.key === 'Escape') {
-      removeModal();
+function render(templateString, data) {
+  var conditionalMatches,conditionalPattern,copy;
+  conditionalPattern = /\$\{\s*isset ([a-zA-Z]*) \s*\}(.*)\$\{\s*end\s*}/g;
+  //since loop below depends on re.lastInxdex, we use a copy to capture any manipulations whilst inside the loop
+  copy = templateString;
+  while ((conditionalMatches = conditionalPattern.exec(templateString)) !== null) {
+    if(data[conditionalMatches[1]]){
+      //valid key, remove conditionals, leave contents.
+      copy = copy.replace(conditionalMatches[0],conditionalMatches[2]);
+    }else{
+      //not valid, remove entire section
+      copy = copy.replace(conditionalMatches[0],'');
     }
-  });
-});
-
-
-
-
-/* ========================================================================= */
-/*	Page Preloader
-/* ========================================================================= */
-
-$(window).on('load', function () {
-	$('.preloader').fadeOut(100);
-});
-
-jQuery(function ($) {
-	"use strict";
-
-	/* ========================================================================= */
-	/*	lazy load initialize
-	/* ========================================================================= */
-
-	const observer = lozad(); // lazy loads elements with default selector as ".lozad"
-	observer.observe();
-
-	/* ========================================================================= */
-	/*	Magnific popup
-	/* =========================================================================  */
-	$('.image-popup').magnificPopup({
-		type: 'image',
-		removalDelay: 160, //delay removal by X to allow out-animation
-		callbacks: {
-			beforeOpen: function () {
-				// just a hack that adds mfp-anim class to markup
-				this.st.image.markup = this.st.image.markup.replace('mfp-figure', 'mfp-figure mfp-with-anim');
-				this.st.mainClass = this.st.el.attr('data-effect');
-			}
-		},
-		closeOnContentClick: true,
-		midClick: true,
-		fixedContentPos: false,
-		fixedBgPos: true
-	});
-
-	/* ========================================================================= */
-	/*	Portfolio Filtering Hook
-	/* =========================================================================  */
-
-	var containerEl = document.querySelector('.shuffle-wrapper');
-	if (containerEl) {
-		var Shuffle = window.Shuffle;
-		var myShuffle = new Shuffle(document.querySelector('.shuffle-wrapper'), {
-			itemSelector: '.shuffle-item',
-			buffer: 1
-		});
-
-		jQuery('input[name="shuffle-filter"]').on('change', function (evt) {
-			var input = evt.currentTarget;
-			if (input.checked) {
-				myShuffle.filter(input.value);
-			}
-		});
-	}
-
-	/* ========================================================================= */
-	/*	Testimonial Carousel
-	/* =========================================================================  */
-
-	$("#testimonials").slick({
-		infinite: true,
-		arrows: false,
-		autoplay: true,
-		autoplaySpeed: 4000
-	});
-
-	/* ========================================================================= */
-	/*	animation scroll js
-	/* ========================================================================= */
-
-
-
-	function myFunction(x) {
-		if (x.matches) {
-			var topOf = 50
-		} else {
-			var topOf = 350
-		}
-	}
-
-	var html_body = $('html, body');
-	$('nav a, .page-scroll').on('click', function () { //use page-scroll class in any HTML tag for scrolling
-		if (location.pathname.replace(/^\//, '') === this.pathname.replace(/^\//, '') && location.hostname === this.hostname) {
-			var target = $(this.hash);
-			target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-			if (target.length) {
-				html_body.animate({
-					scrollTop: target.offset().top - 50
-				}, 1500, 'easeInOutExpo');
-				return false;
-			}
-		}
-	});
-
-	// easeInOutExpo Declaration
-	jQuery.extend(jQuery.easing, {
-		easeInOutExpo: function (x, t, b, c, d) {
-			if (t === 0) {
-				return b;
-			}
-			if (t === d) {
-				return b + c;
-			}
-			if ((t /= d / 2) < 1) {
-				return c / 2 * Math.pow(2, 10 * (t - 1)) + b;
-			}
-			return c / 2 * (-Math.pow(2, -10 * --t) + 2) + b;
-		}
-	});
-
-	/* ========================================================================= */
-	/*	counter up
-	/* ========================================================================= */
-	function counter() {
-		var oTop;
-		if ($('.count').length !== 0) {
-			oTop = $('.count').offset().top - window.innerHeight;
-		}
-		if ($(window).scrollTop() > oTop) {
-			$('.count').each(function () {
-				var $this = $(this),
-					countTo = $this.attr('data-count');
-				$({
-					countNum: $this.text()
-				}).animate({
-					countNum: countTo
-				}, {
-					duration: 1000,
-					easing: 'swing',
-					step: function () {
-						$this.text(Math.floor(this.countNum));
-					},
-					complete: function () {
-						$this.text(this.countNum);
-					}
-				});
-			});
-		}
-	}
-	$(window).on('scroll', function () {
-		counter();
-	});
-
-});
+  }
+  templateString = copy;
+  //now any conditionals removed we can do simple substitution
+  var key, find, re;
+  for (key in data) {
+    find = '\\$\\{\\s*' + key + '\\s*\\}';
+    re = new RegExp(find, 'g');
+    templateString = templateString.replace(re, data[key]);
+  }
+  return templateString;
+}
