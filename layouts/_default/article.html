@@ -95,7 +95,7 @@
           {{ end }}
         {{ else }}{{ .Title }}{{ end }}</a></p>
       {{ end }}
-      <p class="summarytext">{{ if .Params.summary_text }}{{ .Params.summary_text }}{{ else }}{{ .Summary }}{{ end }}</p>
+      <p class="summarytext">{{ if .Params.summary_text }}{{ htmlUnescape .Params.summary_text }}{{ else }}{{ .Summary }}{{ end }}</p>
       <h6 style="max-width: 100%;">{{ .PublishDate.Format "January 2, 2006" }}</a></h6>
       <a class="btn btn-transparent" href="{{ .Permalink }}">{{ i18n "readMore" }}</a>
     </div>
