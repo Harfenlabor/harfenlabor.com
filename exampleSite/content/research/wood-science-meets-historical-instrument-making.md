@@ -11,7 +11,7 @@ hide_from_research = false
 image = "/images/pins-hold.png"
 imgcaptions = ""
 map_tag = ["Paris", "Hamburg", "Rangendingen", "München"]
-person_tag = ["Volker Haag", "Eric Kleinmann", "George-Frideric Handel", "Jean Robin", "Sandra Suatoni", "Antonio de-Torres", "Jakob zur-Horst-Meyer"]
+person_tag = ["Volker Haag", "Eric Kleinmann", "Jean Robin", "Sandra Suatoni", "Antonio de-Torres", "Jakob zur-Horst-Meyer", "Georg-Friedrich Händel"]
 project_category = "Barberini Harp Project"
 relatedresearch = ["Practical Examination of the Barberini Harp", "The Barberini Harp Wood Species: The Biology of Sound", "Examining the Harp in Roma: The Process", "The Barberini Harp Wood Species Identification", "Thünen-Institut Wood Species Identification Report", "What We Know, and What We still Do Not Understand about the Barberini Harp"]
 show_in_news = false
@@ -71,7 +71,7 @@ Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/abou
 
 **Haag**: Yes.
 
-**Kleinmann**: I didn’t have all the measurements at the time. In terms of construction, this harp is the same; I have the braces over the top like on the Barberini Harp, which I will come back to. I made everything as on the Barberini, it is just that the measurements are not exactly the same. Moreover, the Barberini Harp originally had C3 as the last string. Today, when you sell an Italian harp, the musician also wants to play Handel on it. The typical Handel... \[such as the Harp Concerto in B Flat Major, Op 4, No 6, HWV 294\].
+**Kleinmann**: I didn’t have all the measurements at the time. In terms of construction, this harp is the same; I have the braces over the top like on the Barberini Harp, which I will come back to. I made everything as on the Barberini, it is just that the measurements are not exactly the same. Moreover, the Barberini Harp originally had C3 as the last string. Today, when you sell an Italian harp, the musician also wants to play Händel on it. The typical Händel... \[such as the Harp Concerto in B Flat Major, Op 4, No 6, HWV 294\].
 
 **Haag**: \[00:07:51\] Something I don't know much about.
 
