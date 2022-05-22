@@ -113,7 +113,7 @@ function populateResults(result){
       summary.appendChild(summary_text);*/
 
       let summary = document.createElement('p');
-      summary.innerHTML = (shorten(this.item.contents, 550)+'…');
+      summary.innerHTML = ('shorten(this.item.contents, 550)'+'…');
 
       /******/let readMore = document.createElement('a');
       readMore.setAttribute('class', 'btn btn-transparent');
