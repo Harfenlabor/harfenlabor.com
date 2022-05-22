@@ -11,7 +11,7 @@ hide_from_research = false
 image = "/images/pins-hold.png"
 imgcaptions = ""
 map_tag = ["Paris", "Hamburg", "Rangendingen", "München"]
-person_tag = ["Volker Haag", "Eric Kleinmann", "Jean Robin", "Sandra Suatoni", "Antonio de-Torres", "Jakob zur-Horst-Meyer", "Georg-Friedrich Händel"]
+person_tag = ["Volker Haag", "Eric Kleinmann", "Jean Robin", "Sandra Suatoni", "Antonio de-Torres", "Georg-Friedrich Händel", "Jakob zur-Horst–Meyer"]
 project_category = "Barberini Harp Project"
 relatedresearch = ["Practical Examination of the Barberini Harp", "The Barberini Harp Wood Species: The Biology of Sound", "Examining the Harp in Roma: The Process", "The Barberini Harp Wood Species Identification", "Thünen-Institut Wood Species Identification Report", "What We Know, and What We still Do Not Understand about the Barberini Harp"]
 show_in_news = false
@@ -34,7 +34,7 @@ type = "Research"
 
 ***
 
-This zoom conversation between wood scientist <span id="person_tag">Volker Haag</span> and harp maker <span id="person_tag">Eric Kleinmann</span> is as much of a comment on Kleinmann’s conclusion presented in [Practical Examination of the Barberini Harp](https://harfenlabor.com/research/example-with-a-video/) as it is on Haag’s interview [The Biology of Sound](https://harfenlabor.com/research/the-barberini-harp-wood-species-the-biology-of-sound/)—a continued conversation between the two disciplines involved in the construction of historical instruments. His experience as a harp maker informed Kleinmann’s conclusion that the column of the Barberini Harp was not made of walnut, and yet, the wood science [proved him wrong](https://www.harfenlabor.com/research/thunen-wood-species-identification-report/). The way in which the harp maker came to this conclusion was illuminating for Haag, the wood scientist. In turn, as both Haag's examination and the photographs of the inside of the harp made by <span id="person_tag">Jakob zur-Horst-Meyer</span> in 2016, during the Harfenlabor-commissioned examinations of the harp, discovered that the Barberini Harp’s neck has been hollowed out at some point, it fell to an experienced harp maker such as Kleinmann to provide the likely explanation for this change.
+This zoom conversation between wood scientist <span id="person_tag">Volker Haag</span> and harp maker <span id="person_tag">Eric Kleinmann</span> is as much of a comment on Kleinmann’s conclusion presented in [Practical Examination of the Barberini Harp](https://harfenlabor.com/research/example-with-a-video/) as it is on Haag’s interview [The Biology of Sound](https://harfenlabor.com/research/the-barberini-harp-wood-species-the-biology-of-sound/)—a continued conversation between the two disciplines involved in the construction of historical instruments. His experience as a harp maker informed Kleinmann’s conclusion that the column of the Barberini Harp was not made of walnut, and yet, the wood science [proved him wrong](https://www.harfenlabor.com/research/thunen-wood-species-identification-report/). The way in which the harp maker came to this conclusion was illuminating for Haag, the wood scientist. In turn, as both Haag's examination and the photographs of the inside of the harp made by <span id="person_tag">Jakob zur Horst–Meyer</span> in 2016, during the Harfenlabor-commissioned examinations of the harp, discovered that the Barberini Harp’s neck has been hollowed out at some point, it fell to an experienced harp maker such as Kleinmann to provide the likely explanation for this change.
 
 ***
 
