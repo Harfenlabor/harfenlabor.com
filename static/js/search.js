@@ -107,10 +107,14 @@ function populateResults(result){
       }
 
       title.appendChild(title_link);
-      /******/let summary = document.createElement('p');
-      let summary_text = document.createTextNode(shorten(this.item.contents, 550)+'…');
 
-      summary.appendChild(summary_text);
+      /******//*let summary = document.createElement('p');
+      let summary_text = document.createTextNode(shorten(this.item.contents, 550)+'…');
+      summary.appendChild(summary_text);*/
+
+      let summary = document.createElement('p');
+      summary.innerHTML = ('shorten(this.item.contents, 550)'+'…');
+
       /******/let readMore = document.createElement('a');
       readMore.setAttribute('class', 'btn btn-transparent');
       readMore.setAttribute('href', this.item.permalink);
