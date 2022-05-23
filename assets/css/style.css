@@ -54,12 +54,20 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-h1,
-h2 {
+h1 {
   font-weight: 400;
   /*font-family: Jungka;*/
   font-size: 2.4rem; /*edited*/
   color: black;
+}
+
+h2 /*USED FOR "LICENSED UNDER…" TEXT AFTER A B6*/ {
+  max-width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -1.5rem;
+  margin-bottom: 1.5rem;
+  font-size: 1em;
 }
 
 h3 /*USED FOR DOI*/ {
