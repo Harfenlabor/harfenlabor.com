@@ -164,4 +164,5 @@ type = "Research"
 
 ***
 
-###### All images © Armin Linke / Harfenlabor 2020             Licensed under [CC BY-NC-ND International 4.0](https://harfenlabor.netlify.app/aboutpage/#ccbyncnd)
+###### All images © Armin Linke / Harfenlabor 2020  
+Licensed under [CC BY-NC-ND International 4.0](https://harfenlabor.netlify.app/aboutpage/#ccbyncnd)
