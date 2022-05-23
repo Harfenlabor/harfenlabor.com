@@ -89,11 +89,11 @@ E-Mail: [info@harfenlabor.com]()
 
 Unless stated otherwise, the content on these pages is licenced under Creative Commons BY-NC International License 4.0.
 
-**CC BY-NC 4.0**  
+**<span id="ccbync">CC BY-NC 4.0</span>**  
 This work is licensed under the Creative Commons BY-NC International License 4.0. To view a copy of the licence, visit [https://creativecommons.org/licenses/by-nc/4.0/legalcode](https://creativecommons.org/licenses/by-nc/4.0/legalcode "https://creativecommons.org/licenses/by-nc/4.0/legalcode").  
 This means that reuse is allowed, provided appropriate credit is given and changes are indicated. To view a summary of the licence, visit [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/ "https://creativecommons.org/licenses/by-nc/4.0/").
 
-**CC BY-NC-ND 4.0**  
+**<span id="ccbyncnd">CC BY-NC-ND 4.0</span>**  
 This work is licensed under the Creative Commons BY-NC International License 4.0. To view a copy of the licence, visit [https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode").  
 This means that sharing is allowed, provided appropriate credit is given and no changes are made. To view a summary of the licence, visit [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/ "https://creativecommons.org/licenses/by-nc-nd/4.0/").
 
