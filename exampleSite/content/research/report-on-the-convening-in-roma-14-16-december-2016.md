@@ -152,6 +152,8 @@ The afternoon lectures moved the focus back onto musico-historical topics and we
 
 ![](/images/img_8924.jpeg)
 
+###### Istituto Storico Austriaco, Convening participants (<cap>Fig. 9</cap>).
+
 ***
 
 In the final discussion, the current state of knowledge about the Barberini Harp and ideas on a possible exact replica were exchanged again. It became clear that despite the extensive technical aids such as 3-D documentation and X-rays, each of the three harp makers present would make different artistic decisions. Overall, the symposium in Roma was felt to have been very useful, informative and collegial by all participants. They indicated as very desirable a continuation of the project through an accompanying publication and the construction of an exact replica.
