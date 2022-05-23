@@ -353,6 +353,15 @@
 	line-height: 0;
 }
 
+.italic_research {
+	font-style: italic;
+	line-height: 0;
+}
+
+.summarytext i {
+	line-height: 0;
+}
+
 .open_synopsis_box {
 	color: var(--purpleColor);
 	font-size: 1.5rem;
