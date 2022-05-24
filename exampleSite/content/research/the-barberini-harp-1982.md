@@ -50,13 +50,13 @@ type = "Research"
 
 ![](/images/soundbox.jpg)
 
-###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+###### The soundbox and the soundboard of the Barberini Harp, with the slat construction of the soundboard visible. The soundboard was made of bent wood, which can also be seen in the image. Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
 ![](/images/soundboard-and-strings.jpg)
 
-###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+###### The soundboard of the Barberini Harp, with a sound hole and the brace covers showing. The buttons are arranged into three rows, each with its own row of strings. Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
