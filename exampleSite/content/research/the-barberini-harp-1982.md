@@ -38,13 +38,13 @@ type = "Research"
 
 ![](/images/strings-and-shoulder.jpg)
 
-###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+###### The strings, neck and the back of the shoulder, with the transition to the soundbox, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
 ![](/images/shoulder.jpg)
 
-###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+###### The shoulder of the Barberini Harp carved as a lion's head, and the gilded transition into the soundbox, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
