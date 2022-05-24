@@ -38,4 +38,8 @@ type = "Research"
 
 ![](/images/shoulder.jpg)
 
+![](/images/soundbox.jpg)
+
+![](/images/soundboard-and-strings.jpg)
+
 ***
