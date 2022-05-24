@@ -20,7 +20,7 @@ subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Iconography"]
 summary_text = ""
 timeline_tag = []
-title = "The Barberini Harp, 1987"
+title = "The Barberini Harp in 1987"
 type = "Research"
 
 +++
