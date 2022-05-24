@@ -52,4 +52,10 @@ type = "Research"
 
 ![](/images/soundbox-detail-copy.jpg)
 
+![](/images/base.jpg)
+
+![](/images/mara-image-bottom-harp.jpg)
+
+![](/images/columns-strings.jpg)
+
 ***
