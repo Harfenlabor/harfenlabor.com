@@ -20,8 +20,12 @@ subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Iconography"]
 summary_text = ""
 timeline_tag = []
-title = "The Barberini Harp, 1982"
+title = "The Barberini Harp, 1987"
 type = "Research"
 
 +++
 ![](/images/string-pins.jpg)
+
+###### The neck and some of the column and the shoulder of the Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+
+***
