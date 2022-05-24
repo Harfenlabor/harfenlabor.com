@@ -42,4 +42,8 @@ type = "Research"
 
 ![](/images/soundboard-and-strings.jpg)
 
+![](/images/soundboard-hole-buttons.jpg)
+
+![](/images/soundboard-detail.jpg)
+
 ***
