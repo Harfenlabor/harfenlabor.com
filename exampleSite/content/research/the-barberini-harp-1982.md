@@ -80,13 +80,13 @@ type = "Research"
 
 ![](/images/lowest-strings.jpg)
 
-###### The lowest strings of the harp in close proximity to the carvings on the very bottom section of the column. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The lowest strings of the harp in close proximity to the carvings on the lowest section of the column. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
 ![](/images/soundbox-detail-copy.jpg)
 
-###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+###### Detail of the lower part of the soundboard, showing the beveled sections it   is built out of. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
