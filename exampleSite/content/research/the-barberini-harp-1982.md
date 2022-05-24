@@ -68,7 +68,7 @@ type = "Research"
 
 ![](/images/soundboard-detail.jpg)
 
-###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+###### The lower portion of the soundboard, missing the brace covers. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
