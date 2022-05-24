@@ -5,7 +5,6 @@ bhp_category = ""
 citation = ""
 description = ""
 downloads = []
-draft = true
 externallinks = ""
 footnotes = ""
 hide_from_research = false
@@ -25,3 +24,4 @@ title = "The Barberini Harp, 1982"
 type = "Research"
 
 +++
+![](/images/string-pins.jpg)
