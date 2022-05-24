@@ -98,7 +98,7 @@ type = "Research"
 
 ![](/images/mara-image-bottom-harp.jpg)
 
-###### The lower part of the body, with the damaged sound hole, and the beginning of the column. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The lower part of the body, with the damaged sound hole, the base and the beginning of the column. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
