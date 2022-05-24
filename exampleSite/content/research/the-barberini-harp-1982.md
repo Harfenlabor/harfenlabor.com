@@ -58,4 +58,6 @@ type = "Research"
 
 ![](/images/columns-strings.jpg)
 
+![](/images/column-soundboard-copy.jpg)
+
 ***
