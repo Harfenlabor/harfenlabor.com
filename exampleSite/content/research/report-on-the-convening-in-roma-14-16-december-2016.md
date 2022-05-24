@@ -56,7 +56,7 @@ The [Convening](https://harfenlabor.com/projects/bhpconvening/) began in the aft
 
 ![](/images/joachim-hold.png)
 
-###### Istituto Storico Austriaco, three interpretations of the Barberini Harp (<cap>Fig. 3</cap>).
+###### Istituto Storico Austriaco, three interpretations of the Barberini Harp, from left: by Dario Pontiggia, David Brown and Eric Kleinmann. (<cap>Fig. 3</cap>).
 
 ***
 
