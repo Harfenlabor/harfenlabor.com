@@ -94,9 +94,9 @@ The anatomical determination of the structural features for wood species identif
 
 ![](/images/thunen-report-image-6-copy.png)
 
-###### The blue arrow points to tailpieces (<cap>Fig. 4</cap>).
+###### The blue arrow points to buttons (<cap>Fig. 4</cap>).
 
-**The examined tailpieces (6)** show full correspondence with the wood of the botanical genus
+**The examined buttons (6)** show full correspondence with the wood of the botanical genus
 
 ##### **Buxus spp. = Boxwood, box**; from the family of **BUXACEAE**.
 
