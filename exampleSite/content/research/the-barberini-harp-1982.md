@@ -48,4 +48,8 @@ type = "Research"
 
 ![](/images/soundboard-strings-detail.jpg)
 
+![](/images/lowest-strings.jpg)
+
+![](/images/soundbox-detail-copy.jpg)
+
 ***
