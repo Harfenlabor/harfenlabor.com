@@ -46,4 +46,6 @@ type = "Research"
 
 ![](/images/soundboard-detail.jpg)
 
+![](/images/soundboard-strings-detail.jpg)
+
 ***
