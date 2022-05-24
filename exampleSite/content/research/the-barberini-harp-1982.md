@@ -104,7 +104,7 @@ type = "Research"
 
 ![](/images/columns-strings.jpg)
 
-###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+###### The central section of the Barberini Harp with three figures of youths holding up a pedestal carrying the two putti. Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
