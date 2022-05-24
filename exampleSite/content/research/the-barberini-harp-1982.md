@@ -32,7 +32,7 @@ type = "Research"
 
 ![](/images/the-harp.jpg)
 
-###### The neck and some of the column and the shoulder of the Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
 
 ![](/images/strings-and-shoulder.jpg)
 
