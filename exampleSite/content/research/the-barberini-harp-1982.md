@@ -80,7 +80,7 @@ type = "Research"
 
 ![](/images/lowest-strings.jpg)
 
-###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+###### The lowest strings of the harp in close proximity to the carvings on the very bottom section of the column. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
