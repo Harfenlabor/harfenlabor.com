@@ -90,7 +90,7 @@ The art historian <span id="person_tag">Elisabetta Frullini</span> (Roma/Wien) t
 
 ![](/images/dif_000185_28_m.jpg)
 
-###### Giovanni Lanfranco, _Venere che suona l'arpa_ (<cap>Fig. 5</cap>).
+###### Giovanni Lanfranco, _Venere che suona l'arpa_ or _La Musica_ (<cap>Fig. 5</cap>).
 
 ***
 
