@@ -92,13 +92,13 @@ type = "Research"
 
 ###### ![](/images/base.jpg)
 
-###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+###### The base of the Barberini Harp, presumed to have been added in the 19th century. Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
 ![](/images/mara-image-bottom-harp.jpg)
 
-###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+###### The lower part of the body, with the damaged sound hole, and the beginning of the column. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
