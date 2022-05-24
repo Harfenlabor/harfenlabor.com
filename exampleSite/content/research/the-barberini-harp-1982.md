@@ -26,7 +26,7 @@ type = "Research"
 +++
 ![](/images/string-pins.jpg)
 
-###### The neck and some of the column and the shoulder of the Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The neck, the strings, some of the column and the top of the shoulder of the Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
@@ -34,30 +34,82 @@ type = "Research"
 
 ###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
 
+***
+
 ![](/images/strings-and-shoulder.jpg)
+
+###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+
+***
 
 ![](/images/shoulder.jpg)
 
+###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+
+***
+
 ![](/images/soundbox.jpg)
+
+###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+
+***
 
 ![](/images/soundboard-and-strings.jpg)
 
+###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+
+***
+
 ![](/images/soundboard-hole-buttons.jpg)
+
+###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+
+***
 
 ![](/images/soundboard-detail.jpg)
 
+###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+
+***
+
 ![](/images/soundboard-strings-detail.jpg)
+
+###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+
+***
 
 ![](/images/lowest-strings.jpg)
 
+###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+
+***
+
 ![](/images/soundbox-detail-copy.jpg)
 
-![](/images/base.jpg)
+###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+
+***
+
+###### ![](/images/base.jpg)
+
+###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+
+***
 
 ![](/images/mara-image-bottom-harp.jpg)
 
+###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+
+***
+
 ![](/images/columns-strings.jpg)
 
+###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+
+***
+
 ![](/images/column-soundboard-copy.jpg)
+
+###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
 
 ***
