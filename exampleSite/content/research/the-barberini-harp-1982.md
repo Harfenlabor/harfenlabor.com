@@ -62,7 +62,7 @@ type = "Research"
 
 ![](/images/soundboard-hole-buttons.jpg)
 
-###### The Barberini Harp as it was displayed when this image was taken in 1987, Museo Nazionale degli Strumenti Musicali, Roma.
+###### A closer view of the strings, buttons and brace covers on the soundboard of the Barberini Harp. Museo Nazionale degli Strumenti Musicali, Roma,  1987.
 
 ***
 
