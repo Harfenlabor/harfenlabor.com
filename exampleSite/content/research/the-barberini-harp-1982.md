@@ -24,6 +24,8 @@ title = "The Barberini Harp in 1987"
 type = "Research"
 
 +++
+Sometime ?? in 1987, the harpist and researcher Mara Galassi travelled to Roma from Palermo where she lived at the time in order to photograph the Barberini Harp at the Museo Nazionale degli Strumenti Musicali. 
+
 ![](/images/string-pins.jpg)
 
 ###### The neck, the strings, some of the column and the top of the shoulder of the Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
