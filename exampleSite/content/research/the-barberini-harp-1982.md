@@ -90,7 +90,7 @@ type = "Research"
 
 ***
 
-###### ![](/images/base.jpg)
+![](/images/base.jpg)
 
 ###### The base of the Barberini Harp, presumed to have been added in the 19th century. Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
