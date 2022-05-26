@@ -130,7 +130,7 @@ type = "Research"
 
 ***
 
-![](/images/dif_000185_688_b.jpg)
+![](/images/dif_000185_688.jpg)
 
 ###### The Barberini Harp with the X-ray image of the harp, Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
