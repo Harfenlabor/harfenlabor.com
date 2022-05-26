@@ -138,7 +138,7 @@ String maker <span id="person_tag">Mimmo Peruffo</span> (Vicenza), offered his e
 
 ***
 
-<span id="person_tag">Adam Lowe</span> from Madrid was then included in the conversation via Skype, to talk about the complex 3D scan of the Barberini Harp he made with his team from FACTUM arte. The Convening participants were able to see [an account of this process](https://vimeo.com/230969290), in a short film and  photographic prints by Studio Armin Linke, shown on the previous day. The external appearance of the instrument can be precisely reconstructed following the 3D scan.
+<span id="person_tag">Adam Lowe</span> from Madrid was then included in the conversation via Skype, to talk about the complex 3D scan of the Barberini Harp he made with his team from FACTUM arte. The Convening participants were able to see [an account of this process](https://vimeo.com/230969290/9cd27df65e), in a short film and  photographic prints by Studio Armin Linke, shown on the previous day. The external appearance of the instrument can be precisely reconstructed following the 3D scan.
 
 ***
 
