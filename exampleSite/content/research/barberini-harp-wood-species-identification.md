@@ -17,7 +17,7 @@ project_category = "Barberini Harp Project"
 relatedresearch = ["Thünen-Institut Wood Species Identification Report", "Practical Examination of the Barberini Harp", "What We Know, and What We still Do Not Understand about the Barberini Harp"]
 show_in_news = true
 status = "to be approved by author"
-subjects_tag = ["Barberini Harp", "Thünen-Institut", "Institut für Holzforschung", "3D-RLM", "Museo Nazionale degli Strumenti Musicali", "non-destructive", "non-invasive", "investigation", "imaging", "examination", "wood species investigation", "harp", "tailpiece", "macroscopic", "wood", "soundboard", "neck", "column", "structure", "microscope", "database", "surface", "identification", "button", "3D microscopic image", "wood anatomy", "anatomical wood structure", "pore", "Xylothek", "scientific wood collection", "3D-reflected-light microscopy", "macroHOLZdata", "microHOLZdata", "Institute for Wood Research", "wood surface", "digital database", "ring-porous", "diffuse-porous", "sample"]
+subjects_tag = ["Barberini Harp", "Thünen-Institut", "Institut für Holzforschung", "3D-RLM", "Museo Nazionale degli Strumenti Musicali", "non-destructive", "non-invasive", "investigation", "imaging", "examination", "wood species investigation", "harp", "macroscopic", "wood", "soundboard", "neck", "column", "structure", "microscope", "database", "surface", "identification", "button", "3D microscopic image", "wood anatomy", "anatomical wood structure", "pore", "Xylothek", "scientific wood collection", "3D-reflected-light microscopy", "macroHOLZdata", "microHOLZdata", "Institute for Wood Research", "wood surface", "digital database", "ring-porous", "diffuse-porous", "sample", "button"]
 subtype = ["Organology", "Iconography"]
 summary_text = "In December 2018, Volker Haag and Valentina Zemke from the Thünen-Institut, Institut für Holzforschung transported comprehensive microscopy equipment, including a state-of-the-art 3D-RLM (3D-reflected light microscopy) microscope from Hamburg to Roma for investigation of wood species on the Barberini Harp. This advanced technology enables completely non-destructive material analysis."
 tags = ""
@@ -64,7 +64,7 @@ type = "Research"
 
 ![](/images/2018-12-17_barbe-dav_lineup_cl_2020-06-10-10_51_53_06-still015.jpg)
 
-###### Macroscopic examination of the harp’s soundboard and tailpieces with a hand magnifier, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
+###### Macroscopic examination of the harp’s soundboard and buttons with a hand magnifier, Volker Haag, Museo Nazionale degli Strumenti Musicali, Roma, 2018.
 
 ***
 
