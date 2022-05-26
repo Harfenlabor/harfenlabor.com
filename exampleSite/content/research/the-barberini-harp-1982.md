@@ -5,7 +5,7 @@ bhp_category = ""
 citation = ""
 description = ""
 downloads = []
-externallinks = ""
+externallinks = "<i>Historical harps</i>, Heidrun Rosenzweig's edited volume on the first Early Harp conference, published in 1991 - https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=026c0667-3d8a-4cd4-bba7-3d9e004cb389&type=books&title=Historische+Harfen+%2F+Historical+harps && "
 footnotes = ""
 hide_from_research = true
 image = "/images/string-pins.jpg"
@@ -16,7 +16,7 @@ project_category = "Barberini Harp Project"
 relatedresearch = []
 show_in_news = false
 status = "draft"
-subjects_tag = []
+subjects_tag = ["Mara Galassi", "Armin Linke", "Luisa Cervelli"]
 subtype = ["Organology", "Performance Practice", "Iconography"]
 summary_text = ""
 timeline_tag = []
@@ -26,11 +26,11 @@ type = "Research"
 +++
 ***
 
-###### This double photo story brings images of the Barberini Harp made at the Museo Nazionale degli Strumenti Musicali some thirty years apart. In the meantime, the harp was restored and is now displayed under more controlled conditions. Mara Galassi's analogue images are followed by digital images taken in 2014 by Armin Linke, at Margret Köll's invitation.
+###### This double photo story brings images of the Barberini Harp made at the Museo Nazionale degli Strumenti Musicali some thirty years apart. In the meantime, the harp was restored and is now displayed under more controlled conditions. <span id="person_tag">Mara Galassi</span>'s analogue images are followed by digital images taken in 2014 by <span id="person_tag">Armin Linke</span>, at Margret Köll's invitation.
 
 ***
 
-###### Sometime in 1985 or 1986, the harpist and researcher Mara Galassi travelled to Roma from Palermo, where she was the principal harpist at the Teatro Massimo. In Palermo, Galassi was exposed to Sicilian Renaissance music, marking her turn to lifelong study and performance of Early music. Curious about the famous Barberini Harp, Galassi decided to see the instrument and photograph it. This took place shortly before the first Early Harp conference in Basel (1986), at which Galassi presented the images of the Barberini Harp shown below. The founder of the Museo Nazionale degli Strumenti Musicali, Prof. Luisa Cervelli, was also the director at the time.
+###### Sometime in 1985 or 1986, the harpist and researcher Mara Galassi travelled to Roma from Palermo, where she was the principal harpist at the Teatro Massimo. In Palermo, Galassi was exposed to Sicilian Renaissance music, marking her turn to lifelong study and performance of Early music. Curious about the famous Barberini Harp, Galassi decided to see the instrument and photograph it. This took place shortly before the first Early Harp conference in Basel (1986), at which Galassi presented the images of the Barberini Harp shown below. The founder of the Museo Nazionale degli Strumenti Musicali, Prof. <span id="person_tag">Luisa Cervelli</span>, was also the director at the time.
 
 ***
 
