@@ -5,7 +5,7 @@ bhp_category = ""
 citation = ""
 description = ""
 downloads = []
-externallinks = "<i>Historical harps</i>, Heidrun Rosenzweig's edited volume on the first Early Harp conference, published in 1991 - https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=026c0667-3d8a-4cd4-bba7-3d9e004cb389&type=books&title=Historische+Harfen+%2F+Historical+harps && "
+externallinks = "<i>Historical harps</i>, Heidrun Rosenzweig's edited volume on the first Early Harp conference, published in 1991 - https://www.forschung.schola-cantorum-basiliensis.ch/de/publikationen.html?view=detail&pubId=026c0667-3d8a-4cd4-bba7-3d9e004cb389&type=books&title=Historische+Harfen+%2F+Historical+harps && Granata, Chiara. “‘Un’arpa Grande Tutta Intagliata e Dorata’. New Documents on the Barberini Harp.\" Recercare 27, no. 1/2 (2015): 139–64. - www.jstor.org/stable/26381197 && Pontiggia, Dario. “Barberini Harp. Data Sheets.\" Recercare 27, no. 1/2 (2015): 165–84. - http://www.jstor.org/stable/26381198 && Barberini Harp in the Museo Nazionale degli Strumenti Musicali - http://museostrumentimusicali.beniculturali.it/index.php?it/129/arpa-barberini && "
 footnotes = ""
 hide_from_research = true
 image = "/images/string-pins.jpg"
