@@ -24,15 +24,9 @@ title = "The Barberini Harp in 1987"
 type = "Research"
 
 +++
-Sometime ?? in 1987, the harpist and researcher Mara Galassi travelled to Roma from Palermo where she lived at the time in order to photograph the Barberini Harp at the Museo Nazionale degli Strumenti Musicali. 
+Sometime ?? in 1985 or 1987, the harpist and researcher Mara Galassi travelled to Roma from Palermo where she was the principal harpist at the Opera House.  time in order to photograph the Barberini Harp at the Museo Nazionale degli Strumenti Musicali. The then director and the founder of the museum, Prof. Luisa Cervelli, agreed to ???
 
-I was living in Palermo at the time, so around 87? It was just before the first Harp Symposium in Basel.
-
- I will look later on the back of the fotos, tonight, if I find some date.
-
-Yes, it was already in the Museum.
-
-Director was still Dottoressa Cervelli I think.
+Galassi was working
 
 I took them out of pure personal curiousity and then I showed them at the Symposium.
 
@@ -62,7 +56,7 @@ I took them out of pure personal curiousity and then I showed them at the Sympos
 
 ![](/images/soundbox.jpg)
 
-###### The soundbox and the soundboard of the Barberini Harp, with the slat construction of the soundboard visible. The soundboard was made of bent wood, which can also be seen in the image. Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The soundbox and the soundboard of the Barberini Harp, with the stave construction of the soundboard visible. The soundboard was made of bent wood, which can also be seen in the image. Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
@@ -98,7 +92,7 @@ I took them out of pure personal curiousity and then I showed them at the Sympos
 
 ![](/images/soundbox-detail-copy.jpg)
 
-###### Detail of the lower part of the soundboard, showing the beveled sections it   is built out of. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### Detail of the lower part of the soundboard, showing the staves construction. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
