@@ -116,7 +116,7 @@ Il gruppo di putti sotto lo stemma è formato sullo strumento da due atlanti, pi
 
 ***
 
-![](/images/be30e30c-9320-4858-b50e-02f60b7d71a0.jpeg)
+![](/images/dif_000185_506.jpg)
 
 ###### Arpa Barberini, dettaglio (<cap>Fig. 9</cap>).
 
