@@ -30,7 +30,7 @@ This double photo story brings images of the Barberini Harp made at the Museo Na
 
 ![](/images/string-pins.jpg)
 
-###### The neck, the strings, some of the column and the top of the shoulder of the Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The neck, the strings, some of the column and the top of the carved shoulder of the Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1985.
 
 ***
 
