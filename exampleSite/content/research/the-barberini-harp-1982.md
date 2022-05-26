@@ -60,7 +60,7 @@ type = "Research"
 
 ![](/images/soundbox.jpg)
 
-###### This is the part that, on any harp that is being played, bears the marks of harp player's arm and shoulder: over time, the lacquer rubs off. We also see the stave construction of the soundbox, and we can just about see the curve of the soundboard, which is made of bent wood. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### This is the part that, on any harp that has been played, bears the marks of harp player's arm and shoulder: over time, the lacquer rubs off. We also see the stave construction of the soundbox, and we can just about see the curve of the soundboard, which is made of bent wood. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
