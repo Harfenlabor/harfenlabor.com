@@ -30,7 +30,7 @@ type = "Research"
 
 ***
 
-### 1985
+#### 1985
 
 ###### Sometime in 1985 or 1986, the harpist and researcher Mara Galassi travelled to Roma from Palermo, where she was the principal harpist at the Teatro Massimo. In Palermo, Galassi was exposed to Sicilian Renaissance music, marking her turn to lifelong study and performance of Early music. Curious about the famous Barberini Harp, Galassi decided to see the instrument and photograph it. This took place shortly before the first Early Harp conference in Basel (1986), at which Galassi presented the images of the Barberini Harp shown below.
 
