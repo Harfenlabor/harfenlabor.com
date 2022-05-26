@@ -172,13 +172,13 @@ type = "Research"
 
 ***
 
-![](/images/dif_000185_566_b.jpg)
+![](/images/dif_000185_566.jpg)
 
 ###### The string pins on the neck of the Barberini Harp, and carved laurels on top of the neck itself. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
 ***
 
-![](/images/dif_000185_664_b.jpg)
+![](/images/dif_000185_664.jpg)
 
 ###### X-ray image of the section of the neck leading into the shoulder, showing the string pins, tuning pins, and pinholes. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
