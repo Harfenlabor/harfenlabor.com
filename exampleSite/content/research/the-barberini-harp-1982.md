@@ -224,7 +224,7 @@ type = "Research"
 
 ###### The Barberini coat of arms, with the bees, on the head of the Barberini Harp. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
-![](/images/dif_000185_497_b.jpg)
+![](/images/dif_000185_497.jpg)
 
 ###### The head, and the top and central sections of the column or the pillar of the Barberini Harp, and a view of the soundboard with the two of the sound holes and the central braces. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
