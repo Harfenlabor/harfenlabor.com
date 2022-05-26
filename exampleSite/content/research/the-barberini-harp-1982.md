@@ -42,7 +42,7 @@ This double photo story brings images of the Barberini Harp made at the Museo Na
 
 ![](/images/strings-and-shoulder.jpg)
 
-###### The strings, neck and the back of the shoulder, with the transition to the soundbox, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The strings, neck, the shoulder, and the top of the soundbox of the Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
