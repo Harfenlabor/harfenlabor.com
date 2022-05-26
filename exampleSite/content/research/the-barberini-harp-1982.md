@@ -196,17 +196,19 @@ type = "Research"
 
 ***
 
+![](/images/dif_000185_650.jpg)
+
 ###### X-ray image of a section of the soundboard of the Barberini Harp showing reinforcement braces. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
 ***
 
-![](/images/dif_000185_503_b.jpg)
+![](/images/dif_000185_497.jpg)
 
 ###### The head and the top section of the column or the pillar of the Barberini Harp. At the very top sits the crown of the Prince of Palestrina, with the Golden Fleece collar. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
 ***
 
-![](/images/dif_000185_662_b.jpg)
+![](/images/dif_000185_662.jpg)
 
 ###### X-ray of the head of the Barberini Harp showing the metal nails and pins attaching the crown of the Prince of Palestrina with the Golden Fleece collar. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
