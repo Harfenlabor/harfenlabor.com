@@ -186,19 +186,19 @@ type = "Research"
 
 ![](/images/dif_000185_615.jpg)
 
-###### The strings and buttons on the soundboard of the Barberini Harp, also showing a brace cover and a section of the soundbox. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
+###### The strings and buttons on the soundboard of the Barberini Harp, also showing a tie cover and a section of the soundbox. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
 ***
 
 ![](/images/dif_000185_619.jpg)
 
-###### The strings and buttons on the soundboard of the Barberini Harp, also showing a brace cover. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
+###### The strings and buttons on the soundboard of the Barberini Harp, also showing a tie cover. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
 ***
 
 ![](/images/dif_000185_650.jpg)
 
-###### X-ray image of a section of the soundboard of the Barberini Harp showing reinforcement braces. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
+###### X-ray image of a section of the soundboard of the Barberini Harp showing reinforcement braces and ties. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
 ***
 
@@ -226,7 +226,7 @@ type = "Research"
 
 ![](/images/dif_000185_497.jpg)
 
-###### The head, and the top and central sections of the column or the pillar of the Barberini Harp, and a view of the soundboard with the two of the sound holes and the central braces. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
+###### The head, and the top and central sections of the column or the pillar of the Barberini Harp, and a view of the soundboard with the two of the sound holes. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
 ***
 
