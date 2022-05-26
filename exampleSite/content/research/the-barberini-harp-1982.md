@@ -24,7 +24,7 @@ title = "The Barberini Harp in 1987"
 type = "Research"
 
 +++
-This double photo story brings images of the Barberini Harp made at the Museo Nazionale degli Strumenti Musicali some thirty years apart. In the meantime, the harp was restored and is now displayed under more controlled conditions. Sometime in 1985 or 1986, the harpist and researcher Mara Galassi travelled to Roma from Palermo, where she was the principal harpist at the Teatro Massimo. In Palermo, Galassi was exposed to Sicilian Renaissance music, marking her turn to lifelong study and performance of Early music. Curious about the famous Barberini Harp, Galassi decided to see the instrument and photograph it. This took place shortly before the first Early Harp conference in Basel (1986), at which Galassi presented the images of the Barberini Harp shown below. Galassi's analogue images are followed by images taken in 2014 by Armin Linke, at Margret Köll's instigation. 
+###### This double photo story brings images of the Barberini Harp made at the Museo Nazionale degli Strumenti Musicali some thirty years apart. In the meantime, the harp was restored and is now displayed under more controlled conditions. Sometime in 1985 or 1986, the harpist and researcher Mara Galassi travelled to Roma from Palermo, where she was the principal harpist at the Teatro Massimo. In Palermo, Galassi was exposed to Sicilian Renaissance music, marking her turn to lifelong study and performance of Early music. Curious about the famous Barberini Harp, Galassi decided to see the instrument and photograph it. This took place shortly before the first Early Harp conference in Basel (1986), at which Galassi presented the images of the Barberini Harp shown below. Galassi's analogue images are followed by images taken in 2014 by Armin Linke, at Margret Köll's instigation. 
 
 ***
 
@@ -48,31 +48,31 @@ This double photo story brings images of the Barberini Harp made at the Museo Na
 
 ![](/images/shoulder.jpg)
 
-###### The shoulder of the Barberini Harp carved as a lion's head, and the gilded transition into the soundbox, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The gilded shoulder of the Barberini Harp carved as a lion's head, and the gilded decoration on the soundbox, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
 ![](/images/soundbox.jpg)
 
-###### This is the part that, on any harp that is being played, bears the marks of contact with player's arm and shoulder: the lacquer rubs off. We also see the stave construction of the soundbox, and we can just about see the curve of the soundboard, made of bent wood. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### This is the part that, on any harp that is being played, bears the marks of harp player's arm and shoulder: over time, the lacquer rubs off. We also see the stave construction of the soundbox, and we can just about see the curve of the soundboard, which is made of bent wood. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
 ![](/images/soundboard-and-strings.jpg)
 
-###### The soundboard of the Barberini Harp, with a sound hole and the brace covers showing. The buttons are arranged into three rows, each with its own row of strings. Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The soundboard of the Barberini Harp, with a sound hole and the tie covers showing. The buttons are arranged into three rows, each with its own row of strings. Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
 ![](/images/soundboard-hole-buttons.jpg)
 
-###### A closer view of the strings, buttons and brace covers on the soundboard of the Barberini Harp. Museo Nazionale degli Strumenti Musicali, Roma,  1987.
+###### A closer view of the strings, buttons and tie covers on the soundboard of the Barberini Harp. Museo Nazionale degli Strumenti Musicali, Roma,  1987.
 
 ***
 
 ![](/images/soundboard-detail.jpg)
 
-###### The lower portion of the soundboard, missing the brace covers. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The lower portion of the soundboard, missing the tie covers. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
@@ -90,7 +90,7 @@ This double photo story brings images of the Barberini Harp made at the Museo Na
 
 ![](/images/soundbox-detail-copy.jpg)
 
-###### Detail of the lower part of the soundboard, showing the staves construction. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### Detail of the lower part of the soundboard, showing the stave construction. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
