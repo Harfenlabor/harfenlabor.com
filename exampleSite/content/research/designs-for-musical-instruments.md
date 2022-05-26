@@ -199,7 +199,7 @@ The proposal to attribute the conception and design of the Barberini Harp to Sor
 
 ###### Ringbeck, Birgitta. _Giovanni Battista Soria Architekt Scipione Borgheses_. Münster: Lit, 1989.
 
-###### Roser, Hannes. “Sankt Peter in den Sacri trofei romani des Francesco Maria Torrigio_._" In _Sankt Peter in Rom 1506 – 2006. Beiträge der internationalen Tagung vom 22. – 25. Februar 2006 in Bonn_, edited by Georg Satzinger and Sebastian Schütze,  257-273, 271, fig. 10. München: Hirmer, 2008.
+###### Roser, Hannes. “Sankt Peter in den Sacri trofei romani des Francesco Maria Torrigio." In _Sankt Peter in Rom 1506 – 2006. Beiträge der internationalen Tagung vom 22. – 25. Februar 2006 in Bonn_, edited by Georg Satzinger and Sebastian Schütze,  257-273, 271, fig. 10. München: Hirmer, 2008.
 
 ###### Schleier, Erich, ed. _Disegni di Giovanni Lanfranco (1582 – 1647)_. Firenze: Olschki, 1983.
 
