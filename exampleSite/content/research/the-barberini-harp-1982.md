@@ -16,10 +16,10 @@ project_category = "Barberini Harp Project"
 relatedresearch = ["What We Know, and What We still Do Not Understand about the Barberini Harp", "Designs for Musical Instruments", "“Venere che sona d’arpa e due amori”:&&Marco Marazzoli at the Barberini Court", "About the Barberini Harp", "Report on the Convening in Roma  14-16 December 2016", "The Barberini Harp Wood Species Identification"]
 show_in_news = false
 status = "draft"
-subjects_tag = ["Museo Nazionale degli Strumenti Musicali", "Teatro Massimo", "Barberini Harp"]
+subjects_tag = ["Museo Nazionale degli Strumenti Musicali", "Teatro Massimo", "Barberini Harp", "Early Harp conference", "strings", "column", "shoulder", "neck", "soundbox", "harpist", "lacquer", "bent", "soundboard", "tie", "sound hole", "button", "carving", "stave", "cornice", "gilded", "base", "putti"]
 subtype = ["Organology", "Performance Practice", "Iconography"]
 summary_text = ""
-timeline_tag = ["1986", "2014"]
+timeline_tag = ["1986", "2014", "19th century"]
 title = "The Barberini Harp in 1987"
 type = "Research"
 
@@ -60,7 +60,7 @@ type = "Research"
 
 ![](/images/soundbox.jpg)
 
-###### This is the part that, on any harp that has been played, bears the marks of harp player's arm and shoulder: over time, the lacquer rubs off. We also see the stave construction of the soundbox, and we can just about see the curve of the soundboard, which is made of bent wood. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### This is the part that, on any harp that has been played, bears the marks of harpist's arm and shoulder: over time, the lacquer rubs off. We also see the stave construction of the soundbox, and we can just about see the curve of the soundboard, which is made of bent wood. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
@@ -126,7 +126,7 @@ type = "Research"
 
 ***
 
-###### In 2014, the historical harpist Margret Köll invited Armin Linke to take images of the Barberini Harp as part of her research into Baroque harp, in particular the Barberini Harp and the repertoire for it. The then director of the Museo Nazionale degli Strumenti Musicali in Roma, Dr. Sandra Suatoni kindly allowed for the harp to be removed from its protective glass box and photographed. In the museum room housing the harp there also hangs a large composite X-ray image of the instrument. The Barberini Harp can no longer be played for reasons of conservation; we do not know when it was last played. Today we can only look at this instrument as an object of Baroque culture, politics and aesthetics. We can but hypothesise as to its sound.
+###### In 2014, the historical harpist Margret Köll invited Armin Linke to take images of the Barberini Harp as part of her research into Baroque harp, in particular the Barberini Harp and the repertoire for it. The then director of the Museo Nazionale degli Strumenti Musicali in Roma, Dr. <span id="person_tag">Sandra Suatoni</span> kindly allowed for the harp to be removed from its protective glass box and photographed. In the museum room housing the harp there also hangs a large composite X-ray image of the instrument. The Barberini Harp can no longer be played for reasons of conservation; we do not know when it was last played. Today we can only look at this instrument as an object of Baroque culture, politics and aesthetics. We can but hypothesise as to its sound.
 
 ***
 
