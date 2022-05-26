@@ -56,7 +56,7 @@ I took them out of pure personal curiousity and then I showed them at the Sympos
 
 ![](/images/soundbox.jpg)
 
-###### The soundbox and the soundboard of the Barberini Harp, with the stave construction of the soundboard visible. The soundboard was made of bent wood, which can also be seen in the image. Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### This is the part that, on any harp that is played, bears the signs of contact with player's arm and shoulder. that soundbox that   and the soundboard of the Barberini Harp, with the stave construction of the soundboard visible. The soundboard was made of bent wood, which can also be seen in the image. Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
@@ -98,7 +98,7 @@ I took them out of pure personal curiousity and then I showed them at the Sympos
 
 ![](/images/base.jpg)
 
-###### The base of the Barberini Harp, presumed to have been added in the 19th century. Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The base of the Barberini Harp consists of three parts, the gilded triple cornice above the black painted block, and the more recent wooden base, presumed to have been added in the 19th century for stability. Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
 ***
 
