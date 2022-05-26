@@ -111,7 +111,7 @@ The group of putti under the coat of arms is on the instrument formed of two atl
 
 ***
 
-![](/images/be30e30c-9320-4858-b50e-02f60b7d71a0.jpeg)
+![](/images/dif_000185_506.jpg)
 
 ###### The Barberini Harp, detail (<cap>Fig. 9</cap>).
 
