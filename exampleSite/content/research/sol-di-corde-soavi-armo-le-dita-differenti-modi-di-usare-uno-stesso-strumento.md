@@ -28,7 +28,7 @@ type = "Research"
 
 ***
 
-### Commento a [About the Barberini Harp](https://harfenlabor.netlify.app/research/barberini-harp-project-interviews-mara-galassi-and-dario-pontiggia-about-the-barberini-harp/)
+### Commento a [About the Barberini Harp](https://harfenlabor.com/research/about-the-barberini-harp/)
 
 ***
 
