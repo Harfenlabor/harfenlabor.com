@@ -202,7 +202,7 @@ type = "Research"
 
 ***
 
-![](/images/dif_000185_497.jpg)
+![](/images/dif_000185_506.jpg)
 
 ###### The head and the top section of the column or the pillar of the Barberini Harp. At the very top sits the crown of the Prince of Palestrina, with the Golden Fleece collar. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
@@ -214,13 +214,13 @@ type = "Research"
 
 ***
 
-![](/images/dif_000185_657_b.jpg)
+![](/images/dif_000185_657.jpg)
 
 ###### X-ray of the head of the Barberini Harp showing the legs of the two putti holding the Barberini coat of arms. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
 ***
 
-![](/images/dif_000185_524_b.jpg)
+![](/images/dif_000185_521.jpg)
 
 ###### The Barberini coat of arms, with the bees, on the head of the Barberini Harp. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
@@ -230,25 +230,25 @@ type = "Research"
 
 ***
 
-![](/images/dif_000185_654_b.jpg)
+![](/images/dif_000185_654.jpg)
 
 ###### X-ray image of the two bambini ercoli holding the head of the Barberini Harp. The two figures form the top section of the column or the pillar of the harp. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
-***
+![](/images/dif_000185_646.jpg)
 
-![](/images/dif_000185_646_b.jpg)
+***
 
 ###### Moving down the column slightly, this X-ray image shows the legs and feet of the two bambini ercoli holding the head of the Barberini Harp, as well as the paws of the lion skins hanging from their shoulders, and below them the heads of the three figures making up the central section of the harp. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
 ***
 
-![](/images/dif_000185_644_b.jpg)
+![](/images/dif_000185_644.jpg)
 
 ###### This X-ray image shows more of the central section of the column of the Barberini Harp, formed of three figures of youths, holding up the top section. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
 ***
 
-![](/images/dif_000185_675_b.jpg)
+![](/images/dif_000185_675.jpg)
 
 ###### X-ray image of the heads and hands of the three youths' figures forming the central section of the column of the Barberini Harp. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
