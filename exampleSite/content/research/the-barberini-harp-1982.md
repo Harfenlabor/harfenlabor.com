@@ -11,22 +11,22 @@ hide_from_research = true
 image = "/images/string-pins.jpg"
 imgcaptions = ""
 map_tag = ["Roma", "Palermo", "Basel"]
-person_tag = []
+person_tag = ["Mara Galassi", "Armin Linke", "Luisa Cervelli"]
 project_category = "Barberini Harp Project"
 relatedresearch = ["What We Know, and What We still Do Not Understand about the Barberini Harp", "Designs for Musical Instruments", "“Venere che sona d’arpa e due amori”:&&Marco Marazzoli at the Barberini Court", "About the Barberini Harp", "Report on the Convening in Roma  14-16 December 2016", "The Barberini Harp Wood Species Identification"]
 show_in_news = false
 status = "draft"
-subjects_tag = ["Mara Galassi", "Armin Linke", "Luisa Cervelli"]
+subjects_tag = ["Museo Nazionale degli Strumenti Musicali", "Teatro Massimo", "Barberini Harp"]
 subtype = ["Organology", "Performance Practice", "Iconography"]
 summary_text = ""
-timeline_tag = []
+timeline_tag = ["1986", "2014"]
 title = "The Barberini Harp in 1987"
 type = "Research"
 
 +++
 ***
 
-###### This double photo story brings images of the Barberini Harp made at the Museo Nazionale degli Strumenti Musicali some thirty years apart. In the meantime, the harp was restored and is now displayed under more controlled conditions. <span id="person_tag">Mara Galassi</span>'s analogue images are followed by digital images taken in 2014 by <span id="person_tag">Armin Linke</span>, at Margret Köll's invitation.
+###### This double photo story brings images of the <span id="subjects_tag">Barberini Harp</span> made at the Museo Nazionale degli Strumenti Musicali some thirty years apart. In the meantime, the harp was restored and is now displayed under more controlled conditions. <span id="person_tag">Mara Galassi</span>'s analogue images are followed by digital images taken in 2014 by <span id="person_tag">Armin Linke</span>, at Margret Köll's invitation.
 
 ***
 
