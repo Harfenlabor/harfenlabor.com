@@ -122,8 +122,6 @@ type = "Research"
 
 ###### The Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
 
-***
-
 ###### All images © Mara Galassi 2022
 
 ## Licensed under [CC BY-NC-ND International 4.0](https://harfenlabor.netlify.app/aboutpage/#ccbyncnd)
@@ -261,8 +259,6 @@ type = "Research"
 ![](/images/dif_000185_701_b.jpg)
 
 ###### The Barberini Harp being taken out of its glass box. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
-
-***
 
 ###### All images © Armin Linke / Harfenlabor 2022
 
