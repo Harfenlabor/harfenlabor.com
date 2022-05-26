@@ -32,7 +32,7 @@ Andrea Antonini, Giulia Bruno, Annamaria Celeste (OEHI), Sandra Perrone, Stephen
 **Web development and design**  
 This website was made possible through collaboration between Harfenlabor and ISIA U (Istituto Superiore per le Industrie Artistiche Urbino) and is [Carlo Andrea Schlatter](https://www.schlatterca.com)'s BA degree project, in which he was supported by Armin Linke and the ISIA U Director Jonathan Pierini (with special thanks for his extensive and fundamental contribution in overseeing the project). ISIA U encourages collaboration among institutions, faculty, and students in order to foster social development and cultural design.
 
-**Special thanks** for their help in preparing these pages to Hannah Baader, Yann Bongiovanni, Elena Capra, Laura Donati, Mara Galassi, Giuseppe Ielasi, Thomas Nußbaumer, Fabrizio Paolucci, Christa Patton, Martina Pozzan, Eike Schmidt, Kati Simon, Paola Spagnolo
+**Special thanks** for their help in preparing these pages to Hannah Baader, Yann Bongiovanni, Elena Capra, Laura Donati, Mara Galassi, Giuseppe Ielasi, Thomas Nußbaumer, Fabrizio Paolucci, Christa Patton, Martina Pozzan, Eike Schmidt, Kati Simon, and Paola Spagnolo.
 
 ***
 
