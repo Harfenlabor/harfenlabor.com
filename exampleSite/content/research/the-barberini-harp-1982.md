@@ -160,13 +160,13 @@ type = "Research"
 
 ***
 
-![](/images/dif_000185_566.jpg)
+![](/images/dif_000185_550.jpg)
 
 ###### A view of the harp through a harpist's eyes: the strings and string pins on the neck of the Barberini Harp. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
 ***
 
-![](/images/dif_000185_557_b.jpg)
+![](/images/dif_000185_557.jpg)
 
 ###### The tuning pins on the neck of the Barberini Harp. Museo Nazionale degli Strumenti Musicali, Roma, 2014.
 
