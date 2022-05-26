@@ -24,13 +24,9 @@ title = "The Barberini Harp in 1987"
 type = "Research"
 
 +++
-This double photo story brings images of the Barberini Harp made some thirty years apart. In the meantime, the harp was restored and is now displayed under different, more controlled conditions. Sometime in 1985 or 1986, the harpist and researcher Mara Galassi travelled to Roma from Palermo, where she was the principal harpist at the Teatro Massimo, in order to photograph the Barberini Harp at the Museo Nazionale degli Strumenti Musicali. In Palermo, Galassi was exposed to Sicilian Renaissance music, marking her turn to lifelong study and performance of Early music. The 
+This double photo story brings images of the Barberini Harp made at the Museo Nazionale degli Strumenti Musicali some thirty years apart. In the meantime, the harp was restored and is now displayed under more controlled conditions. Sometime in 1985 or 1986, the harpist and researcher Mara Galassi travelled to Roma from Palermo, where she was the principal harpist at the Teatro Massimo. In Palermo, Galassi was exposed to Sicilian Renaissance music, marking her turn to lifelong study and performance of Early music. Curious about the famous Barberini Harp, Galassi decided to see the instrument and photograph it. This took place shortly before the first Early Harp conference in Basel, at which Galassi presented the images of the Barberini Harp shown below. Galassi's analogue images are followed by images taken in 2014 by Armin Linke, at Margret Köll's instigation. 
 
-The then director and the founder of the museum, Prof. Luisa Cervelli, agreed to ???
-
-Galassi was working
-
-I took them out of pure personal curiousity and then I showed them at the Symposium.
+***
 
 ![](/images/string-pins.jpg)
 
