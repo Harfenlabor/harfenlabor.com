@@ -50,7 +50,7 @@ Despite its undisputed historical value, the "Arpa Barberini" is far from having
 
 ***
 
-The [Convening](https://harfenlabor.com/projects/bhpconvening/) began in the afternoon of December 14, 2016, with the participants gathering in the exhibition room of the Museo Nazionale degli Strumenti Musicali, where the Barberini Harp is kept. Following opening remarks by the initiator Margret Köll and the museum director Sandra Suatoni, an extraordinary concert was held. Only a few metres from the original Barberini Harp, three copies of the instrument were set up: by <span id="person_tag">David Brown</span> (made in Baltimore in 1989), by <span id="person_tag">Dario Pontiggia</span> (in Milano, 2006) and by <span id="person_tag">Eric Kleinmann</span> (in Rangendingen, 2005). <span id="person_tag">Mara Galassi</span> (Milano), <span id="person_tag">Chiara Granata</span> (Milano) and <span id="person_tag">Loredana Gintoli</span> (Berlin) played 17the century compositions on these harps in an homage to the Barberini Harp.
+The [Convening](https://harfenlabor.com/projects/bhpconvening/) began in the afternoon of December 14, 2016, with the participants gathering in the exhibition room of the Museo Nazionale degli Strumenti Musicali, where the Barberini Harp is kept. Following opening remarks by the initiator Margret Köll and the museum director Sandra Suatoni, an extraordinary concert was held. Only a few metres from the original Barberini Harp, three copies of the instrument were set up: by <span id="person_tag">David Brown</span> (made in <span id="map_tag">Baltimore</span> in 1989), by <span id="person_tag">Dario Pontiggia</span> (in <span id="map_tag">Milano</span>, 2006) and by <span id="person_tag">Eric Kleinmann</span> (in <span id="map_tag">Rangendingen</span>, 2005). <span id="person_tag">Mara Galassi</span> (Milano), <span id="person_tag">Chiara Granata</span> (Milano) and <span id="person_tag">Loredana Gintoli</span> (<span id="map_tag">Berlin</span>) played 17the century compositions on these harps in an homage to the Barberini Harp.
 
 ***
 
@@ -80,11 +80,11 @@ The next morning, harpist and researcher Chiara Granata and harp maker Dario Pon
 
 ***
 
-<span id="person_tag">Ursula Verena Fischer Pace</span> (Roma) then situated the design of the Barberini Harp within the art-historical context of Roman culture in the first decades of the 17th century. Fischer Pace presented a drawing by the Roman architect <span id="person_tag">Giovanni Battista Soria</span> (1581–1651), depicting a model for a harp. This resulted in a very lively discussion about the meaning of the gilded figures on the harp’s column. Three carved male figures can be seen in the middle and directly above them two clearly younger boys draped in lion skin. <span id="person_tag">Florian Bassani</span> (Bern) suggested the following interpretation for this pictorial programme: the three male figures represent the pope's three nephews Francesco (1597-1679, cardinal), Taddeo (1603-1647, prefect of Roma, prince of Palestrina) and Antonio (1607-1671, cardinal). The two boys represent the two sons of Taddeo (i.e. the pope’s great-nephews), who were born just when the harp was built: Carlo (1630–1704, cardinal) and Maffeo jr. (1631–1685, prince of Palestrina). The lion skin could be an allusion to the ancient hero Hercules, symbolising the great power and inviolability of the Barberini papal family.
+<span id="person_tag">Ursula Verena Fischer Pace</span> (Roma) then situated the design of the Barberini Harp within the art-historical context of Roman culture in the first decades of the 17th century. Fischer Pace presented a drawing by the Roman architect <span id="person_tag">Giovanni Battista Soria</span> (1581–1651), depicting a model for a harp. This resulted in a very lively discussion about the meaning of the gilded figures on the harp’s column. Three carved male figures can be seen in the middle and directly above them two clearly younger boys draped in lion skin. <span id="person_tag">Florian Bassani</span> (<span id="map_tag">Bern</span>) suggested the following interpretation for this pictorial programme: the three male figures represent the pope's three nephews Francesco (1597-1679, cardinal), Taddeo (1603-1647, prefect of Roma, prince of Palestrina) and Antonio (1607-1671, cardinal). The two boys represent the two sons of Taddeo (i.e. the pope’s great-nephews), who were born just when the harp was built: Carlo (1630–1704, cardinal) and Maffeo jr. (1631–1685, prince of Palestrina). The lion skin could be an allusion to the ancient hero Hercules, symbolising the great power and inviolability of the Barberini papal family.
 
 ***
 
-The art historian <span id="person_tag">Elisabetta Frullini</span> (Roma/Wien) took <span id="person_tag">Giovanni Lanfranco</span>'s famous painting "Allegory of Music" as the starting point for her presentation. Frullini pointed out the important role played by Marco Marazzoli as the Barberini court musician, and presented comparable paintings.
+The art historian <span id="person_tag">Elisabetta Frullini</span> (Roma/<span id="map_tag">Wien</span>) took <span id="person_tag">Giovanni Lanfranco</span>'s famous painting "Allegory of Music" as the starting point for her presentation. Frullini pointed out the important role played by Marco Marazzoli as the Barberini court musician, and presented comparable paintings.
 
 ***
 
@@ -134,11 +134,11 @@ The morning of December 16th was primarily reserved for the harp makers and stri
 
 ***
 
-String maker <span id="person_tag">Mimmo Peruffo</span> (Vicenza), offered his expertise in pointing out the possible nature of the strings on the Barberini Harp. In his experience, the string breaking point is at frequencies of and above 260 Hz per metre.
+String maker <span id="person_tag">Mimmo Peruffo</span> (<span id="map_tag">Vicenza</span>), offered his expertise in pointing out the possible nature of the strings on the Barberini Harp. In his experience, the string breaking point is at frequencies of and above 260 Hz per metre.
 
 ***
 
-<span id="person_tag">Adam Lowe</span> from Madrid was then included in the conversation via Skype, to talk about the complex 3D scan of the Barberini Harp he made with his team from FACTUM arte. The Convening participants were able to see [an account of this process](https://vimeo.com/230969290/9cd27df65e), in a short film and  photographic prints by Studio Armin Linke, shown on the previous day. The external appearance of the instrument can be precisely reconstructed following the 3D scan.
+<span id="person_tag">Adam Lowe</span> from <span id="map_tag">Madrid</span> was then included in the conversation via Skype, to talk about the complex 3D scan of the Barberini Harp he made with his team from FACTUM arte. The Convening participants were able to see [an account of this process](https://vimeo.com/230969290/9cd27df65e), in a short film and  photographic prints by Studio Armin Linke, shown on the previous day. The external appearance of the instrument can be precisely reconstructed following the 3D scan.
 
 ***
 
