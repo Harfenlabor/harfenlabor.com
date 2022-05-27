@@ -42,7 +42,7 @@ type = "Research"
 
 ![](/images/the-harp.jpg)
 
-###### The Barberini Harp as it was displayed when this image was taken in 1985, Museo Nazionale degli Strumenti Musicali, Roma.
+###### The Barberini Harp as it was displayed when this image was taken in 1985, Museo Nazionale degli Strumenti Musicali, Roma <cap>2</cap>.
 
 ***
 
