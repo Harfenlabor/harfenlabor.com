@@ -36,25 +36,25 @@ type = "Research"
 
 ![](/images/string-pins.jpg)
 
-###### The neck, the strings, some of the column and the top of the carved shoulder of the Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1985 (<cap>1</cap>). 
+###### The neck, the strings, some of the column and the top of the carved shoulder of the Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1985-1986 (<cap>1</cap>). 
 
 ***
 
 ![](/images/the-harp.jpg)
 
-###### The Barberini Harp as it was displayed when this image was taken in 1985, Museo Nazionale degli Strumenti Musicali, Roma <cap>2</cap>.
+###### The Barberini Harp as it was displayed when this image was taken in 1985-1986, Museo Nazionale degli Strumenti Musicali, Roma <cap>2</cap>.
 
 ***
 
 ![](/images/strings-and-shoulder.jpg)
 
-###### The strings, neck, the shoulder, and the top of the soundbox of the Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The strings, neck, the shoulder, and the top of the soundbox of the Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1985-1986 (<cap>3</cap>).
 
 ***
 
 ![](/images/shoulder.jpg)
 
-###### The gilded shoulder of the Barberini Harp carved as a lion's head, and the gilded decoration on the soundbox, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The gilded shoulder of the Barberini Harp carved as a lion's head, and the gilded decoration on the soundbox, Museo Nazionale degli Strumenti Musicali, Roma, 1985-1986 (<cap>4</cap>).
 
 ***
 
