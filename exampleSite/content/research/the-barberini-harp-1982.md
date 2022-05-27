@@ -20,7 +20,7 @@ subjects_tag = ["Museo Nazionale degli Strumenti Musicali", "Teatro Massimo", "B
 subtype = ["Organology", "Performance Practice", "Iconography"]
 summary_text = ""
 timeline_tag = ["1986", "2014", "19th century"]
-title = "The Barberini Harp: Before and After Restoration"
+title = "The Barberini Harp&&Before and After Restoration"
 type = "Research"
 
 +++
