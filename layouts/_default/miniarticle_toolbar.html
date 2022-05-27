@@ -6,13 +6,67 @@
 
     <div class="content-related-research">
       <h6 class="title-related-research"><a href="{{ .Permalink }}">
-      {{ if in .Title "&&" }}
-        {{ $titleLines := split .Title "&&" }}
-        {{ range $titleLines }}
-          {{ . }}
-          <br>
-        {{ end }}
-      {{ else }}{{ .Title }}{{ end }}</a></h6>
+      {{ if and (in .Title "<i>") (in .Title "</i>") }}
+        
+        {{ $firstCutItalic := split .Title "<i>" }}
+        {{ $beforeItalic := index $firstCutItalic 0 }}
+
+        {{ $secondCutItalic := index $firstCutItalic 1 }}
+        {{ $italicAndAfter := split $secondCutItalic "</i>" }}
+        {{ $italic := index $italicAndAfter 0 }}
+        {{ $afterItalic := index $italicAndAfter 1 }}
+        
+        {{ if in .Title "&&" }}
+
+          {{ if in $beforeItalic "&&" }}
+            {{ $beforeItalicLines := split $beforeItalic "&&" }}
+            {{ range $beforeItalicLines }}
+              {{ . }}
+              <br>
+            {{ end }}
+            <span style="font-style: italic!important; line-height:0px">{{ $italic }}</span>
+            {{ $afterItalic }}
+          {{ end }}
+          {{ if in $italic "&&" }}
+            {{ $italicLines := split $italic "&&" }}
+            {{ $beforeItalic }}
+            <span style="font-style: italic!important; line-height:0px">
+            {{ range $italicLines }}
+              {{ . }}
+              <br>
+            {{ end }}
+            </span>
+            {{ $afterItalic }}
+          {{ end }}
+          {{ if in $afterItalic "&&" }}
+            {{ $afterItalicLines := split $afterItalic "&&" }}
+            {{ $beforeItalic }}
+            <span style="font-style: italic!important; line-height:0px">{{ $italic }}</span>
+            {{ range $afterItalicLines }}
+              {{ . }}
+              <br>
+            {{ end }}
+          {{ end }}
+
+        {{ else }}
+          {{ $beforeItalic }}
+          <span style="font-style: italic!important; line-height:0px">{{ $italic }}</span>
+          {{ $afterItalic }}
+        {{ end }}</a></p>
+
+      {{ else }}
+        
+        {{ if in .Title "&&" }}
+          {{ $titleLines := split .Title "&&" }}
+          {{ range $titleLines }}
+            {{ . }}
+            <br>
+          {{ end }}
+        {{ else }}{{ .Title }}{{ end }}</a></h6>
+      {{ end }}
+
+
+
     </div>
   </div>
 </article>
