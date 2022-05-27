@@ -117,7 +117,7 @@ Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/abou
 
 **Kleinmann**: Ah, okay, okay.
 
-**Haag**: \[00:13:20\] Robinia trees come from North America. The oldest Robinias we have in Europe were planted by Jean Robin, as a wood gardener, along the Seine in Paris. That means that at that time there wouldn't have been any Robinia wood in Europe unless imported from North America.
+**Haag**: \[00:13:20\] Robinia trees come from North America. The oldest Robinias we have in Europe were planted by Jean Robin, as a wood gardener, along the Seine in <span id="map_tag">Paris</span>. That means that at that time there wouldn't have been any Robinia wood in Europe unless imported from North America.
 
 **Kleinmann**:Another wood, besides walnut, that has a similarly coarse structure is sweet chestnut, that's what I also had in mind.
 
@@ -157,7 +157,7 @@ Licensed under [CC BY-NC International 4.0](https://harfenlabor.netlify.app/abou
 
 **Kleinmann**: I know fir has narrower annual rings. And I would never have guessed that the soundboard was fir. Today, they actually make such soundboards in spruce, grown far up in the mountains. I buy mine in Switzerland, grown at an altitude of over 1000 metres. The annual rings are very even and bring the needed sound quality.
 
-**Haag**: \[00:16:28\] I think it also has something to do with this development phase, when fir was used a lot. For example, it was used in the construction of larger stringed instruments such as the cello or the double bass, in which I have often been able to identify fir wood. As preparation, we examined an Erat Harp in the Deutsches Museum in München to test our equipment. And the soundboard was actually made of spruce. You can differentiate very well with very fine structural features, as we call them. The wood rays were characteristically high and wide, and there also were prismatic crystals, which are typical for fir. The softwoods are more difficult to differentiate than hardwoods. There are quite a few structural features.
+**Haag**: \[00:16:28\] I think it also has something to do with this development phase, when fir was used a lot. For example, it was used in the construction of larger stringed instruments such as the cello or the double bass, in which I have often been able to identify fir wood. As preparation, we examined an Erat Harp in the Deutsches Museum in <span id="map_tag">München</span> to test our equipment. And the soundboard was actually made of spruce. You can differentiate very well with very fine structural features, as we call them. The wood rays were characteristically high and wide, and there also were prismatic crystals, which are typical for fir. The softwoods are more difficult to differentiate than hardwoods. There are quite a few structural features.
 
 **Kleinmann**: I also find that fir, when a little older, has less difference in colour between the hard and soft annual rings. The difference is not as visible as with spruce, where the difference between hard annual rings, which are darker, and the in-between, which is lighter, is greater than with fir. That is just what I see. I have also worked with fir here.
 
