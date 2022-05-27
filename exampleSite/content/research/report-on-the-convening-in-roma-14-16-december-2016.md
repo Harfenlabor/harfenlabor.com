@@ -36,7 +36,7 @@ A harp commissioned by the influential aristocratic Barberini family was built i
 
 ***
 
-Privately owned for a long time, the instrument thus survived the passage of time; it was not handed over to the Museo Nazionale degli Strumenti Musicali in <span id="map_tag">Roma</span> until the early 1970s. It remains in the museum’s collection today, though it can no longer be played for conservation reasons.
+Privately owned for a long time, the instrument thus survived the passage of time; it was not handed over to the Museo Nazionale degli Strumenti Musicali in Roma until the early 1970s. It remains in the museum’s collection today, though it can no longer be played for conservation reasons.
 
 ***
 
