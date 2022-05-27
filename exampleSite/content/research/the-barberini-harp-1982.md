@@ -36,13 +36,13 @@ type = "Research"
 
 ![](/images/string-pins.jpg)
 
-###### The neck, the strings, some of the column and the top of the carved shoulder of the Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1985-1986 (<cap>1</cap>). 
+###### The neck, the strings, some of the column and the top of the carved shoulder of the Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1985-1986 (<cap>1</cap>).
 
 ***
 
 ![](/images/the-harp.jpg)
 
-###### The Barberini Harp as it was displayed when this image was taken in 1985-1986, Museo Nazionale degli Strumenti Musicali, Roma <cap>2</cap>.
+###### The Barberini Harp as it was displayed when this image was taken in 1985-1986, Museo Nazionale degli Strumenti Musicali, Roma (<cap>2</cap>).
 
 ***
 
