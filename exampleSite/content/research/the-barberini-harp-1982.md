@@ -9,7 +9,7 @@ externallinks = "<i>Historical harps</i>, Heidrun Rosenzweig's edited volume on 
 footnotes = ""
 hide_from_research = true
 image = "/images/string-pins.jpg"
-imgcaptions = "1 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n2 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n3 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n4 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n5 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n6 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n7 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n8 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n9 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n10 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n11 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n12 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n13 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n14 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n15 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n16 DIF_000185_688 Museo Nazionale degli Strumenti Musicali, Barberini Harp and the X-ray of the harp, Rome, Italy, 2014.&&\n17 DIF_000185_593 Museo Nazionale degli Strumenti Musicali, Barberini Harp, from the back, Rome, Italy, 2014.&&\n18 DIF_000185_627 Museo Nazionale degli Strumenti Musicali, composite X-ray image of the Barberini Harp, Rome, Italy, 2014.&&\n19 DIF_000185_542 Museo Nazionale degli Strumenti Musicali, Barberini Harp, lion's head at the harp's shoulder, Rome, Italy, 2014.&&\n20 DIF_000185_667 Museo Nazionale degli Strumenti Musicali, X-ray image of the carved shoulder of the Barberini Harp, Rome, Italy, 2014.&&\n21 DIF_000185_550 Museo Nazionale degli Strumenti Musicali, Barberini Harp, strings and pins, Rome, Italy, 2014.&&\n22 DIF_000185_557 Museo Nazionale degli Strumenti Musicali, Barberini Harp, tuning pins, Rome, Italy, 2014.&&\n23 DIF_000185_566 Museo Nazionale degli Strumenti Musicali, Barberini Harp, string pins, Rome, Italy, 2014.&&\n24 DIF_000185_664 Museo Nazionale degli Strumenti Musicali, Barberini Harp, neck, tuning pins and pinholes, X-ray image, Rome, Italy, 2014.&&\n25 DIF_000185_615 Museo Nazionale degli Strumenti Musicali, Barberini Harp, soundboard, strings, and buttons, Rome, Italy, 2014.&&\n26 DIF_000185_619 Museo Nazionale degli Strumenti Musicali, Barberini Harp, buttons, Rome, Italy, 2014.&&\n27 DIF_000185_650 Museo Nazionale degli Strumenti Musicali, Barberini Harp, soundbox, X-ray image, Rome, Italy, 2014.&&\n28 DIF_000185_503 Museo Nazionale degli Strumenti Musicali, Barberini Harp, the head and the neck, Rome, Italy, 2014.&&\n29 DIF_000185_662 Museo Nazionale degli Strumenti Musicali, Barberini Harp, head of the harp, X-ray image, Rome, Italy, 2014.&&\n30 DIF_000185_657 Museo Nazionale degli Strumenti Musicali, Barberini Harp, head, X-ray image, Rome, Italy, 2014.&&\n31 DIF_000185_524 Museo Nazionale degli Strumenti Musicali, Barberini Harp, the Barberini coat of arms, Rome, Italy, 2014.&&\n32 DIF_000185_497 Museo Nazionale degli Strumenti Musicali, Barberini Harp, Rome, Italy, 2014.&&\n33 DIF_000185_654 Museo Nazionale degli Strumenti Musicali, Barberini Harp, top section, X-ray image, Rome, Italy, 2014.&&\n34 DIF_000185_646 Museo Nazionale degli Strumenti Musicali, Barberini Harp, section of the column, X-ray image, Rome, Italy, 2014.&&\n35 DIF_000185_644 Museo Nazionale degli Strumenti Musicali, Barberini Harp, central section of the column, X-ray image, Rome, Italy, 2014.&&\n36 DIF_000185_675 Museo Nazionale degli Strumenti Musicali, Barberini Harp, column, central section, X-ray image, Rome, Italy, 2014.&&\n37 DIF_000185_701 Museo Nazionale degli Strumenti Musicali, taking the harp out of its glass box, Rome, Italy, 2014.&&\n"
+imgcaptions = "1 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n2 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n3 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n4 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n5 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n6 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n7 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n8 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n9 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n10 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n11 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n12 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n13 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n14 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n15 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n16 DIF_000185_688 Museo Nazionale degli Strumenti Musicali, Barberini Harp and the X-ray of the harp, Rome, Italy, 2014.&&\n17 DIF_000185_593 Museo Nazionale degli Strumenti Musicali, Barberini Harp, from the back, Rome, Italy, 2014.&&\n18 DIF_000185_627 Museo Nazionale degli Strumenti Musicali, composite X-ray image of the Barberini Harp, Rome, Italy, 2014.&&\n19 DIF_000185_542 Museo Nazionale degli Strumenti Musicali, Barberini Harp, lion's head at the harp's shoulder, Rome, Italy, 2014.&&\n20 DIF_000185_667 Museo Nazionale degli Strumenti Musicali, X-ray image of the carved shoulder of the Barberini Harp, Rome, Italy, 2014.&&\n21 DIF_000185_550 Museo Nazionale degli Strumenti Musicali, Barberini Harp, strings and pins, Rome, Italy, 2014.&&\n22 DIF_000185_557 Museo Nazionale degli Strumenti Musicali, Barberini Harp, tuning pins, Rome, Italy, 2014.&&\n23 DIF_000185_566 Museo Nazionale degli Strumenti Musicali, Barberini Harp, string pins, Rome, Italy, 2014.&&\n24 DIF_000185_664 Museo Nazionale degli Strumenti Musicali, Barberini Harp, neck, tuning pins and pinholes, X-ray image, Rome, Italy, 2014.&&\n25 DIF_000185_615 Museo Nazionale degli Strumenti Musicali, Barberini Harp, soundboard, strings, and buttons, Rome, Italy, 2014.&&\n26 DIF_000185_619 Museo Nazionale degli Strumenti Musicali, Barberini Harp, buttons, Rome, Italy, 2014.&&\n27 DIF_000185_650 Museo Nazionale degli Strumenti Musicali, Barberini Harp, soundbox, X-ray image, Rome, Italy, 2014.&&\n28 DIF_000185_506 Museo Nazionale degli Strumenti Musicali, Barberini Harp, the head and the neck, Rome, Italy, 2014.&&\n29 DIF_000185_662 Museo Nazionale degli Strumenti Musicali, Barberini Harp, head of the harp, X-ray image, Rome, Italy, 2014.&&\n30 DIF_000185_657 Museo Nazionale degli Strumenti Musicali, Barberini Harp, head, X-ray image, Rome, Italy, 2014.&&\n31 DIF_000185_521 Museo Nazionale degli Strumenti Musicali, Barberini Harp, the Barberini coat of arms, Rome, Italy, 2014.&&\n32 DIF_000185_497 Museo Nazionale degli Strumenti Musicali, Barberini Harp, Rome, Italy, 2014.&&\n33 DIF_000185_654 Museo Nazionale degli Strumenti Musicali, Barberini Harp, top section, X-ray image, Rome, Italy, 2014.&&\n34 DIF_000185_646 Museo Nazionale degli Strumenti Musicali, Barberini Harp, section of the column, X-ray image, Rome, Italy, 2014.&&\n35 DIF_000185_644 Museo Nazionale degli Strumenti Musicali, Barberini Harp, central section of the column, X-ray image, Rome, Italy, 2014.&&\n36 DIF_000185_675 Museo Nazionale degli Strumenti Musicali, Barberini Harp, column, central section, X-ray image, Rome, Italy, 2014.&&\n37 DIF_000185_701 Museo Nazionale degli Strumenti Musicali, taking the harp out of its glass box, Rome, Italy, 2014.&&\n"
 map_tag = ["Roma", "Palermo", "Basel"]
 person_tag = ["Mara Galassi", "Armin Linke", "Luisa Cervelli", "Maria-Selene Sconci"]
 project_category = "Barberini Harp Project"
@@ -214,51 +214,51 @@ type = "Research"
 
 ![](/images/dif_000185_662.jpg)
 
-###### X-ray of the head of the Barberini Harp showing the metal nails and pins attaching the crown of the Prince of Palestrina with the Golden Fleece collar. Museo Nazionale degli Strumenti Musicali, Roma, 2014 (<cap>30</cap>).
+###### X-ray of the head of the Barberini Harp showing the metal nails and pins attaching the crown of the Prince of Palestrina with the Golden Fleece collar. Museo Nazionale degli Strumenti Musicali, Roma, 2014 (<cap>29</cap>).
 
 ***
 
 ![](/images/dif_000185_657.jpg)
 
-###### X-ray of the head of the Barberini Harp showing the legs of the two putti holding the Barberini coat of arms. Museo Nazionale degli Strumenti Musicali, Roma, 2014 (<cap>31</cap>).
+###### X-ray of the head of the Barberini Harp showing the legs of the two putti holding the Barberini coat of arms. Museo Nazionale degli Strumenti Musicali, Roma, 2014 (<cap>30</cap>).
 
 ***
 
 ![](/images/dif_000185_521.jpg)
 
-###### The Barberini coat of arms, with the bees, on the head of the Barberini Harp. Museo Nazionale degli Strumenti Musicali, Roma, 2014 (<cap>32</cap>).
+###### The Barberini coat of arms, with the bees, on the head of the Barberini Harp. Museo Nazionale degli Strumenti Musicali, Roma, 2014 (<cap>31</cap>).
 
 ![](/images/dif_000185_497.jpg)
 
-###### The head, and the top and central sections of the column or the pillar of the Barberini Harp, and a view of the soundboard with the two of the sound holes. Museo Nazionale degli Strumenti Musicali, Roma, 2014 (<cap>33</cap>).
+###### The head, and the top and central sections of the column or the pillar of the Barberini Harp, and a view of the soundboard with the two of the sound holes. Museo Nazionale degli Strumenti Musicali, Roma, 2014 (<cap>32</cap>).
 
 ***
 
 ![](/images/dif_000185_654.jpg)
 
-###### X-ray image of the two bambini ercoli holding the head of the Barberini Harp. The two figures form the top section of the column or the pillar of the harp. Museo Nazionale degli Strumenti Musicali, Roma, 2014 (<cap>34</cap>).
+###### X-ray image of the two bambini ercoli holding the head of the Barberini Harp. The two figures form the top section of the column or the pillar of the harp. Museo Nazionale degli Strumenti Musicali, Roma, 2014 (<cap>33</cap>).
 
 ***
 
 ![](/images/dif_000185_646.jpg)
 
-###### Moving down the column slightly, this X-ray image shows the legs and feet of the two bambini ercoli holding the head of the Barberini Harp, as well as the paws of the lion skins hanging from their shoulders, and below them the heads of the three figures making up the central section of the harp. Museo Nazionale degli Strumenti Musicali, Roma, 2014 (<cap>35</cap>).
+###### Moving down the column slightly, this X-ray image shows the legs and feet of the two bambini ercoli holding the head of the Barberini Harp, as well as the paws of the lion skins hanging from their shoulders, and below them the heads of the three figures making up the central section of the harp. Museo Nazionale degli Strumenti Musicali, Roma, 2014 (<cap>34</cap>).
 
 ***
 
 ![](/images/dif_000185_644.jpg)
 
-###### This X-ray image shows more of the central section of the column of the Barberini Harp, formed of three figures of youths, holding up the top section. Museo Nazionale degli Strumenti Musicali, Roma, 2014 (<cap>36</cap>).
+###### This X-ray image shows more of the central section of the column of the Barberini Harp, formed of three figures of youths, holding up the top section. Museo Nazionale degli Strumenti Musicali, Roma, 2014 (<cap>35</cap>).
 
 ***
 
 ![](/images/dif_000185_675.jpg)
 
-###### X-ray image of the heads and hands of the three youths' figures forming the central section of the column of the Barberini Harp. Museo Nazionale degli Strumenti Musicali, Roma, 2014 (<cap>37</cap>).
+###### X-ray image of the heads and hands of the three youths' figures forming the central section of the column of the Barberini Harp. Museo Nazionale degli Strumenti Musicali, Roma, 2014 (<cap>36</cap>).
 
 ![](/images/dif_000185_701_b.jpg)
 
-###### The Barberini Harp being taken out of its glass box. Museo Nazionale degli Strumenti Musicali, Roma, 2014 (<cap>38</cap>).
+###### The Barberini Harp being taken out of its glass box. Museo Nazionale degli Strumenti Musicali, Roma, 2014 (<cap>37</cap>).
 
 ###### All images © Armin Linke / Harfenlabor 2022
 
