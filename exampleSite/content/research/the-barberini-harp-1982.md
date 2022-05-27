@@ -9,7 +9,7 @@ externallinks = "<i>Historical harps</i>, Heidrun Rosenzweig's edited volume on 
 footnotes = ""
 hide_from_research = true
 image = "/images/string-pins.jpg"
-imgcaptions = "1 The Barberini Harp, Museo Nazionale degli Strumenti Musicali, 1985-1986. Photo: Mara Galassi. &&\n"
+imgcaptions = "1 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n2 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n3 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n4 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n5 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n6 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n7 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n8 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n9 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n10 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n11 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n12 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n13 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n14 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n15 Scan of a photograph taken by Mara Galassi, 1985-1986.&&\n16 \n"
 map_tag = ["Roma", "Palermo", "Basel"]
 person_tag = ["Mara Galassi", "Armin Linke", "Luisa Cervelli", "Maria-Selene Sconci"]
 project_category = "Barberini Harp Project"
@@ -136,7 +136,7 @@ type = "Research"
 
 ![](/images/dif_000185_688.jpg)
 
-###### The Barberini Harp with the X-ray image of the harp, Museo Nazionale degli Strumenti Musicali, Roma, 2014.
+###### The Barberini Harp with the X-ray image of the harp, Museo Nazionale degli Strumenti Musicali, Roma, 2014 (<cap>16</cap>).
 
 ***
 
