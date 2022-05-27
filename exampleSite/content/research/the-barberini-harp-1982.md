@@ -60,67 +60,67 @@ type = "Research"
 
 ![](/images/soundbox.jpg)
 
-###### This is the part that, on any harp that has been played, bears the marks of harpist's arm and shoulder: over time, the lacquer rubs off. We also see the stave construction of the soundbox, and we can just about see the curve of the soundboard, which is made of bent wood. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### This is the part that, on any harp that has been played, bears the marks of harpist's arm and shoulder: over time, the lacquer rubs off. We also see the stave construction of the soundbox, and we can just about see the curve of the soundboard, which is made of bent wood. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1985-1986 (<cap>5</cap>).
 
 ***
 
 ![](/images/soundboard-and-strings.jpg)
 
-###### The soundboard of the Barberini Harp, with a sound hole and the tie covers showing. The buttons are arranged into three rows, each with its own row of strings. Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The soundboard of the Barberini Harp, with a sound hole and the tie covers showing. The buttons are arranged into three rows, each with its own row of strings. Museo Nazionale degli Strumenti Musicali, Roma, 1985-1986 (<cap>6</cap>).
 
 ***
 
 ![](/images/soundboard-hole-buttons.jpg)
 
-###### A closer view of the strings, buttons and tie covers on the soundboard of the Barberini Harp. Museo Nazionale degli Strumenti Musicali, Roma,  1987.
+###### A closer view of the strings, buttons and tie covers on the soundboard of the Barberini Harp. Museo Nazionale degli Strumenti Musicali, Roma, 1985-1986 (<cap>7</cap>).
 
 ***
 
 ![](/images/soundboard-detail.jpg)
 
-###### The lower portion of the soundboard, missing the tie covers. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The lower portion of the soundboard, missing the tie covers. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1985-1986 (<cap>8</cap>).
 
 ***
 
 ![](/images/soundboard-strings-detail.jpg)
 
-###### The lowest strings of the harp and some of the bottom section of the column. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The lowest strings of the harp and some of the bottom section of the column. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1985-1986 (<cap>9</cap>).
 
 ***
 
 ![](/images/lowest-strings.jpg)
 
-###### The lowest strings of the harp in close proximity to the carvings on the lowest section of the column. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The lowest strings of the harp in close proximity to the carvings on the lowest section of the column. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1985-1986 (<cap>10</cap>).
 
 ***
 
 ![](/images/soundbox-detail-copy.jpg)
 
-###### Detail of the lower part of the soundboard, showing the stave construction. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### Detail of the lower part of the soundboard, showing the stave construction. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1985-1986 (<cap>11</cap>).
 
 ***
 
 ![](/images/base.jpg)
 
-###### The base of the Barberini Harp consists of three parts, the gilded triple cornice above the black painted block, and the more recent wooden base, presumed to have been added in the 19th century for stability. Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The base of the Barberini Harp consists of three parts, the gilded triple cornice above the black painted block, and the more recent wooden base, presumed to have been added in the 19th century for stability. Museo Nazionale degli Strumenti Musicali, Roma, 1985-1986 (<cap>12</cap>).
 
 ***
 
 ![](/images/mara-image-bottom-harp.jpg)
 
-###### The lower part of the body, with the damaged sound hole, the base and the beginning of the column. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The lower part of the body, with the damaged sound hole, the base and the beginning of the column. Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1985-1986 (<cap>13</cap>).
 
 ***
 
 ![](/images/columns-strings.jpg)
 
-###### The central section of the Barberini Harp with three figures of youths holding up a pedestal carrying the two putti. Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The central section of the Barberini Harp with three figures of youths holding up a pedestal carrying the two putti. Museo Nazionale degli Strumenti Musicali, Roma, 1985-1986 (<cap>14</cap>).
 
 ***
 
 ![](/images/column-soundboard-copy.jpg)
 
-###### The Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1987.
+###### The Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma, 1985-1986 (<cap>15</cap>).
 
 ###### All images © Mara Galassi 2022
 
