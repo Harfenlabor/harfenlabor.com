@@ -20,7 +20,7 @@ subjects_tag = ["Museo Nazionale degli Strumenti Musicali", "Teatro Massimo", "B
 subtype = ["Organology", "Performance Practice", "Iconography"]
 summary_text = ""
 timeline_tag = ["1986", "2014", "19th century"]
-title = "The Barberini Harp in 1987"
+title = "The Barberini Harp in 1987 and document her visit."
 type = "Research"
 
 +++
@@ -30,7 +30,7 @@ type = "Research"
 
 ***
 
-###### Between 1985 and 1986, the harpist and researcher Mara Galassi travelled twice to <span id="map_tag">Roma</span> from <span id="map_tag">Palermo</span>, where she was the principal harpist at the Teatro Massimo In Palermo, Galassi was exposed to Sicilian Renaissance music, marking her turn to lifelong study and performance of Early music. Curious about the famous Barberini Harp, Galassi decided to see the instrument and photograph it. This took place shortly before the first Early Harp conference in <span id="map_tag">Basel</span> (1986), at which Galassi presented the images of the Barberini Harp shown below. The founder of the Museo Nazionale degli Strumenti Musicali, Prof. <span id="person_tag">Luisa Cervelli</span>, was the director of the museum at the time. These images are also closely linked to the making of the first copy of the Barberini Harp by luthier David Brown for Galassi, in 1990.
+###### Between 1985 and 1986, the harpist and researcher Mara Galassi travelled twice to <span id="map_tag">Roma</span> from <span id="map_tag">Palermo</span>, where she was the principal harpist at the Teatro Massimo to photograph the Barberini Harp. In Palermo, Galassi was exposed to Sicilian Renaissance music, marking her turn to lifelong study and performance of Early music. Curious about the famous Barberini Harp, Galassi decided to see the instrument and document her visit. This took place shortly before the first Early Harp conference in <span id="map_tag">Basel</span> (1986), at which Galassi presented the images of the Barberini Harp shown below. The founder of the Museo Nazionale degli Strumenti Musicali, Prof. <span id="person_tag">Luisa Cervelli</span>, was the director of the museum at the time. These images are also closely linked to the making of the first copy of the Barberini Harp by luthier David Brown for Galassi, in 1990.
 
 ***
 
