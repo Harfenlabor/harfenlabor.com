@@ -26,7 +26,7 @@ type = "Research"
 +++
 ***
 
-###### This double photo story brings images of the <span id="subjects_tag">Barberini Harp</span> made at the Museo Nazionale degli Strumenti Musicali some thirty years apart. In the meantime, the harp was restored and is now displayed under more controlled conditions. <span id="person_tag">Mara Galassi</span>'s analogue images are followed by digital images taken in 2014 by <span id="person_tag">Armin Linke</span>.
+###### This double photo story brings images of the <span id="subjects_tag">Barberini Harp</span> made at the Museo Nazionale degli Strumenti Musicali some thirty years apart. The harp was restored during this period and is now displayed under more controlled conditions. <span id="person_tag">Mara Galassi</span>'s analogue images are followed by digital images taken in 2014 by <span id="person_tag">Armin Linke</span>.
 
 ***
 
