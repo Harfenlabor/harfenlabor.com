@@ -173,9 +173,9 @@ place = "Napoli"
 latitude = "40.839981"
 longitude = "14.252540"
 [[params.Coordinates.coordinates]]
-place = "New 
+place = "New York"
 latitude = "40.741895"
-longitude = "-73.989308"York"
+longitude = "-73.989308"
 [[params.Coordinates.coordinates]]
 place = "Paris"
 latitude = "48.8588897"
