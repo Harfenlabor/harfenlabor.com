@@ -105,113 +105,113 @@ google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
 [[params.Coordinates.coordinates]]
+place = "Abruzzo"
 latitude = "42.357197"
 longitude = "13.732624"
-place = "Abruzzo"
 [[params.Coordinates.coordinates]]
+place = "Augsburg"
 latitude = "48.3668041"
 longitude = "10.8986971"
-place = "Augsburg"
 [[params.Coordinates.coordinates]]
+place = "Avignon"
 latitude = "43.9492493"
 longitude = "4.8059012"
-place = "Avignon"
 [[params.Coordinates.coordinates]]
+place = "Baltimore"
 latitude = "39.2908816"
 longitude = "-76.610759"
-place = "Baltimore"
 [[params.Coordinates.coordinates]]
+place = "Berlin"
 latitude = "52.5170365"
 longitude = "13.3888599"
-place = "Berlin"
 [[params.Coordinates.coordinates]]
+place = "Bologna"
 latitude = "44.494190"
 longitude = "11.346520"
-place = "Bologna"
 [[params.Coordinates.coordinates]]
+place = "Bruxelles"
 latitude = "50.8465573"
 longitude = "4.351697"
-place = "Bruxelles"
 [[params.Coordinates.coordinates]]
+place = "Chicago"
 latitude = "41.8755616"
 longitude = "-87.6244212"
-place = "Chicago"
 [[params.Coordinates.coordinates]]
+place = "Città 
 latitude = "41.904311"
-longitude = "12.449973"
-place = "Città del Vaticano"
+longitude = "12.449973"del Vaticano"
 [[params.Coordinates.coordinates]]
+place = "Cremona"
 latitude = "45.134278"
 longitude = "10.022687"
-place = "Cremona"
 [[params.Coordinates.coordinates]]
+place = "Ferrara"
 latitude = "44.831560"
 longitude = "11.614656"
-place = "Ferrara"
 [[params.Coordinates.coordinates]]
+place = "Firenze"
 latitude = "43.7698712"
 longitude = "11.2555757"
-place = "Firenze"
 [[params.Coordinates.coordinates]]
+place = "Hamburg"
 latitude = "53.550341"
 longitude = "10.000654"
-place = "Hamburg"
 [[params.Coordinates.coordinates]]
+place = "Köln"
 latitude = "50.938361"
 longitude = "6.959974"
-place = "Köln"
 [[params.Coordinates.coordinates]]
+place = "Milano"
 latitude = "45.463619"
 longitude = "9.188120"
-place = "Milano"
 [[params.Coordinates.coordinates]]
+place = "Modena"
 latitude = "44.646210"
 longitude = "10.924165"
-place = "Modena"
 [[params.Coordinates.coordinates]]
+place = "Napoli"
 latitude = "40.839981"
 longitude = "14.252540"
-place = "Napoli"
 [[params.Coordinates.coordinates]]
+place = "New 
 latitude = "40.741895"
-longitude = "-73.989308"
-place = "New York"
+longitude = "-73.989308"York"
 [[params.Coordinates.coordinates]]
+place = "Paris"
 latitude = "48.8588897"
 longitude = "2.320041"
-place = "Paris"
 [[params.Coordinates.coordinates]]
+place = "Parma"
 latitude = "44.8013678"
 longitude = "10.3280833"
-place = "Parma"
 [[params.Coordinates.coordinates]]
+place = "Pavia"
 latitude = "45.188493"
 longitude = "9.170211"
-place = "Pavia"
 [[params.Coordinates.coordinates]]
+place = "Rangendingen"
 latitude = "48.3789351"
 longitude = "8.8877867"
-place = "Rangendingen"
 [[params.Coordinates.coordinates]]
+place = "Ravenna"
 latitude = "44.414247"
 longitude = "12.204281"
-place = "Ravenna"
 [[params.Coordinates.coordinates]]
+place = "Roma"
 latitude = "41.878817"
 longitude = "12.507737"
-place = "Roma"
 [[params.Coordinates.coordinates]]
+place = "Salerno"
 latitude = "40.677263"
 longitude = "14.768946"
-place = "Salerno"
 [[params.Coordinates.coordinates]]
+place = "Venezia"
 latitude = "45.4371908"
 longitude = "12.3345898"
-place = "Venezia"
 [[params.Coordinates.coordinates]]
+place = "Vicenza"
 latitude = "45.546634"
 longitude = "11.545412"
-place = "Vicenza"
 [[params.Projects.projects]]
 description = "By commissioning new works for Historical Harp through HL Editions, Harfenlabor aims to contribute to articulating a contemporary language of performance practice for the instrument. In collaboration with contemporary composers and performers, Harfenlabor intends to develop a new performative and interpretive plane for the instrument and keep its repertoire alive. "
 title = "HL Editions"
