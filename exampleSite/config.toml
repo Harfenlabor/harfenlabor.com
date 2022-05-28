@@ -137,9 +137,9 @@ place = "Chicago"
 latitude = "41.8755616"
 longitude = "-87.6244212"
 [[params.Coordinates.coordinates]]
-place = "Città 
+place = "Città del Vaticano"
 latitude = "41.904311"
-longitude = "12.449973"del Vaticano"
+longitude = "12.449973"
 [[params.Coordinates.coordinates]]
 place = "Cremona"
 latitude = "45.134278"
