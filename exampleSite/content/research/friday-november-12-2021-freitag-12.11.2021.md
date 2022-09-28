@@ -52,8 +52,8 @@ type = "Research"
 
 ###### 10.45 Klaus Aringer: Harfenmusik in der zweiten Hälfte des 18. Jahrhunderts
 
-###### 12.00 Lecture-Konzert I: _A thrilling harp, my soul inspire!  
-_Chiara Granata \~ Harfe
+###### 12.00 Lecture-Konzert I: A thrilling harp, my soul inspire!  
+Chiara Granata \~ Harfe
 
 ***
 
@@ -73,8 +73,10 @@ _Chiara Granata \~ Harfe
 
 ###### **Haus der Musik, Großer Saal**
 
-###### 19.30 Konzert  
+###### 19.30 Konzert
+
 Volksmusikabend _„Stimmt’s enkre Soatn!“_
 
-###### Sprecher: Peter Kostner, ORF Tirol  
+###### Sprecher: Peter Kostner, ORF Tirol
+
 Mit: Unterinntaler Harfentrio, Die Perlseer, Peter Reitmeir, Julia Strasser und Tiroler Tanzmusikanten
