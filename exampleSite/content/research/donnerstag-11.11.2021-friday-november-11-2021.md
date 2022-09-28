@@ -20,7 +20,7 @@ subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Musicology", "HL Editions", "Iconography", "Sociology of Art"]
 summary_text = "Haus der Musik, Kleiner Saal\n18.00 | Begrüßung und feierliche Eröffnung des Festivals\nMit: Knoedel, Innsbrucker Volksmusikanten, Duo Gasteiger-Waldek\n(historische Einfachpedalharfen), Duo Ehrenstrasser-Reitmeir (Tiroler\nVolksharfen)"
 timeline_tag = []
-title = "Donnerstag, 11.11.2021 / Friday, November 11, 2021"
+title = "Friday, November 11, 2021 / Donnerstag, 11.11.2021"
 type = "Research"
 
 +++
@@ -34,14 +34,14 @@ type = "Research"
 
 ###### Kleiner Saal
 
+###### 18:00    Welcome / Opening Ceremony
+
+###### With: Knoedel, Innsbrucker Volksmusikanten, Duo Gasteiger-Waldek (historical single-action harps), Duo Ehrenstrasser-Reitmeir (Tyrolean folk harps)
+
 ###### 18.00 | Begrüßung und feierliche Eröffnung des Festivals
 
 ###### Mit: Knoedel, Innsbrucker Volksmusikanten, Duo Gasteiger-Waldek (historische Einfachpedalharfen), Duo Ehrenstrasser-Reitmeir (Tiroler Volksharfen)
 
 ***
-
-###### 18:00    Welcome / Opening Ceremony
-
-###### With: Knoedel, Innsbrucker Volksmusikanten, Duo Gasteiger-Waldek (historical single-action harps), Duo Ehrenstrasser-Reitmeir (Tyrolean folk harps)
 
 ###### 
