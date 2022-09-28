@@ -52,7 +52,7 @@ type = "Research"
 
 ###### 10.45 Klaus Aringer: Harfenmusik in der zweiten Hälfte des 18. Jahrhunderts
 
-###### 12.00 Lecture-Konzert I: A thrilling harp, my soul inspire!  
+###### 12.00 Lecture-Konzert I: _A thrilling harp, my soul inspire!_  
 Chiara Granata \~ Harfe
 
 ***
