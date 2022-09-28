@@ -24,11 +24,9 @@ title = "Donnerstag, 11.11.2021 / Friday, November 11, 2021"
 type = "Research"
 
 +++
-Haus der Musik, Kleiner Saal
+18\.00    Haus der Musik, Kleiner Saal
 
 ![](/images/hold-dif_000858_67.png)
-
-18\.00
 
 Begrüßung und feierliche Eröffnung des Festivals
 
