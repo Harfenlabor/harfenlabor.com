@@ -26,6 +26,8 @@ type = "Research"
 +++
 Haus der Musik, Kleiner Saal
 
+![](/images/hold-dif_000858_67.png)
+
 18\.00
 
 Begrüßung und feierliche Eröffnung des Festivals
