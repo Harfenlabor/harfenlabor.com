@@ -20,7 +20,7 @@ subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Musicology", "HL Editions", "Iconography", "Sociology of Art"]
 summary_text = ""
 timeline_tag = []
-title = "Harp Biennale: Zwischen den Saiten"
+title = "Zwischen den Saiten"
 type = "Research"
 
 +++
