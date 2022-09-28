@@ -30,11 +30,15 @@ type = "Research"
 
 ***
 
+***
+
 ###### **Haus der Musik, Kleiner Saal**
 
 ***
 
 ###### **Harp at the Time of Haydn**
+
+***
 
 ###### 09:00 Alexandra Ziane: Harfenist⁂innen in Wien zur Zeit Haydns (Harpists in Vienna at the Time of Haydn)
 
@@ -47,6 +51,8 @@ type = "Research"
 ***
 
 ###### **Die Harfe zur Zeit Haydns**
+
+***
 
 ###### 09.00 Alexandra Ziane: Harfenist⁂innen in Wien zur Zeit Haydns
 
@@ -64,6 +70,8 @@ type = "Research"
 
 ###### **The Tyrolean Folk Harp**
 
+***
+
 ###### 15.00 Peter Kostner: Die Tiroler Volksharfe – Geschichte und Spielweise (The Tyrolean Folk Harp–History and Playing Style)
 
 ###### 15.45 Kurt Drexel: Die Entdeckung der Tiroler Volksharfe in den 1930er-Jahren und ihre Funktionalisierung in der NS-Zeit (The Discovery of the Tyrolean Folk Harp in the 1930s and the Functionalization of It during the Nazi Period)
@@ -73,6 +81,8 @@ type = "Research"
 ***
 
 ###### **Die Tiroler Volksharfe**
+
+***
 
 ###### 15.00 Peter Kostner: Die Tiroler Volksharfe – Geschichte und Spielweise
 
