@@ -20,7 +20,7 @@ subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Musicology", "HL Editions", "Iconography", "Sociology of Art"]
 summary_text = "Haus der Musik, Kleiner Saal\n18.00 | Begrüßung und feierliche Eröffnung des Festivals\nMit: Knoedel, Innsbrucker Volksmusikanten, Duo Gasteiger-Waldek\n(historische Einfachpedalharfen), Duo Ehrenstrasser-Reitmeir (Tiroler\nVolksharfen)"
 timeline_tag = []
-title = "Friday, November 11, 2021 / Donnerstag, 11.11.2021"
+title = "Friday, November 11, 2021&&Donnerstag, 11.11.2021"
 type = "Research"
 
 +++
