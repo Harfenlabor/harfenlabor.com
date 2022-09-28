@@ -40,7 +40,7 @@ type = "Research"
 
 ***
 
-###### 09:00<span id="person_tag">Alexandra Ziane</span>: Harfenist⁂innen in Wien zur Zeit Haydns (Harpists in Vienna at the Time of Haydn)
+###### 09:00 <span id="person_tag">Alexandra Ziane</span>: Harfenist⁂innen in Wien zur Zeit Haydns (Harpists in Vienna at the Time of Haydn)
 
 ###### 10:00 <span id="person_tag">Christian Moritz-Bauer</span>: J. B. Krumpholtz am Hofe von Fürst Nikolaus I. Esterházy (J. B. Krumpholtz at the Court of Prince Nikolaus I Esterházy)
 
