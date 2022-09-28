@@ -88,9 +88,9 @@ type = "Research"
 
 ###### 19.30 Concert: An Evening of Folk Music _„Stimmt’s enkre Soatn!“_
 
-###### Sprecher: Peter Kostner, ORF Tirol
+###### Speaker: Peter Kostner, ORF Tirol
 
-###### Mit: Unterinntaler Harfentrio, Die Perlseer, Peter Reitmeir, Julia Strasser und Tiroler Tanzmusikanten
+###### With: Unterinntaler Harfentrio, Die Perlseer, Peter Reitmeir, Julia Strasser and Tiroler Tanzmusikanten
 
 ###### 19.30 Konzert: Volksmusikabend _„Stimmt’s enkre Soatn!“_
 
