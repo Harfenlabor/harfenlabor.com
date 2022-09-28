@@ -9,7 +9,7 @@ draft = true
 externallinks = ""
 footnotes = ""
 hide_from_research = false
-image = ""
+image = "/images/hold-dif_000859_102.png"
 imgcaptions = ""
 map_tag = []
 person_tag = []
@@ -25,7 +25,7 @@ title = "Friday, November 12, 2021&&Freitag, 12.11.2021"
 type = "Research"
 
 +++
-###### 
+![](/images/hold-dif_000859_102.png)
 
 ***
 
@@ -44,6 +44,10 @@ _Chiara Granata \~ Harfe
 
 ***
 
+![](/images/dif_000859_90.jpg)
+
+***
+
 ###### **Die Tiroler Volksharfe**
 
 ###### 15.00 Peter Kostner: Die Tiroler Volksharfe – Geschichte und Spielweise
@@ -56,10 +60,8 @@ _Chiara Granata \~ Harfe
 
 ###### **Haus der Musik, Großer Saal**
 
-###### 19.30 Konzert
+###### 19.30 Konzert  
+Volksmusikabend _„Stimmt’s enkre Soatn!“_
 
-###### Volksmusikabend _„Stimmt’s enkre Soatn!“_
-
-###### Sprecher: Peter Kostner, ORF Tirol
-
-###### Mit: Unterinntaler Harfentrio, Die Perlseer, Peter Reitmeir, Julia Strasser und Tiroler Tanzmusikanten
+###### Sprecher: Peter Kostner, ORF Tirol  
+Mit: Unterinntaler Harfentrio, Die Perlseer, Peter Reitmeir, Julia Strasser und Tiroler Tanzmusikanten
