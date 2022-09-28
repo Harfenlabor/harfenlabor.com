@@ -1,6 +1,6 @@
 +++
 PublishDate = 2022-09-01T22:00:00Z
-author = "Haus der Musik"
+author = "Haus der Musik, Innsbruck"
 bhp_category = ""
 citation = ""
 description = ""
