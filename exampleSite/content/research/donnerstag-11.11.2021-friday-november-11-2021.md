@@ -32,7 +32,7 @@ type = "Research"
 
 ***
 
-###### **Kleiner Saal**
+### **Kleiner Saal**
 
 ###### **18:00    Welcome / Opening Ceremony**
 
