@@ -11,7 +11,7 @@ hide_from_research = true
 image = "/images/hold-dif_000859_102.png"
 imgcaptions = ""
 map_tag = []
-person_tag = []
+person_tag = ["Alexandra Ziane", "Christian Moritz-Bauer", "Klaus Aringer", "Chiara Granata"]
 project_category = ""
 relatedresearch = []
 show_in_news = false
@@ -40,13 +40,15 @@ type = "Research"
 
 ***
 
-###### 09:00 Alexandra Ziane: Harfenist⁂innen in Wien zur Zeit Haydns (Harpists in Vienna at the Time of Haydn)
+###### 09:00 
 
-###### 10:00 Christian Moritz-Bauer: J. B. Krumpholtz am Hofe von Fürst Nikolaus I. Esterházy (J. B. Krumpholtz at the Court of Prince Nikolaus I Esterházy)
+###### <span id="person_tag">Alexandra Ziane</span>: Harfenist⁂innen in Wien zur Zeit Haydns (Harpists in Vienna at the Time of Haydn)
 
-###### 10.45 Klaus Aringer: Harfenmusik in der zweiten Hälfte des 18. Jahrhunderts (Harp Music in the Second Half of the 18th Century)
+###### 10:00 <span id="person_tag">Christian Moritz-Bauer</span>: J. B. Krumpholtz am Hofe von Fürst Nikolaus I. Esterházy (J. B. Krumpholtz at the Court of Prince Nikolaus I Esterházy)
 
-###### 12.00 Lecture-Concert I: _A thrilling harp, my soul inspire!_ Chiara Granata \~ harp
+###### 10.45 <span id="person_tag">Klaus Aringer</span>: Harfenmusik in der zweiten Hälfte des 18. Jahrhunderts (Harp Music in the Second Half of the 18th Century)
+
+###### 12.00 Lecture-Concert I: _A thrilling harp, my soul inspire!_ <span id="person_tag">Chiara Granata</span> \~ harp
 
 ***
 
