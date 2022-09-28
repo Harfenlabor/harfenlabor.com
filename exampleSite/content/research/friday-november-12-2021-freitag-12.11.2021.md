@@ -1,6 +1,6 @@
 +++
 PublishDate = 2022-09-01T22:00:00Z
-author = "Haus der Musik, Innsbruck"
+author = "Friday, November 12, 2021&&Freitag, 12.11.2021"
 bhp_category = ""
 citation = ""
 description = ""
@@ -20,7 +20,7 @@ subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Musicology", "HL Editions", "Iconography", "Sociology of Art"]
 summary_text = ""
 timeline_tag = []
-title = "Friday, November 12, 2021&&Freitag, 12.11.2021"
+title = "Harp Biennale: Zwischen den Saiten"
 type = "Research"
 
 +++
