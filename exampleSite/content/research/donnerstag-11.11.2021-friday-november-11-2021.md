@@ -24,8 +24,11 @@ title = "Donnerstag, 11.11.2021 / Friday, November 11, 2021"
 type = "Research"
 
 +++
+***
 
 ![](/images/hold-dif_000858_67.png)
+
+***
 
 18\.00 | Begrüßung und feierliche Eröffnung des Festivals
 
@@ -34,6 +37,8 @@ Mit: Knoedel, Innsbrucker Volksmusikanten, Duo Gasteiger-Waldek
 (historische Einfachpedalharfen), Duo Ehrenstrasser-Reitmeir (Tiroler
 
 Volksharfen)
+
+***
 
 18:00 | Welcome and the Opening Ceremony 
 
