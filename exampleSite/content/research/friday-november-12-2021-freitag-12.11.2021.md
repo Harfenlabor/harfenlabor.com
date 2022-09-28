@@ -25,6 +25,8 @@ title = "Friday, November 12, 2021&&Freitag, 12.11.2021"
 type = "Research"
 
 +++
+***
+
 ![](/images/hold-dif_000859_102.png)
 
 ***
