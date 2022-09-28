@@ -25,3 +25,42 @@ title = "Friday, November 12, 2021&&Freitag, 12.11.2021"
 type = "Research"
 
 +++
+###### 
+
+***
+
+###### Haus der Musik, Kleiner Saal
+
+###### Die Harfe zur Zeit Haydns
+
+###### 09.00 Alexandra Ziane: Harfenist⁂innen in Wien zur Zeit Haydns
+
+###### 10.00 Christian Moritz-Bauer: J. B. Krumpholtz am Hofe von Fürst Nikolaus I. Esterházy
+
+###### 10.45 Klaus Aringer: Harfenmusik in der zweiten Hälfte des 18. Jahrhunderts
+
+###### 12.00 Lecture-Konzert I: _A thrilling harp, my soul inspire!_
+
+###### Chiara Granata \~ Harfe
+
+***
+
+###### Die Tiroler Volksharfe
+
+###### 15.00 Peter Kostner: Die Tiroler Volksharfe – Geschichte und Spielweise
+
+###### 15.45 Kurt Drexel: Die Entdeckung der Tiroler Volksharfe in den 1930er-Jahren
+
+###### und ihre Funktionalisierung in der NS-Zeit
+
+###### 16.30 Roundtable Der Dreiklang – zum Stellenwert der Volksharfe in der alpenländischen Musik. Otto Ehrenstrasser, Mara Galassi, Margret Köll, Masumi Nagasawa, Peter Reitmeir (Moderation: Thomas Nußbaumer)
+
+###### ⁙ Haus der Musik, Großer Saal
+
+###### 19.30 Konzert
+
+###### Volksmusikabend _„Stimmt’s enkre Soatn!“_
+
+###### Sprecher: Peter Kostner, ORF Tirol
+
+###### Mit: Unterinntaler Harfentrio, Die Perlseer, Peter Reitmeir, Julia Strasser und Tiroler Tanzmusikanten
