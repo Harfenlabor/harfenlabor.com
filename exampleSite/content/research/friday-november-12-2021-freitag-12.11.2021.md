@@ -32,6 +32,8 @@ type = "Research"
 
 ###### **Haus der Musik, Kleiner Saal**
 
+***
+
 ###### **Die Harfe zur Zeit Haydns**
 
 ###### 09.00 Alexandra Ziane: Harfenist⁂innen in Wien zur Zeit Haydns
