@@ -1,6 +1,6 @@
 +++
 PublishDate = 2022-08-31T22:00:00Z
-author = "Haus der Musik, Kleiner Saal"
+author = "Opening / Haus der Musik"
 bhp_category = ""
 citation = ""
 description = ""
