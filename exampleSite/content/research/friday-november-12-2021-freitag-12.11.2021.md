@@ -36,11 +36,11 @@ type = "Research"
 
 ###### **Harp at the Time of Haydn**
 
-###### 09:00 Alexandra Ziane: Harpists in Vienna at the Time of Haydn
+###### 09:00 Alexandra Ziane: Harfenist⁂innen in Wien zur Zeit Haydns (Harpists in Vienna at the Time of Haydn)
 
-###### 10:00 Christian Moritz-Bauer: J. B. Krumpholtz at the Court of Prince Nikolaus I Esterházy
+###### 10:00 Christian Moritz-Bauer: J. B. Krumpholtz am Hofe von Fürst Nikolaus I. Esterházy (J. B. Krumpholtz at the Court of Prince Nikolaus I Esterházy)
 
-###### 10.45 Klaus Aringer: Harp Music in the Second Half of the 18th Century
+###### 10.45 Klaus Aringer: Harfenmusik in der zweiten Hälfte des 18. Jahrhunderts (Harp Music in the Second Half of the 18th Century)
 
 ***
 
