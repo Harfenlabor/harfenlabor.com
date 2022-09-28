@@ -62,6 +62,16 @@ type = "Research"
 
 ***
 
+###### **The Tyrolean Folk Harp**
+
+###### 15.00 Peter Kostner: Die Tiroler Volksharfe – Geschichte und Spielweise (The Tyrolean Folk Harp–History and Playing Style)
+
+###### 15.45 Kurt Drexel: Die Entdeckung der Tiroler Volksharfe in den 1930er-Jahren und ihre Funktionalisierung in der NS-Zeit (The Discovery of the Tyrolean Folk Harp in the 1930s and the Functionalization of It during the Nazi Period)
+
+###### 16.30 Roundtable: The Triad–On the Importance of the Folk Harp in Alpine Music. Otto Ehrenstrasser, Mara Galassi, Margret Köll, Masumi Nagasawa, Peter Reitmeir (Moderation: Thomas Nußbaumer)
+
+***
+
 ###### **Die Tiroler Volksharfe**
 
 ###### 15.00 Peter Kostner: Die Tiroler Volksharfe – Geschichte und Spielweise
@@ -73,6 +83,8 @@ type = "Research"
 ***
 
 ###### **Haus der Musik, Großer Saal**
+
+***
 
 ###### 19.30 Konzert: Volksmusikabend _„Stimmt’s enkre Soatn!“_
 
