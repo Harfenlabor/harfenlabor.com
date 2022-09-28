@@ -1,6 +1,6 @@
 +++
 PublishDate = 2022-08-31T22:00:00Z
-author = ""
+author = "Haus der Musik, Kleiner Saal"
 bhp_category = ""
 citation = ""
 description = ""
@@ -24,7 +24,7 @@ title = "Donnerstag, 11.11.2021 / Friday, November 11, 2021"
 type = "Research"
 
 +++
-18\.00    Haus der Musik, Kleiner Saal
+18\.00   
 
 ![](/images/hold-dif_000858_67.png)
 
