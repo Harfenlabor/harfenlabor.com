@@ -24,7 +24,6 @@ title = "Donnerstag, 11.11.2021 / Friday, November 11, 2021"
 type = "Research"
 
 +++
-18\.00   
 
 ![](/images/hold-dif_000858_67.png)
 
