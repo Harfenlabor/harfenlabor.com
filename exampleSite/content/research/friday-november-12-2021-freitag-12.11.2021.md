@@ -74,10 +74,8 @@ type = "Research"
 
 ###### **Haus der Musik, Großer Saal**
 
-###### 19.30 Konzert
-
-Volksmusikabend _„Stimmt’s enkre Soatn!“_
+###### 19.30 Konzert: Volksmusikabend _„Stimmt’s enkre Soatn!“_
 
 ###### Sprecher: Peter Kostner, ORF Tirol
 
-Mit: Unterinntaler Harfentrio, Die Perlseer, Peter Reitmeir, Julia Strasser und Tiroler Tanzmusikanten
+###### Mit: Unterinntaler Harfentrio, Die Perlseer, Peter Reitmeir, Julia Strasser und Tiroler Tanzmusikanten
