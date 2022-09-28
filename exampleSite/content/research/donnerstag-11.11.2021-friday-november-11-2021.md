@@ -30,13 +30,17 @@ type = "Research"
 
 ***
 
+***
+
+###### Kleiner Saal
+
 ###### 18.00 | Begrüßung und feierliche Eröffnung des Festivals
 
 ###### Mit: Knoedel, Innsbrucker Volksmusikanten, Duo Gasteiger-Waldek (historische Einfachpedalharfen), Duo Ehrenstrasser-Reitmeir (Tiroler Volksharfen)
 
 ***
 
-###### 18:00    Welcome / Opening Ceremony 
+###### 18:00    Welcome / Opening Ceremony
 
 ###### With: Knoedel, Innsbrucker Volksmusikanten, Duo Gasteiger-Waldek (historical single-action harps), Duo Ehrenstrasser-Reitmeir (Tyrolean folk harps)
 
