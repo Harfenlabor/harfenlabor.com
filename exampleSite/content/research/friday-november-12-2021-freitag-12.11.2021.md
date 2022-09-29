@@ -1,6 +1,6 @@
 +++
 PublishDate = 2022-09-01T22:00:00Z
-author = "Friday, November 12, 2021 / Freitag, 12.11.2021"
+author = "Friday, November 12, 2021"
 bhp_category = ""
 citation = ""
 description = ""
