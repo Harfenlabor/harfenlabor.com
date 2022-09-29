@@ -1,6 +1,6 @@
 +++
 PublishDate = 2022-08-31T22:00:00Z
-author = "Opening / Haus der Musik"
+author = "Thursday, November 11, 2021"
 bhp_category = ""
 citation = ""
 description = ""
@@ -20,7 +20,7 @@ subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Musicology", "HL Editions", "Iconography", "Sociology of Art"]
 summary_text = "Haus der Musik, Kleiner Saal\n18.00 | Begrüßung und feierliche Eröffnung des Festivals\nMit: Knoedel, Innsbrucker Volksmusikanten, Duo Gasteiger-Waldek\n(historische Einfachpedalharfen), Duo Ehrenstrasser-Reitmeir (Tiroler\nVolksharfen)"
 timeline_tag = []
-title = "Thursday, November 11, 2021&&Donnerstag, 11.11.2021"
+title = "Zwischen den Saiten"
 type = "Research"
 
 +++
@@ -32,19 +32,13 @@ type = "Research"
 
 ***
 
-###### **Kleiner Saal**
+###### Kleiner Saal
 
 ***
 
 ###### **18:00    Welcome / Opening Ceremony**
 
 ###### With: Knoedel, Innsbrucker Volksmusikanten, Duo Gasteiger-Waldek (historical single-action harps), Duo Ehrenstrasser-Reitmeir (Tyrolean folk harps)
-
-***
-
-###### **18.00   Begrüßung und feierliche Eröffnung des Festivals**
-
-###### Mit: Knoedel, Innsbrucker Volksmusikanten, Duo Gasteiger-Waldek (historische Einfachpedalharfen), Duo Ehrenstrasser-Reitmeir (Tiroler Volksharfen)
 
 ***
 
