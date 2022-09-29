@@ -70,7 +70,7 @@ Harfenlabor invited Thünen-Institut (Hamburg) to examine the column and other i
 
 “Zwischen den Saiten,” online harp workshop.
 
-“Haydn’s Folk Harp,” the first edition of Harfenlabor’s new biannual [Festival of Historical Harp, titled Zwischen den Saiten](https://www.harfenlabor.com/news/between-the-strings-festival-of-historical-harp-first-edition-haydn-s-folk-harp/), is an artistic-scientific duel between the Single-Action-Harp around Haydn and its Alpine counterpart, the Tyrolean Folk Harp. The festival took place November 11–14, 2021, at Haus der Musik Innsbruck and Tiroler Landesmuseen Ferdinandeum.
+“Haydn’s Folk Harp,” the first edition of Harfenlabor’s new Harp Biennale, [titled Zwischen den Saiten](https://www.harfenlabor.com/news/between-the-strings-festival-of-historical-harp-first-edition-haydn-s-folk-harp/), is an artistic-scientific duel between the Single-Action-Harp around Haydn and its Alpine counterpart, the Tyrolean Folk Harp. The festival took place November 11–14, 2021, at Haus der Musik Innsbruck and Tiroler Landesmuseen Ferdinandeum.
 
 2022  
 May 2022, the launch of Harfenlabor's digital edition.
