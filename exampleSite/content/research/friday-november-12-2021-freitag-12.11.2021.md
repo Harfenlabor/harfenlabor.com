@@ -26,13 +26,14 @@ type = "Research"
 +++
 ***
 
-![](/images/hold-dif_000859_102.png)
+###### ![](/images/hold-dif_000859_102.png)  
+Photo by Armin Linke
 
 ***
 
 ***
 
-###### **Haus der Musik, Kleiner Saal**
+###### Haus der Musik, Kleiner Saal
 
 ***
 
