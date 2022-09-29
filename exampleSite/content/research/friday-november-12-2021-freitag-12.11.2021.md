@@ -26,8 +26,9 @@ type = "Research"
 +++
 ***
 
-###### ![](/images/hold-dif_000859_102.png)  
-Photo by Armin Linke
+###### ![](/images/hold-dif_000859_102.png)
+
+###### Photo by Armin Linke
 
 ***
 
