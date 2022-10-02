@@ -39,6 +39,20 @@ fields:
   label: subtype
   description: Used for Research articles. Delete the categories unrelated to this
     specific article.
+- name: harp_biennale_category
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Zwischen den Saiten
+    - Celtic Strings
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Harp Biennale Category
 - name: project_category
   type: select
   default: ''
