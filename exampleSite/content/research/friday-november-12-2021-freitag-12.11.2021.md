@@ -24,7 +24,7 @@ summary_text = ""
 timeline_tag = []
 title = "Zwischen den Saiten"
 type = "Research"
-zwischen_category = "EVENT INFO"
+zwischen_category = "Concerts"
 
 +++
 ***
