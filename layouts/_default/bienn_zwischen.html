@@ -20,7 +20,7 @@
 
       {{ range $.Site.RegularPages }}
         {{ if and (not .Params.hide_from_research) (eq .Params.project_category "Barberini Harp Project") }}
-        {{ .Render "article_onepage" }}
+        {{ .Render "article" }}
         {{ end }}
       {{ end }}
       
