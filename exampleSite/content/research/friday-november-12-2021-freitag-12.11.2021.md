@@ -2,11 +2,13 @@
 PublishDate = 2022-09-01T22:00:00Z
 author = "Friday, November 12, 2021"
 bhp_category = ""
+celtic_strings_category = ""
 citation = ""
 description = ""
 downloads = []
 externallinks = ""
 footnotes = ""
+harp_biennale_category = "Zwischen den Saiten"
 hide_from_research = false
 image = "/images/hold-dif_000859_102.png"
 imgcaptions = ""
@@ -22,6 +24,7 @@ summary_text = ""
 timeline_tag = []
 title = "Zwischen den Saiten"
 type = "Research"
+zwischen_category = "EVENT INFO"
 
 +++
 ***

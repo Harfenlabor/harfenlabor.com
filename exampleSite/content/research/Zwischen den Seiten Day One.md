@@ -2,12 +2,14 @@
 PublishDate = 2022-08-31T22:00:00Z
 author = "Thursday, November 11, 2021"
 bhp_category = ""
+celtic_strings_category = ""
 citation = ""
 description = ""
 downloads = []
 externallinks = ""
 footnotes = ""
-hide_from_research = true
+harp_biennale_category = "Zwischen den Saiten"
+hide_from_research = false
 image = "/images/hold-dif_000858_67.png"
 imgcaptions = ""
 map_tag = []
@@ -22,6 +24,7 @@ summary_text = "Haus der Musik, Kleiner Saal\n18.00 | Begrüßung und feierliche
 timeline_tag = []
 title = "Zwischen den Saiten"
 type = "Research"
+zwischen_category = "EVENT INFO"
 
 +++
 ***
