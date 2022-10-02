@@ -17,7 +17,7 @@
 
       {{ $paginator := .Paginate .Data.Pages }}
       {{ range $paginator.Pages }}
-        {{ if and (not .Params.hide_from_research) (ne .Title "Organology") (ne .Title "Performance Practice") (ne .Title "Musicology") (ne .Title "HL Editions") (ne .Title "Iconography") (ne .Title "Sociology of Art") }}
+        {{ if and (not .Params.hide_from_research) (not .Params.harp_biennale_category) (ne .Title "Organology") (ne .Title "Performance Practice") (ne .Title "Musicology") (ne .Title "HL Editions") (ne .Title "Iconography") (ne .Title "Sociology of Art") }}
           {{ .Render "article" }}
         {{ end }}
       {{ end }}
