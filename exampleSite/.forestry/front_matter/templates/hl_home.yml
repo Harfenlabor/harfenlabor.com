@@ -63,6 +63,7 @@ fields:
     - Concert-Lectures
     - Symposium
     - Exhibition
+    - EVENT INFO
     source:
       type: simple
       section: 
@@ -83,6 +84,7 @@ fields:
     - Concert-Lectures
     - Symposium
     - Exhibition
+    - EVENT INFO
     source:
       type: simple
       section: 
