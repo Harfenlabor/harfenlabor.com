@@ -53,6 +53,46 @@ fields:
       file: 
       path: 
   label: Harp Biennale Category
+- name: zwischen_category
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - Concerts
+    - Concert-Lectures
+    - Symposium
+    - Exhibition
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Zwischen den Saiten Category
+  description: Article's category, if included in Zwischen den Saiten.
+  showOnly:
+    field: harp_biennale_category
+    value: Zwischen den Saiten
+- name: celtic_strings_category
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - Concerts
+    - Concert-Lectures
+    - Symposium
+    - Exhibition
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Celtic Strings Category
+  showOnly:
+    field: harp_biennale_category
+    value: Celtic Strings
+  description: Article's category, if included in Celtic Strings.
 - name: project_category
   type: select
   default: ''
