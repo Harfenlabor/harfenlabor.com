@@ -29,7 +29,7 @@ zwischen_category = "EVENT INFO"
 +++
 ***
 
-###### ![](/images/hold-dif_000859_102.png)
+![](/images/hold-dif_000859_102.png)
 
 ###### Photo by Armin Linke
 
