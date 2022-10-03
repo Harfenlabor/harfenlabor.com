@@ -19,7 +19,7 @@
       {{"<!-- /section title -->" | safeHTML}}
 
       {{ range $.Site.RegularPages }}
-        {{ if and (not .Params.hide_from_research) (eq .Params.harp_biennale_category "Zwischen den Saiten") (eq .Params.zwischen_category "Concerts-lectures") }}
+        {{ if and (not .Params.hide_from_research) (eq .Params.harp_biennale_category "Zwischen den Saiten") (eq .Params.zwischen_category "Concerts-Lectures") }}
         {{ .Render "article" }}
         {{ end }}
       {{ end }}
