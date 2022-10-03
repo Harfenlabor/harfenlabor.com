@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+{{"<!-- Start Blog Section -->" | safeHTML}}
+<section id="blog" class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        {{"<!-- section title -->" | safeHTML}}
+        <div class="title text-center wow fadeInDown">
+          <h1>{{ .Title }}</h1>
+
+          <p class="description_paragraph">Harfenlabor’s interdisciplinary, innovative festival combines lively artistic practice with science in order to provide new impetus for the future of the historical harp and strengthen its standing within the classical music contexts. Harp Biennale is at once a public festival, presenting a diverse and lively harp repertoire in <a href="..\ZDSconcerts">Concerts</a> and <a href="..\ZDSconcert-lectures">Concert-Lectures</a> by internationally renowned performers, as well as a specialist forum aiming to create a platform by networking different actors and institutions in a <a href="..\ZDSsymposium">Symposium</a> and an <a href="..\ZDSexhibition">Exhibition</a> presenting up to date artistic and scientific research on the historical harp.</p>
+
+          <div class="border-meghna"></div>
+        </div>
+      </div>
+      {{"<!-- /section title -->" | safeHTML}}
+
+      {{ range $.Site.RegularPages }}
+        {{ if and (not .Params.hide_from_research) (eq .Params.harp_biennale_category "Celtic Strings") }}
+        {{ .Render "article" }}
+        {{ end }}
+      {{ end }}
+      
+      <div class="col-12">
+      </div>
+    </div>
+  </div>
+</section>
+{{"<!-- /blog -->" | safeHTML}}
+
+{{ end }}
