@@ -158,17 +158,26 @@
 {{ if eq .Type "Research" }}
 <footer id="footer_desktop">
   {{ if ne .Params.project_category "NONE" }}
-    <div id="footer" class="foot1">
-      <p class="footer_title footitle1">{{ .Params.project_category | safeHTML | truncate 22 }}</p>
-      <div class="footer_insidebox_1">
-        {{ $this_proj_cat := .Params.project_category }}
-        {{ range $.Param "Projects.projects" }}
-          {{ if eq $this_proj_cat .title}}
-          <p class="footer_insidetext">{{ .description }}</p>
-          {{ end }}
-        {{ end }}
+    {{ if .Params.harp_biennale_category }}
+      <div id="footer" class="foot1">
+        <p class="footer_title footitle1">{{ .Params.harp_biennale_category | safeHTML | truncate 22 }}</p>
+        <div class="footer_insidebox_1">
+            <p class="footer_insidetext">Harfenlabor’s interdisciplinary, innovative festival combines lively artistic practice with science in order to provide new impetus for the future of the historical harp and strengthen its standing within the classical music contexts. Harp Biennale is at once a public festival, presenting a diverse and lively harp repertoire in Concerts and Concert-Lectures by internationally renowned performers, as well as a specialist forum aiming to create a platform by networking different actors and institutions in a Symposium and an Exhibition presenting up to date artistic and scientific research on the historical harp.</p>
+        </div>
       </div>
-    </div>
+    {{ else }}
+      <div id="footer" class="foot1">
+        <p class="footer_title footitle1">{{ .Params.project_category | safeHTML | truncate 22 }}</p>
+        <div class="footer_insidebox_1">
+          {{ $this_proj_cat := .Params.project_category }}
+          {{ range $.Param "Projects.projects" }}
+            {{ if eq $this_proj_cat .title}}
+            <p class="footer_insidetext">{{ .description }}</p>
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
   {{ end }}
   <div id="footer" class="foot2">
     <p class="footer_title footitle2">Related Research</p>
