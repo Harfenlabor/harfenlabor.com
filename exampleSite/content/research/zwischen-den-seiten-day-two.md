@@ -12,7 +12,7 @@ harp_biennale_category = "Zwischen den Saiten"
 hide_from_research = false
 image = ""
 imgcaptions = ""
-map_tag = []
+map_tag = ["Wien", "Innsbruck", "Edinburgh"]
 person_tag = ["Mara Galassi", "Franz Gratl", "Andreas Holzmann", "Masako Art", "Masumi Nagasawa", "Mike Baldwin"]
 project_category = "NONE"
 relatedresearch = []
@@ -39,7 +39,7 @@ zwischen_category = "EVENT INFO"
 
 ###### 09:30 <span id="person_tag">Franz Gratl</span>: Die Harfe in Tirol, ca. 1750–1850: Eine Spurensuche (The Harp in Tyrol, ca. 1750-1850: A Search for Clues)
 
-###### 10:15 <span id="person_tag">Andreas Holzmann</span>: Gräfin Ottilie von Tannenbergs Reise nach Wien im Jahr 1818. Fragmente zum Leben einer Tiroler Harfenistin (Countess Ottilie von Tannenberg's Journey to Vienna in 1818. Fragments on the Life of a Tyrolean Harpist)
+###### 10:15 <span id="person_tag">Andreas Holzmann</span>: Gräfin Ottilie von Tannenbergs Reise nach Wien im Jahr 1818. Fragmente zum Leben einer Tiroler Harfenistin (Countess Ottilie von Tannenberg's Journey to Wien in 1818. Fragments on the Life of a Tyrolean Harpist)
 
 ###### 11:15 <span id="person_tag">Masako Art</span>: Die Schwestern Margaret und Anna Jane Douglas MacLean- Clephane und die Harfe in der Hausmusikszene in Edinburgh um 1800 (Sisters Margaret and Anna Jane Douglas MacLean-Clephane and the harp in the Edinburgh domestic music scene circa 1800)
 
