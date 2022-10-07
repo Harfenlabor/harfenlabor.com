@@ -53,6 +53,8 @@ zwischen_category = "EVENT INFO"
 
 ###### 11:15 <span id="person_tag">Masako Art</span>: Die Schwestern Margaret und Anna Jane Douglas MacLean-Clephane und die Harfe in der Hausmusikszene in Edinburgh um 1800 (Sisters Margaret and Anna Jane Douglas MacLean-Clephane and the harp in the Edinburgh domestic music scene circa 1800)
 
+###### 12:00 Lecture Konzert II: _Contribution of J. G. H. by_ <span id="person_tag">Masumi Nagasawa</span> \~ Harfe und <span id="person_tag">Peter Rabl</span> \~ Klarinette/Bassetthorn
+
 ***
 
 ***
@@ -60,16 +62,6 @@ zwischen_category = "EVENT INFO"
 ![](/images/dif_000859_85.jpg)
 
 ###### Masumi Nagasawa and Peter Rabl on stage. Photo by Armin Linke
-
-***
-
-***
-
-###### 12:00 Lecture Konzert II: _Contribution of J. G. H. by_ <span id="person_tag">Masumi Nagasawa</span> \~ Harfe und <span id="person_tag">Peter Rabl</span> \~ Klarinette/Bassetthorn
-
-***
-
-***
 
 ***
 
