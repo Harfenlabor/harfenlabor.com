@@ -28,3 +28,10 @@ type = "Research"
 zwischen_category = "Exhibition"
 
 +++
+![](/images/dif_000859_43.jpg)
+
+***
+
+***
+
+![](/images/dif_000859_63.jpg)
