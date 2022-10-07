@@ -49,6 +49,8 @@ zwischen_category = "EVENT INFO"
 
 ***
 
+![](/images/dif_000859_97.jpg)
+
 ***
 
 ***
