@@ -6,7 +6,6 @@ celtic_strings_category = ""
 citation = ""
 description = ""
 downloads = []
-draft = true
 externallinks = ""
 footnotes = ""
 harp_biennale_category = "Zwischen den Saiten"
@@ -28,3 +27,15 @@ type = "Research"
 zwischen_category = "EVENT INFO"
 
 +++
+
+⁙ Tiroler Landesmuseum Ferdinandeum
+
+10\.00 Vorkonzert von Nachwuchsharfenist⁂innen
+
+_Single Action bedeutet nicht Isolation._
+
+11\.00 Matinée-Konzert
+
+_The God of Harmony and a gifted pupil_
+
+Mara Galassi \~ Harfe und Jovanka Marville \~ Hammerklavier
