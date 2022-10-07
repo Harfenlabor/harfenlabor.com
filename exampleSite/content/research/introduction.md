@@ -29,7 +29,11 @@ zwischen_category = "EVENT INFO"
 +++
 ![](/images/dif_000859_90.jpg)
 
-Housing the Haus der Musik, as an open and modern meeting place, and the Tiroler Landesmuseum Ferdinandeum, with its magnificent collection of instruments, Innsbruck is geographically predestined for Zwischen den Seiten, the first edition of this festival of historical harp. As the state capital, Innsbruck is the epicentre of a unique harp tradition that stretches from the time of Emperor Maximilian to the present day, from the Gothic harp of the minnesingers to the Renaissance and Baroque harps, and the concert harp and the Tyrolean folk harp still played today.
+***
+
+***
+
+With the Haus der Musik, as an open and modern meeting place, and the Tiroler Landesmuseum Ferdinandeum, with its magnificent collection of instruments, Innsbruck is geographically predestined for Zwischen den Seiten, the first edition of this festival of historical harp. As the state capital, Innsbruck is the epicentre of a unique harp tradition that stretches from the time of Emperor Maximilian to the present day, from the Gothic harp of the minnesingers to the Renaissance and Baroque harps, and the concert harp and the Tyrolean folk harp still played today.
 
 There are said to be more than 500 Tyrolean harpists today playing the so-called single pedal harp, its aristocratic harp relatives having been so successful at the European courts in the 18th and 19th centuries, as well as at home in the bourgeois and peasant circles in Central Europe, in England, Scotland and Ireland.
 
@@ -46,5 +50,3 @@ The festival of the historical harp could only be realized thanks to and with th
 Celebrate with us! Between the mountains, between the strings!
 
 Yours, Margaret Köll
-
-    Yours, Margaret Köll
