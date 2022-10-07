@@ -57,9 +57,9 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-###### ![](/images/dif_000859_85.jpg)
+![](/images/dif_000859_85.jpg)
 
-Masumi Nagasawa and Peter Rabl on stage. Photo by Armin Linke
+###### Masumi Nagasawa and Peter Rabl on stage. Photo by Armin Linke
 
 ***
 
