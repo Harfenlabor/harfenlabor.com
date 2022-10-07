@@ -31,7 +31,8 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-![](/images/dif_000859_97.jpg)
+###### ![](/images/dif_000859_97.jpg)  
+Mara Galassi presenting "Basso continuo on Single Action Harps." Photo by Armin Linke
 
 ***
 
