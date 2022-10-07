@@ -13,7 +13,7 @@ hide_from_research = false
 image = ""
 imgcaptions = ""
 map_tag = []
-person_tag = ["Mara Galassi", "Franz Gratl", "Andreas Holzmann", "Masako Art", "Masumi Nagasawa"]
+person_tag = ["Mara Galassi", "Franz Gratl", "Andreas Holzmann", "Masako Art", "Masumi Nagasawa", "Mike Baldwin"]
 project_category = "NONE"
 relatedresearch = []
 show_in_news = false
@@ -53,17 +53,13 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-###### 14:30 Mike Baldwin: Jacob Hochbrucker: innovating and developing the first pedal harps
+###### 14:30 <span id="person_tag">Mike Baldwin</span>: Jacob Hochbrucker: innovating and developing the first pedal harps
 
-###### 15:15 Lewis Jones: Harpists of the Hochbrucker family: their role in disseminating and establishing the pedal harp in eighteenth-century Europe
+###### 15:15 <span id="person_tag">Lewis Jones</span>: Harpists of the Hochbrucker family: their role in disseminating and establishing the pedal harp in eighteenth-century Europe
 
-###### 16:30 Franz Körndle: Wer war C. Hochbrucker le neveu?
+###### 16:30 <span id="person_tag">Franz Körndle</span>: Wer war C. Hochbrucker le neveu?
 
-###### 17:15 
-
-<span id="person_tag">Mara Galassi</span>
-
-###### : Basso continuo on Single Action Harps
+###### 17:15 <span id="person_tag">Mara Galassi</span>: Basso continuo on Single Action Harps
 
 ***
 
