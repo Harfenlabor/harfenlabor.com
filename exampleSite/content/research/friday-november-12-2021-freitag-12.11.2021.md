@@ -37,7 +37,7 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-###### Haus der Musik, Kleiner Saal
+###### ⁙ Haus der Musik, Kleiner Saal
 
 ***
 
@@ -77,7 +77,7 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-###### **Haus der Musik, Großer Saal**
+###### ⁙ **Haus der Musik, Großer Saal**
 
 ***
 
