@@ -28,14 +28,14 @@ zwischen_category = "EVENT INFO"
 
 +++
 
-⁙ Tiroler Landesmuseum Ferdinandeum
+###### ⁙ Tiroler Landesmuseum Ferdinandeum
 
-10\.00 Vorkonzert von Nachwuchsharfenist⁂innen
+###### 10:00 Young Harpists' Concert: _Single Action bedeutet nicht Isolation._
 
-_Single Action bedeutet nicht Isolation._
+***
 
-11\.00 Matinée-Konzert
+***
 
-_The God of Harmony and a gifted pupil_
+###### 11:00 Matinée-Concert: _The God of Harmony and a gifted pupil,_ Mara Galassi \~ harp and Jovanka Marville \~ fortepiano
 
-Mara Galassi \~ Harfe und Jovanka Marville \~ Hammerklavier
+![](/images/dif_000859_69.jpg)
