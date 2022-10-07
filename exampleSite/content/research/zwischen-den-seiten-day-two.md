@@ -31,7 +31,7 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-Haus der Musik, Kleiner Saal
+⁙ Haus der Musik, Kleiner Saal
 
 Regionalitäten
 
@@ -47,18 +47,16 @@ Regionalitäten
 
 Die Einfachpedalharfe: Bau- und Spielweise
 
-14\.30 Mike Baldwin: Jacob Hochbrucker: innovating and developing the first pedal harps
+14:30 Mike Baldwin: Jacob Hochbrucker: innovating and developing the first pedal harps
 
-15\.15 Lewis Jones: Harpists of the Hochbrucker family: their role in disseminating and establishing the pedal harp in eighteenth-century Europe
+15:15 Lewis Jones: Harpists of the Hochbrucker family: their role in disseminating and establishing the pedal harp in eighteenth-century Europe
 
-16\.30 Franz Körndle: Wer war C. Hochbrucker le neveu?
+16:30 Franz Körndle: Wer war C. Hochbrucker le neveu?
 
-17\.15 Mara Galassi: Basso continuo on Single Action Harps
+17:15 Mara Galassi: Basso continuo on Single Action Harps
+
+***
 
 ⁙ Tiroler Landesmuseum Ferdinandeum
 
-19\.30 Konzert
-
-_Tullochgorum – Haydn – Harp – Scotland_
-
-The Poker Club Band
+19:30 Concert: _Tullochgorum – Haydn – Harp – Scotland,_ The Poker Club Band
