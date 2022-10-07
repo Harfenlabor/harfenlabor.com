@@ -56,7 +56,8 @@ Mara Galassi presenting "Basso continuo on Single Action Harps." Photo by Armin 
 
 ***
 
-![](/images/dif_000859_85.jpg)
+###### ![](/images/dif_000859_85.jpg)  
+Masumi Nagasawa and Peter Rabl on stage. Photo by Armin Linke
 
 ***
 
