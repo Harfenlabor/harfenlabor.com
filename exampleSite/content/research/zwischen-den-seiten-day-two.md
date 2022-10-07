@@ -51,7 +51,7 @@ zwischen_category = "EVENT INFO"
 
 ###### 10:15 <span id="person_tag">Andreas Holzmann</span>: Gräfin Ottilie von Tannenbergs Reise nach Wien im Jahr 1818. Fragmente zum Leben einer Tiroler Harfenistin (Countess Ottilie von Tannenberg's Journey to Wien in 1818. Fragments on the Life of a Tyrolean Harpist)
 
-###### 11:15 <span id="person_tag">Masako Art</span>: Die Schwestern Margaret und Anna Jane Douglas MacLean- Clephane und die Harfe in der Hausmusikszene in Edinburgh um 1800 (Sisters Margaret and Anna Jane Douglas MacLean-Clephane and the harp in the Edinburgh domestic music scene circa 1800)
+###### 11:15 <span id="person_tag">Masako Art</span>: Die Schwestern Margaret und Anna Jane Douglas MacLean-Clephane und die Harfe in der Hausmusikszene in Edinburgh um 1800 (Sisters Margaret and Anna Jane Douglas MacLean-Clephane and the harp in the Edinburgh domestic music scene circa 1800)
 
 ***
 
