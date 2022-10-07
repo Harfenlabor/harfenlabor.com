@@ -35,7 +35,7 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-###### Kleiner Saal
+###### ⁙ Kleiner Saal
 
 ***
 
@@ -45,4 +45,4 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-######
+###### 
