@@ -49,7 +49,7 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-###### **Die Einfachpedalharfe: Bau- und Spielweise**
+###### **Single-Action Harp: Construction and Playing**
 
 ***
 
