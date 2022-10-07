@@ -27,6 +27,10 @@ type = "Research"
 zwischen_category = "EVENT INFO"
 
 +++
+***
+
+***
+
 ![](/images/dif_000859_144.jpg)
 
 ***
@@ -43,4 +47,10 @@ zwischen_category = "EVENT INFO"
 
 ###### 11:00 Matinée-Concert: _The God of Harmony and a gifted pupil,_ Mara Galassi \~ harp and Jovanka Marville \~ fortepiano
 
+***
+
+***
+
 ![](/images/dif_000859_69.jpg)
+
+###### Mara Galassi and Jovanka Marville on stage. Photo by Armin Linke.
