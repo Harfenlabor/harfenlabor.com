@@ -29,6 +29,14 @@ zwischen_category = "EVENT INFO"
 +++
 ***
 
+***
+
+![](/images/dif_000859_97.jpg)
+
+***
+
+***
+
 ###### ⁙ Haus der Musik, Kleiner Saal
 
 ***
@@ -58,8 +66,6 @@ zwischen_category = "EVENT INFO"
 ***
 
 ***
-
-![](/images/dif_000859_97.jpg)
 
 ***
 
