@@ -77,12 +77,12 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-###### ⁙ **Haus der Musik, Großer Saal**
+###### ⁙ Haus der Musik, Großer Saal
 
 ***
 
-###### 19.30 Concert: An Evening of Folk Music _„Stimmt’s enkre Soatn!“_
+###### 19.30 Concert: An Evening of Folk Music _„Stimmt’s enkre Soatn!“_ With: Unterinntaler Harfentrio, Die Perlseer, Peter Reitmeir, Julia Strasser and Tiroler Tanzmusikanten
 
 ###### Speaker: Peter Kostner, ORF Tirol
 
-###### With: Unterinntaler Harfentrio, Die Perlseer, Peter Reitmeir, Julia Strasser and Tiroler Tanzmusikanten
+###### 
