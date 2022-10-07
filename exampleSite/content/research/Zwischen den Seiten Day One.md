@@ -39,9 +39,9 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-###### **18:00    Welcome / Opening Ceremony**
+###### **Welcome / Opening Ceremony**
 
-###### With: Knoedel, Innsbrucker Volksmusikanten, Duo Gasteiger-Waldek (historical single-action harps), Duo Ehrenstrasser-Reitmeir (Tyrolean folk harps)
+###### 18:00 With: Knoedel, Innsbrucker Volksmusikanten, Duo Gasteiger-Waldek (historical single-action harps), Duo Ehrenstrasser-Reitmeir (Tyrolean folk harps)
 
 ***
 
