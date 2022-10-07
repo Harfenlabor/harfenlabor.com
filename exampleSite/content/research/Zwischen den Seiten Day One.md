@@ -22,7 +22,7 @@ subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Musicology", "HL Editions", "Iconography", "Sociology of Art"]
 summary_text = "The first edition of the Harp Biennale opens with words of welcome and the world premiere of Himmels We, by the Tyrolean composer Christof Dienz, performed by the Knoedel, Innsbrucker Volksmusikanten, Duo Gasteiger-Waldek (historische Einfachpedalharfen), and Duo Ehrenstrasser-Reitmeir (Tiroler Volksharfen), at the Kleiner Saal of Haus der Musik Innsbruck."
 timeline_tag = []
-title = "Zwischen den Saiten"
+title = "Zwischen den Saiten, the Opening "
 type = "Research"
 zwischen_category = "EVENT INFO"
 

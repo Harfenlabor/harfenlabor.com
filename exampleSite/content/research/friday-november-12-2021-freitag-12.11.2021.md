@@ -22,7 +22,7 @@ subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Musicology", "HL Editions", "Iconography", "Sociology of Art"]
 summary_text = "The second day featured talks on the single-action harp at the time of Haydn, and on the Tyrolean folk harp, and presented a concert-lecture and a concert. "
 timeline_tag = []
-title = "Zwischen den Saiten"
+title = "Zwischen den Saiten, Day One"
 type = "Research"
 zwischen_category = "EVENT INFO"
 
