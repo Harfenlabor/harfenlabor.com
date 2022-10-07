@@ -27,7 +27,7 @@ type = "Research"
 zwischen_category = "EVENT INFO"
 
 +++
-![](/images/screenshot-2022-10-07-at-12-39-47.png)
+![](/images/dif_000859_90.jpg)
 
 Housing the Haus der Musik, as an open and modern meeting place, and the Tiroler Landesmuseum Ferdinandeum, with its magnificent collection of instruments, Innsbruck is geographically predestined for Zwischen den Seiten, the first edition of this festival of historical harp. As the state capital, Innsbruck is the epicentre of a unique harp tradition that stretches from the time of Emperor Maximilian to the present day, from the Gothic harp of the minnesingers to the Renaissance and Baroque harps, and the concert harp and the Tyrolean folk harp still played today.
 
