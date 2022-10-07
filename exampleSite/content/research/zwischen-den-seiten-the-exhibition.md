@@ -27,6 +27,13 @@ type = "Research"
 zwischen_category = "Exhibition"
 
 +++
+###### This exhibition BLAH BLAH
+
+***
+
+***
+
+  
 ![](/images/dif_000859_43.jpg)
 
 ***
@@ -44,3 +51,17 @@ zwischen_category = "Exhibition"
 ***
 
 ***
+
+![](/images/dif_000859_38.jpg)
+
+***
+
+***
+
+![](/images/dif_000859_65.jpg)
+
+***
+
+***
+
+![](/images/dif_000859_32.jpg)
