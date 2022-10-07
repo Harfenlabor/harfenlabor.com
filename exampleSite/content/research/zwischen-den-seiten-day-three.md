@@ -27,6 +27,11 @@ type = "Research"
 zwischen_category = "EVENT INFO"
 
 +++
+![](/images/dif_000859_144.jpg)
+
+***
+
+***
 
 ###### ⁙ Tiroler Landesmuseum Ferdinandeum
 
