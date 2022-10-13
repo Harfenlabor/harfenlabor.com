@@ -22,7 +22,7 @@ subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Musicology", "HL Editions", "Iconography", "Sociology of Art"]
 summary_text = "Harfenlabor's founder Margret Köll introduces the first edition of the Harp Biennale with a brief overview of what Zwischen den Seiten presents, and an overview of the Harp Biennale as a new, innovative festival: . "
 timeline_tag = []
-title = "Zwischen den Seiten: About the Festival"
+title = "Zwischen den Saiten: About the Festival"
 type = "Research"
 zwischen_category = "EVENT INFO"
 
