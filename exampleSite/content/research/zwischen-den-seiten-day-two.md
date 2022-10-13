@@ -22,7 +22,7 @@ subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Musicology", "HL Editions", "Iconography", "Sociology of Art"]
 summary_text = "The second day morning session saw symposium contributions on the topic of Regionalities, and a concert-lecture. The afternoon was devoted to Single-Action Harp: Construction and Playing. The day was rounded off with the evening concert Tullochgorum – Haydn – Harp – Scotland. "
 timeline_tag = []
-title = "Zwischen den Seiten, Day Two"
+title = "Zwischen den Saiten, Day Two"
 type = "Research"
 zwischen_category = "EVENT INFO"
 
