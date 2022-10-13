@@ -33,7 +33,6 @@ zwischen_category = "Exhibition"
 
 ***
 
-  
 ![](/images/dif_000859_43.jpg)
 
 ***
@@ -65,3 +64,13 @@ zwischen_category = "Exhibition"
 ***
 
 ![](/images/dif_000859_32.jpg)
+
+***
+
+***
+
+![](/images/img_0257.JPG)
+
+***
+
+***
