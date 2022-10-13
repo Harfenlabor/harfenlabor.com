@@ -45,7 +45,7 @@ As a kind of a time machine, this single-action pedal harp is now the focus of t
 
 The opening concert bears witness to this as a reflection of the festival on the whole: by presenting a world premiere by the Tyrolean composer <span id="person_tag">Christof Dienz</span>, it not only places the historical harp in the focus of contemporary music, it also creates a musical dialogue between the "aristocratic," historical harp and the Tyrolean folk harp. In this context, the young talent concert, at which young harpists are invited to present their interpretations or arrangements of harp music to a broad audience, deserves special attention.
 
-Above all, the Zwischen den Seiten aims to create a platform by networking different actors and institutions combining lively artistic practice and science to provide new impetus for the future of the historical harp.
+Above all, the Zwischen den Saiten aims to create a platform by networking different actors and institutions combining lively artistic practice and science to provide new impetus for the future of the historical harp.
 
 The initiator of this new kind of festival is Harfenlabor, founded in 2018 as an interdisciplinary platform for historical and contemporary performance practice on historical harps, giving impetus to critical discourse and new performative and interpretative approaches.
 
