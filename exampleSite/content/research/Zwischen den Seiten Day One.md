@@ -47,10 +47,6 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-###### More about the concert
-
-***
-
 ***
 
 <div class="embed-responsive embed-responsive-16by9">
@@ -58,3 +54,16 @@ zwischen_category = "EVENT INFO"
 </div><div class="chapters"></div>
 
 ***
+
+***
+
+###### The Knoedel performs Christof Dienz's _Himmels We_ in a world premiere. The piece was commissioned by Harfenlabor, with the generous support of the Bundesministerium für Kunst, Kultur, öffentlicher Dienst und Sport.
+
+###### © Armin Linke / Harfenlabor 2022  
+Licensed under CC BY-NC-ND International 4.0
+
+###### 
+
+###### 
+
+###### 
