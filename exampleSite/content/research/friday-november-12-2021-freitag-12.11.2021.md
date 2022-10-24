@@ -22,7 +22,7 @@ subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Musicology", "HL Editions", "Iconography", "Sociology of Art"]
 summary_text = "The first day began with symposium contributions and a concert-lecture addressing the topic of Harp at the Time of Haydn, to in the afternoon address The Tyrolean Folk Harp, including a roundtable discussion and, finally, the concert An Evening of Folk Music. "
 timeline_tag = []
-title = "Zwischen den Saiten, Day One"
+title = "Haydn's Folk Harp, Day One"
 type = "Research"
 zwischen_category = "EVENT INFO"
 
@@ -85,4 +85,4 @@ zwischen_category = "EVENT INFO"
 
 ###### Speaker: Peter Kostner, ORF Tirol
 
-###### 
+######
