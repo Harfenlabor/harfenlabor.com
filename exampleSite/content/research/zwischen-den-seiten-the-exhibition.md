@@ -27,7 +27,7 @@ type = "Research"
 zwischen_category = "Exhibition"
 
 +++
-###### In the spirit of Haydn's Folk Harp's commitment to interdisciplinary inquiries into the single-action and the Tyrolean Folk Harp, Harfenlabor, in collaboration with Armin Linke, staged an exhibition to accompany the first edition of the Harp Biennale. The exhibition extended through two "playgrounds," with the historical instruments presented at the Tiroler Landesmuseum Ferdinandeum, and images and video works at the Haus der Musik. 
+###### In the spirit of Haydn's Folk Harp's commitment to interdisciplinary inquiries into the single-action and the Tyrolean Folk Harp, Harfenlabor, in collaboration with Armin Linke, staged an exhibition to accompany the first edition of the Harp Biennale. The exhibition extended through two "playgrounds," with the historical instruments presented at the Tiroler Landesmuseum Ferdinandeum, and images and video works at the Haus der Musik.
 
 ***
 
@@ -75,4 +75,6 @@ zwischen_category = "Exhibition"
 
 ***
 
-![](/images/hold-dif_000859_102.png)
+###### © Armin Linke / Harfenlabor 2022
+
+###### All rights reserved.
