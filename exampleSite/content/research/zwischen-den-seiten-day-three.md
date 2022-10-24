@@ -22,7 +22,7 @@ subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Musicology", "HL Editions", "Iconography", "Sociology of Art"]
 summary_text = "On the final day, the festival presented two concerts: the Young Harpists' Concert <i>Single Action bedeutet nicht Isolation</i> and the Matinée-Concert <i>The God of Harmony and a gifted pupil</i> by Mara Galassi on the harp and Jovanka Marville on fortepiano. "
 timeline_tag = []
-title = "Zwischen den Saiten, Day Three"
+title = "Haydn's Folk Harp, Day Three"
 type = "Research"
 zwischen_category = "EVENT INFO"
 
