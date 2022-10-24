@@ -74,3 +74,5 @@ zwischen_category = "Exhibition"
 ***
 
 ***
+
+![](/images/hold-dif_000859_102.png)
