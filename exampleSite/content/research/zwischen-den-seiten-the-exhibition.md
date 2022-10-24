@@ -75,6 +75,12 @@ zwischen_category = "Exhibition"
 
 ***
 
+![](/images/hold-dif_000859_102.png)
+
+***
+
+***
+
 ###### Photos by Armin Linke
 
 ###### © Armin Linke / Harfenlabor 2022
