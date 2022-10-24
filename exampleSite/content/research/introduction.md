@@ -37,7 +37,7 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-With the Haus der Musik, as an open and modern meeting place, and the Tiroler Landesmuseum Ferdinandeum, with its magnificent collection of instruments, Innsbruck is geographically predestined for Zwischen den Seiten, the first edition of this festival of historical harp. As the state capital, Innsbruck is the epicentre of a unique harp tradition that stretches from the time of Emperor Maximilian to the present day, from the Gothic harp of the minnesingers to the Renaissance and Baroque harps, and the concert harp and the Tyrolean folk harp still played today.
+With the Haus der Musik, as an open and modern meeting place, and the Tiroler Landesmuseum Ferdinandeum, with its magnificent collection of instruments, Innsbruck is geographically predestined for Haydn's Folk Harp, the first edition of this festival of historical harp. As the state capital, Innsbruck is the epicentre of a unique harp tradition that stretches from the time of Emperor Maximilian to the present day, from the Gothic harp of the minnesingers to the Renaissance and Baroque harps, and the concert harp and the Tyrolean folk harp still played today.
 
 There are said to be more than 500 Tyrolean harpists today playing the so-called single pedal harp, its aristocratic harp relatives having been so successful at the European courts in the 18th and 19th centuries, as well as at home in the bourgeois and peasant circles in Central Europe, in England, Scotland and Ireland.
 
@@ -45,7 +45,7 @@ As a kind of a time machine, this single-action pedal harp is now the focus of t
 
 The opening concert bears witness to this as a reflection of the festival on the whole: by presenting a world premiere by the Tyrolean composer <span id="person_tag">Christof Dienz</span>, it not only places the historical harp in the focus of contemporary music, it also creates a musical dialogue between the "aristocratic," historical harp and the Tyrolean folk harp. In this context, the young talent concert, at which young harpists are invited to present their interpretations or arrangements of harp music to a broad audience, deserves special attention.
 
-Above all, the Zwischen den Saiten aims to create a platform by networking different actors and institutions combining lively artistic practice and science to provide new impetus for the future of the historical harp.
+Above all, Harp Biennale aims to create a platform by networking different actors and institutions combining lively artistic practice and science to provide new impetus for the future of the historical harp.
 
 The initiator of this new kind of festival is Harfenlabor, founded in 2018 as an interdisciplinary platform for historical and contemporary performance practice on historical harps, giving impetus to critical discourse and new performative and interpretative approaches.
 
