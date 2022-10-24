@@ -19,7 +19,7 @@ relatedresearch = []
 show_in_news = false
 status = "draft"
 subjects_tag = []
-subtype = ["Organology", "Performance Practice", "Musicology", "HL Editions", "Iconography", "Sociology of Art"]
+subtype = ["Organology", "Iconography"]
 summary_text = "In collaboration with Armin Linke, Harfenlabor staged an exhibition to accompany the first edition of the Harp Biennale. The exhibition extended through two \"playgrounds,\" with the historical instruments presented at the Tiroler Landesmuseum Ferdinandeum, and images and video works at the Haus der Musik."
 timeline_tag = []
 title = "Haydn's Folk Harp, the Exhibition"
@@ -74,6 +74,8 @@ zwischen_category = "Exhibition"
 ***
 
 ***
+
+###### Photos by Armin Linke
 
 ###### © Armin Linke / Harfenlabor 2022
 
