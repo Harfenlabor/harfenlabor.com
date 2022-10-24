@@ -22,7 +22,7 @@ subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Musicology", "HL Editions", "Iconography", "Sociology of Art"]
 summary_text = ""
 timeline_tag = []
-title = "Zwischen den Saiten, the Exhibition"
+title = "Haydn's Folk Harp, the Exhibition"
 type = "Research"
 zwischen_category = "Exhibition"
 
