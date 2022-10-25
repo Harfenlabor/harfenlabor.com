@@ -56,3 +56,11 @@ zwischen_category = "EVENT INFO"
 ![](/images/dif_000859_69.jpg)
 
 ###### Mara Galassi and Jovanka Marville on stage. Photo by Armin Linke.
+
+***
+
+***
+
+###### © Armin Linke / Harfenlabor 2022
+
+###### Licensed under CC BY-NC-ND International 4.0
