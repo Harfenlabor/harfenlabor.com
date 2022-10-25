@@ -15,13 +15,13 @@ imgcaptions = ""
 map_tag = ["Wien", "Innsbruck", "Edinburgh"]
 person_tag = ["Mara Galassi", "Franz Gratl", "Andreas Holzmann", "Masako Art", "Masumi Nagasawa", "Mike Baldwin"]
 project_category = ""
-relatedresearch = []
+relatedresearch = ["Haydn's Folk Harp: About the Festival", "Haydn's Folk Harp, the Opening", "Haydn's Folk Harp, Day One", "Haydn's Folk Harp, Day Three", "Haydn's Folk Harp, the Exhibition"]
 show_in_news = false
 status = "to be approved by author"
 subjects_tag = []
 subtype = ["Organology", "Performance Practice", "Musicology", "Sociology of Art"]
 summary_text = "The second day morning session saw symposium contributions on the topic of Regionalities, and a concert-lecture. The afternoon was devoted to Single-Action Harp: Construction and Playing. The day was rounded off with the evening concert <i>Tullochgorum – Haydn – Harp – Scotland</i>. "
-timeline_tag = []
+timeline_tag = ["1750–1850", "1800", "1818"]
 title = "Haydn's Folk Harp, Day Two"
 type = "Research"
 zwischen_category = "EVENT INFO"
@@ -47,11 +47,11 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-###### 09:30 <span id="person_tag">Franz Gratl</span>: Die Harfe in Tirol, ca. 1750–1850: Eine Spurensuche (The Harp in Tyrol, ca. 1750-1850: A Search for Clues)
+###### 09:30 <span id="person_tag">Franz Gratl</span>: Die Harfe in Tirol, ca. <span id="timeline_tag">1750–1850</span>: Eine Spurensuche (The Harp in Tyrol, ca. 1750-1850: A Search for Clues)
 
-###### 10:15 <span id="person_tag">Andreas Holzmann</span>: Gräfin Ottilie von Tannenbergs Reise nach Wien im Jahr 1818. Fragmente zum Leben einer Tiroler Harfenistin (Countess Ottilie von Tannenberg's Journey to Wien in 1818. Fragments on the Life of a Tyrolean Harpist)
+###### 10:15 <span id="person_tag">Andreas Holzmann</span>: Gräfin Ottilie von Tannenbergs Reise nach Wien im Jahr <span id="timeline_tag">1818</span>. Fragmente zum Leben einer Tiroler Harfenistin (Countess Ottilie von Tannenberg's Journey to Wien in 1818. Fragments on the Life of a Tyrolean Harpist)
 
-###### 11:15 <span id="person_tag">Masako Art</span>: Die Schwestern Margaret und Anna Jane Douglas MacLean-Clephane und die Harfe in der Hausmusikszene in Edinburgh um 1800 (Sisters Margaret and Anna Jane Douglas MacLean-Clephane and the harp in the Edinburgh domestic music scene circa 1800)
+###### 11:15 <span id="person_tag">Masako Art</span>: Die Schwestern Margaret und Anna Jane Douglas MacLean-Clephane und die Harfe in der Hausmusikszene in Edinburgh um <span id="timeline_tag">1800</span> (Sisters Margaret and Anna Jane Douglas MacLean-Clephane and the harp in the Edinburgh domestic music scene circa 1800)
 
 ###### 12:00 Lecture Konzert II: _Contribution of J. G. H. by_ <span id="person_tag">Masumi Nagasawa</span> \~ Harfe und <span id="person_tag">Peter Rabl</span> \~ Klarinette/Bassetthorn
 
