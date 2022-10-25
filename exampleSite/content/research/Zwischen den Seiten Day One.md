@@ -12,16 +12,16 @@ harp_biennale_category = "Zwischen den Saiten"
 hide_from_research = false
 image = "/images/hold-dif_000858_67.png"
 imgcaptions = ""
-map_tag = []
-person_tag = []
+map_tag = ["Innsbruck"]
+person_tag = ["Christof Dienz"]
 project_category = ""
-relatedresearch = ["Haydn’s Folk Harp: About the Festival"]
+relatedresearch = ["Haydn’s Folk Harp: About the Festival", "Haydn's Folk Harp, Day One", "Haydn's Folk Harp, Day Two", "Haydn's Folk Harp, Day Three", "Haydn's Folk Harp, the Exhibition"]
 show_in_news = false
 status = "draft"
-subjects_tag = []
+subjects_tag = ["Himmels We"]
 subtype = ["Performance Practice", "HL Editions"]
 summary_text = "The first edition of the Harp Biennale opens with the world premiere of <i>Himmels We</i>, by the Tyrolean composer Christof Dienz, performed by the Knoedel, as well as pieces performed by the Innsbrucker Volksmusikanten, Duo Gasteiger-Waldek, and Duo Ehrenstrasser-Reitmeir."
-timeline_tag = []
+timeline_tag = ["2021"]
 title = "Haydn's Folk Harp, the Opening "
 type = "Research"
 zwischen_category = "EVENT INFO"
@@ -57,7 +57,7 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-###### The Knoedel performs Christof Dienz's _Himmels We_ in a world premiere. The piece was commissioned by Harfenlabor, with the generous support of the Bundesministerium für Kunst, Kultur, öffentlicher Dienst und Sport.
+###### The Knoedel performs <span id="person_tag">Christof Dienz</span>'s <span id="subjects_tag">_Himmels We_</span> in a world premiere. The piece was commissioned by Harfenlabor, with the generous support of the Bundesministerium für Kunst, Kultur, öffentlicher Dienst und Sport.
 
 ###### © Armin Linke / Harfenlabor 2022
 
