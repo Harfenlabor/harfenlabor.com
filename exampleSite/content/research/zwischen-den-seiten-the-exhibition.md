@@ -13,12 +13,12 @@ hide_from_research = false
 image = "/images/dif_000859_108.jpg"
 imgcaptions = ""
 map_tag = []
-person_tag = []
+person_tag = ["Armin Linke"]
 project_category = ""
 relatedresearch = ["Haydn’s Folk Harp: About the Festival", "Haydn’s Folk Harp, the Opening", "Haydn’s Folk Harp, Day One", "Haydn’s Folk Harp, Day Two", "Haydn’s Folk Harp, Day Three"]
 show_in_news = false
 status = "draft"
-subjects_tag = []
+subjects_tag = ["single-action harp"]
 subtype = ["Organology", "Iconography"]
 summary_text = "In collaboration with Armin Linke, Harfenlabor staged an exhibition to accompany the first edition of the Harp Biennale. The exhibition extended through two \"playgrounds,\" with the historical instruments presented at the Tiroler Landesmuseum Ferdinandeum, and images and video works at the Haus der Musik."
 timeline_tag = []
@@ -31,7 +31,7 @@ zwischen_category = "Exhibition"
 
 ***
 
-###### In the spirit of Haydn's Folk Harp's interdisciplinary inquiries into the single-action and the Tyrolean Folk Harp, Harfenlabor, in collaboration with Armin Linke, staged an exhibition to accompany the first edition of the Harp Biennale. The exhibition extended through two "playgrounds," with the historical instruments presented at the Tiroler Landesmuseum Ferdinandeum, and images and video works at the Haus der Musik.
+###### In the spirit of Haydn's Folk Harp's interdisciplinary inquiries into the <span id="subjects_tag">single-action harp</span> and the <span id="subjects_tag">Tyrolean folk harp</span>, Harfenlabor, in collaboration with <span id="person_tag">Armin Linke</span>, staged an exhibition to accompany the first edition of the Harp Biennale. The exhibition extended through two "playgrounds," with the historical instruments presented at the Tiroler Landesmuseum Ferdinandeum, and images and video works at the Haus der Musik.
 
 ***
 
