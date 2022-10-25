@@ -12,10 +12,21 @@ name = "News"
 url = "/news"
 weight = 1
 [[menu.main]]
+identifier = "harp biennale"
+name = "Harp Biennale"
+url = "/harp_biennale"
+weight = 2
+[[menu.main]]
+identifier = "haydn"
+name = "Haydn’s Folk Harp"
+parent = "harp biennale"
+url = "/harp_biennale/haydn"
+weight = "1"
+[[menu.main]]
 identifier = "projects"
 name = "Projects"
 url = "/projects"
-weight = 2
+weight = 3
 [[menu.main]]
 identifier = "Barberini harp project"
 name = "Barberini Harp Project"
@@ -32,7 +43,7 @@ weight = "2"
 identifier = "research"
 name = "Research"
 url = "/research"
-weight = 3
+weight = 4
 [[menu.main]]
 identifier = "organology"
 name = "Organology"
@@ -67,27 +78,27 @@ weight = "5"
 identifier = "timeline"
 name = "Timeline"
 url = "/timeline"
-weight = 4
+weight = 5
 [[menu.main]]
 identifier = "map"
 name = "Map"
 url = "/map"
-weight = 5
+weight = 6
 [[menu.main]]
 identifier = "index"
 name = "Index"
 url = "/indextag"
-weight = 6
+weight = 7
 [[menu.main]]
 identifier = "search"
 name = "Search"
 url = "/search"
-weight = 7
+weight = 8
 [[menu.main]]
 identifier = "about"
 name = "About"
 url = "/aboutpage"
-weight = 8
+weight = 9
 [outputs]
 baseURL = "harfenlabor.netlify.app"
 disableLanguages = ["Fr"]
