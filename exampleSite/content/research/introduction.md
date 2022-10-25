@@ -13,12 +13,12 @@ hide_from_research = false
 image = "/images/screenshot-2022-10-07-at-12-39-47.png"
 imgcaptions = ""
 map_tag = ["Innsbruck", "Salzburg"]
-person_tag = ["Thomas Nußbaumer", "Franz Gratl", "Federico Celestini", "Peter Margreiter", "Eva-Maria Sens", "Wolfgang Laubichler", "Fabrizio Iurlano", "Christof Dienz"]
+person_tag = ["Thomas Nußbaumer", "Franz Gratl", "Federico Celestini", "Peter Margreiter", "Eva-Maria Sens", "Wolfgang Laubichler", "Fabrizio Iurlano", "Christof Dienz", "Emperor-Maximilian"]
 project_category = ""
 relatedresearch = []
 show_in_news = false
 status = "draft"
-subjects_tag = []
+subjects_tag = ["Tiroler Landesmuseum Ferdinandeum", "Haus der Musik"]
 subtype = ["Organology", "Performance Practice", "Musicology", "HL Editions"]
 summary_text = "Harfenlabor's founder Margret Köll introduces Haydn' Folk Harp, the first edition of the Harp Biennale with a brief overview of the Symposia, Concerts and Concert-Lectures, as well as an overview of the Harp Biennale as a new, innovative festival bringing historical harp into contemporary contexts. "
 timeline_tag = []
@@ -37,7 +37,7 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-With the Haus der Musik, as an open and modern meeting place, and the Tiroler Landesmuseum Ferdinandeum, with its magnificent collection of instruments, Innsbruck is geographically predestined for Haydn's Folk Harp, the first edition of this festival of historical harp. As the state capital, Innsbruck is the epicentre of a unique harp tradition that stretches from the time of Emperor Maximilian to the present day, from the Gothic harp of the minnesingers to the Renaissance and Baroque harps, and the concert harp and the Tyrolean folk harp still played today.
+With the <span id="subjects_tag">Haus der Musik</span>, as an open and modern meeting place, and the <span id="subjects_tag">Tiroler Landesmuseum Ferdinandeum</span>, with its magnificent collection of instruments, Innsbruck is geographically predestined for Haydn's Folk Harp, the first edition of this festival of historical harp. As the state capital, <span id="map_tag">Innsbruck</span> is the epicentre of a unique harp tradition that stretches from the time of <span id="person_tag">Emperor Maximilian</span> to the present day, from the Gothic harp of the minnesingers to the Renaissance and Baroque harps, and the concert harp and the Tyrolean folk harp still played today.
 
 There are said to be more than 500 Tyrolean harpists today playing the so-called single pedal harp, its aristocratic harp relatives having been so successful at the European courts in the 18th and 19th centuries, as well as at home in the bourgeois and peasant circles in Central Europe, in England, Scotland and Ireland.
 
