@@ -13,7 +13,7 @@ hide_from_research = false
 image = "/images/hold-dif_000859_102.png"
 imgcaptions = ""
 map_tag = []
-person_tag = ["Alexandra Ziane", "Klaus Aringer", "Chiara Granata", "Christian Moritz-Bauer", "Peter Kostner", "Mara Galassi", "Kurt Drexel", "Otto Ehrenstrasser"]
+person_tag = ["Alexandra Ziane", "Klaus Aringer", "Chiara Granata", "Christian Moritz-Bauer", "Peter Kostner", "Mara Galassi", "Kurt Drexel", "Otto Ehrenstrasser", "Peter Reitmeir", "Julia Strasser"]
 project_category = ""
 relatedresearch = []
 show_in_news = false
@@ -81,8 +81,8 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-###### 19.30 Concert: An Evening of Folk Music _„Stimmt’s enkre Soatn!“_ With: Unterinntaler Harfentrio, Die Perlseer, Peter Reitmeir, Julia Strasser and Tiroler Tanzmusikanten
+###### 19.30 Concert: An Evening of Folk Music _„Stimmt’s enkre Soatn!“_ With: Unterinntaler Harfentrio, Die Perlseer, <span id="person_tag">Peter Reitmeir</span>, <span id="person_tag">Julia Strasser</span> and Tiroler Tanzmusikanten
 
-###### Speaker: Peter Kostner, ORF Tirol
+###### Speaker: <span id="person_tag">Peter Kostner</span>, ORF Tirol
 
-######
+###### 
