@@ -18,7 +18,7 @@ project_category = ""
 relatedresearch = ["Haydn's Folk Harp: About the Festival", "Haydn's Folk Harp, the Opening", "Haydn's Folk Harp, Day Two", "Haydn's Folk Harp, Day Three", "Haydn's Folk Harp, the Exhibition"]
 show_in_news = false
 status = "draft"
-subjects_tag = []
+subjects_tag = ["Tyrolean Folk Harp", "Alpine Music"]
 subtype = ["Performance Practice", "Musicology", "Sociology of Art"]
 summary_text = "The first day began with symposium contributions and a concert-lecture addressing the topic of Harp at the Time of Haydn, to in the afternoon address The Tyrolean Folk Harp, including a roundtable discussion and, finally, the concert <i>An Evening of Folk Music</i>. "
 timeline_tag = ["2021", "1930s", "18th century"]
@@ -67,11 +67,11 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-###### 15.00 <span id="person_tag">Peter Kostner</span>: Die Tiroler Volksharfe – Geschichte und Spielweise (The Tyrolean Folk Harp–History and Playing Style)
+###### 15.00 <span id="person_tag">Peter Kostner</span>: Die Tiroler Volksharfe – Geschichte und Spielweise (The <span id="subjects_tag">Tyrolean Folk Harp</span>–History and Playing Style)
 
 ###### 15.45 <span id="person_tag">Kurt Drexel</span>: Die Entdeckung der Tiroler Volksharfe in den 1930er-Jahren und ihre Funktionalisierung in der NS-Zeit (The Discovery of the Tyrolean Folk Harp in the <span id="timeline_tag">1930s</span> and the Functionalization of It during the Nazi Period)
 
-###### 16.30 Roundtable: The Triad–On the Importance of the Folk Harp in Alpine Music. <span id="person_tag">Otto Ehrenstrasser</span>, <span id="person_tag">Mara Galassi</span>, Margret Köll, <span id="person_tag">Masumi Nagasawa</span>, <span id="person_tag">Peter Reitmeir</span> (Moderation: <span id="person_tag">Thomas Nußbaumer</span>)
+###### 16.30 Roundtable: The Triad–On the Importance of the Folk Harp in <span id="subjects_tag">Alpine Music</span>. <span id="person_tag">Otto Ehrenstrasser</span>, <span id="person_tag">Mara Galassi</span>, Margret Köll, <span id="person_tag">Masumi Nagasawa</span>, <span id="person_tag">Peter Reitmeir</span> (Moderation: <span id="person_tag">Thomas Nußbaumer</span>)
 
 ***
 
