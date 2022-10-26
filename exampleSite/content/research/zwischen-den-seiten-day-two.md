@@ -51,9 +51,7 @@ zwischen_category = "EVENT INFO"
 
 ###### 10:15 <span id="person_tag">Andreas Holzmann</span>: Gräfin Ottilie von Tannenbergs Reise nach Wien im Jahr <span id="timeline_tag">1818</span>. Fragmente zum Leben einer Tiroler Harfenistin (Countess <span id="person_tag">Ottilie von Tannenberg</span>'s Journey to Wien in 1818. Fragments on the Life of a Tyrolean Harpist)
 
-###### 11:15 <span id="person_tag">Masako Art</span>: Die Schwestern Margaret **\[**<span id="person_tag">**Margret Douglas MacLean-Clephane**</span>**\]** und Anna Jane Douglas MacLean-Clephane und die Harfe in der Hausmusikszene in Edinburgh um <span id="timeline_tag">1800</span> (Sisters Margaret and <span id="person_tag">Anna Jane Douglas MacLean-Clephane</span>
-
-######  and the harp in the Edinburgh domestic music scene circa 1800)
+###### 11:15 <span id="person_tag">Masako Art</span>: Die Schwestern Margaret und Anna Jane Douglas MacLean-Clephane und die Harfe in der Hausmusikszene in Edinburgh um <span id="timeline_tag">1800</span> (Sisters <span id="person_tag">**Margret Douglas MacLean-Clephane**</span> and <span id="person_tag">Anna Jane Douglas MacLean-Clephane</span> and the harp in the Edinburgh domestic music scene circa 1800)
 
 ###### 12:00 Lecture Konzert II: _Contribution of J. G. H. by_ <span id="person_tag">Masumi Nagasawa</span> \~ Harfe und <span id="person_tag">Peter Rabl</span> \~ Klarinette/Bassetthorn
 
