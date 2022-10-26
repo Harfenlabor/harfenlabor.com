@@ -13,12 +13,12 @@ hide_from_research = false
 image = "/images/dif_000859_166.jpg"
 imgcaptions = ""
 map_tag = ["Innsbruck"]
-person_tag = []
+person_tag = ["Jovanka Marville", " Mara Galassi"]
 project_category = ""
 relatedresearch = ["Haydn's Folk Harp: About the Festival", "Haydn's Folk Harp, the Opening", "Haydn's Folk Harp, Day One", "Haydn's Folk Harp, Day Two", "Haydn's Folk Harp, the Exhibition"]
 show_in_news = false
 status = "draft"
-subjects_tag = []
+subjects_tag = ["harp", "fortepiano"]
 subtype = ["Performance Practice"]
 summary_text = "On the final day, the festival presented two concerts: the Young Harpists' Concert <i>Single Action bedeutet nicht Isolation</i> and the Matinée-Concert <i>The God of Harmony and a gifted pupil</i> by Mara Galassi on the harp and Jovanka Marville on fortepiano. "
 timeline_tag = ["2021"]
@@ -47,7 +47,7 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-###### 11:00 Matinée-Concert: _The God of Harmony and a gifted pupil,_ Mara Galassi \~ harp and Jovanka Marville \~ fortepiano
+###### 11:00 Matinée-Concert: _The God of Harmony and a gifted pupil,_ <span id="person_tag">Mara Galassi</span> \~ harp and <span id="person_tag">Jovanka Marville</span> \~ fortepiano
 
 ***
 
