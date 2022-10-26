@@ -12,13 +12,13 @@ harp_biennale_category = "Zwischen den Saiten"
 hide_from_research = false
 image = "/images/hold-dif_000859_102.png"
 imgcaptions = ""
-map_tag = ["Innsbruck"]
+map_tag = ["Innsbruck", "Wien"]
 person_tag = ["Alexandra Ziane", "Klaus Aringer", "Chiara Granata", "Christian Moritz-Bauer", "Peter Kostner", "Mara Galassi", "Kurt Drexel", "Otto Ehrenstrasser", "Peter Reitmeir", "Julia Strasser", "Nikolaus-I Esterházy", "Masumi Nagasawa", "Peter Reitmeir"]
 project_category = ""
 relatedresearch = ["Haydn's Folk Harp: About the Festival", "Haydn's Folk Harp, the Opening", "Haydn's Folk Harp, Day Two", "Haydn's Folk Harp, Day Three", "Haydn's Folk Harp, the Exhibition"]
 show_in_news = false
 status = "draft"
-subjects_tag = ["Tyrolean Folk Harp", "Alpine Music"]
+subjects_tag = ["Tyrolean Folk Harp", "Alpine Music", "harpist", "harp", "court", "Haydn"]
 subtype = ["Performance Practice", "Musicology", "Sociology of Art"]
 summary_text = "The first day began with symposium contributions and a concert-lecture addressing the topic of Harp at the Time of Haydn, to in the afternoon address The Tyrolean Folk Harp, including a roundtable discussion and, finally, the concert <i>An Evening of Folk Music</i>. "
 timeline_tag = ["2021", "1930s", "18th century"]
@@ -45,7 +45,7 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-###### 09:00 <span id="person_tag">Alexandra Ziane</span>: Harfenist⁂innen in Wien zur Zeit Haydns (Harpists in Vienna at the Time of Haydn)
+###### 09:00 <span id="person_tag">Alexandra Ziane</span>: Harfenist⁂innen in <span id="map_tag">Wien</span> zur Zeit Haydns (Harpists in Vienna at the Time of Haydn)
 
 ###### 10:00 <span id="person_tag">Christian Moritz-Bauer</span>: J. B. Krumpholtz am Hofe von Fürst Nikolaus I. Esterházy (<span id="person_tag">J. B. Krumpholtz</span> at the Court of Prince <span id="person_tag">Nikolaus I Esterházy</span>)
 
