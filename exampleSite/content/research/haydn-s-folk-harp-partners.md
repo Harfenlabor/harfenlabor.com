@@ -19,10 +19,10 @@ relatedresearch = []
 show_in_news = false
 status = "draft"
 subjects_tag = []
-subtype = ["Organology", "Performance Practice", "Musicology", "HL Editions", "Iconography", "Sociology of Art"]
+subtype = []
 summary_text = ""
 timeline_tag = []
-title = "Haydn's Folk Harp: Partners"
+title = "Haydn's Folk Harp: Partners and Support"
 type = "Research"
 zwischen_category = "EVENT INFO"
 
