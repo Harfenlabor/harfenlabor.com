@@ -27,7 +27,11 @@ type = "Research"
 zwischen_category = "EVENT INFO"
 
 +++
-The first edition of the Harp Biennale, Haydn's Folk Harp, would not have ben possible without the generous support of our funders, cooperation partners and sponsors: 
+***
+
+***
+
+The first edition of the Harp Biennale, Haydn's Folk Harp, would not have ben possible without the generous support of our funders, cooperation partners and sponsors:
 
 ***
 
