@@ -37,7 +37,7 @@ The first edition of the Harp Biennale, Haydn's Folk Harp, would not have ben po
 
 ***
 
-Funding support
+##### Funding support
 
 ![](/images/funding-logos.png)
 
