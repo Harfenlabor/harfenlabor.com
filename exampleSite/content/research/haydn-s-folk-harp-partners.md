@@ -6,7 +6,6 @@ celtic_strings_category = ""
 citation = ""
 description = ""
 downloads = []
-draft = true
 externallinks = ""
 footnotes = ""
 harp_biennale_category = "Zwischen den Saiten"
