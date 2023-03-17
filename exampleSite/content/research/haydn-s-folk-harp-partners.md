@@ -53,6 +53,8 @@ The first edition of the Harp Biennale, Haydn's Folk Harp, would not have been p
 
 ##### Cooperation Partners:
 
+***
+
 ![](/images/coop-logos.png)![](/images/_2_coop-logos-2.png)
 
 ***
