@@ -31,7 +31,7 @@ zwischen_category = "EVENT INFO"
 
 ***
 
-The first edition of the Harp Biennale, Haydn's Folk Harp, would not have been possible without the generous support of our funders, cooperation partners and sponsors. Harfenlabor wishes to thank the following institutions for their commitment to our work. 
+The first edition of the Harp Biennale, Haydn's Folk Harp, would not have been possible without the generous support of our funders, cooperation partners and sponsors. Harfenlabor wishes to thank the following institutions for their commitment to our work.
 
 ***
 
@@ -42,6 +42,10 @@ The first edition of the Harp Biennale, Haydn's Folk Harp, would not have been p
 ***
 
 ![](/images/funding-logos.png)
+
+***
+
+***
 
 ***
 
