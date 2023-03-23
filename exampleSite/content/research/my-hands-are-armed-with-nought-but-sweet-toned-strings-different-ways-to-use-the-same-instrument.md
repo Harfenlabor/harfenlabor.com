@@ -28,9 +28,7 @@ type = "Research"
 zwischen_category = ""
 
 +++
-### A commentary on [About the Barberini Harp](https://www.harfenlabor.com/research/about-the-barberini-harp/)<br>Link to the original version of this article in Italian: [Sol di corde soavi armo le dita? Differenti modi di usare uno stesso strumento](https://www.harfenlabor.com/research/sol-di-corde-soavi-armo-le-dita-differenti-modi-di-usare-uno-stesso-strumento/)
-
-DOI: [10.5281/zenodo.7762316](https://doi.org/10.5281/zenodo.7762316)
+### A commentary on [About the Barberini Harp](https://www.harfenlabor.com/research/about-the-barberini-harp/)<br>Link to the original version of this article in Italian: [Sol di corde soavi armo le dita? Differenti modi di usare uno stesso strumento](https://www.harfenlabor.com/research/sol-di-corde-soavi-armo-le-dita-differenti-modi-di-usare-uno-stesso-strumento/)<br>DOI: [10.5281/zenodo.7762316](https://doi.org/10.5281/zenodo.7762316)
 
 ***
 
