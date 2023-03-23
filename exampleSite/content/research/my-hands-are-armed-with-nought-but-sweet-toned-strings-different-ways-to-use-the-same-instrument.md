@@ -72,6 +72,8 @@ Unlike the instances in which the harp is described together with other instrume
 
 ***
 
+###### DOI: [10.5281/zenodo.7762316](https://doi.org/10.5281/zenodo.7762316)
+
 ###### Bibliography
 
 ###### Archivio Barberini, Giustificazioni I, vol. 236, f. 116v. _Le Giustificazioni dell’Archivio Barberini_, edited by Luigi Cacciaglia. Città del Vaticano: BAV, 2014.
