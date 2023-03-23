@@ -2,11 +2,13 @@
 PublishDate = 2022-05-19T23:36:00Z
 author = "Bernhard Schrammek"
 bhp_category = "Convening"
+celtic_strings_category = ""
 citation = "Bernhard Schrammek, “Report on the Convening in Roma \n14-16 December 2016,\" Harfenlabor.com, May 20, 2021, https://www.harfenlabor.com/research/report-on-the-convening-in-roma-14-16-december-2016/."
 description = ""
 downloads = []
 externallinks = "Granata, Chiara. “‘Un’arpa Grande Tutta Intagliata e Dorata’. New Documents on the Barberini Harp.” Recercare 27, no. 1/2 (2015): 139–64. - www.jstor.org/stable/26381197 && FACTUMarte: Recording and creating the facsimile of the Barberini Harp - https://www.factum-arte.com/pag/800/ && Museo Nazionale degli Strumenti Musicali - http://museostrumentimusicali.beniculturali.it/index.php?it/129/arpa-barberini && Istituto Storico Austriaco a Roma - https://www.austriacult.roma.it && Palazzo Barberini - https://www.barberinicorsini.org/en/ &&"
 footnotes = ""
+harp_biennale_category = ""
 hide_from_research = false
 image = "/images/dif_000185_524_b.jpg"
 imgcaptions = "Fig. 1 DIF_000185_602 Barberini Harp, Museo Nazionale degli Strumenti Musicali, Roma. Photo: © Armin Linke, 2014. All Rights Reserved.&&\nFig. 2 Harfenlabor_GranadaPontiggia_WhatWeKnow_still001.&&\nFig. 3 Harfenlabor_Steinheuer_TheHarpinIntermedi_still001, still from a video.&&\nFig. 4 Harfenlabor_GranadaPontiggia_WhatWeKnow_still002, still from a video.&&\nFig. 5 DIF_000185_28_M Giovanni Lanfranco, <i>La Musica</i>, Galleria Nazionale d’Arte Antica di Palazzo Barberini, Roma, © Armin Linke 2014. All Rights Reserved.&&\nFig. 6 Harfenlabor_GranadaPontiggia_WhatWeKnow_still002, still from a video.&&\nFig. 7 Harfenlabor_Kleinmann_PracticalExamination_still001, still from a video.&&\nFig. 8 Harfenlabor_Kleinmann_PracticalExamination_still002, still from a video.&&\nFig. 9 Harfenlabor_GranadaPontiggia_WhatWeKnow_still003.&&\n"
@@ -22,6 +24,7 @@ summary_text = "Bernhard Schrammek's report offers a concise account of Harfenla
 timeline_tag = ["2016", "1632", "1582-1647", "1623-1644", "1989", "2006", "1960s", "1898-1983", "1632-33", "1605-1610", "1581–1651", "1597-1679", "1603-1647", "1607-1671", "1630–1704", "1631–1685", "1637", "1970s"]
 title = "Report on the Convening in Roma&&14-16 December 2016"
 type = "Research"
+zwischen_category = ""
 
 +++
 ***
@@ -156,4 +159,4 @@ The afternoon lectures moved the focus back onto musico-historical topics and we
 
 ***
 
-In the final discussion, the current state of knowledge about the Barberini Harp and ideas on a possible exact replica were exchanged again. It became clear that despite the extensive technical aids such as 3-D documentation and X-rays, each of the three harp makers present would make different artistic decisions. Overall, the symposium in Roma was felt to have been very useful, informative and collegial by all participants. They indicated as very desirable a continuation of the project through an accompanying publication and the construction of an exact replica.
+In the final discussion, the current state of knowledge about the Barberini Harp and ideas on a possible exact replica were exchanged again. It became clear that despite the extensive technical aids such as 3D documentation and X-rays, each of the three harp makers present would make different artistic decisions. Overall, the symposium in Roma was felt to have been very useful, informative and collegial by all participants. They indicated as very desirable a continuation of the project through an accompanying publication and the construction of an exact replica.
