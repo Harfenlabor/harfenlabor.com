@@ -2,11 +2,13 @@
 PublishDate = 2022-05-10T22:00:00Z
 author = "Volker Haag"
 bhp_category = "Examinations"
+celtic_strings_category = ""
 citation = "Volker Haag, “Thünen-Institut Wood Species Identification Report,\" Harfenlabor.com, May 11, 2022, https://www.harfenlabor.com/research/thunen-wood-species-identification-report/."
 description = ""
 downloads = []
 externallinks = "Das Barberini-Harfen-Projekt - https://www.researchgate.net/publication/357242011_Das_Barberini-Harfen-Projekt_-_Untersuchungen_an_einem_Meisterwerk_aus_dem_Jahr_1630 && Barberini Harp at the Museo Nazionale degli Strumenti Musicali - http://museostrumentimusicali.beniculturali.it/index.php?it/129/arpa-barberini &&  Eric Kleinmann - https://www.eric-harps.de && Granata, Chiara. “‘Un’arpa Grande Tutta Intagliata e Dorata’. New Documents on the Barberini Harp.” Recercare 27, no. 1/2 (2015): 139–64. - www.jstor.org/stable/26381197 && Factum Arte: Recording and Creating the Facsimile of the Barberini Harp - https://www.factum-arte.com/pag/800/recording-and-creating-the-facsimile-of-the-barberini-harp && Thünen-Institut, Institut für Holzforschung - https://www.thuenen.de/en/hf/ && Bruni, S., Gessi, A., Lazzaroni, F. et al., “Diagnostic investigations on the Barberini harp,” - https://doi.org/10.1007/s12210-020-00894-x && "
 footnotes = ""
+harp_biennale_category = ""
 hide_from_research = false
 image = "/images/thunen-report-landing-image.png"
 imgcaptions = "Fig. 1 Examined components of the harp, the column (marked with 1) and the neck (marked with 2). Photo: Swati Tamantini, 2018.&&\nFig. 2 Examined component of the harp, the soundboard (marked with 3). Photo: Swati Tamantini, 2018.&&\nFig. 3 Examined component of the harp, the body (left, marked with 5) and unexamined interior of the body (right, marked with 5). Photo: Swati Tamantini, 2018.&&\nFig. 4 Examined component of the harp, the buttons (marked 6). Photo: Swati Tamantini, 2018.&&"
@@ -22,8 +24,11 @@ summary_text = "Institut für Holzforschung, Thünen-Institut (Hamburg) presents
 timeline_tag = ["2018", "2017", "1633", "2019"]
 title = "Thünen-Institut Wood Species Identification Report"
 type = "Research"
+zwischen_category = ""
 
 +++
+### DOI: [10.5281/zenodo.7762787](https://doi.org/10.5281/zenodo.7762787)
+
 ***
 
 Reference: KO/1355/18                   Date: 18/02/2019
