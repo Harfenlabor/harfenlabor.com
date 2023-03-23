@@ -30,7 +30,7 @@ type = "Research"
 zwischen_category = ""
 
 +++
-### Link to the original version of this article in Italian: [Disegni per strumenti musicali](https://harfenlabor.com/research/disegni-per-strumenti-musicali/).<br>DOI: [10.5281/zenodo.7762715](https://doi.org/10.5281/zenodo.7762715)
+### Link to the original version of this article in Italian: [Disegni per strumenti musicali](https://harfenlabor.com/research/disegni-per-strumenti-musicali/)<br>DOI: [10.5281/zenodo.7762715](https://doi.org/10.5281/zenodo.7762715)
 
 ***
 
