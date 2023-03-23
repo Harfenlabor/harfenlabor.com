@@ -27,6 +27,8 @@ type = "Research"
 zwischen_category = ""
 
 +++
+### DOI: [10.5281/zenodo.7762894](https://doi.org/10.5281/zenodo.7762894)
+
 ***
 
 ![](/images/dif_000185_602_c.jpg)
