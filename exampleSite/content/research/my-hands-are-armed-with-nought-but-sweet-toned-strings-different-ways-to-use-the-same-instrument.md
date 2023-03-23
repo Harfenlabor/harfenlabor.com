@@ -30,9 +30,9 @@ zwischen_category = ""
 +++
 ### A commentary on [About the Barberini Harp](https://www.harfenlabor.com/research/about-the-barberini-harp/)<br>Link to the original version of this article in Italian: [Sol di corde soavi armo le dita? Differenti modi di usare uno stesso strumento](https://www.harfenlabor.com/research/sol-di-corde-soavi-armo-le-dita-differenti-modi-di-usare-uno-stesso-strumento/)
 
-***
+DOI: [10.5281/zenodo.7762316](https://doi.org/10.5281/zenodo.7762316)
 
-###### DOI: [10.5281/zenodo.7762316](https://doi.org/10.5281/zenodo.7762316)
+***
 
 One of the typical forms of ancient knowledge, still very much in use in the early 1600s in oral or written form, is that of the debate. Rather than advancing a thesis, it presents a dialogue between opposing views. With this in mind, I find it very interesting that the luthier <span id="person_tag">Dario Pontiggia</span> and the harpist and researcher <span id="person_tag">Mara Galassi</span> express two opposite viewpoints regarding the <span id="subjects_tag">Barberini Harp</span>. On the one hand, someone who reconstructs copies of musical instruments and is accustomed to comparison among multiple similar cases finds himself coming to terms with a single instrument, which is thus less understandable and more contradictory. Is it worthwhile to construct an “absolute copy” of an instrument that runs the risk of not being completely playable? On the other, there is the position of the player, who cultivates the utopia of the “absolute copy” in the hope of getting closer to a new vantage point, which offers the opportunity to listen to something quite different from what, for decades, we have called “early music.” I believe we can keep the tension between these two viewpoints open, rather than trying to find a compromise.
 
