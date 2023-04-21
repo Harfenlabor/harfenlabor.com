@@ -20,7 +20,7 @@ show_in_news = false
 status = "draft"
 subjects_tag = ["Tiroler Landesmuseum Ferdinandeum", "Haus der Musik", "Gothic harp", "Tyrolean folk harp"]
 subtype = ["Organology", "Performance Practice", "Musicology", "HL Editions"]
-summary_text = "Harfenlabor's founder Margret Köll introduces Haydn' Folk Harp, the first edition of the Harp Biennale with a brief overview of the Symposia, Concerts and Concert-Lectures, as well as an overview of the Harp Biennale as a new, innovative festival bringing historical harp into contemporary contexts. "
+summary_text = "Harfenlabor's founder Margret Koell introduces Haydn' Folk Harp, the first edition of the Harp Biennale with a brief overview of the Symposia, Concerts and Concert-Lectures, as well as an overview of the Harp Biennale as a new, innovative festival bringing historical harp into contemporary contexts. "
 timeline_tag = ["2018", "2021"]
 title = "Haydn's Folk Harp: About the Festival"
 type = "Research"
@@ -53,4 +53,4 @@ The festival of the historical harp could only be realized thanks to and with th
 
 Celebrate with us! Between the mountains, between the strings!
 
-Yours, Margaret Köll
+Yours, Margaret Koell
