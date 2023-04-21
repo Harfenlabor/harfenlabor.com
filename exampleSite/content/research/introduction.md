@@ -1,6 +1,6 @@
 +++
 PublishDate = 2022-10-06T22:00:00Z
-author = "Margret Köll"
+author = "Margret Koell"
 bhp_category = ""
 celtic_strings_category = ""
 citation = ""
@@ -13,7 +13,7 @@ hide_from_research = false
 image = "/images/screenshot-2022-10-07-at-12-39-47.png"
 imgcaptions = ""
 map_tag = ["Innsbruck", "Salzburg"]
-person_tag = ["Thomas Nußbaumer", "Franz Gratl", "Federico Celestini", "Peter Margreiter", "Eva-Maria Sens", "Wolfgang Laubichler", "Fabrizio Iurlano", "Christof Dienz", "Emperor-Maximilian"]
+person_tag = ["Thomas Nußbaumer", "Franz Gratl", "Federico Celestini", "Peter Margreiter", "Eva-Maria Sens", "Wolfgang Laubichler", "Fabrizio Iurlano", "Christof Dienz", "Emperor-Maximilian", "Margret Koell"]
 project_category = ""
 relatedresearch = ["Haydn's Folk Harp, the Opening", "Haydn's Folk Harp, Day One", "Haydn's Folk Harp, Day Two", "Haydn's Folk Harp, Day Three", "Haydn's Folk Harp, the Exhibition"]
 show_in_news = false
