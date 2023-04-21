@@ -57,7 +57,7 @@ Despite its undisputed historical value, the "Arpa Barberini" is far from having
 
 ***
 
-The [Convening](https://harfenlabor.com/projects/bhpconvening/) began in the afternoon of December 14, 2016, with the participants gathering in the exhibition room of the Museo Nazionale degli Strumenti Musicali, where the Barberini Harp is kept. Following opening remarks by the initiator Margret Köll and the museum director Sandra Suatoni, an extraordinary concert was held. Only a few metres from the original Barberini Harp, three copies of the instrument were set up: by <span id="person_tag">David Brown</span> (made in <span id="map_tag">Baltimore</span> in 1989), by <span id="person_tag">Dario Pontiggia</span> (in <span id="map_tag">Milano</span>, 2006) and by <span id="person_tag">Eric Kleinmann</span> (in <span id="map_tag">Rangendingen</span>, 2005). <span id="person_tag">Mara Galassi</span> (Milano), <span id="person_tag">Chiara Granata</span> (Milano) and <span id="person_tag">Loredana Gintoli</span> (<span id="map_tag">Berlin</span>) played 17the century compositions on these harps in an homage to the Barberini Harp.
+The [Convening](https://harfenlabor.com/projects/bhpconvening/) began in the afternoon of December 14, 2016, with the participants gathering in the exhibition room of the Museo Nazionale degli Strumenti Musicali, where the Barberini Harp is kept. Following opening remarks by the initiator Margret Koell and the museum director Sandra Suatoni, an extraordinary concert was held. Only a few metres from the original Barberini Harp, three copies of the instrument were set up: by <span id="person_tag">David Brown</span> (made in <span id="map_tag">Baltimore</span> in 1989), by <span id="person_tag">Dario Pontiggia</span> (in <span id="map_tag">Milano</span>, 2006) and by <span id="person_tag">Eric Kleinmann</span> (in <span id="map_tag">Rangendingen</span>, 2005). <span id="person_tag">Mara Galassi</span> (Milano), <span id="person_tag">Chiara Granata</span> (Milano) and <span id="person_tag">Loredana Gintoli</span> (<span id="map_tag">Berlin</span>) played 17the century compositions on these harps in an homage to the Barberini Harp.
 
 ***
 
@@ -115,7 +115,7 @@ The discussion turned to specialist organological and historical issues. <span i
 
 ***
 
-The day concluded with Harp Laboratory: the harpists Margret Köll, Mara Galassi, Loredana Gintoli and Chiara Granata performed the same piece on four different harps. The resulting differences in sound were then discussed in a plenum.
+The day concluded with Harp Laboratory: the harpists Margret Koell, Mara Galassi, Loredana Gintoli and Chiara Granata performed the same piece on four different harps. The resulting differences in sound were then discussed in a plenum.
 
 ***
 
