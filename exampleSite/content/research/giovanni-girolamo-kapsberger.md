@@ -2,16 +2,18 @@
 PublishDate = 2022-05-04T22:00:00Z
 author = "Anne Marie Dragosits / Michele Pasotti"
 bhp_category = ""
+celtic_strings_category = ""
 citation = "“Giovanni Girolamo Kapsberger,\" online Zoom lecture by Anne Marie Dragosits and Michele Pasotti, moderated by Margret Köll, May 5, 2021, Harfenlabor.com, Zoom recording, 02:55:57, https://www.harfenlabor.com/research/giovanni-girolamo-kapsberger/."
 description = "Anne Marie Dragosits’ talk “New information on Giovanni Girolamo Kapsperger - with special focus on his material for the basso continuo” brings valuable new insights into Kapsberger’s life, education and practice, as a composer, singer, performer and music teacher. The author of the recently published biography, Giovanni Girolamo Kapsperger “Ein ziemlich extravaganter Mann” (Lucca: Lim, 2020), Dragosits demonstrates expert understanding of the importance of biographical information for historical performance practice research, in particular, in the field of basso continuo, and offers analysis of the early basso continuo notation by Kapsperger. The lutenist Michele Pasotti delves deeper into the analyses of Kapsperger’s and others’ realisations for basso continuo in his talk “Passaggi per suonare sopra la parte. Kapsperger and other 17th century Italian sources for basso continuo on the theorbo.” Pasotti addresses some possible misconceptions in previous analyses of this material, such as the role of fundamento and ornamento, and provides close analyses of various realisations, in particular of the New York and the Modena manuscripts and transcripts. "
 downloads = []
 externallinks = "Libro primo di Arie passeggiate à vna voce con l'intavolatura del chitarone - https://www.loc.gov/item/2010456614/ && Giovanni Girolamo Kapsperger, „Ein ziemlich extravaganter Mann” (LIM, Lucca 2020) - https://dragosits.org/en/kapsperger-biography/ && \nSparrow-flavoured Soup – or What is Continuo? - https://andrewlawrenceking.com/2013/10/08/sparrow-flavoured-soup-or-what-is-continuo/ && Continuo practice for the theorbo as indicated in seventeenth-century italian printed and manuscript sources - https://etheses.whiterose.ac.uk/14060/ && The Carlo G Manuscript (Anonymous) -  https://imslp.org/wiki/The_Carlo_G_Manuscript_(Anonymous) && Elam Rotem: The “Carlo G manuscript” - https://www.schwabeonline.ch/schwabe-xaveropp/elibrary/start.xav?start=%2F%2F*%5B%40attr_id%3D%27pdf.978-3-7965-4109-4.9783796541094_Elam_Rotem_The_%E2%80%9CCarlo_G_manuscript%E2%80%9D%27%20and%20%40outline_id%3D%27pdf.978-3-7965-4109-4.9783796541094_Elam_Rotem_The_%E2%80%9CCarlo_G_manuscript%E2%80%9D%27%5D && \n"
 footnotes = ""
+harp_biennale_category = ""
 hide_from_research = false
 image = "/images/kaps-hold.png"
 imgcaptions = ""
 map_tag = ["Roma", "Modena", "New York", "Augsburg", "Napoli", "Bruxelles", "Venezia", "Firenze", "Città del Vaticano"]
-person_tag = ["Michele Pasotti", "Margret Köll", "Anne-Marie Dragosits", "Marco Marazzoli", "Orazio Michi", "Carlo Gesualdo", "Gerolima di-Rossi", "Bellerofonte Castaldi", "Galileo Galilei", "Filippo Nicolini", "Maestro Matteo", "Matteo Buchenberg", "Johannes-Hieronymus Kapsberger", "Matteo Sellas", "Alessandro Piccinini", "Girolamo Frescobaldi", "Ascanio Mayone", "Angelo Ragazzi", "Bartolomeo Barbarino", "Giovanni Ciampoli", "Agostino Agazzari", "Sigismondo d'India", "Giovanni-Battista Doni", "Athanasius Kircher", "Francesco Barberini", "Andrew Lawrence-King", "Giulio Caccini", "Girolamo Dalla-Casa", "Silvestro Ganassi-dal-Fontego", "Riccardo Rognoni", "Theodoros Kitsos", "Tiziano Bagnati", "Claudio Monteverdi", "Giuseppe Sarti", "Jacopo Peri", "Salamone Rossi", "Luigi Cherubini", "Urbano-VIII", "Giovan-Carlo de'-Medici", "Giovanni-Girolamo Kapsberger", "Giovanni-Girolamo Kapsperger"]
+person_tag = ["Michele Pasotti", "Anne-Marie Dragosits", "Marco Marazzoli", "Orazio Michi", "Carlo Gesualdo", "Gerolima di-Rossi", "Bellerofonte Castaldi", "Galileo Galilei", "Filippo Nicolini", "Maestro Matteo", "Matteo Buchenberg", "Johannes-Hieronymus Kapsberger", "Matteo Sellas", "Alessandro Piccinini", "Girolamo Frescobaldi", "Ascanio Mayone", "Angelo Ragazzi", "Bartolomeo Barbarino", "Giovanni Ciampoli", "Agostino Agazzari", "Sigismondo d'India", "Giovanni-Battista Doni", "Athanasius Kircher", "Francesco Barberini", "Andrew Lawrence-King", "Giulio Caccini", "Girolamo Dalla-Casa", "Silvestro Ganassi-dal-Fontego", "Riccardo Rognoni", "Theodoros Kitsos", "Tiziano Bagnati", "Claudio Monteverdi", "Giuseppe Sarti", "Jacopo Peri", "Salamone Rossi", "Luigi Cherubini", "Urbano-VIII", "Giovan-Carlo de'-Medici", "Giovanni-Girolamo Kapsberger", "Giovanni-Girolamo Kapsperger", "Margret Koell"]
 project_category = "Harfenlabor Lectures"
 relatedresearch = ["“Venere che sona d’arpa e due amori”:&& Marco Marazzoli at the Barberini Court", "Monteverdi’s <i>L’Orfeo</i>: Speaking in Song", "Who was Luc Antoine Eustache, the Inventor of Three-Course Harp according to Mersenne?"]
 show_in_news = false
@@ -22,6 +24,7 @@ summary_text = "In this Harfenlabor online zoom lecture, Anne Marie Dragosits, h
 timeline_tag = ["17th century", "1600s", "1580", "1651", "1590", "1594", "1596", "1604", "1622", "1606", "1630s", "1640s", "1620s", "1609", "1612", "1624", "1650", "1640", "1626", "1607"]
 title = "Giovanni Girolamo Kapsperger"
 type = "Research"
+zwischen_category = ""
 
 +++
 ***
