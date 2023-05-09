@@ -1,0 +1,13 @@
+---
+banner:
+  enable: true
+  bg_image_webp: ''
+  bg_image: images/img3.jpg
+  icon: ''
+  title: Harfenlabor
+  content: In 2018, Harfenlabor asked Thünen Institute for Wood Research (Hamburg)
+    to, for the first time ever, examine the wood on the Barberini Harp’s.
+  button:
+    enable: true
+    label: Explore Us
+    link: "#services"

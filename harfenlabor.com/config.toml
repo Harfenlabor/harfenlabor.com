@@ -1,3 +1,312 @@
-baseURL = "http://example.org/"
+contentDir = "content"
+copyright = "Copyright Harfenlabor 2021"
+home = "Home"
 languageCode = "en-us"
-title = "My New Hugo Site"
+languageName = "En"
+weight = 1
+[markup.goldmark.renderer]
+unsafe = true
+[[menu.main]]
+identifier = "news"
+name = "News"
+url = "/news"
+weight = 1
+[[menu.main]]
+identifier = "harp biennale"
+name = "Harp Biennale"
+url = "/harp_biennale"
+weight = 2
+[[menu.main]]
+identifier = "haydn"
+name = "Haydn’s Folk Harp"
+parent = "harp biennale"
+url = "/harp_biennale/haydn"
+weight = "1"
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects"
+weight = 3
+[[menu.main]]
+identifier = "Barberini harp project"
+name = "Barberini Harp Project"
+parent = "projects"
+url = "/projects/barberini"
+weight = "1"
+[[menu.main]]
+identifier = "Harfenlabor lectures"
+name = "Harfenlabor Lectures"
+parent = "projects"
+url = "/projects/lectures"
+weight = "2"
+[[menu.main]]
+identifier = "research"
+name = "Research"
+url = "/research"
+weight = 4
+[[menu.main]]
+identifier = "organology"
+name = "Organology"
+parent = "research"
+url = "/research/organology"
+weight = "1"
+[[menu.main]]
+identifier = "performance practice"
+name = "Performance Practice"
+parent = "research"
+url = "/research/performance"
+weight = "2"
+[[menu.main]]
+identifier = "musicology"
+name = "Musicology"
+parent = "research"
+url = "/research/musicology"
+weight = "3"
+[[menu.main]]
+identifier = "iconography"
+name = "Iconography"
+parent = "research"
+url = "/research/iconography"
+weight = "4"
+[[menu.main]]
+identifier = "sociology of art"
+name = "Sociology of Art"
+parent = "research"
+url = "/research/sociology"
+weight = "5"
+[[menu.main]]
+identifier = "timeline"
+name = "Timeline"
+url = "/timeline"
+weight = 5
+[[menu.main]]
+identifier = "map"
+name = "Map"
+url = "/map"
+weight = 6
+[[menu.main]]
+identifier = "index"
+name = "Index"
+url = "/indextag"
+weight = 7
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search"
+weight = 8
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/aboutpage"
+weight = 9
+[outputs]
+baseURL = "harfenlabor.netlify.app"
+disableLanguages = ["Fr"]
+disqusShortname = ""
+home = ["HTML", "RSS", "JSON"]
+paginate = "6"
+summaryLength = "15"
+theme = "Harfenlabor"
+themesDir = "../.."
+title = "Harfenlabor"
+[params]
+author = "Harfenlabor"
+description = "Harfenlabor is a platform for critical and open discourse on topics related to Historical Harp. Already active as an analogue network, Harfenlabor initiates and shares research, and gathers musicians, scientists, harp makers, and string makers, with the aim to provoke cross-disciplinary thinking, consider the still open research questions and propose new directions. This is its digital edition: an immersive, searchable resource of scientific and artistic research."
+google_analytics_id = ""
+logo = "images/logo.png"
+post_share = true
+[[params.Coordinates.coordinates]]
+latitude = "47.558107"
+longitude = "7.587826"
+place = "Basel"
+[[params.Coordinates.coordinates]]
+latitude = "38.111226"
+longitude = "13.352443"
+place = "Palermo"
+[[params.Coordinates.coordinates]]
+latitude = "40.416704"
+longitude = "-3.703582"
+place = "Madrid"
+[[params.Coordinates.coordinates]]
+latitude = "49.409358"
+longitude = "8.694724"
+place = "Heidelberg"
+[[params.Coordinates.coordinates]]
+latitude = "48.208353"
+longitude = "16.372504"
+place = "Wien"
+[[params.Coordinates.coordinates]]
+latitude = "46.948271"
+longitude = "7.451451"
+place = "Bern"
+[[params.Coordinates.coordinates]]
+latitude = "42.357197"
+longitude = "13.732624"
+place = "Abruzzo"
+[[params.Coordinates.coordinates]]
+latitude = "48.3668041"
+longitude = "10.8986971"
+place = "Augsburg"
+[[params.Coordinates.coordinates]]
+latitude = "43.9492493"
+longitude = "4.8059012"
+place = "Avignon"
+[[params.Coordinates.coordinates]]
+latitude = "39.2908816"
+longitude = "-76.610759"
+place = "Baltimore"
+[[params.Coordinates.coordinates]]
+latitude = "52.5170365"
+longitude = "13.3888599"
+place = "Berlin"
+[[params.Coordinates.coordinates]]
+latitude = "44.494190"
+longitude = "11.346520"
+place = "Bologna"
+[[params.Coordinates.coordinates]]
+latitude = "50.8465573"
+longitude = "4.351697"
+place = "Bruxelles"
+[[params.Coordinates.coordinates]]
+latitude = "41.8755616"
+longitude = "-87.6244212"
+place = "Chicago"
+[[params.Coordinates.coordinates]]
+latitude = "41.904311"
+longitude = "12.449973"
+place = "Città del Vaticano"
+[[params.Coordinates.coordinates]]
+latitude = "45.134278"
+longitude = "10.022687"
+place = "Cremona"
+[[params.Coordinates.coordinates]]
+latitude = "44.831560"
+longitude = "11.614656"
+place = "Ferrara"
+[[params.Coordinates.coordinates]]
+latitude = "43.7698712"
+longitude = "11.2555757"
+place = "Firenze"
+[[params.Coordinates.coordinates]]
+latitude = "53.550341"
+longitude = "10.000654"
+place = "Hamburg"
+[[params.Coordinates.coordinates]]
+latitude = "50.938361"
+longitude = "6.959974"
+place = "Köln"
+[[params.Coordinates.coordinates]]
+latitude = "45.463619"
+longitude = "9.188120"
+place = "Milano"
+[[params.Coordinates.coordinates]]
+latitude = "44.646210"
+longitude = "10.924165"
+place = "Modena"
+[[params.Coordinates.coordinates]]
+latitude = "40.839981"
+longitude = "14.252540"
+place = "Napoli"
+[[params.Coordinates.coordinates]]
+latitude = "40.741895"
+longitude = "-73.989308"
+place = "New York"
+[[params.Coordinates.coordinates]]
+latitude = "48.8588897"
+longitude = "2.320041"
+place = "Paris"
+[[params.Coordinates.coordinates]]
+latitude = "44.8013678"
+longitude = "10.3280833"
+place = "Parma"
+[[params.Coordinates.coordinates]]
+latitude = "45.188493"
+longitude = "9.170211"
+place = "Pavia"
+[[params.Coordinates.coordinates]]
+latitude = "48.3789351"
+longitude = "8.8877867"
+place = "Rangendingen"
+[[params.Coordinates.coordinates]]
+latitude = "44.414247"
+longitude = "12.204281"
+place = "Ravenna"
+[[params.Coordinates.coordinates]]
+latitude = "41.878817"
+longitude = "12.507737"
+place = "Roma"
+[[params.Coordinates.coordinates]]
+latitude = "40.677263"
+longitude = "14.768946"
+place = "Salerno"
+[[params.Coordinates.coordinates]]
+latitude = "45.4371908"
+longitude = "12.3345898"
+place = "Venezia"
+[[params.Coordinates.coordinates]]
+latitude = "45.546634"
+longitude = "11.545412"
+place = "Vicenza"
+[[params.Projects.projects]]
+description = "By commissioning new works for Historical Harp through HL Editions, Harfenlabor aims to contribute to articulating a contemporary language of performance practice for the instrument. In collaboration with contemporary composers and performers, Harfenlabor intends to develop a new performative and interpretive plane for the instrument and keep its repertoire alive. "
+title = "HL Editions"
+[[params.Projects.projects]]
+description = "The Barberini Harp is the most important surviving Italian Baroque harp. This chromatic harp with three parallel rows of strings was constructed in 1632-33 for the harpist Marco Marazzoli by the instrument maker Girolamo Acciari and the wood-carver Giovanni Tubi under the patronage of cardinal Antonio Barberini. As we still lack crucial understanding of this famous harp, Harfenlabor’s Barberini Harp Project intends to share and initiate research on this harp in the fields of organology, musicology, iconography and performance practice. Scientific Advisory Board members Dr. Costanza Caraffa, Chiara Granata, Margret Köll and Dr. Alexandra Ziane develop, guide and oversee the project's research agenda and strategy. This publication presents three stages of the Barberini Harp Project: Convening in Roma in 2016, Interviews with Experts, and Examinations."
+title = "Barberini Harp Project"
+[[params.Projects.projects]]
+description = "Historical harp practice demands an ongoing engagement between scientific knowledge and artistic creation. Harfenlabor Lectures series offers a space for sharing multi-disciplinary knowledge on Historical Harp, whilst encouraging and supporting discussion and debate among diverse musicians, scientists, artists and instrument makers."
+title = "Harfenlabor Lectures"
+[params.cookies]
+enable = false
+expire_days = 2
+[params.map]
+enable = false
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/lazy-load/lozad.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+[params.preloader]
+enable = false
+preloader = "images/logo.png"
+[[params.social]]
+icon = "ti-facebook"
+link = "#"
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "#"
+[[params.social]]
+icon = "ti-youtube"
+link = "#"
+[[params.social]]
+icon = "ti-linkedin"
+link = "#"
+[[params.social]]
+icon = "ti-dribbble"
+link = "#"
+[[params.social]]
+icon = "ti-pinterest"
+link = "#"

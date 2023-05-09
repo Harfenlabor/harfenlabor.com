@@ -1,0 +1,91 @@
++++
+PublishDate = 2022-05-08T07:43:42Z
+author = "Chiara Granata"
+barberiniharpproject = ""
+bhp_category = ""
+celtic_strings_category = ""
+citation = "Chiara Granata, \"'My Hands are Armed with Nought but Sweet-toned Strings?' Different ways to use the same instrument,\" Harfenlabor.com, May 8, 2022, https://www.harfenlabor.com/research/my-hands-are-armed-with-nought-but-sweet-toned-strings-different-ways-to-use-the-same-instrument/."
+description = "The harpist and researcher Chiara Granata provides a scientific commentary on the opposing views presented in the Harfenlabor Interview, <i>About the Barberini Harp</i>, by the harpist and researcher Mara Galassi and the master luthier Dario Pontiggia. “Is it worthwhile to construct an ‘absolute copy’ of\" the Barberini Harp “that runs the risk of not being completely playable?” the luthier asks? Taken from the position of the musician, would it not help to get “closer to a new vantage point, which offers the opportunity to listen to something quite different from what, for decades, we have called ‘early music.’” Granata presents arguments for keeping this tension open. Archival research has uncovered that the Barberini Harp was the work of a group of artisans; its final efficiency directly honed by the musician. Though many 17th century harp performances were best suited to a small “sonorous” space, some treatises and musical scores from the period offer examples of harp’s highly rhythmical bass lines used in dance contexts, and of its “resonant” sound that might be suited to large outdoor spaces. Granata proposes that it is precisely the contradictions presented by such an instrument that will offer a closer understanding of the Barberini Harp."
+downloads = []
+externallinks = "Granata, Chiara. “‘Un’arpa Grande Tutta Intagliata e Dorata’. New Documents on the Barberini Harp.” Recercare 27, no. 1/2 (2015): 139–64. - www.jstor.org/stable/26381197 && Barberini Harp in the Museo Nazionale degli Strumenti Musicali - http://museostrumentimusicali.beniculturali.it/index.php?it/129/arpa-barberini && Galleria Nazionale d’Arte Antica at Palazzo Barberini - https://www.barberinicorsini.org/arte/collezioni/ && Novità sull’arpa Barberini - https://ilmanifesto.it/novita-sullarpa-barberini && Art collections at the Palazzo Barberini - https://www.barberinicorsini.org/arte/collezioni/ && Dinko Fabris, “The harp in Naples 1500-1700\" - http://ascaniomayone.org/doc/Fabris_Harp_Naples%201991.pdf &&"
+footnotes = "1. This document, which I have been able to find at the Biblioteca Apostolica Vaticana in the Archivio Barberini, makes it possible to identify the luthier Geronimo Acciari, the carver Giovanni Tubi, the client Antonio Barberini, and the recipient Marco Marazzoli. Chiara Granata, “'Un’arpa grande tutta intagliata e dorata'. New documents on the Barberini harp,” <i>Recercare</i> XXVII (2015): 139-164, and Dario Pontiggia, “Barberini Harp. Datasheet,” <i>Recercare</i> XXVII (2015): 165-184.&&\n2. Archivio Barberini, Giustificazioni I, vol. 236, f. 116v. <i>Le \"Giustificazioni\" dell’Archivio Barberini</i>, edited by Luigi Cacciaglia (Città del Vaticano: BAV, 2014). It is worth observing that the sum of 25 <i>scudi</i> is a very large one: it could represent a complete change of strings.&&\n3. Let us imagine that it transpires to hear, in night time darkness, or from a distance, so that nothing can be seen, an excellent harpist, who after a short recercata to test the tuning sets forth in the loveliest, artful playing of which he is able, of every tone, making every mode his own, grave Doric, combative Lydian, melancholy Phrygian; now simple, now intertwined, with that marvellous dialogue in which the strings seem to engage, questioning each other and responding with the high notes, and the low, now with slow strokes, and few, then very rapidly paced, almost all at once: as if there were two choirs of musicians in pursuit of each other, following on the same notes, and yet always separated by some precisely measured space, as by a space of consonance. Daniello Bartoli, “La ricreazione del savio,” <i>Opere del padre Daniello Bartoli</i> (Venezia, 1659), 64.&&\n4. “Since music performed on stage is far more lively and active than music sung in church, or on other occasions, much more lively and almost airy is the stringed instrument that emits detached sounds in the air and not the continuous sound of the organ, which is why for dances the harp is considered the best instrument.” Paolo Fabbri, Angelo Pompilio, eds., <i>Il Corago, o vero alcune osservazioni per mettere bene in scena le composizioni drammatiche</i> (Firenze: Leo S. Olschki, 1983), 85-86. On this topic and the use of the harp in general in the early 1600s in Roma, see M. Galassi and C. Granata, “'Tanto che non si potrebbe sentire cosa più bella'. L’arpa come strumento di basso continuo a Roma negli anni di attività di Orazio Michi,” <i>Basler Jahrbuch für Historische Musikpraxis</i>, vol. 39 (2015): 313-344.&&\n5. \"La reggia delle grazie, aperta per celebrare le gloriosissime nozze, seguite tra le altezze del serenissimo Francesco duca di Parma ... e della serenissima principessa palatina Dorotea Sofia Farnese ... e considerata per oggetto di solenne accademia, mista di lettere, e d'esercizi nobili, dal ducale collegio di Parma.\" (The Reggia of the Graces opens to celebrate the very glorious marriage of the Serenissimo (Most serene) Francesco, Duke of Parma with the Serenissima Palatina Princess Dorotea Sofia Farnese, and made object of a solemn Academia of literature and noble exercises from the ducal college of Parma.) Collegio dei Nobili, and eredi Galeazzo Rosati, <i>La Reggia Delle Grazie, Aperta per Celebrare Le Gloriosissime Nozze, Seguite Tra Le Altezze Del Serenissimo Francesco Duca Di Parma ... e Della Serenissima Principessa Palatina Dorotea Sofia Farnese ... e Considerata per Oggetto Di Solenne Accademia, Mist. per gli eredi di Galeazzo Rosati</i>, (Parma, 1696), 5-6."
+harp_biennale_category = ""
+hide_from_research = false
+image = "/images/5-francois-colignon-after-andrea-sacchi-ship-of-bacchus-on-the-piazza-navona-bei-the-jousting-tournament-la-giostra-del-sarracino-1634.jpg"
+imgcaptions = "Fig. 1 François Collignon after Andrea Sacchi, <i>La nave di Bacco</i> [Ship of Bacchus]. 1634, etching, 41 x 44 cm, in Guido Bentivoglio, <i>Festa fatta in Roma, Alli 25 di febraio MDCXXXIV</i> (Roma: Vitale Mascardi, 1635).&&"
+map_tag = ["Roma", "Città del Vaticano"]
+person_tag = ["Chiara Granata", "Stefano Landi", "Marco Marazzoli", "François Collignon", "Andrea Sacchi", "Francesco Farnese", "Mara Galassi", "Dario Pontiggia", "Dorotea Sofia Farnese", "Stephen Piccolo"]
+project_category = "Barberini Harp Project"
+relatedresearch = ["About the Barberini Harp", "What We Know, and What We still Do Not Understand about the Barberini Harp", "Designs for Musical Instruments", "Two Souls of a Harp", "“Venere che sona d’arpa e due amori”:&&Marco Marazzoli at the Barberini Court"]
+show_in_news = true
+status = "approved by author"
+subjects_tag = ["Giostra del Saracino", "Barberini Harp", "Estense Harp", "Il Corago", "luthier", "harpist", "absolute copy", "copy", "early music", "carver", "gilder", "soundbox", "neck", "column", "stringing", "strings", "harp", "construction", "organological", "listeners", "acoustics", "instrumentation", "sonic", "parade", "polyphony", "recercata", "counterpoint", "due cori", "lute", "theorbo", "violone", "organ", "concert", "harpsichord", "treatise", "performance", "dynamics", "modification", "scudi"]
+subtype = ["Organology", "Performance Practice"]
+summary_text = "Chiara Granata argues for keeping open the tension between the opposite viewpoints expressed by Dario Pontiggia and Mara Galassi in <i>About the Barberini Harp</i> on the need for a true copy of the Barberini Harp. Granata presents a variety of performance situations and argues that the harp had a varied use: the contradictions preserved in an absolute copy would allow for diverse solutions."
+timeline_tag = ["1633", "1634", "1600s"]
+title = "“My Hands are Armed with Nought but Sweet-toned Strings?\" Different Ways to Use the Same Instrument"
+type = "Research"
+zwischen_category = ""
+
++++
+### A commentary on [About the Barberini Harp](https://www.harfenlabor.com/research/about-the-barberini-harp/)<br>Link to the original version of this article in Italian: [Sol di corde soavi armo le dita? Differenti modi di usare uno stesso strumento](https://www.harfenlabor.com/research/sol-di-corde-soavi-armo-le-dita-differenti-modi-di-usare-uno-stesso-strumento/)<br>DOI: [10.5281/zenodo.7762316](https://doi.org/10.5281/zenodo.7762316)
+
+***
+
+One of the typical forms of ancient knowledge, still very much in use in the early 1600s in oral or written form, is that of the debate. Rather than advancing a thesis, it presents a dialogue between opposing views. With this in mind, I find it very interesting that the luthier <span id="person_tag">Dario Pontiggia</span> and the harpist and researcher <span id="person_tag">Mara Galassi</span> express two opposite viewpoints regarding the <span id="subjects_tag">Barberini Harp</span>. On the one hand, someone who reconstructs copies of musical instruments and is accustomed to comparison among multiple similar cases finds himself coming to terms with a single instrument, which is thus less understandable and more contradictory. Is it worthwhile to construct an “absolute copy” of an instrument that runs the risk of not being completely playable? On the other, there is the position of the player, who cultivates the utopia of the “absolute copy” in the hope of getting closer to a new vantage point, which offers the opportunity to listen to something quite different from what, for decades, we have called “early music.” I believe we can keep the tension between these two viewpoints open, rather than trying to find a compromise.
+
+***
+
+The first thing that struck me when I saw the archival document of the order for the Barberini Harp<sup>1</sup> was the discovery that it was not the brilliant creation of a single maker, but the work of a group of artisans. There are the separate efforts of the luthier and the carver, and we cannot exclude the possibility that there were other contributions, on the part of a gilder, for example. The timing of the order may have suggested the assembly of parts created at different times (an existing soundbox, with a neck and column built for the occasion), leading to some complications, but I would like to add a further observation: the final work of completion of an instrument was often left up to the musician, who would oversee and adjust the stringing to meet his or her own needs. While in February <span id="timeline_tag">1633</span> payment was made and the harp was delivered to Marazzoli, two months later we find new expenses, including: “Summary of expenses for the month of April 1633: 25 _scudi_ to <span id="person_tag">Marco Marazzoli</span> for the strings of the harp.”<sup>2</sup> This implies that the final efficiency of the instrument (as also happened with the <span id="subjects_tag">Estense Harp</span>) was directly honed by the musician, also perhaps by correcting possible problems of construction. I imagine an instrument of the 1600s as a ductile object, subject to modification and not immediately ready for use, or the prototype of a series: in a period of organological experimentation, the musician played an active part in the construction.
+
+***
+
+To fully understand an instrument, it is necessary to hear it played in different spaces. It is very probable that the Barberini Harp made its first appearance for the <span id="subjects_tag">_Giostra del Saracino_</span> held in <span id="timeline_tag">1634</span> at Piazza Navona in <span id="map_tag">Roma</span>. The report on this spectacular event, illustrated with etchings by <span id="person_tag">François Collignon</span> and <span id="person_tag">Andrea Sacchi</span>, bears witness to the presence of a large carved harp placed inside the golden ship that entered Piazza Navona late at night, transporting singers and musicians and astonishing the audience.
+
+***
+
+![](/images/5-francois-colignon-after-andrea-sacchi-ship-of-bacchus-on-the-piazza-navona-bei-the-jousting-tournament-la-giostra-del-sarracino-1634.jpg)
+
+###### François Collignon after Andrea Sacchi, _La nave di Bacco_ (<cap>Fig. 1</cap>).
+
+***
+
+What kind of sonic presence could a stringed instrument have in an enormous square packed with revellers? Was it the same instrument that entertained a small group of illustrious listeners in the hall of a palace? I have the impression, from the many references in the treatises and historical chronicles, that performances in the 1600s paid subtle attention to questions of acoustics, and that the choice of instrumentation was much more closely related to the sonic possibilities of instruments and spaces. For this reason, it is hard for me to imagine the existence of “parade” instruments that were impressive to look at, but not from the standpoint of emitted sound.
+
+***
+
+Instead, I think there were different ways of playing the same instrument, effective for large spaces and for the more detailed listening in a concert chamber. Solo performances for double harp seem to reflect a refined musical practice that focused on dynamics. I have selected a particularly evocative example, taken from a 17th-century treatise on religious and moral subject matter:
+
+##### _Facciam che v’avvenga d’udire o in tempo di notte buia, o di lontano, tanto che nol veggiate, un valentissimo sonator d’arpa, che dopo una brieve ricercata, ch’è l’esame dell’accordatura, dia nelle più vaghe, e artificiose sonate, ch’egli sappia, d’ogni Tuono, e d’ogni Modo le proprie, e Dorico grave, e Lidio guerriero, e Frigio mesto; hor semplici, hor intrecciati, con quel maraviglioso dialogizzare che sembrano far le corde, e interrogarsi, e rispondersi le acute, e le gravi, hor con botte lente, e poche, hor velocissimamente sminuite, quasi tutte insieme: come fosser due cori di musici che si corrono dietro, seguendosi su le medesime note, e pur sempre lontane alcuno spazio misuratissimo, sì come spazio di consonanza_.<sup>3</sup>
+
+***
+
+The performance described favours polyphony (_recercata_), and two-part counterpoint (_due cori_ that diminish in turn). This type of execution calls for an acoustically responsive space that makes the composition audible in all its parts. Hence a small and particularly sonorous space.
+
+***
+
+Unlike the instances in which the harp is described together with other instruments, here there seems to be an emphasis on its sonic and rhythmical aspects. The author of _Il Corago_, the anonymous text from the start of the 1600s, describes the harp as one of the instruments best suited to dance music, because it is capable of producing a clear, resonant impulse. “Essendo la musica rappresentata in scena più vivace et attuosa assai di quella cantata in chiesa o in altra occasione, molto più viva \[= vivo\] e quasi arieggiante \[?\] è l’istromento di corde che stacca per aria la botta che non è il continuo suono dell’organo, per questo nei balli l’arpa è stimata la migliore.”<sup>4</sup> And <span id="person_tag">Stefano Landi</span>, in _Sant’Alessio_, combines the harp with lutes, theorbos and violones, assigning it a more rhythmical bass line with respect to that of the harpsichords. Not all of the choices of acoustics or instrumentation are comprehensible to us. For example, it is hard to imagine the concert for the wedding of <span id="person_tag">Francesco Farnese</span>, Duke of Parma, with <span id="person_tag">Dorotea Sofia Farnese</span>, in which one heard a harp accompanied by as many as three harpsichords.<sup>5</sup> Nevertheless, this variety of situations serves to bring us closer to an instrument that seems to have had highly varied and diversified use. The construction of an “absolute copy” could shed light on the various uses of this instrument. Its contradictions, which each craftsman and each musician could then resolve in a different way, would probably remain intact. Today, as in the past.
+
+***
+
+#### Translated by <span id="person_tag">Stephen Piccolo</span>.
+
+***
+
+###### Bibliography
+
+###### Archivio Barberini, Giustificazioni I, vol. 236, f. 116v. _Le Giustificazioni dell’Archivio Barberini_, edited by Luigi Cacciaglia. Città del Vaticano: BAV, 2014.
+
+###### Bartoli, Daniello. _Opere del padre Daniello Bartoli_. Venezia, 1659.
+
+###### Collignon, François after Andrea Sacchi. _La nave di Bacco_. 1634, Etching, 41 x 44 cm. In Guido Bentivoglio, _Festa fatta in Roma alli 25 di febraio MDCXXXIV_. Roma: Vitale Mascardi, 1635.
+
+###### Fabbri, Paolo and Angelo Pompilio, eds. _Il Corago, o vero alcune osservazioni per mettere bene in scena le composizioni drammatiche_. Firenze: Leo S. Olschki, 1983.
+
+###### Granata, Chiara. “'Un’arpa grande tutta intagliata e dorata'. New documents on the Barberini harp.” _Recercare_ XXVII (2015): 139-164. [https://www.jstor.org/stable/26381197](https://www.jstor.org/stable/26381197 "https://www.jstor.org/stable/26381197")
+
+###### Nobili, Collegio dei, and eredi Galeazzo Rosati. _La Reggia Delle Grazie, Aperta per Celebrare Le Gloriosissime Nozze, Seguite Tra Le Altezze Del Serenissimo Francesco Duca Di Parma ... e Della Serenissima Principessa Palatina Dorotea Sofia Farnese ... e Considerata per Oggetto Di Solenne Accademia, Mist_. per gli eredi di Galeazzo Rosati. Parma, 1696. [https://books.google.it/books?id=9PSFiZrdcYwC](https://books.google.it/books?id=9PSFiZrdcYwC "https://books.google.it/books?id=9PSFiZrdcYwC")
+
+###### Pontiggia, Dario. “Barberini Harp. Datasheet.” _Recercare_ XXVII (2015): 165-184. [https://www.jstor.org/stable/26381198](https://www.jstor.org/stable/26381198 "https://www.jstor.org/stable/26381198")
+
+###### Galassi, Mara and Chiara Granata. “'Tanto che non si potrebbe sentire cosa più bella'. L’arpa come strumento di basso continuo a Roma negli anni di attività di Orazio Michi.” In _Basler Jahrbuch für Historische Musikpraxis_, vol. 39 (2015): 313-344.
