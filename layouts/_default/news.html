@@ -22,7 +22,14 @@
       {{$a := where $.Site.RegularPages "Section" "news"}}
       {{$b := where $.Site.RegularPages "Section" "research"}}
       {{$c := $a | union $b }}
-      {{ range $c }}
+
+      {{ range $a }}
+        {{ if .Params.show_in_news }}
+        {{ .Render "article_onepage" }}
+        {{ end }}
+      {{ end }}
+
+      {{ range $b }}
         {{ if .Params.show_in_news }}
         {{ .Render "article_onepage" }}
         {{ end }}
