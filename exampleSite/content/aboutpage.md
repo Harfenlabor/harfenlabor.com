@@ -80,6 +80,8 @@ May 2022, the launch of Harfenlabor's digital edition.
 #### **Contact**
 
 Verein Harfenlabor
+\n ok \n \
+\n
 Erzherzog-Eugen-Strasse 5/8
 6020 Innsbruck, Österreich
 USt-IdNr. ATU76813405
